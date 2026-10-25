@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "MR",
+  "countryName": "Mauritania",
+  "slug": "mauritania",
+  "rank": 123,
+  "overallScore": 46.2,
+  "dimensionCoverage": 0.82,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Over 250 migrants rescued off Mauritania coast",
+        "source": "punchng.com",
+        "url": "https://punchng.com/over-250-migrants-rescued-off-mauritania-coast/",
+        "publishedAt": "2026-09-27T20:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Morocco Shares its Successful Road Construction Experience with Mauritania – The North Africa Post",
+        "source": "northafricapost.com",
+        "url": "https://northafricapost.com/100563-morocco-shares-its-successful-road-construction-experience-with-mauritania.html",
+        "publishedAt": "2026-09-25T17:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Mauritania Teachers Pay: Unions Rally as Inflation Hits 8.9%",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/mauritania-teachers-pay-rises-inflation-2026/",
+        "publishedAt": "2026-09-25T08:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "EU fishing sector urges Mauritania renewal",
+        "source": "worldfishing.net",
+        "url": "https://www.worldfishing.net/news/fisheries/eu-fishing-sector-urges-mauritania-renewal/",
+        "publishedAt": "2026-09-24T12:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Mauritania Third Term Campaign Meets Opposition Pushback",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/mauritania-opposition-third-term-ghazouani-national-dialogue/",
+        "publishedAt": "2026-09-22T23:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

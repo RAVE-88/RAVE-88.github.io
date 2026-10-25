@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "JM",
+  "countryName": "Jamaica",
+  "slug": "jamaica",
+  "rank": 74,
+  "overallScore": 55.2,
+  "dimensionCoverage": 0.81,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "World Tourism Day 2026: Bartlett Says AI Will Power Jamaica's Next Tourism Revolution",
+        "source": "forimmediaterelease.net",
+        "url": "https://forimmediaterelease.net/world-tourism-day-2026-bartlett-says-ai-will-power-jamaicas-next-tourism-revolution/",
+        "publishedAt": "2026-09-28T01:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Jamaica gets first batch of nurses from Ghana",
+        "source": "jamaica-gleaner.com",
+        "url": "https://jamaica-gleaner.com/article/news/20260927/jamaica-gets-first-batch-nurses-ghana",
+        "publishedAt": "2026-09-27T23:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Jamaica calls for reform of multilateral system, stronger climate and security cooperation",
+        "source": "jamaica-gleaner.com",
+        "url": "https://jamaica-gleaner.com/article/news/20260927/jamaica-calls-reform-multilateral-system-stronger-climate-and-security",
+        "publishedAt": "2026-09-27T19:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "39 killed in crashes during August – ITA - Jamaica Observer",
+        "source": "jamaicaobserver.com",
+        "url": "https://www.jamaicaobserver.com/2026/09/27/39-killed-crashes-august-ita/",
+        "publishedAt": "2026-09-27T18:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Portmore United start defence of JPL title - Jamaica Observer",
+        "source": "jamaicaobserver.com",
+        "url": "https://www.jamaicaobserver.com/2026/09/27/portmore-united-start-defence-jpl-title/",
+        "publishedAt": "2026-09-27T18:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "GY",
+  "countryName": "Guyana",
+  "slug": "guyana",
+  "rank": 86,
+  "overallScore": 53.5,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Formerly enslaved people in Guyana embraced collective action | Letter",
+        "source": "Guardian Americas",
+        "url": "https://www.theguardian.com/world/2026/sep/27/formerly-enslaved-people-in-guyana-embraced-collective-action",
+        "publishedAt": "2026-09-27T17:24:29.000Z"
+      },
+      {
+        "title": "Guyana Migration Policy Oil Boom Needs Foreign Workers",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/guyana-migration-policy-foreign-workers-2026/",
+        "publishedAt": "2026-09-27T23:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Cubans Fall Victim to Armed Robbery After Entering Car in Guyana",
+        "source": "cubaheadlines.com",
+        "url": "https://www.cubaheadlines.com/articles/341330",
+        "publishedAt": "2026-09-27T19:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Photos: Bermudians Take Part In Guyana Project",
+        "source": "bernews.com",
+        "url": "https://bernews.com/2026/09/photos-bermudians-take-part-guyana-project/",
+        "publishedAt": "2026-09-27T18:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Formerly enslaved people in Guyana embraced collective action",
+        "source": "aol.co.uk",
+        "url": "https://www.aol.co.uk/articles/formerly-enslaved-people-guyana-embraced-172429000.html",
+        "publishedAt": "2026-09-27T18:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nGuyana's oil boom has created a need for foreign workers, as discussed in the context of migration policy. [2]\nCubans in Guyana have fallen victim to armed robbery after entering a car. [3]\n\nWHAT THIS MEANS FOR GUYANA\nThe need for foreign workers due to the oil boom may be complicated by the 12 US OFAC and Canada SEMA sanctions designations linked to Guyana. [2][E2]\n\nKEY RISKS\nThe most severe government travel advisory for Guyana is Reconsider Travel, indicating elevated risk for visitors. [E1]\n\nWATCH ITEMS\nIt remains to be seen how the migration policy will address the need for foreign workers amid the oil boom. [2]",
+      "generatedAt": "2026-09-28T05:02:01.906Z",
+      "sources": [
+        {
+          "title": "Formerly enslaved people in Guyana embraced collective action | Letter",
+          "source": "Guardian Americas",
+          "url": "https://www.theguardian.com/world/2026/sep/27/formerly-enslaved-people-in-guyana-embraced-collective-action",
+          "publishedAt": "2026-09-27T17:24:29.000Z"
+        },
+        {
+          "title": "Guyana Migration Policy Oil Boom Needs Foreign Workers",
+          "source": "riotimesonline.com",
+          "url": "https://www.riotimesonline.com/guyana-migration-policy-foreign-workers-2026/",
+          "publishedAt": "2026-09-27T23:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Cubans Fall Victim to Armed Robbery After Entering Car in Guyana",
+          "source": "cubaheadlines.com",
+          "url": "https://www.cubaheadlines.com/articles/341330",
+          "publishedAt": "2026-09-27T19:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Photos: Bermudians Take Part In Guyana Project",
+          "source": "bernews.com",
+          "url": "https://bernews.com/2026/09/photos-bermudians-take-part-guyana-project/",
+          "publishedAt": "2026-09-27T18:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Formerly enslaved people in Guyana embraced collective action",
+          "source": "aol.co.uk",
+          "url": "https://www.aol.co.uk/articles/formerly-enslaved-people-guyana-embraced-172429000.html",
+          "publishedAt": "2026-09-27T18:00:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Reconsider Travel",
+          "factText": "The most severe government travel advisory World Monitor tracks for Guyana is Reconsider Travel, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T04:03:15.792Z"
+        },
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "12",
+          "factText": "Guyana is linked to 12 US OFAC and Canada SEMA sanctions designations, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T00:01:35.739Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "SK",
+  "countryName": "Slovakia",
+  "slug": "slovakia",
+  "rank": 34,
+  "overallScore": 61.6,
+  "dimensionCoverage": 0.76,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Slovak PM Fico ready for snap election in January-Xinhua",
+        "source": "english.news.cn",
+        "url": "https://english.news.cn/20260928/6da2d8128cc049edb8bd5bb84d9283f5/c.html",
+        "publishedAt": "2026-09-28T00:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Slovak researchers develop biodegradable bioplastics-Xinhua",
+        "source": "english.news.cn",
+        "url": "https://english.news.cn/europe/20260927/f33c8008ba2547d9b9e44cae07958f9f/c.html",
+        "publishedAt": "2026-09-27T06:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Slovak researchers develop biodegradable bioplastics-Xinhua",
+        "source": "english.news.cn",
+        "url": "https://english.news.cn/20260927/5b145c62da4a46669f2359c018f5a227/c.html",
+        "publishedAt": "2026-09-27T06:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Slovakia records fastest growth in commercial flights among EU members in August-Xinhua",
+        "source": "english.news.cn",
+        "url": "https://english.news.cn/20260927/1132c17567874b75871744cbe84e9a4b/c.html",
+        "publishedAt": "2026-09-27T00:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "EQS-News: Photon Energy N.V. Sells 7.6 MWp of PV Operational Assets in Slovakia",
+        "source": "finanzen.ch",
+        "url": "https://www.finanzen.ch/nachrichten/aktien/eqs-news-photon-energy-n-v-sells-7-6-mwp-of-pv-operational-assets-in-slovakia-1036575699",
+        "publishedAt": "2026-09-25T23:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

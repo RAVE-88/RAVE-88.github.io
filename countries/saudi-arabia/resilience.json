@@ -1,0 +1,103 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "SA",
+  "countryName": "Saudi Arabia",
+  "slug": "saudi-arabia",
+  "rank": 32,
+  "overallScore": 61.6,
+  "dimensionCoverage": 0.76,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Mideast oil exports rebound in September as Saudi Arabia boosts shipments - Reuters",
+        "source": "Reuters Business",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdHV0WUlQdWJ2UVdjY2FzaFliQU1TaEEtYmJQUzVUbjUwcWJkNkhZSXYwV1BwbkFqY3Z6MVRkT21jbWhCUEg0eGY0TnFnY25XVjFiQzBMbE5yOXJlbzZVYVZ3UTJMc1BjLUFtb0FVaDRWVW9jRVFUZDQ0N2hGX19NREk0MHhZZVNSekNVb01JLWVPR0gzdm9fQ1ZTbFlHa2hYSDFBY2JpdkpmeDRFM0dpU0VmdHluNzZGbkpZ?oc=5",
+        "publishedAt": "2026-09-28T00:17:00.000Z"
+      },
+      {
+        "title": "Missiles, drones launched by Houthis targeting Saudi downed - Al Arabiya English",
+        "source": "Al Arabiya",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNGIwU29UUGZiOGVfRGIzQW1OUU9lV0dUWGdiU2VNaU0xVkViRHFWUHRlamxneXhkWGUyM1ktdEExejNGcXRGZXRJd2tEaERxWGVDX3kyMU5XOVBjd2tsSTBackQtdHlnUkIyS2hvZ3ZWTGg1OEJlZ1BKVHh1Zm03MkNSUFJtc1hkRnVVcEJMUmJmUXMyWmNUcnZOdTVaMzRGM1pzUVZXM2RFLV9adXI5WnBvSFJaN1h00gG-AUFVX3lxTFBiX3VQUDVMdmJwRUtuWU44bDc2SDhUUzN5OGFkVmpzNVRtSTVhUXlqa0tvNkh1Qm55T3JPYXNvQWVKaGdhV0VBVFlQZ0VYQkh4T1hldzJkUDdxb3lnNjFXaXVSaE5zbWRqWW9wQWszc1hPYkE0UkN1UEU0bXB3QUs2VGFTTDhhU0xSdGJ3a0tpb0lURWQ5S3QzS0JyTHRlNEE3RzZmSjdKWFBmdlF2YlZVTlFHWHNEdFJDMnoybEE?oc=5",
+        "publishedAt": "2026-09-26T05:46:00.000Z"
+      },
+      {
+        "title": "Saudi Arabia detains thousands in residency law crackdown - Arabian Business",
+        "source": "Arabian Business",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40MTN6S3VYUFI5V1ItV3RRQnVGbWxROVQxamtCNFQ4TVNFd2Z2YUF2cVAxUV96VUhENUtzQ2FoREdOYnZFekYwRUU0Y3JOUDZFa1VHQWtDWUxCYXJxZDZDUWlqQkprdzd2VDAtVHp1UGktRTBrM0xTTQ?oc=5",
+        "publishedAt": "2026-09-27T14:51:00.000Z"
+      },
+      {
+        "title": "Saudi Arabia warns Gulf security inseparable from global stability amid regional tensions",
+        "source": "UN News",
+        "url": "https://news.un.org/feed/view/en/story/2026/09/1168459",
+        "publishedAt": "2026-09-26T12:00:00.000Z"
+      },
+      {
+        "title": "Saudi authorities shift schools in Riyadh to remote learning for week: AFP - Arab News",
+        "source": "Arab News",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONWtBWjlHQkFxM3Nib21ZMEd2Y1hoMmtiRU5MR0htNk0zLVVlWFl1MHpCNjl2djB2eWNFYmJWdl9MeG9RTHNOZEFfanBYTmltWDNrSi1tQmxaNHpPTEIxRENGcml6c0NTcURVbllsTnltR3hqWHFXSDhLVjM5WWxWV2hEWjhob1VpMHBCWm1fSno5Tnp1VlpQbjNfUnBDX0lMOWVCVTF6Ym1hMWV6YnpEX2lDLVBIV0tEQXVv?oc=5",
+        "publishedAt": "2026-09-27T06:07:52.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nMideast oil exports rebounded in September as Saudi Arabia boosted shipments. [1]\nMissiles and drones launched by Houthis targeting Saudi were downed. [2]\n\nWATCH ITEMS\nA Polymarket market on whether Saudi Arabia will take military action against Yemen on September 28 is priced Yes at 60% and closes September 28, 2026. [E6]",
+      "generatedAt": "2026-09-28T05:06:19.970Z",
+      "sources": [
+        {
+          "title": "Mideast oil exports rebound in September as Saudi Arabia boosts shipments - Reuters",
+          "source": "Reuters Business",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdHV0WUlQdWJ2UVdjY2FzaFliQU1TaEEtYmJQUzVUbjUwcWJkNkhZSXYwV1BwbkFqY3Z6MVRkT21jbWhCUEg0eGY0TnFnY25XVjFiQzBMbE5yOXJlbzZVYVZ3UTJMc1BjLUFtb0FVaDRWVW9jRVFUZDQ0N2hGX19NREk0MHhZZVNSekNVb01JLWVPR0gzdm9fQ1ZTbFlHa2hYSDFBY2JpdkpmeDRFM0dpU0VmdHluNzZGbkpZ?oc=5",
+          "publishedAt": "2026-09-28T00:17:00.000Z"
+        },
+        {
+          "title": "Missiles, drones launched by Houthis targeting Saudi downed - Al Arabiya English",
+          "source": "Al Arabiya",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNGIwU29UUGZiOGVfRGIzQW1OUU9lV0dUWGdiU2VNaU0xVkViRHFWUHRlamxneXhkWGUyM1ktdEExejNGcXRGZXRJd2tEaERxWGVDX3kyMU5XOVBjd2tsSTBackQtdHlnUkIyS2hvZ3ZWTGg1OEJlZ1BKVHh1Zm03MkNSUFJtc1hkRnVVcEJMUmJmUXMyWmNUcnZOdTVaMzRGM1pzUVZXM2RFLV9adXI5WnBvSFJaN1h00gG-AUFVX3lxTFBiX3VQUDVMdmJwRUtuWU44bDc2SDhUUzN5OGFkVmpzNVRtSTVhUXlqa0tvNkh1Qm55T3JPYXNvQWVKaGdhV0VBVFlQZ0VYQkh4T1hldzJkUDdxb3lnNjFXaXVSaE5zbWRqWW9wQWszc1hPYkE0UkN1UEU0bXB3QUs2VGFTTDhhU0xSdGJ3a0tpb0lURWQ5S3QzS0JyTHRlNEE3RzZmSjdKWFBmdlF2YlZVTlFHWHNEdFJDMnoybEE?oc=5",
+          "publishedAt": "2026-09-26T05:46:00.000Z"
+        },
+        {
+          "title": "Saudi Arabia detains thousands in residency law crackdown - Arabian Business",
+          "source": "Arabian Business",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40MTN6S3VYUFI5V1ItV3RRQnVGbWxROVQxamtCNFQ4TVNFd2Z2YUF2cVAxUV96VUhENUtzQ2FoREdOYnZFekYwRUU0Y3JOUDZFa1VHQWtDWUxCYXJxZDZDUWlqQkprdzd2VDAtVHp1UGktRTBrM0xTTQ?oc=5",
+          "publishedAt": "2026-09-27T14:51:00.000Z"
+        },
+        {
+          "title": "Saudi Arabia warns Gulf security inseparable from global stability amid regional tensions",
+          "source": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168459",
+          "publishedAt": "2026-09-26T12:00:00.000Z"
+        },
+        {
+          "title": "Saudi authorities shift schools in Riyadh to remote learning for week: AFP - Arab News",
+          "source": "Arab News",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONWtBWjlHQkFxM3Nib21ZMEd2Y1hoMmtiRU5MR0htNk0zLVVlWFl1MHpCNjl2djB2eWNFYmJWdl9MeG9RTHNOZEFfanBYTmltWDNrSi1tQmxaNHpPTEIxRENGcml6c0NTcURVbllsTnltR3hqWHFXSDhLVjM5WWxWV2hEWjhob1VpMHBCWm1fSno5Tnp1VlpQbjNfUnBDX0lMOWVCVTF6Ym1hMWV6YnpEX2lDLVBIV0tEQXVv?oc=5",
+          "publishedAt": "2026-09-27T06:07:52.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E6",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "60%",
+          "factText": "A Polymarket market related to Saudi Arabia, \"Saudi Arabia military action against Yemen on September 28?\", priced Yes at 60% on Sep 28, 2026; it closes Sep 28, 2026.",
+          "asOf": "2026-09-28T05:00:34.359Z",
+          "url": "https://polymarket.com/event/saudi-arabia-military-action-against-yemen-on-20260916"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

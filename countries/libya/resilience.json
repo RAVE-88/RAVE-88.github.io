@@ -1,0 +1,93 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "LY",
+  "countryName": "Libya",
+  "slug": "libya",
+  "rank": 126,
+  "overallScore": 45,
+  "dimensionCoverage": 0.68,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Military Medical Services visits Germany’s Ottobock to strengthen cooperation in rehabilitation and prosthetic services",
+        "source": "Libya Herald",
+        "url": "https://libyaherald.com/2026/09/military-medical-services-visits-germanys-ottobock-to-strengthen-cooperation-in-rehabilitation-and-prosthetic-services/",
+        "publishedAt": "2026-09-27T10:28:00.000Z"
+      },
+      {
+        "title": "UNSMIL concerned continued disruption of Sharara-Zawia oil pipeline adversely affecting Libya's principal national income",
+        "source": "Libya Herald",
+        "url": "https://libyaherald.com/2026/09/unsmil-concerned-continued-disruption-of-sharara-zawia-oil-pipeline-adversely-affecting-libyas-principal-national-income/",
+        "publishedAt": "2026-09-26T19:40:00.000Z"
+      },
+      {
+        "title": "International Criminal Court’s Office of the Prosecutor confirms receiving Libya's request for assistance in drone attacks",
+        "source": "Libya Herald",
+        "url": "https://libyaherald.com/2026/09/international-criminal-courts-office-of-the-prosecutor-confirms-receiving-libyas-request-for-assistance-in-drone-attacks/",
+        "publishedAt": "2026-09-26T17:30:00.000Z"
+      },
+      {
+        "title": "Op-Ed: The UN Security Council is No Place for a Divided Libya",
+        "source": "Libya Herald",
+        "url": "https://libyaherald.com/2026/09/op-ed-the-un-security-council-is-no-place-for-a-divided-libya/",
+        "publishedAt": "2026-09-26T15:25:00.000Z"
+      },
+      {
+        "title": "Op-Ed: The Exchange Rate Problem: Is Libya Treating the Symptom Rather Than the Underlying Imbalance?",
+        "source": "Libya Herald",
+        "url": "https://libyaherald.com/2026/09/op-ed-the-exchange-rate-problem-is-libya-treating-the-symptom-rather-than-the-underlying-imbalance/",
+        "publishedAt": "2026-09-25T15:00:00.000Z"
+      }
+    ],
+    "brief": null,
+    "timeline": [
+      {
+        "title": "GDELT 186 — in Libya",
+        "summary": "source: www.outlookindia.com",
+        "sourceUrl": "https://www.outlookindia.com/international/libya-resumes-executions-after-16-years-what-changed-under-haftars-laaf",
+        "occurredAt": "2026-09-27T17:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 1822 — in Libya",
+        "summary": "source: www.icj.org",
+        "sourceUrl": "https://www.icj.org/hrc63-icj-raises-concern-over-torture-executions-and-impunity-in-libya/",
+        "occurredAt": "2026-09-23T14:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 186 — in Libya",
+        "summary": "source: oilreviewafrica.com",
+        "sourceUrl": "https://oilreviewafrica.com/exploration/exploration/omv-classifies-essar-well-commercially-viable-in-sirte-basin",
+        "occurredAt": "2026-09-21T11:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 181 — in Libya",
+        "summary": "source: www.pambazuka.org",
+        "sourceUrl": "https://www.pambazuka.org/T%C3%BCrkiye-UAE-and-the-Imperialist-Chain",
+        "occurredAt": "2026-09-19T01:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 186 — in Libya",
+        "summary": "source: www.riotimesonline.com",
+        "sourceUrl": "https://www.riotimesonline.com/libya-executions-halt-unsmil-east-2026/",
+        "occurredAt": "2026-09-18T21:30:00.000Z",
+        "domain": "conflict"
+      }
+    ],
+    "timelineStatus": "partial",
+    "briefSkipped": "thin-grounding",
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

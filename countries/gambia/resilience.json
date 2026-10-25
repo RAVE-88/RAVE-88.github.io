@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "GM",
+  "countryName": "Gambia",
+  "slug": "gambia",
+  "rank": 118,
+  "overallScore": 47.1,
+  "dimensionCoverage": 0.83,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "EU Deputy Head highlights culture as key driver of Gambia's economy",
+        "source": "thepoint.gm",
+        "url": "https://thepoint.gm/africa/gambia/headlines/eu-deputy-head-highlights-culture-as-key-driver-of-gambias-economy",
+        "publishedAt": "2026-09-25T14:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Senegalese troop rotation 'not linked' to Gambia's forthcoming elections: ECOMIG",
+        "source": "thepoint.gm",
+        "url": "https://thepoint.gm/africa/gambia/headlines/senegalese-troop-rotation-not-linked-to-gambias-forthcoming-elections-ecomig",
+        "publishedAt": "2026-09-25T14:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Ambassador Bah receives U.S. ambassador-designate to Gambia",
+        "source": "thepoint.gm",
+        "url": "https://thepoint.gm/africa/gambia/headlines/ambassador-bah-receives-u-s-ambassador-designate-to-gambia",
+        "publishedAt": "2026-09-24T15:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Gambia records over D68M budget deficit in first 6 months",
+        "source": "thepoint.gm",
+        "url": "https://thepoint.gm/africa/gambia/headlines/gambia-records-over-d68m-budget-deficit-in-first-6-months",
+        "publishedAt": "2026-09-24T15:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Gambia-Senegal border marking gains pace as joint team ends 1st phase",
+        "source": "thepoint.gm",
+        "url": "https://thepoint.gm/africa/gambia/headlines/gambia-senegal-border-marking-gains-pace-as-joint-team-ends-1st-phase",
+        "publishedAt": "2026-09-24T15:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "thin-grounding",
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

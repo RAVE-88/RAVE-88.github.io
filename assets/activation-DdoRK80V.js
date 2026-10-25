@@ -1,0 +1,3 @@
+const a=new WeakMap;function c(t,s){let e=a.get(t);e||(e=new Set,a.set(t,e)),!e.has(s)&&(e.add(s),t.addEventListener("keydown",n=>{if(n.key!=="Enter"&&n.key!==" "||n.repeat)return;const i=n.target,r=i==null?void 0:i.closest(s);!r||!t.contains(r)||i===r&&(n.preventDefault(),r.click())}))}export{c as b};
+
+;(globalThis.__WM_CHUNK_OWNERSHIP__||(globalThis.__WM_CHUNK_OWNERSHIP__={}))["activation-DdoRK80V.js"]=1;

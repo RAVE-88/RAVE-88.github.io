@@ -1,0 +1,3 @@
+const n="wm-font-family",s="wm-font-changed",o=["mono","system"];function a(){try{const t=localStorage.getItem(n);if(t&&o.includes(t))return t}catch{}return"mono"}function m(t){const e=o.includes(t)?t:"mono";try{localStorage.setItem(n,e)}catch{}c(e),window.dispatchEvent(new CustomEvent(s,{detail:{font:e}}))}function c(t){(t??a())==="system"?document.documentElement.dataset.font="system":delete document.documentElement.dataset.font}export{c as a,a as g,m as s};
+
+;(globalThis.__WM_CHUNK_OWNERSHIP__||(globalThis.__WM_CHUNK_OWNERSHIP__={}))["font-settings-B6XmwZwl.js"]=1;

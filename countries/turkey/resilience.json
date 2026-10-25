@@ -1,0 +1,137 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "TR",
+  "countryName": "Turkey",
+  "slug": "turkey",
+  "rank": 125,
+  "overallScore": 45.1,
+  "dimensionCoverage": 0.79,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "COP31 hosts Australia and Türkiye face the fossil-fuel question",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/sci-tech/energy-and-environment/cop31-hosts-australia-and-turkiye-face-the-fossil-fuel-question/article71515307.ece",
+        "publishedAt": "2026-09-28T04:11:00.000Z"
+      },
+      {
+        "title": "Roberto Mancini: 'Türkiye çok iyi bir takım, elenmeyi hak etmediler'",
+        "source": "Hurriyet",
+        "url": "https://www.hurriyet.com.tr/sporarena/roberto-mancini-turkiye-cok-iyi-bir-takim-elenmeyi-hak-etmediler-43321545",
+        "publishedAt": "2026-09-27T16:49:53.000Z"
+      },
+      {
+        "title": "Turkish opposition CHP leader signals he may not run again",
+        "source": "Daily Sabah",
+        "url": "https://www.dailysabah.com/politics/turkish-opposition-chp-leader-signals-he-may-not-run-again/news",
+        "publishedAt": "2026-09-27T14:12:00.000Z"
+      },
+      {
+        "title": "I spent $7,500 on a full-body checkup and cosmetic procedures in Turkey",
+        "source": "Business Insider",
+        "url": "https://www.businessinsider.com/medical-tourism-turkey-affordable-healthcare-abroad-personal-experience-2026-9",
+        "publishedAt": "2026-09-27T10:29:01.000Z"
+      },
+      {
+        "title": "Palauan youth and climate advocate joins COP31 engagements across Türkiye",
+        "source": "Island Times (Palau)",
+        "url": "https://islandtimes.org/palauan-youth-and-climate-advocate-joins-cop31-engagements-across-turkiye/",
+        "publishedAt": "2026-09-26T01:33:12.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nCOP31 hosts Australia and Türkiye face the fossil-fuel question. [1]\nTurkish opposition CHP leader signals he may not run again. [3]\n\nWHAT THIS MEANS FOR TURKEY\nTürkiye's role as a COP31 host raises pressure to address its 68% net energy import dependency, which the fossil-fuel question directly challenges. [1][E4]\nThe CHP leader's potential departure may affect the party's electoral prospects, as a market prices CHP winning the general election at 12%. [3][E10]\n\nKEY RISKS\nTurkey's link to 383 US OFAC and Canada SEMA sanctions designations exposes it to financial and diplomatic risks. [E3]\n\nOUTLOOK\nA Kalshi market related to Turkey, \"Where will Putin and Zelenskyy next meet?: Turkey\", priced Yes at 28% on Sep 28, 2026; it closes Dec 31, 2028. [E7]\nA Kalshi market related to Turkey, \"Where will Trump and Putin next meet?: Turkey\", priced Yes at 46% on Sep 28, 2026; it closes Jan 1, 2029. [E8]\n\nWATCH ITEMS\nWhether the Turkish opposition CHP leader will run again remains unresolved. [3]",
+      "generatedAt": "2026-09-28T05:07:08.508Z",
+      "sources": [
+        {
+          "title": "COP31 hosts Australia and Türkiye face the fossil-fuel question",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/sci-tech/energy-and-environment/cop31-hosts-australia-and-turkiye-face-the-fossil-fuel-question/article71515307.ece",
+          "publishedAt": "2026-09-28T04:11:00.000Z"
+        },
+        {
+          "title": "Roberto Mancini: 'Türkiye çok iyi bir takım, elenmeyi hak etmediler'",
+          "source": "Hurriyet",
+          "url": "https://www.hurriyet.com.tr/sporarena/roberto-mancini-turkiye-cok-iyi-bir-takim-elenmeyi-hak-etmediler-43321545",
+          "publishedAt": "2026-09-27T16:49:53.000Z"
+        },
+        {
+          "title": "Turkish opposition CHP leader signals he may not run again",
+          "source": "Daily Sabah",
+          "url": "https://www.dailysabah.com/politics/turkish-opposition-chp-leader-signals-he-may-not-run-again/news",
+          "publishedAt": "2026-09-27T14:12:00.000Z"
+        },
+        {
+          "title": "I spent $7,500 on a full-body checkup and cosmetic procedures in Turkey",
+          "source": "Business Insider",
+          "url": "https://www.businessinsider.com/medical-tourism-turkey-affordable-healthcare-abroad-personal-experience-2026-9",
+          "publishedAt": "2026-09-27T10:29:01.000Z"
+        },
+        {
+          "title": "Palauan youth and climate advocate joins COP31 engagements across Türkiye",
+          "source": "Island Times (Palau)",
+          "url": "https://islandtimes.org/palauan-youth-and-climate-advocate-joins-cop31-engagements-across-turkiye/",
+          "publishedAt": "2026-09-26T01:33:12.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E3",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "383",
+          "factText": "Turkey is linked to 383 US OFAC and Canada SEMA sanctions designations, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T00:01:35.739Z"
+        },
+        {
+          "id": "E4",
+          "kind": "energy",
+          "label": "Net energy import dependency",
+          "value": "68%",
+          "factText": "Turkey has a net energy import dependency of 68% (Eurostat, 2024).",
+          "asOf": "2024-12-31T00:00:00.000Z"
+        },
+        {
+          "id": "E7",
+          "kind": "market",
+          "label": "Kalshi prediction market",
+          "value": "28%",
+          "factText": "A Kalshi market related to Turkey, \"Where will Putin and Zelenskyy next meet?: Turkey\", priced Yes at 28% on Sep 28, 2026; it closes Dec 31, 2028.",
+          "asOf": "2026-09-28T05:00:34.359Z",
+          "url": "https://kalshi.com/markets/KXPUTINZELENSKYYLOCATION-28-TUR"
+        },
+        {
+          "id": "E8",
+          "kind": "market",
+          "label": "Kalshi prediction market",
+          "value": "46%",
+          "factText": "A Kalshi market related to Turkey, \"Where will Trump and Putin next meet?: Turkey\", priced Yes at 46% on Sep 28, 2026; it closes Jan 1, 2029.",
+          "asOf": "2026-09-28T05:00:34.359Z",
+          "url": "https://kalshi.com/markets/KXPUTINDJTLOCATION-29-TUR"
+        },
+        {
+          "id": "E10",
+          "kind": "market",
+          "label": "Kalshi prediction market",
+          "value": "12%",
+          "factText": "A Kalshi market related to Turkey, \"Turkish general election winner?: CHP\", priced Yes at 12% on Sep 28, 2026; it closes May 7, 2029.",
+          "asOf": "2026-09-28T05:00:34.359Z",
+          "url": "https://kalshi.com/markets/KXPARLITURKEY-28-CHP"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

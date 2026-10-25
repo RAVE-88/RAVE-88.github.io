@@ -1,0 +1,41 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "FM",
+  "countryName": "Micronesia",
+  "slug": "micronesia",
+  "rank": null,
+  "overallScore": null,
+  "dimensionCoverage": 0.61,
+  "confidence": "standard",
+  "level": "unpublished",
+  "sourceStatus": "unpublished",
+  "headlineEligible": false,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Micronesia calls for Climate finance, Ocean protection and fossil fuel transition",
+        "source": "pina.com.fj",
+        "url": "https://pina.com.fj/2026/09/28/micronesia-calls-for-climate-finance-ocean-protection-and-fossil-fuel-transition/",
+        "publishedAt": "2026-09-28T04:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Cuba and Federated States of Micronesia mark diplomatic ties",
+        "source": "plenglish.com",
+        "url": "https://www.plenglish.com/news/2026/09/27/cuba-and-federated-states-of-micronesia-mark-diplomatic-ties/",
+        "publishedAt": "2026-09-28T02:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

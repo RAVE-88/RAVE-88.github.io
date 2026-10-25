@@ -1,0 +1,110 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "AR",
+  "countryName": "Argentina",
+  "slug": "argentina",
+  "rank": 103,
+  "overallScore": 50.7,
+  "dimensionCoverage": 0.79,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Argentina's poverty rate climbs to nearly one in three under Milei",
+        "source": "France 24 LatAm",
+        "url": "https://www.france24.com/en/americas/20260925-argentina-poverty-rate-nearly-one-in-three-milei",
+        "publishedAt": "2026-09-25T02:30:02.000Z"
+      },
+      {
+        "title": "Argentina Gas Subsidy Cut Mayors' Group Calls It an Attack",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/argentina-gas-subsidy-zona-fria-mayors-fam-2026/",
+        "publishedAt": "2026-09-27T23:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Argentina Growth Forecast Cut to 1.5% by JP Morgan",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/argentina-growth-forecast-jp-morgan-recession-2026/",
+        "publishedAt": "2026-09-27T23:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "First Guyanese set to compete in EU pizza competition in Argentina",
+        "source": "kaieteurnewsonline.com",
+        "url": "https://kaieteurnewsonline.com/2026/09/27/first-guyanese-set-to-compete-in-eu-pizza-competition-in-argentina/",
+        "publishedAt": "2026-09-27T16:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Edenor and Edesur Debt Swap Clears Argentina's Senate",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/argentina-edenor-edesur-cammesa-debt-swap-zona-fria-law-2026/",
+        "publishedAt": "2026-09-27T10:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nArgentina's poverty rate climbs to nearly one in three under Milei. [1]\nArgentina Gas Subsidy Cut Mayors' Group Calls It an Attack. [2]\n\nKEY RISKS\nArgentina is linked to 19 US OFAC and Canada SEMA sanctions designations, which could restrict its access to international finance and trade. [E2]\n\nWATCH ITEMS\nWhether the gas subsidy cut will be implemented or challenged following the Mayors' Group opposition. [2]",
+      "generatedAt": "2026-09-28T04:58:31.929Z",
+      "sources": [
+        {
+          "title": "Argentina's poverty rate climbs to nearly one in three under Milei",
+          "source": "France 24 LatAm",
+          "url": "https://www.france24.com/en/americas/20260925-argentina-poverty-rate-nearly-one-in-three-milei",
+          "publishedAt": "2026-09-25T02:30:02.000Z"
+        },
+        {
+          "title": "Argentina Gas Subsidy Cut Mayors' Group Calls It an Attack",
+          "source": "riotimesonline.com",
+          "url": "https://www.riotimesonline.com/argentina-gas-subsidy-zona-fria-mayors-fam-2026/",
+          "publishedAt": "2026-09-27T23:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Argentina Growth Forecast Cut to 1.5% by JP Morgan",
+          "source": "riotimesonline.com",
+          "url": "https://www.riotimesonline.com/argentina-growth-forecast-jp-morgan-recession-2026/",
+          "publishedAt": "2026-09-27T23:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "First Guyanese set to compete in EU pizza competition in Argentina",
+          "source": "kaieteurnewsonline.com",
+          "url": "https://kaieteurnewsonline.com/2026/09/27/first-guyanese-set-to-compete-in-eu-pizza-competition-in-argentina/",
+          "publishedAt": "2026-09-27T16:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Edenor and Edesur Debt Swap Clears Argentina's Senate",
+          "source": "riotimesonline.com",
+          "url": "https://www.riotimesonline.com/argentina-edenor-edesur-cammesa-debt-swap-zona-fria-law-2026/",
+          "publishedAt": "2026-09-27T10:30:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "19",
+          "factText": "Argentina is linked to 19 US OFAC and Canada SEMA sanctions designations, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T00:01:35.739Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

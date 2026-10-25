@@ -1,0 +1,110 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "BT",
+  "countryName": "Bhutan",
+  "slug": "bhutan",
+  "rank": 77,
+  "overallScore": 54.5,
+  "dimensionCoverage": 0.74,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "The Story of Bhutan’s UN Membership",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/09/the-story-of-bhutans-un-membership/",
+        "publishedAt": "2026-09-24T15:36:00.000Z"
+      },
+      {
+        "title": "Bhutan Travel Itinerary: A Complete Guide for Your Trip",
+        "source": "luxurytravelmagazine.com",
+        "url": "https://www.luxurytravelmagazine.com/news-articles/bhutan-travel-itinerary-best-routes-trip-plans",
+        "publishedAt": "2026-09-25T20:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Bathing Carnival Bhutan - TTR Weekly",
+        "source": "ttrweekly.com",
+        "url": "https://www.ttrweekly.com/site/2026/09/bathing-carnival-bhutan/",
+        "publishedAt": "2026-09-23T00:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Bhutan Should Release All Remaining Political Prisoners",
+        "source": "hrw.org",
+        "url": "https://www.hrw.org/news/2026/09/21/bhutan-should-release-all-remaining-political-prisoners",
+        "publishedAt": "2026-09-22T04:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Tawang Police strengthen community coordination along India-Bhutan border",
+        "source": "dailyexcelsior.com",
+        "url": "https://www.dailyexcelsior.com/tawang-police-strengthen-community-coordination-along-india-bhutan-border/",
+        "publishedAt": "2026-09-27T23:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nBhutan is urged to release all remaining political prisoners. [4]\n\nKEY RISKS\nBhutan's 0% net energy import dependency implies no immediate energy supply risk, but any future political instability could disrupt domestic energy production. [E2]\n\nWATCH ITEMS\nWhether Bhutan will follow through on the call to release all remaining political prisoners. [4]",
+      "generatedAt": "2026-09-28T04:59:10.859Z",
+      "sources": [
+        {
+          "title": "The Story of Bhutan’s UN Membership",
+          "source": "The Diplomat",
+          "url": "https://thediplomat.com/2026/09/the-story-of-bhutans-un-membership/",
+          "publishedAt": "2026-09-24T15:36:00.000Z"
+        },
+        {
+          "title": "Bhutan Travel Itinerary: A Complete Guide for Your Trip",
+          "source": "luxurytravelmagazine.com",
+          "url": "https://www.luxurytravelmagazine.com/news-articles/bhutan-travel-itinerary-best-routes-trip-plans",
+          "publishedAt": "2026-09-25T20:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Bathing Carnival Bhutan - TTR Weekly",
+          "source": "ttrweekly.com",
+          "url": "https://www.ttrweekly.com/site/2026/09/bathing-carnival-bhutan/",
+          "publishedAt": "2026-09-23T00:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Bhutan Should Release All Remaining Political Prisoners",
+          "source": "hrw.org",
+          "url": "https://www.hrw.org/news/2026/09/21/bhutan-should-release-all-remaining-political-prisoners",
+          "publishedAt": "2026-09-22T04:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Tawang Police strengthen community coordination along India-Bhutan border",
+          "source": "dailyexcelsior.com",
+          "url": "https://www.dailyexcelsior.com/tawang-police-strengthen-community-coordination-along-india-bhutan-border/",
+          "publishedAt": "2026-09-27T23:00:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "energy",
+          "label": "Net energy import dependency",
+          "value": "0%",
+          "factText": "Bhutan has a net energy import dependency of 0% (World Bank Open Data, 2023).",
+          "asOf": "2023-12-31T00:00:00.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

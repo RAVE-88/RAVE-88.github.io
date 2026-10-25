@@ -1,0 +1,119 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "CH",
+  "countryName": "Switzerland",
+  "slug": "switzerland",
+  "rank": 1,
+  "overallScore": 76.8,
+  "dimensionCoverage": 0.76,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Swiss voters crush neutrality initiative that would have ended sanctions against Russia—70% say No - Euromaidan Press",
+        "source": "Ukrainska Pravda EN",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZUEyb2tlOXpiMTNaWEtGdFJscS1RWUM0OFhEMzBmbDJKWWloaHNVazlTZ25RSzlfZ09nQ09GTEtrUmZMMHI5aEdMN0kzLVJQVkFWaEt2bnZkbXpnT0dpNno3dHVpUlJnREl0VkpJdDR2a2k1M3ZCWlNsM1NFa3FZOHF0YXR2NElZZFNublg1UUluM3hiNTZMSmtWQkpTS2g2eW0xVGV5Y1JwenNjdjlReF9MdkZIN0F0OG1tZUtTX29ZckdSTDUzX2JNRkkydjNpSHVv?oc=5",
+        "publishedAt": "2026-09-27T14:29:53.000Z"
+      },
+      {
+        "title": "Non! Why the Swiss rejected stricter neutrality",
+        "source": "France 24",
+        "url": "https://www.france24.com/en/tv-shows/spotlight/20260927-non-why-the-swiss-rejected-stricter-neutrality",
+        "publishedAt": "2026-09-27T17:33:09.000Z"
+      },
+      {
+        "title": "Swiss voters overwhelmingly reject far-right plan to toughen neutrality",
+        "source": "Le Monde",
+        "url": "https://www.lemonde.fr/en/international/article/2026/09/27/swiss-voters-overwhelmingly-reject-far-right-plan-to-toughen-neutrality_6758013_4.html",
+        "publishedAt": "2026-09-27T17:13:01.000Z"
+      },
+      {
+        "title": "How neutral should Switzerland be? Voters deliver decisive verdict",
+        "source": "EuroNews",
+        "url": "https://www.euronews.com/2026/09/27/how-neutral-should-switzerland-be-voters-deliver-decisive-verdict",
+        "publishedAt": "2026-09-27T16:59:05.000Z"
+      },
+      {
+        "title": "Switzerland rejects stricter interpretation of its neutrality",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cm750plvwy9vo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-27T16:02:17.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nSwiss voters rejected a neutrality initiative that would have ended sanctions against Russia, with 70% voting No. [1]\nVoters also overwhelmingly rejected a far-right plan to toughen neutrality. [3]\n\nWHAT THIS MEANS FOR SWITZERLAND\nThe rejection of the neutrality initiative means Switzerland will maintain its current sanctions framework, which is linked to 97 US OFAC and Canada SEMA sanctions designations. [1][E2]\n\nKEY RISKS\nSwitzerland's net energy import dependency of 52% could pose a risk if sanctions-related disruptions affect energy supply chains. [E3]\n\nOUTLOOK\nA Kalshi market related to Switzerland, \"Where will Putin and Zelenskyy next meet?: Switzerland\", priced Yes at 13% on Sep 28, 2026; it closes Dec 31, 2028. [E4]\n\nWATCH ITEMS\nIt remains to be seen how the decisive verdict on neutrality will affect Switzerland's future diplomatic and economic relations. [4]",
+      "generatedAt": "2026-09-28T04:59:34.605Z",
+      "sources": [
+        {
+          "title": "Swiss voters crush neutrality initiative that would have ended sanctions against Russia—70% say No - Euromaidan Press",
+          "source": "Ukrainska Pravda EN",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZUEyb2tlOXpiMTNaWEtGdFJscS1RWUM0OFhEMzBmbDJKWWloaHNVazlTZ25RSzlfZ09nQ09GTEtrUmZMMHI5aEdMN0kzLVJQVkFWaEt2bnZkbXpnT0dpNno3dHVpUlJnREl0VkpJdDR2a2k1M3ZCWlNsM1NFa3FZOHF0YXR2NElZZFNublg1UUluM3hiNTZMSmtWQkpTS2g2eW0xVGV5Y1JwenNjdjlReF9MdkZIN0F0OG1tZUtTX29ZckdSTDUzX2JNRkkydjNpSHVv?oc=5",
+          "publishedAt": "2026-09-27T14:29:53.000Z"
+        },
+        {
+          "title": "Non! Why the Swiss rejected stricter neutrality",
+          "source": "France 24",
+          "url": "https://www.france24.com/en/tv-shows/spotlight/20260927-non-why-the-swiss-rejected-stricter-neutrality",
+          "publishedAt": "2026-09-27T17:33:09.000Z"
+        },
+        {
+          "title": "Swiss voters overwhelmingly reject far-right plan to toughen neutrality",
+          "source": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/09/27/swiss-voters-overwhelmingly-reject-far-right-plan-to-toughen-neutrality_6758013_4.html",
+          "publishedAt": "2026-09-27T17:13:01.000Z"
+        },
+        {
+          "title": "How neutral should Switzerland be? Voters deliver decisive verdict",
+          "source": "EuroNews",
+          "url": "https://www.euronews.com/2026/09/27/how-neutral-should-switzerland-be-voters-deliver-decisive-verdict",
+          "publishedAt": "2026-09-27T16:59:05.000Z"
+        },
+        {
+          "title": "Switzerland rejects stricter interpretation of its neutrality",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cm750plvwy9vo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-09-27T16:02:17.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "97",
+          "factText": "Switzerland is linked to 97 US OFAC and Canada SEMA sanctions designations, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T00:01:35.739Z"
+        },
+        {
+          "id": "E3",
+          "kind": "energy",
+          "label": "Net energy import dependency",
+          "value": "52%",
+          "factText": "Switzerland has a net energy import dependency of 52% (World Bank Open Data, 2023).",
+          "asOf": "2023-12-31T00:00:00.000Z"
+        },
+        {
+          "id": "E4",
+          "kind": "market",
+          "label": "Kalshi prediction market",
+          "value": "13%",
+          "factText": "A Kalshi market related to Switzerland, \"Where will Putin and Zelenskyy next meet?: Switzerland\", priced Yes at 13% on Sep 28, 2026; it closes Dec 31, 2028.",
+          "asOf": "2026-09-28T04:51:12.326Z",
+          "url": "https://kalshi.com/markets/KXPUTINZELENSKYYLOCATION-28-SWZ"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

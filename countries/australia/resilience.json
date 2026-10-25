@@ -1,0 +1,103 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "AU",
+  "countryName": "Australia",
+  "slug": "australia",
+  "rank": 43,
+  "overallScore": 60.3,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "In 1906 Australia’s high court backed ethnic cleansing. That historical wrong and error of law must be put right | Peter Prince and (Waskam) Emelda Davis",
+        "source": "Guardian Pacific",
+        "url": "https://www.theguardian.com/commentisfree/2026/sep/26/high-court-australia-south-sea-islanders-law-ntwnfb",
+        "publishedAt": "2026-09-25T15:00:12.000Z"
+      },
+      {
+        "title": "Northern Star shares pop as Australian gold miner rejects $27 billion takeover proposal",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/09/28/northern-star-shares-gold-fields-takeover-bid.html",
+        "publishedAt": "2026-09-28T03:50:22.000Z"
+      },
+      {
+        "title": "Australia asks OpenAI, Anthropic chiefs to Senate inquiry on rogue hack: Report",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/australia-summons-openai-anthropic-chiefs-to-senate-inquiry-on-health-data-hack-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "publishedAt": "2026-09-27T12:46:28.000Z"
+      },
+      {
+        "title": "Australian Dollar Outlook: AUD/USD Holds 70c Ahead of RBA and CPI - FOREX.com",
+        "source": "Economic Data",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR1RkN21zc2hfNUpaaDE4aE13WGlfU3R6M0l2TjhOemRLaHZ3cFU3cVhWRkNGcGJzSTkwdEVHcTlQRU5vTWNOZDRDdks0Mk9LZmtUSjliT3lfak9mdnZKb0xXSXlvRmJLWWNHQVRkTmJXeUZxaVlTeFB4emdiSnJ2dnE1bWhHRktvYXhHNXdOeTQ2bVFiUGIzY191dXdoclRaN3prZ2NRTWp6TlhSejQwTNIBvAFBVV95cUxOWmxfMUotaE1Hajl2Z3R4RURkbGh4alhQaDdGSUFFcE9aRkF0WkpIeFIwWlFKdEFaYUF1SDAwSW4tWU9UUU8tU2hWSzNzb1ZUeEY5MjJCVWZGajhDdjhJM3gyVUxQWmVKNC1RQnpEd0xsUmpUSl9lTHQzRGswNkR1MlQtVmFVQndDcm1MMGNEQ19FdVlzeG00eGV0WlRKTkRPa2p6cC0zSFJ6dV82YW5NTlcxTVZ2WFNveDNvNQ?oc=5",
+        "publishedAt": "2026-09-27T22:50:03.000Z"
+      },
+      {
+        "title": "OpenAI, Anthropic CEOs called to appear at Australian AI probe - CNBC",
+        "source": "CNBC Commodities",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVlYxZ3NxM3NWUmc4TDgxWnNXZkRmSWhOeHJPcWMzbDhoT2NsWDJMVzN6bUdLbk8zMXU4Y0dtU0o0NndMM2tGZDFzekNJV1ZYMjQtTkZxVkxQNHp5VjdfcEl1UG5zQWlOWUsyLXY5bzQwZ1FfREZ0UWpSbEdVTGh3c3VtbTlGQzRtVGptcktEQ2FkLWU2UkFsMlVMZzRhaWvSAaQBQVVfeXFMTnhpZ3pGckk0YTB1RXpfbktja0VMUUgyWS1zbGJwY2FhUFN1b1lXc2Y3Sk50UmhtcVdkRHZ0eEc0bUNOR2tBdVNsc2tBX19rR1RsN3U2bFJjWEV3SE94Tm5Wc3Fkc1dNSm15QlRpaVFJN1JnR3BmS2Q0bXJXSnJINFJWX0F4ZnItTmNtQWFSMkhkc1NvNkhMYVhkY3Z4MEJFbmJ1R1k?oc=5",
+        "publishedAt": "2026-09-27T07:13:12.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nAustralia's high court in 1906 backed ethnic cleansing, a historical wrong that must be put right. [1]\nAustralia has asked OpenAI and Anthropic chiefs to appear at a Senate inquiry on a rogue hack. [3][5]\n\nOUTLOOK\nA Kalshi market prices Australian House election winner: Australian Labor Party at Yes 48% as of Sep 28, 2026; it closes Sep 30, 2029. [E6]",
+      "generatedAt": "2026-09-28T04:58:37.323Z",
+      "sources": [
+        {
+          "title": "In 1906 Australia’s high court backed ethnic cleansing. That historical wrong and error of law must be put right | Peter Prince and (Waskam) Emelda Davis",
+          "source": "Guardian Pacific",
+          "url": "https://www.theguardian.com/commentisfree/2026/sep/26/high-court-australia-south-sea-islanders-law-ntwnfb",
+          "publishedAt": "2026-09-25T15:00:12.000Z"
+        },
+        {
+          "title": "Northern Star shares pop as Australian gold miner rejects $27 billion takeover proposal",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/09/28/northern-star-shares-gold-fields-takeover-bid.html",
+          "publishedAt": "2026-09-28T03:50:22.000Z"
+        },
+        {
+          "title": "Australia asks OpenAI, Anthropic chiefs to Senate inquiry on rogue hack: Report",
+          "source": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/australia-summons-openai-anthropic-chiefs-to-senate-inquiry-on-health-data-hack-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedAt": "2026-09-27T12:46:28.000Z"
+        },
+        {
+          "title": "Australian Dollar Outlook: AUD/USD Holds 70c Ahead of RBA and CPI - FOREX.com",
+          "source": "Economic Data",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR1RkN21zc2hfNUpaaDE4aE13WGlfU3R6M0l2TjhOemRLaHZ3cFU3cVhWRkNGcGJzSTkwdEVHcTlQRU5vTWNOZDRDdks0Mk9LZmtUSjliT3lfak9mdnZKb0xXSXlvRmJLWWNHQVRkTmJXeUZxaVlTeFB4emdiSnJ2dnE1bWhHRktvYXhHNXdOeTQ2bVFiUGIzY191dXdoclRaN3prZ2NRTWp6TlhSejQwTNIBvAFBVV95cUxOWmxfMUotaE1Hajl2Z3R4RURkbGh4alhQaDdGSUFFcE9aRkF0WkpIeFIwWlFKdEFaYUF1SDAwSW4tWU9UUU8tU2hWSzNzb1ZUeEY5MjJCVWZGajhDdjhJM3gyVUxQWmVKNC1RQnpEd0xsUmpUSl9lTHQzRGswNkR1MlQtVmFVQndDcm1MMGNEQ19FdVlzeG00eGV0WlRKTkRPa2p6cC0zSFJ6dV82YW5NTlcxTVZ2WFNveDNvNQ?oc=5",
+          "publishedAt": "2026-09-27T22:50:03.000Z"
+        },
+        {
+          "title": "OpenAI, Anthropic CEOs called to appear at Australian AI probe - CNBC",
+          "source": "CNBC Commodities",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVlYxZ3NxM3NWUmc4TDgxWnNXZkRmSWhOeHJPcWMzbDhoT2NsWDJMVzN6bUdLbk8zMXU4Y0dtU0o0NndMM2tGZDFzekNJV1ZYMjQtTkZxVkxQNHp5VjdfcEl1UG5zQWlOWUsyLXY5bzQwZ1FfREZ0UWpSbEdVTGh3c3VtbTlGQzRtVGptcktEQ2FkLWU2UkFsMlVMZzRhaWvSAaQBQVVfeXFMTnhpZ3pGckk0YTB1RXpfbktja0VMUUgyWS1zbGJwY2FhUFN1b1lXc2Y3Sk50UmhtcVdkRHZ0eEc0bUNOR2tBdVNsc2tBX19rR1RsN3U2bFJjWEV3SE94Tm5Wc3Fkc1dNSm15QlRpaVFJN1JnR3BmS2Q0bXJXSnJINFJWX0F4ZnItTmNtQWFSMkhkc1NvNkhMYVhkY3Z4MEJFbmJ1R1k?oc=5",
+          "publishedAt": "2026-09-27T07:13:12.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E6",
+          "kind": "market",
+          "label": "Kalshi prediction market",
+          "value": "48%",
+          "factText": "A Kalshi market related to Australia, \"Australian House election winner?: Australian Labor Party\", priced Yes at 48% on Sep 28, 2026; it closes Sep 30, 2029.",
+          "asOf": "2026-09-28T04:51:12.326Z",
+          "url": "https://kalshi.com/markets/KXAUSTRALIAHOUSE-28-ALP"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

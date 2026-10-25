@@ -1,0 +1,51 @@
+{
+  "dataset": "crisis-tracker",
+  "slug": "lebanon-israel-escalation",
+  "title": "Lebanon–Israel escalation tracker",
+  "shortTitle": "Lebanon–Israel escalation",
+  "description": "Monthly conflict pulse for Lebanon and Israel: recorded events, political violence and fatalities from HAPI/HDX humanitarian summaries in a fixed two-country scope.",
+  "overview": "This tracker compares the latest available monthly conflict summaries for Lebanon and Israel. Lebanon's figures are aggregated from subnational humanitarian records; the tracker does not attempt to attribute events to specific parties, and cross-border exchanges appear only as each country's own recorded totals.",
+  "coverage": [
+    {
+      "code": "LB",
+      "name": "Lebanon"
+    },
+    {
+      "code": "IL",
+      "name": "Israel"
+    }
+  ],
+  "source": "shared/crawlable-crises.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "maintainedPulse": {
+    "state": "ready",
+    "eventsTotal": 406,
+    "fatalities": 37,
+    "politicalViolenceEvents": 351,
+    "referencePeriod": "2026-09-01",
+    "asOf": "2026-09-28T04:31:34.699Z",
+    "missingCountries": [],
+    "rows": [
+      {
+        "code": "IL",
+        "name": "Israel",
+        "events": 33,
+        "fatalities": 1,
+        "political": 1,
+        "demonstrations": 32,
+        "referencePeriod": "2026-09-01",
+        "updatedAt": "2026-09-28T04:31:34.699Z"
+      },
+      {
+        "code": "LB",
+        "name": "Lebanon",
+        "events": 373,
+        "fatalities": 36,
+        "political": 350,
+        "demonstrations": 23,
+        "referencePeriod": "2026-09-01",
+        "updatedAt": "2026-09-28T04:31:34.699Z"
+      }
+    ]
+  }
+}

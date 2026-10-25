@@ -1,0 +1,102 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "AM",
+  "countryName": "Armenia",
+  "slug": "armenia",
+  "rank": 79,
+  "overallScore": 54.1,
+  "dimensionCoverage": 0.81,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Armenian and Azerbaijan agree to ‘promote positive agenda’ amid tension",
+        "source": "OC Media",
+        "url": "https://oc-media.org/armenian-and-azerbaijan-agree-to-promote-positive-agenda-amid-tension/",
+        "publishedAt": "2026-09-25T13:16:10.000Z"
+      },
+      {
+        "title": "Top stories in Azerbaijan, Armenia, and Georgia from 23-25 September, 2026",
+        "source": "JAMnews",
+        "url": "https://jam-news.net/news-in-azerbaijan-armenia-and-georgia-23-25-september-2026/",
+        "publishedAt": "2026-09-25T04:25:00.000Z"
+      },
+      {
+        "title": "Lithuania to let Belarusians apply for residence permits in Armenia, Georgia",
+        "source": "LRT English",
+        "url": "https://www.lrt.lt/en/news-in-english/19/3062383/lithuania-to-let-belarusians-apply-for-residence-permits-in-armenia-georgia",
+        "publishedAt": "2026-09-24T14:40:00.000Z"
+      },
+      {
+        "title": "Simonyan suggests some see Russia’s Gyumri base as having been a threat to Armenia",
+        "source": "OC Media",
+        "url": "https://oc-media.org/simonyan-suggests-some-see-russias-gyumri-base-as-having-been-a-threat-to-armenia/",
+        "publishedAt": "2026-09-25T11:53:41.000Z"
+      },
+      {
+        "title": "Armenia exports aluminium foil to Azerbaijan in historic first",
+        "source": "OC Media",
+        "url": "https://oc-media.org/armenia-exports-aluminium-foil-to-azerbaijan-in-historic-first/",
+        "publishedAt": "2026-09-24T13:21:11.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nArmenia exported aluminium foil to Azerbaijan in a historic first. [5]\n\nKEY RISKS\nArmenia's link to 13 US OFAC and Canada SEMA sanctions designations may complicate its economic engagements with foreign partners. [E2]",
+      "generatedAt": "2026-09-28T04:58:22.780Z",
+      "sources": [
+        {
+          "title": "Armenian and Azerbaijan agree to ‘promote positive agenda’ amid tension",
+          "source": "OC Media",
+          "url": "https://oc-media.org/armenian-and-azerbaijan-agree-to-promote-positive-agenda-amid-tension/",
+          "publishedAt": "2026-09-25T13:16:10.000Z"
+        },
+        {
+          "title": "Top stories in Azerbaijan, Armenia, and Georgia from 23-25 September, 2026",
+          "source": "JAMnews",
+          "url": "https://jam-news.net/news-in-azerbaijan-armenia-and-georgia-23-25-september-2026/",
+          "publishedAt": "2026-09-25T04:25:00.000Z"
+        },
+        {
+          "title": "Lithuania to let Belarusians apply for residence permits in Armenia, Georgia",
+          "source": "LRT English",
+          "url": "https://www.lrt.lt/en/news-in-english/19/3062383/lithuania-to-let-belarusians-apply-for-residence-permits-in-armenia-georgia",
+          "publishedAt": "2026-09-24T14:40:00.000Z"
+        },
+        {
+          "title": "Simonyan suggests some see Russia’s Gyumri base as having been a threat to Armenia",
+          "source": "OC Media",
+          "url": "https://oc-media.org/simonyan-suggests-some-see-russias-gyumri-base-as-having-been-a-threat-to-armenia/",
+          "publishedAt": "2026-09-25T11:53:41.000Z"
+        },
+        {
+          "title": "Armenia exports aluminium foil to Azerbaijan in historic first",
+          "source": "OC Media",
+          "url": "https://oc-media.org/armenia-exports-aluminium-foil-to-azerbaijan-in-historic-first/",
+          "publishedAt": "2026-09-24T13:21:11.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "13",
+          "factText": "Armenia is linked to 13 US OFAC and Canada SEMA sanctions designations, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T00:01:35.739Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

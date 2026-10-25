@@ -1,0 +1,136 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "MA",
+  "countryName": "Morocco",
+  "slug": "morocco",
+  "rank": 102,
+  "overallScore": 50.7,
+  "dimensionCoverage": 0.84,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Morocco’s Authenticity and Modernity Party wins parliamentary election",
+        "source": "France 24 Africa",
+        "url": "https://www.france24.com/en/morocco-s-authenticity-and-modernity-party-wins-parliamentary-election",
+        "publishedAt": "2026-09-26T09:38:30.000Z"
+      },
+      {
+        "title": "Morocco Open Ticket Sales for October Friendly Against Ghana",
+        "source": "moroccoworldnews.com",
+        "url": "https://www.moroccoworldnews.com/2026/09/340009/morocco-open-ticket-sales-for-october-friendly-against-ghana/",
+        "publishedAt": "2026-09-27T23:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Nayef Aguerd Misses Morocco's Trip to South Africa",
+        "source": "moroccoworldnews.com",
+        "url": "https://www.moroccoworldnews.com/2026/09/340032/nayef-aguerd-misses-moroccos-trip-to-south-africa/",
+        "publishedAt": "2026-09-27T23:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "King Mohammed VI: Any attack on KSA is an attack on Morocco",
+        "source": "arynews.tv",
+        "url": "https://arynews.tv/king-mohammed-vi-says-any-attack-on-saudi-arabia-is-an-attack-on-morocco",
+        "publishedAt": "2026-09-27T20:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Mazraoui's Morocco Performance Sparks Debate Among Manchester United Fans",
+        "source": "moroccoworldnews.com",
+        "url": "https://www.moroccoworldnews.com/2026/09/339967/mazraouis-morocco-performance-sparks-debate-among-manchester-united-fans/",
+        "publishedAt": "2026-09-27T18:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nMorocco's Authenticity and Modernity Party wins parliamentary election. [1]\nKing Mohammed VI stated that any attack on KSA is an attack on Morocco. [4]\n\nWHAT THIS MEANS FOR MOROCCO\nThe election win by the Authenticity and Modernity Party may affect Morocco's energy policy given the country's net energy import dependency of 94%. [1][E3]\n\nKEY RISKS\nMorocco's 94% net energy import dependency exposes it to supply disruptions at the Strait of Gibraltar chokepoint. [E3][E4]\nMorocco is linked to 2 US OFAC and Canada SEMA sanctions designations, which could affect international transactions. [E2]\n\nWATCH ITEMS\nThe outcome of the Polymarket market on whether Aziz Akhannouch will be out as Morocco Prime Minister by December 31, 2026 remains unresolved. [E5]",
+      "generatedAt": "2026-09-28T05:04:09.998Z",
+      "sources": [
+        {
+          "title": "Morocco’s Authenticity and Modernity Party wins parliamentary election",
+          "source": "France 24 Africa",
+          "url": "https://www.france24.com/en/morocco-s-authenticity-and-modernity-party-wins-parliamentary-election",
+          "publishedAt": "2026-09-26T09:38:30.000Z"
+        },
+        {
+          "title": "Morocco Open Ticket Sales for October Friendly Against Ghana",
+          "source": "moroccoworldnews.com",
+          "url": "https://www.moroccoworldnews.com/2026/09/340009/morocco-open-ticket-sales-for-october-friendly-against-ghana/",
+          "publishedAt": "2026-09-27T23:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Nayef Aguerd Misses Morocco's Trip to South Africa",
+          "source": "moroccoworldnews.com",
+          "url": "https://www.moroccoworldnews.com/2026/09/340032/nayef-aguerd-misses-moroccos-trip-to-south-africa/",
+          "publishedAt": "2026-09-27T23:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "King Mohammed VI: Any attack on KSA is an attack on Morocco",
+          "source": "arynews.tv",
+          "url": "https://arynews.tv/king-mohammed-vi-says-any-attack-on-saudi-arabia-is-an-attack-on-morocco",
+          "publishedAt": "2026-09-27T20:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Mazraoui's Morocco Performance Sparks Debate Among Manchester United Fans",
+          "source": "moroccoworldnews.com",
+          "url": "https://www.moroccoworldnews.com/2026/09/339967/mazraouis-morocco-performance-sparks-debate-among-manchester-united-fans/",
+          "publishedAt": "2026-09-27T18:45:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "2",
+          "factText": "Morocco is linked to 2 US OFAC and Canada SEMA sanctions designations, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T00:01:35.739Z"
+        },
+        {
+          "id": "E3",
+          "kind": "energy",
+          "label": "Net energy import dependency",
+          "value": "94%",
+          "factText": "Morocco has a net energy import dependency of 94% (World Bank Open Data, 2023).",
+          "asOf": "2023-12-31T00:00:00.000Z"
+        },
+        {
+          "id": "E4",
+          "kind": "chokepoint",
+          "label": "Chokepoint tracker",
+          "value": "Strait of Gibraltar",
+          "factText": "Strait of Gibraltar is a shipping chokepoint World Monitor tracks for Morocco.",
+          "asOf": "2026-09-28T05:04:06.392Z",
+          "url": "https://www.worldmonitor.app/chokepoints/strait-of-gibraltar/"
+        },
+        {
+          "id": "E5",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "91%",
+          "factText": "A Polymarket market related to Morocco, \"Aziz Akhannouch out as Morocco Prime Minister by December 31, 2026?\", priced Yes at 91% on Sep 28, 2026; it closes Jan 1, 2027.",
+          "asOf": "2026-09-28T05:00:34.359Z",
+          "url": "https://polymarket.com/event/aziz-akhannouch-out-as-morocco-prime-minister-by-december-31-2026"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

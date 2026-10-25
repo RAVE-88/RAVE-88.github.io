@@ -1,0 +1,209 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "UA",
+  "countryName": "Ukraine",
+  "slug": "ukraine",
+  "rank": 128,
+  "overallScore": 44.9,
+  "dimensionCoverage": 0.81,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Russian and German FMs Meet for First Time Since Ukraine Invasion",
+        "source": "Moscow Times",
+        "url": "https://www.themoscowtimes.com/2026/09/26/russian-and-german-fms-meet-for-first-time-since-ukraine-invasion-a93799",
+        "publishedAt": "2026-09-26T16:59:15.000Z"
+      },
+      {
+        "title": "Ukraine strikes Russian defense plant producing missile components, General Staff says - The Kyiv Independent",
+        "source": "Kyiv Independent",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZFpTbnowc2ZRUUZzSkF5XzJFUUxiX0RRblZJTGE0ZG9hR1k2b3lyNTZ5dUcwc3dtTmxvNG5FUXVNejVWNmhBYXhOSTBfUG8ya0gyWDNOM2t1NHdwUi0xb2std0pDTlRPVWwzLXdPWnBUTllCbWFRUjNmQkhQMnNpU3VmYTBQanhGc1VqWGFtRlI5LWdVRzlEVmF4UWNma3p1R2NCMW0yY295cHY3eEFFNVdES3E?oc=5",
+        "publishedAt": "2026-09-27T22:14:30.000Z"
+      },
+      {
+        "title": "Russian attacks kill eight in Ukraine after Moscow vows to continue war",
+        "source": "France 24",
+        "url": "https://www.france24.com/en/europe/20260927-russian-strikes-kill-eight-ukraine-war-moscow",
+        "publishedAt": "2026-09-27T21:55:28.000Z"
+      },
+      {
+        "title": "Russia holds 2,000 people hostage in Oleshky without food or water—Ukraine flew 4,000 kg of food to locals across the Dnipro - Euromaidan Press",
+        "source": "Ukrainska Pravda EN",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZklCS253dGdxVUdlQlhjaTJ5QXM2NDZraDJPbHBnQ2ZJdEoxbV8zNG13TUdHcmgxM2NfZ2pha0FKa3hFR2FRLXpwOWlRcW9nTWVvMDFEQnVxZHROYXB6QWlxSURoNzU5NXRkcFVQOGRlbWtma015dFNDVEVDSHI4eEdUQnBoLTl5X3M1LTdlYnR3R2lPNldFZVBwazdWWG55RWZPN1lJaVBUejdGUG5ocXZyV2RhRS1JdFBhcmtEY3JDcTJFYVF6VFZHal96NXN3bDB2TXdVaEItQkh1VDJxMVBzYnZBemYzZFdpdXJzUk1td0Ru?oc=5",
+        "publishedAt": "2026-09-27T20:03:36.000Z"
+      },
+      {
+        "title": "Russia loses 1,690 troops in war against Ukraine over past day - Ukrinform",
+        "source": "Ukrinform",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNXNHSjRwV3RRU21PYmEwSWJEX3Iyc3hEQnliSUxydWlUbXJfREk3RVQ0ZXhvSkFXM2g0RjZtZ3dfOFhpb1lYbWJ1Nm0ycTlZbVZLbU5UUk9PM0VXNl9wcnN5d2doRkJRYlFvMGh1WndqeUdnTWxBM1N5cUZ0aGVORTFZOGNmcFU1cVJudlVxSks2N09MX05YbVJZNjZXUG13TkxSQ1BNekl5WE11RVHSAbMBQVVfeXFMT1Z1aDg2NE9VYmpQamptWjJ2dVEwb29iYVNDZDBmRW0tV1NDTGUxcE9hR3VzdmREaW5zcm92WGFRWk5ENGZZYkI2aWI4MkQyMTVoZi1rODJpcVoxeTcxUHV1enV2c0U0UzlOMXhoTk9mVkpiQW5iaHA3Q3lJaUhEREJPekY4cFAtdFNJazBtVGZVamsySFYxOE1FSFNPS0hBZnVGbVI4VVBBakZDb1V0eFltcEU?oc=5",
+        "publishedAt": "2026-09-27T05:19:00.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nRussian attacks killed eight people in Ukraine after Moscow vowed to continue the war. [3]\nUkraine struck a Russian defense plant producing missile components, according to the General Staff. [2]\n\nWHAT THIS MEANS FOR UKRAINE\nUkraine's ability to strike Russian defense infrastructure is critical given its Country Instability Index score of 93 of 100, in the Critical band. [2][E1]\n\nKEY RISKS\nUkraine's net energy import dependency of 34% poses a risk if the Kerch Strait chokepoint is disrupted by conflict. [E4][E5]\nThe 250 US OFAC and Canada SEMA sanctions designations linked to Ukraine indicate a risk of continued economic restrictions. [E3]\n\nOUTLOOK\nA Polymarket market on Russia-Ukraine peace talks by October 15, 2026 is priced Yes at 26% as of Sep 28, 2026, closing Oct 15, 2026. [E6]\nA Polymarket market on any aircraft landing or taking off at Kyiv Boryspil Airport by December 31 is priced Yes at 11% as of Sep 28, 2026, closing Dec 31, 2026. [E9]\n\nWATCH ITEMS\nWhether the first meeting between Russian and German foreign ministers since the invasion leads to any diplomatic shift. [1]\nWhether the 2,000 people held hostage in Oleshky receive food or water after Ukraine flew 4,000 kg of food across the Dnipro. [4]",
+      "generatedAt": "2026-09-28T05:07:24.073Z",
+      "sources": [
+        {
+          "title": "Russian and German FMs Meet for First Time Since Ukraine Invasion",
+          "source": "Moscow Times",
+          "url": "https://www.themoscowtimes.com/2026/09/26/russian-and-german-fms-meet-for-first-time-since-ukraine-invasion-a93799",
+          "publishedAt": "2026-09-26T16:59:15.000Z"
+        },
+        {
+          "title": "Ukraine strikes Russian defense plant producing missile components, General Staff says - The Kyiv Independent",
+          "source": "Kyiv Independent",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZFpTbnowc2ZRUUZzSkF5XzJFUUxiX0RRblZJTGE0ZG9hR1k2b3lyNTZ5dUcwc3dtTmxvNG5FUXVNejVWNmhBYXhOSTBfUG8ya0gyWDNOM2t1NHdwUi0xb2std0pDTlRPVWwzLXdPWnBUTllCbWFRUjNmQkhQMnNpU3VmYTBQanhGc1VqWGFtRlI5LWdVRzlEVmF4UWNma3p1R2NCMW0yY295cHY3eEFFNVdES3E?oc=5",
+          "publishedAt": "2026-09-27T22:14:30.000Z"
+        },
+        {
+          "title": "Russian attacks kill eight in Ukraine after Moscow vows to continue war",
+          "source": "France 24",
+          "url": "https://www.france24.com/en/europe/20260927-russian-strikes-kill-eight-ukraine-war-moscow",
+          "publishedAt": "2026-09-27T21:55:28.000Z"
+        },
+        {
+          "title": "Russia holds 2,000 people hostage in Oleshky without food or water—Ukraine flew 4,000 kg of food to locals across the Dnipro - Euromaidan Press",
+          "source": "Ukrainska Pravda EN",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZklCS253dGdxVUdlQlhjaTJ5QXM2NDZraDJPbHBnQ2ZJdEoxbV8zNG13TUdHcmgxM2NfZ2pha0FKa3hFR2FRLXpwOWlRcW9nTWVvMDFEQnVxZHROYXB6QWlxSURoNzU5NXRkcFVQOGRlbWtma015dFNDVEVDSHI4eEdUQnBoLTl5X3M1LTdlYnR3R2lPNldFZVBwazdWWG55RWZPN1lJaVBUejdGUG5ocXZyV2RhRS1JdFBhcmtEY3JDcTJFYVF6VFZHal96NXN3bDB2TXdVaEItQkh1VDJxMVBzYnZBemYzZFdpdXJzUk1td0Ru?oc=5",
+          "publishedAt": "2026-09-27T20:03:36.000Z"
+        },
+        {
+          "title": "Russia loses 1,690 troops in war against Ukraine over past day - Ukrinform",
+          "source": "Ukrinform",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNXNHSjRwV3RRU21PYmEwSWJEX3Iyc3hEQnliSUxydWlUbXJfREk3RVQ0ZXhvSkFXM2g0RjZtZ3dfOFhpb1lYbWJ1Nm0ycTlZbVZLbU5UUk9PM0VXNl9wcnN5d2doRkJRYlFvMGh1WndqeUdnTWxBM1N5cUZ0aGVORTFZOGNmcFU1cVJudlVxSks2N09MX05YbVJZNjZXUG13TkxSQ1BNekl5WE11RVHSAbMBQVVfeXFMT1Z1aDg2NE9VYmpQamptWjJ2dVEwb29iYVNDZDBmRW0tV1NDTGUxcE9hR3VzdmREaW5zcm92WGFRWk5ENGZZYkI2aWI4MkQyMTVoZi1rODJpcVoxeTcxUHV1enV2c0U0UzlOMXhoTk9mVkpiQW5iaHA3Q3lJaUhEREJPekY4cFAtdFNJazBtVGZVamsySFYxOE1FSFNPS0hBZnVGbVI4VVBBakZDb1V0eFltcEU?oc=5",
+          "publishedAt": "2026-09-27T05:19:00.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "cii",
+          "label": "Country Instability Index",
+          "value": "93 of 100 (Critical)",
+          "factText": "Ukraine has a Country Instability Index score of 93 of 100, in the Critical band, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T05:01:53.862Z"
+        },
+        {
+          "id": "E3",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "250",
+          "factText": "Ukraine is linked to 250 US OFAC and Canada SEMA sanctions designations, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T00:01:35.739Z"
+        },
+        {
+          "id": "E4",
+          "kind": "energy",
+          "label": "Net energy import dependency",
+          "value": "34%",
+          "factText": "Ukraine has a net energy import dependency of 34% (Eurostat, 2020).",
+          "asOf": "2020-12-31T00:00:00.000Z"
+        },
+        {
+          "id": "E5",
+          "kind": "chokepoint",
+          "label": "Chokepoint tracker",
+          "value": "Kerch Strait",
+          "factText": "Kerch Strait is a shipping chokepoint World Monitor tracks for Ukraine.",
+          "asOf": "2026-09-28T05:07:20.628Z",
+          "url": "https://www.worldmonitor.app/chokepoints/kerch-strait/"
+        },
+        {
+          "id": "E6",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "26%",
+          "factText": "A Polymarket market related to Ukraine, \"Russia-Ukraine peace talks by October 15, 2026?\", priced Yes at 26% on Sep 28, 2026; it closes Oct 15, 2026.",
+          "asOf": "2026-09-28T05:00:34.359Z",
+          "url": "https://polymarket.com/event/russia-x-ukraine-peace-talks-byptptpt-20260609012540716"
+        },
+        {
+          "id": "E9",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "11%",
+          "factText": "A Polymarket market related to Ukraine, \"Will any aircraft land or take off at Kyiv Boryspil Airport by December 31?\", priced Yes at 11% on Sep 28, 2026; it closes Dec 31, 2026.",
+          "asOf": "2026-09-28T05:00:34.359Z",
+          "url": "https://polymarket.com/event/will-any-aircraft-land-or-take-off-at-kyiv-boryspil-airport-by"
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "title": "GDELT 190 — in Ukraine",
+        "summary": "source: www.koreaherald.com",
+        "sourceUrl": "https://www.koreaherald.com/article/10886191",
+        "occurredAt": "2026-09-28T04:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 194 — in Ukraine",
+        "summary": "source: www.newindianexpress.com",
+        "sourceUrl": "https://www.newindianexpress.com/world/2026/Sep/28/russian-strikes-kill-eight-in-ukraine-including-children",
+        "occurredAt": "2026-09-28T04:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Ukraine",
+        "summary": "source: en.apa.az",
+        "sourceUrl": "https://en.apa.az/europe/two-killed-around-10-injured-in-drone-strike-on-kyiv-region-market-526772",
+        "occurredAt": "2026-09-28T04:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Ukraine",
+        "summary": "source: japantoday.com",
+        "sourceUrl": "https://japantoday.com/category/world/russian-attacks-kills-three-in-ukrainian-cities-nine-injured-in-kyiv-strikes-officials-say",
+        "occurredAt": "2026-09-28T02:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Ukraine",
+        "summary": "source: www.theguardian.com",
+        "sourceUrl": "https://www.theguardian.com/world/2026/sep/28/ukraine-war-briefing-zelenskyy-moscow-terrorising-kyiv-latest-strikes",
+        "occurredAt": "2026-09-28T01:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Ukraine",
+        "summary": "source: www.al-monitor.com",
+        "sourceUrl": "https://www.al-monitor.com/originals/2026/09/russian-drones-kill-two-market-outside-kyiv-three-others-different-regions",
+        "occurredAt": "2026-09-28T01:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Ukraine",
+        "summary": "source: www.worthynews.com",
+        "sourceUrl": "https://www.worthynews.com/117794-hungary-ukraine-face-diplomatic-tensions-worthy-news-analysis",
+        "occurredAt": "2026-09-28T01:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Ukraine",
+        "summary": "source: www.scmp.com",
+        "sourceUrl": "https://www.scmp.com/news/world/russia-central-asia/article/3368982/russian-drones-kill-2-market-outside-kyiv-3-others-different-regions-officials-say",
+        "occurredAt": "2026-09-28T00:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Ukraine",
+        "summary": "source: www.scmp.com",
+        "sourceUrl": "https://www.scmp.com/news/world/russia-central-asia/article/3368982/russian-drones-kill-2-market-outside-kyiv-3-others-different-regions-officials-say",
+        "occurredAt": "2026-09-28T00:45:00.000Z",
+        "domain": "conflict"
+      }
+    ],
+    "timelineStatus": "partial",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

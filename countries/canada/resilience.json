@@ -1,0 +1,111 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "CA",
+  "countryName": "Canada",
+  "slug": "canada",
+  "rank": 47,
+  "overallScore": 59.4,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "LNG Canada joint venture could approve Phase 2 capacity-doubling expansion by early October - Energies Media",
+        "source": "Natural Gas News",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBvajNCcTFTVzJpd2xOVnotWGNXRFdzUVB2dElCZzdESkVVSENZb1dPTzNvcHhHYjlRa3ZaaG9xNHpmckYwTExSd3JwelJYNVIxbW9fRTlyalIwaURPTHpFSFpCNjhHUQ?oc=5",
+        "publishedAt": "2026-09-28T02:10:42.000Z"
+      },
+      {
+        "title": "Canada urges stronger partnerships as global order faces ‘rupture’",
+        "source": "UN News",
+        "url": "https://news.un.org/feed/view/en/story/2026/09/1168461",
+        "publishedAt": "2026-09-26T12:00:00.000Z"
+      },
+      {
+        "title": "United States Seeks Mexico’s Review of Alleged Denial of Workers’ Rights at Yokohama Tire Manufacturing Mexico, S.A. de C.V.",
+        "source": "U.S. Trade Representative",
+        "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/september/united-states-seeks-mexicos-review-alleged-denial-workers-rights-yokohama-tire-manufacturing-mexico",
+        "publishedAt": "2026-09-25T20:00:27.000Z"
+      },
+      {
+        "title": "Gold Price Canada Today | Live Gold Price in CAD - Kitco",
+        "source": "Kitco News",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVMHM0YXN3UkRUdlVZXzdrUjJmSHh5eFZ6Q0pSOVhYV1pLU0VzSXNhWGRVREpJbm9uX3pvSkZsMDNVRmg4a3JPYXlTY2N3OEF5Wm00MA?oc=5",
+        "publishedAt": "2026-09-28T03:00:00.000Z"
+      },
+      {
+        "title": "Silver Price Canada Today | Live Silver Price in CAD - Kitco",
+        "source": "Kitco News",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1MZDRUVzg4QjdZWjNaT29QYlRYZWFTNjdBZjBSRy1jZ3ZtSW1EVXBzMk0zOE55ZGtCam1JZ3RkbnJFaWY1OHVmRk9xVVgzVEJoZEZZOVFEMA?oc=5",
+        "publishedAt": "2026-09-28T03:00:00.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nLNG Canada joint venture could approve Phase 2 capacity-doubling expansion by early October. [1]\nCanada urges stronger partnerships as global order faces 'rupture'. [2]\n\nWHAT THIS MEANS FOR CANADA\nCanada's call for stronger partnerships amid global 'rupture' is underscored by its link to 41 US OFAC and Canada SEMA sanctions designations. [2][E2]\n\nKEY RISKS\nCanada's link to 41 US OFAC and Canada SEMA sanctions designations could create diplomatic or economic friction. [E2]\n\nWATCH ITEMS\nWhether the LNG Canada joint venture will approve Phase 2 capacity-doubling expansion by early October. [1]\nWhether the US-Canada diplomatic agreement to lower tariffs by October 31 will materialize, given the 18% market price. [E6]",
+      "generatedAt": "2026-09-28T04:59:22.182Z",
+      "sources": [
+        {
+          "title": "LNG Canada joint venture could approve Phase 2 capacity-doubling expansion by early October - Energies Media",
+          "source": "Natural Gas News",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBvajNCcTFTVzJpd2xOVnotWGNXRFdzUVB2dElCZzdESkVVSENZb1dPTzNvcHhHYjlRa3ZaaG9xNHpmckYwTExSd3JwelJYNVIxbW9fRTlyalIwaURPTHpFSFpCNjhHUQ?oc=5",
+          "publishedAt": "2026-09-28T02:10:42.000Z"
+        },
+        {
+          "title": "Canada urges stronger partnerships as global order faces ‘rupture’",
+          "source": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168461",
+          "publishedAt": "2026-09-26T12:00:00.000Z"
+        },
+        {
+          "title": "United States Seeks Mexico’s Review of Alleged Denial of Workers’ Rights at Yokohama Tire Manufacturing Mexico, S.A. de C.V.",
+          "source": "U.S. Trade Representative",
+          "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/september/united-states-seeks-mexicos-review-alleged-denial-workers-rights-yokohama-tire-manufacturing-mexico",
+          "publishedAt": "2026-09-25T20:00:27.000Z"
+        },
+        {
+          "title": "Gold Price Canada Today | Live Gold Price in CAD - Kitco",
+          "source": "Kitco News",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVMHM0YXN3UkRUdlVZXzdrUjJmSHh5eFZ6Q0pSOVhYV1pLU0VzSXNhWGRVREpJbm9uX3pvSkZsMDNVRmg4a3JPYXlTY2N3OEF5Wm00MA?oc=5",
+          "publishedAt": "2026-09-28T03:00:00.000Z"
+        },
+        {
+          "title": "Silver Price Canada Today | Live Silver Price in CAD - Kitco",
+          "source": "Kitco News",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1MZDRUVzg4QjdZWjNaT29QYlRYZWFTNjdBZjBSRy1jZ3ZtSW1EVXBzMk0zOE55ZGtCam1JZ3RkbnJFaWY1OHVmRk9xVVgzVEJoZEZZOVFEMA?oc=5",
+          "publishedAt": "2026-09-28T03:00:00.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "41",
+          "factText": "Canada is linked to 41 US OFAC and Canada SEMA sanctions designations, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T00:01:35.739Z"
+        },
+        {
+          "id": "E6",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "18%",
+          "factText": "A Polymarket market related to Canada, \"US-Canada diplomatic agreement to lower tariffs by October 31?\", priced Yes at 18% on Sep 28, 2026; it closes Nov 1, 2026.",
+          "asOf": "2026-09-28T04:51:12.326Z",
+          "url": "https://polymarket.com/event/us-canada-diplomatic-agreement-to-lower-tariffs-by-august-31"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

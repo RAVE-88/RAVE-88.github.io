@@ -1,0 +1,144 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "IN",
+  "countryName": "India",
+  "slug": "india",
+  "rank": 106,
+  "overallScore": 50,
+  "dimensionCoverage": 0.81,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Floods, landslides kill 56 in India and 14 in Nepal - reuters.com",
+        "source": "Reuters India",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSDl0UzBQZFNRMUNTNWZpRnNkVVVILXI5Vk5RRmV1bk5UeURhMWZWbjZkVklUVktUWGlsdmFORXVIQ0pDLWFfRWlxeGhtUl81Y1BlQ21XVThzX2hUSHVualNRdFdHZFIwbk5EaDBkUlBMN3hkV0ljMVJxVklMMHhXaEpwalNGZUVzVi03QnNFaFNuMTVTVHhtaWpoWnJXWFM2YUEwNWRMVS10RXk0VTZlUQ?oc=5",
+        "publishedAt": "2026-09-27T18:43:58.000Z"
+      },
+      {
+        "title": "India's Assetgro FinTech Files For IPO Via Confidential Route - Filing - TradingView",
+        "source": "Fintech News",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYXFJdWwydHNhUmhnOXY1aDZOVTVUMVI4YVpiRXE3YmNkaFpGVUdHUGgyNEtpV0J3M1p0cElCTlVXdEdxdXZVRF80N3p2OEQ5ZUJKWDJtdFN4ZWZmVEQ1dHlteVczZ1dvQ09nRlBEdlJaX0ZYSENsQ09tUWpQZFMwVHFXbV9iQzZEOXVoYzJIT05CZ25CS2R3QUhaOFdPYVdlZjAwQ0Y5S2U3TkJUdWNQZzlBaWhUd2RoQzFQS29DeVBlcDhXa19qOXRJb05lcWZZSWExcw?oc=5",
+        "publishedAt": "2026-09-27T22:12:56.000Z"
+      },
+      {
+        "title": "Countries far from conflict paying the price for wars not their own, India tells UN",
+        "source": "UN News",
+        "url": "https://news.un.org/feed/view/en/story/2026/09/1168460",
+        "publishedAt": "2026-09-26T12:00:00.000Z"
+      },
+      {
+        "title": "Who’s investing in India’s biotech startups?",
+        "source": "Tech in Asia",
+        "url": "https://www.techinasia.com/whos-investing-indias-biotech-startups",
+        "publishedAt": "2026-09-28T02:00:00.000Z"
+      },
+      {
+        "title": "The India shock: exporting workers to the world",
+        "source": "Financial Times",
+        "url": "https://www.ft.com/content/afb910e4-5425-4d3e-b0ef-c1d260f29945?syn-25a6b1a6=1",
+        "publishedAt": "2026-09-27T11:00:02.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nFloods and landslides have killed 56 people in India and 14 in Nepal. [1]\nIndia's Assetgro FinTech has filed for an IPO via a confidential route. [2]\n\nWHAT THIS MEANS FOR INDIA\nThe floods and landslides in India, combined with a Country Instability Index score of 50, indicate a normal but vulnerable stability level. [1][E1]\nIndia's net energy import dependency of 36% underscores its vulnerability to global energy price shocks, even as it voices concerns at the UN about paying for distant conflicts. [3][E4]\n\nKEY RISKS\nIndia's link to 176 US OFAC and Canada SEMA sanctions designations exposes it to secondary sanctions risks. [E3]\nThe most severe government travel advisory for India is Exercise Increased Caution, reflecting a risk to travelers and business operations. [E2]\n\nOUTLOOK\nA Polymarket market on the Reserve Bank of India making no change to the policy repo rate at the October meeting is priced at 17% as of Sep 28, 2026, closing Oct 7, 2026. [E5]\nA Polymarket market on India striking Pakistan by December 31, 2026 is priced at 13% as of Sep 28, 2026, closing Jan 1, 2027. [E6]\n\nWATCH ITEMS\nThe outcome of Assetgro FinTech's confidential IPO filing remains unresolved. [2]\nIt is unclear whether the Reserve Bank of India will change the policy repo rate at the October meeting. [E5]",
+      "generatedAt": "2026-09-28T05:02:37.393Z",
+      "sources": [
+        {
+          "title": "Floods, landslides kill 56 in India and 14 in Nepal - reuters.com",
+          "source": "Reuters India",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSDl0UzBQZFNRMUNTNWZpRnNkVVVILXI5Vk5RRmV1bk5UeURhMWZWbjZkVklUVktUWGlsdmFORXVIQ0pDLWFfRWlxeGhtUl81Y1BlQ21XVThzX2hUSHVualNRdFdHZFIwbk5EaDBkUlBMN3hkV0ljMVJxVklMMHhXaEpwalNGZUVzVi03QnNFaFNuMTVTVHhtaWpoWnJXWFM2YUEwNWRMVS10RXk0VTZlUQ?oc=5",
+          "publishedAt": "2026-09-27T18:43:58.000Z"
+        },
+        {
+          "title": "India's Assetgro FinTech Files For IPO Via Confidential Route - Filing - TradingView",
+          "source": "Fintech News",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYXFJdWwydHNhUmhnOXY1aDZOVTVUMVI4YVpiRXE3YmNkaFpGVUdHUGgyNEtpV0J3M1p0cElCTlVXdEdxdXZVRF80N3p2OEQ5ZUJKWDJtdFN4ZWZmVEQ1dHlteVczZ1dvQ09nRlBEdlJaX0ZYSENsQ09tUWpQZFMwVHFXbV9iQzZEOXVoYzJIT05CZ25CS2R3QUhaOFdPYVdlZjAwQ0Y5S2U3TkJUdWNQZzlBaWhUd2RoQzFQS29DeVBlcDhXa19qOXRJb05lcWZZSWExcw?oc=5",
+          "publishedAt": "2026-09-27T22:12:56.000Z"
+        },
+        {
+          "title": "Countries far from conflict paying the price for wars not their own, India tells UN",
+          "source": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168460",
+          "publishedAt": "2026-09-26T12:00:00.000Z"
+        },
+        {
+          "title": "Who’s investing in India’s biotech startups?",
+          "source": "Tech in Asia",
+          "url": "https://www.techinasia.com/whos-investing-indias-biotech-startups",
+          "publishedAt": "2026-09-28T02:00:00.000Z"
+        },
+        {
+          "title": "The India shock: exporting workers to the world",
+          "source": "Financial Times",
+          "url": "https://www.ft.com/content/afb910e4-5425-4d3e-b0ef-c1d260f29945?syn-25a6b1a6=1",
+          "publishedAt": "2026-09-27T11:00:02.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "cii",
+          "label": "Country Instability Index",
+          "value": "50 of 100 (Normal)",
+          "factText": "India has a Country Instability Index score of 50 of 100, in the Normal band, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T05:01:53.862Z"
+        },
+        {
+          "id": "E2",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Exercise Increased Caution",
+          "factText": "The most severe government travel advisory World Monitor tracks for India is Exercise Increased Caution, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T04:03:15.792Z"
+        },
+        {
+          "id": "E3",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "176",
+          "factText": "India is linked to 176 US OFAC and Canada SEMA sanctions designations, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T00:01:35.739Z"
+        },
+        {
+          "id": "E4",
+          "kind": "energy",
+          "label": "Net energy import dependency",
+          "value": "36%",
+          "factText": "India has a net energy import dependency of 36% (World Bank Open Data, 2023).",
+          "asOf": "2023-12-31T00:00:00.000Z"
+        },
+        {
+          "id": "E5",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "17%",
+          "factText": "A Polymarket market related to India, \"Will the Reserve Bank of India make no change to the policy repo rate at the October meeting?\", priced Yes at 17% on Sep 28, 2026; it closes Oct 7, 2026.",
+          "asOf": "2026-09-28T05:00:34.359Z",
+          "url": "https://polymarket.com/event/reserve-bank-of-india-decision-in-october-20260908161500001"
+        },
+        {
+          "id": "E6",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "13%",
+          "factText": "A Polymarket market related to India, \"Will India strike Pakistan by December 31, 2026?\", priced Yes at 13% on Sep 28, 2026; it closes Jan 1, 2027.",
+          "asOf": "2026-09-28T05:00:34.359Z",
+          "url": "https://polymarket.com/event/india-strike-on-pakistan-by"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

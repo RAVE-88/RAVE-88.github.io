@@ -1,0 +1,118 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "BE",
+  "countryName": "Belgium",
+  "slug": "belgium",
+  "rank": 45,
+  "overallScore": 59.6,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Papuashvili Heads to Belgium, Luxembourg for Meetings at Local Legislatures",
+        "source": "Civil.ge",
+        "url": "https://civil.ge/archives/752102",
+        "publishedAt": "2026-09-24T14:30:00.000Z"
+      },
+      {
+        "title": "Animal Science teacher leads agriculture tour in Belgium and the Netherlands",
+        "source": "lockportjournal.com",
+        "url": "https://www.lockportjournal.com/community/animal-science-teacher-leads-agriculture-tour-in-belgium-and-the-netherlands/article_bc22c6e0-9fa8-5f89-b2dc-c92a0bcc1a78.html",
+        "publishedAt": "2026-09-27T17:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Belgium's Laughing Gas Problem Is No Joke: Nitrous Oxide Fuels Nightlife, Crime and Waste Management Crisis",
+        "source": "ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/belgium-nitrous-oxide-ban-organised-crime-waste-1875914",
+        "publishedAt": "2026-09-27T14:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Animal Science teacher leads agriculture tour in Belgium and the Netherlands",
+        "source": "niagara-gazette.com",
+        "url": "https://www.niagara-gazette.com/community/animal-science-teacher-leads-agriculture-tour-in-belgium-and-the-netherlands/article_4440a690-31bc-45f4-98bf-c27a024800f2.html",
+        "publishedAt": "2026-09-27T13:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Antifa militants assault professor during lecture in Belgium over his research into military AI",
+        "source": "humanevents.com",
+        "url": "https://humanevents.com/2026/09/26/antifa-militants-assault-professor-during-lecture-in-belgium-over-his-research-into-military-ai",
+        "publishedAt": "2026-09-27T02:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nAntifa militants assaulted a professor during a lecture in Belgium over his research into military AI. [5]\nBelgium's nitrous oxide use is fueling nightlife, crime, and a waste management crisis. [3]\n\nWHAT THIS MEANS FOR BELGIUM\nThe assault on a professor over military AI research may increase security concerns for academics in Belgium, as the country is linked to 40 US OFAC and Canada SEMA sanctions designations. [5][E2]\n\nKEY RISKS\nBelgium's 75% net energy import dependency exposes it to supply disruptions. [E3]",
+      "generatedAt": "2026-09-28T04:58:53.006Z",
+      "sources": [
+        {
+          "title": "Papuashvili Heads to Belgium, Luxembourg for Meetings at Local Legislatures",
+          "source": "Civil.ge",
+          "url": "https://civil.ge/archives/752102",
+          "publishedAt": "2026-09-24T14:30:00.000Z"
+        },
+        {
+          "title": "Animal Science teacher leads agriculture tour in Belgium and the Netherlands",
+          "source": "lockportjournal.com",
+          "url": "https://www.lockportjournal.com/community/animal-science-teacher-leads-agriculture-tour-in-belgium-and-the-netherlands/article_bc22c6e0-9fa8-5f89-b2dc-c92a0bcc1a78.html",
+          "publishedAt": "2026-09-27T17:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Belgium's Laughing Gas Problem Is No Joke: Nitrous Oxide Fuels Nightlife, Crime and Waste Management Crisis",
+          "source": "ibtimes.com.au",
+          "url": "https://www.ibtimes.com.au/belgium-nitrous-oxide-ban-organised-crime-waste-1875914",
+          "publishedAt": "2026-09-27T14:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Animal Science teacher leads agriculture tour in Belgium and the Netherlands",
+          "source": "niagara-gazette.com",
+          "url": "https://www.niagara-gazette.com/community/animal-science-teacher-leads-agriculture-tour-in-belgium-and-the-netherlands/article_4440a690-31bc-45f4-98bf-c27a024800f2.html",
+          "publishedAt": "2026-09-27T13:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Antifa militants assault professor during lecture in Belgium over his research into military AI",
+          "source": "humanevents.com",
+          "url": "https://humanevents.com/2026/09/26/antifa-militants-assault-professor-during-lecture-in-belgium-over-his-research-into-military-ai",
+          "publishedAt": "2026-09-27T02:00:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "40",
+          "factText": "Belgium is linked to 40 US OFAC and Canada SEMA sanctions designations, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T00:01:35.739Z"
+        },
+        {
+          "id": "E3",
+          "kind": "energy",
+          "label": "Net energy import dependency",
+          "value": "75%",
+          "factText": "Belgium has a net energy import dependency of 75% (Eurostat, 2024).",
+          "asOf": "2024-12-31T00:00:00.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

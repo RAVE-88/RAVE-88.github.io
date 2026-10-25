@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "NZ",
+  "countryName": "New Zealand",
+  "slug": "new-zealand",
+  "rank": 6,
+  "overallScore": 68.8,
+  "dimensionCoverage": 0.75,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "New Zealand fuel prices remain under pressure as oil stays high-Xinhua",
+        "source": "english.news.cn",
+        "url": "https://english.news.cn/20260928/b25b7288bdeb46f1b8d8737dccbe06e9/c.html",
+        "publishedAt": "2026-09-28T04:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "New Zealand looks undervalued in long-term outlook",
+        "source": "itbrief.co.nz",
+        "url": "https://itbrief.co.nz/story/new-zealand-looks-undervalued-in-long-term-outlook",
+        "publishedAt": "2026-09-28T04:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "BioTech New Zealand launches engineering biology group",
+        "source": "itbrief.co.nz",
+        "url": "https://itbrief.co.nz/story/biotech-new-zealand-launches-engineering-biology-group",
+        "publishedAt": "2026-09-28T03:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "GENERAL New Zealand names 2026 partner award winners",
+        "source": "itbrief.co.nz",
+        "url": "https://itbrief.co.nz/story/general-new-zealand-names-2026-partner-award-winners",
+        "publishedAt": "2026-09-28T03:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Coroner finds New Zealand's transport agency knew a State Highway 1 lane near Timaru was slippery before a fatal crash",
+        "source": "newswire.co.nz",
+        "url": "https://newswire.co.nz/2026/09/coroner-nzta-state-highway-1-timaru-pareora-fatal-crash/",
+        "publishedAt": "2026-09-28T00:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "SL",
+  "countryName": "Sierra Leone",
+  "slug": "sierra-leone",
+  "rank": 131,
+  "overallScore": 44.2,
+  "dimensionCoverage": 0.79,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "APO Group - Africa Newsroom / Press release | Communities Lead the Way in Establishing Safe Spaces for Women and Girls in Sierra Leone",
+        "source": "africa-newsroom.com",
+        "url": "https://www.africa-newsroom.com/press/communities-lead-the-way-in-establishing-safe-spaces-for-women-and-girls-in-sierra-leone",
+        "publishedAt": "2026-09-25T15:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "UN Secretary-General Commends President Julius Maada Bio's Leadership - Office of the President of Sierra Leone",
+        "source": "statehouse.gov.sl",
+        "url": "https://statehouse.gov.sl/2026/09/24/un-secretary-general-commends-president-julius-maada-bios-leadership/",
+        "publishedAt": "2026-09-25T00:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "From Dialogue to Action: AFJN Advances Accountability in Sierra Leone's Mining Sector",
+        "source": "afjn.org",
+        "url": "https://afjn.org/2026-9-24-sl/",
+        "publishedAt": "2026-09-24T21:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "UNGA81: Durable global peace impossible without African leadership – Sierra Leone president – Daily Trust",
+        "source": "dailytrust.com",
+        "url": "https://dailytrust.com/unga81-durable-global-peace-impossible-without-african-leadership-sierra-leone-president/",
+        "publishedAt": "2026-09-24T11:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Nigeria, Sierra Leone, Guinea-Bissau seek stronger laws, funding to tackle waste crisis",
+        "source": "tribuneonlineng.com",
+        "url": "https://tribuneonlineng.com/nigeria-sierra-leone-guinea-bissau-seek-stronger-laws-funding-to-tackle-waste-crisis/",
+        "publishedAt": "2026-09-24T00:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "SN",
+  "countryName": "Senegal",
+  "slug": "senegal",
+  "rank": 139,
+  "overallScore": 42.5,
+  "dimensionCoverage": 0.78,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Senegal: power cuts return as Dakar swelters in the heat",
+        "source": "France 24 Africa",
+        "url": "https://www.france24.com/en/senegal-power-cuts-return-as-dakar-swelters-in-the-heat",
+        "publishedAt": "2026-09-25T11:14:40.000Z"
+      },
+      {
+        "title": "Africa: Senegal's President Faye - Macky Sall Best Candidate 'To Fight for Africa' At UN",
+        "source": "allafrica.com",
+        "url": "https://allafrica.com/stories/202609270099.html",
+        "publishedAt": "2026-09-27T17:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Chinese navy hospital ship arrives in Senegal for medical mission",
+        "source": "globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/china/2026/09/china-260926-globaltimes01.htm",
+        "publishedAt": "2026-09-27T11:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Chinese navy hospital ship arrives in Senegal for medical mission",
+        "source": "globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/china/2026/09/china-260926-prc-mnd01.htm",
+        "publishedAt": "2026-09-27T11:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Bank Account in Senegal 2026: A Guide for Foreigners",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/bank-account-senegal-foreigners-2026/",
+        "publishedAt": "2026-09-26T14:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nSenegal is experiencing power cuts as Dakar swelters in the heat. [1]\nA Chinese navy hospital ship has arrived in Senegal for a medical mission. [3]\n\nWHAT THIS MEANS FOR SENEGAL\nThe return of power cuts during hot weather is particularly challenging for Senegal because the country has a net energy import dependency of 69%. [1][E3]\n\nKEY RISKS\nSenegal's net energy import dependency of 69% exposes it to risks from energy supply disruptions. [E3]\n\nWATCH ITEMS\nIt is unclear how Senegal's government will address the return of power cuts as the heat continues. [1]",
+      "generatedAt": "2026-09-28T05:06:37.442Z",
+      "sources": [
+        {
+          "title": "Senegal: power cuts return as Dakar swelters in the heat",
+          "source": "France 24 Africa",
+          "url": "https://www.france24.com/en/senegal-power-cuts-return-as-dakar-swelters-in-the-heat",
+          "publishedAt": "2026-09-25T11:14:40.000Z"
+        },
+        {
+          "title": "Africa: Senegal's President Faye - Macky Sall Best Candidate 'To Fight for Africa' At UN",
+          "source": "allafrica.com",
+          "url": "https://allafrica.com/stories/202609270099.html",
+          "publishedAt": "2026-09-27T17:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Chinese navy hospital ship arrives in Senegal for medical mission",
+          "source": "globalsecurity.org",
+          "url": "https://www.globalsecurity.org/wmd/library/news/china/2026/09/china-260926-globaltimes01.htm",
+          "publishedAt": "2026-09-27T11:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Chinese navy hospital ship arrives in Senegal for medical mission",
+          "source": "globalsecurity.org",
+          "url": "https://www.globalsecurity.org/wmd/library/news/china/2026/09/china-260926-prc-mnd01.htm",
+          "publishedAt": "2026-09-27T11:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Bank Account in Senegal 2026: A Guide for Foreigners",
+          "source": "riotimesonline.com",
+          "url": "https://www.riotimesonline.com/bank-account-senegal-foreigners-2026/",
+          "publishedAt": "2026-09-26T14:15:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E3",
+          "kind": "energy",
+          "label": "Net energy import dependency",
+          "value": "69%",
+          "factText": "Senegal has a net energy import dependency of 69% (World Bank Open Data, 2023).",
+          "asOf": "2023-12-31T00:00:00.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

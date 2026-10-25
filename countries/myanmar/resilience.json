@@ -1,0 +1,133 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "MM",
+  "countryName": "Myanmar",
+  "slug": "myanmar",
+  "rank": 140,
+  "overallScore": 42.2,
+  "dimensionCoverage": 0.74,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Pastor Fatally Shot By Myanmar Military Personnel - Worthy Christian News",
+        "source": "worthynews.com",
+        "url": "https://www.worthynews.com/117789-pastor-fatally-shot-by-myanmar-military-personnel",
+        "publishedAt": "2026-09-28T01:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "World Heart Day 2026 marked in central Myanmar-Xinhua",
+        "source": "english.news.cn",
+        "url": "https://english.news.cn/20260927/039696685be947d3ac22b983c3e64ecb/c.html",
+        "publishedAt": "2026-09-27T10:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "World Heart Day 2026 marked in central Myanmar-Xinhua",
+        "source": "english.news.cn",
+        "url": "https://english.news.cn/asiapacific/20260927/2eb12595e1e4453d9f8efb18509e4331/c.html",
+        "publishedAt": "2026-09-27T10:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Heavy rain, floods and landslides warned in Myanmar-Xinhua",
+        "source": "english.news.cn",
+        "url": "https://english.news.cn/asiapacific/20260927/37d3dacda6fe462586ef714c105cbcd0/c.html",
+        "publishedAt": "2026-09-27T06:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Captured Myanmar Soldiers Claim Commanders Ordered Mass Killing of Rakhine Civilians",
+        "source": "bnionline.net",
+        "url": "https://www.bnionline.net/en/news/captured-myanmar-soldiers-claim-commanders-ordered-mass-killing-rakhine-civilians",
+        "publishedAt": "2026-09-27T06:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [
+      {
+        "title": "GDELT 193 — in Myanmar",
+        "summary": "source: www.worthynews.com",
+        "sourceUrl": "https://www.worthynews.com/117789-pastor-fatally-shot-by-myanmar-military-personnel",
+        "occurredAt": "2026-09-28T01:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Myanmar",
+        "summary": "source: www.worthynews.com",
+        "sourceUrl": "https://www.worthynews.com/117789-pastor-fatally-shot-by-myanmar-military-personnel",
+        "occurredAt": "2026-09-28T01:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Myanmar",
+        "summary": "source: www.worthynews.com",
+        "sourceUrl": "https://www.worthynews.com/117789-pastor-fatally-shot-by-myanmar-military-personnel",
+        "occurredAt": "2026-09-28T01:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Myanmar",
+        "summary": "source: organiser.org",
+        "sourceUrl": "https://organiser.org/2026/09/26/382809/bharat/manipur/manipur-4-naga-civilians-reportedly-killed-by-suspected-myanmar-based-kuki-militants/",
+        "occurredAt": "2026-09-27T04:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Myanmar",
+        "summary": "source: organiser.org",
+        "sourceUrl": "https://organiser.org/2026/09/26/382809/bharat/manipur/manipur-4-naga-civilians-reportedly-killed-by-suspected-myanmar-based-kuki-militants/",
+        "occurredAt": "2026-09-27T04:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Myanmar",
+        "summary": "source: organiser.org",
+        "sourceUrl": "https://organiser.org/2026/09/26/382809/bharat/manipur/manipur-4-naga-civilians-reportedly-killed-by-suspected-myanmar-based-kuki-militants/",
+        "occurredAt": "2026-09-27T04:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Myanmar",
+        "summary": "source: www.thehindu.com",
+        "sourceUrl": "https://www.thehindu.com/news/national/manipur/two-naga-civilians-killed-in-manipurs-senapati-district/article71513243.ece",
+        "occurredAt": "2026-09-26T15:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Myanmar",
+        "summary": "source: www.thehindu.com",
+        "sourceUrl": "https://www.thehindu.com/news/national/manipur/two-naga-civilians-killed-in-manipurs-senapati-district/article71513243.ece",
+        "occurredAt": "2026-09-26T15:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Myanmar",
+        "summary": "source: www.thehindu.com",
+        "sourceUrl": "https://www.thehindu.com/news/national/manipur/two-naga-civilians-killed-in-manipurs-senapati-district/article71513243.ece",
+        "occurredAt": "2026-09-26T15:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 193 — in Myanmar",
+        "summary": "source: www.thehindu.com",
+        "sourceUrl": "https://www.thehindu.com/news/national/manipur/two-naga-civilians-killed-in-manipurs-senapati-district/article71513243.ece",
+        "occurredAt": "2026-09-26T15:30:00.000Z",
+        "domain": "conflict"
+      }
+    ],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "CU",
+  "countryName": "Cuba",
+  "slug": "cuba",
+  "rank": null,
+  "overallScore": null,
+  "dimensionCoverage": 0.58,
+  "confidence": "standard",
+  "level": "unpublished",
+  "sourceStatus": "unpublished",
+  "headlineEligible": false,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Cuban Journalist Henry Constantin Enters Prison",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/sos-for-journalist/cuban-journalist-henry-constantin-enters-prison/",
+        "publishedAt": "2026-09-27T16:51:04.000Z"
+      },
+      {
+        "title": "Is a Peaceful Transition in Cuba Possible?",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/opinion/is-a-peaceful-transition-in-cuba-possible/",
+        "publishedAt": "2026-09-27T22:19:30.000Z"
+      },
+      {
+        "title": "The Showman and Racism in Cuba",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/diaries/erick-hernandez/the-showman-and-racism-in-cuba/",
+        "publishedAt": "2026-09-27T19:57:34.000Z"
+      },
+      {
+        "title": "Cuba warns against ‘law of the jungle’ as Foreign Minister denounces US pressure",
+        "source": "UN News",
+        "url": "https://news.un.org/feed/view/en/story/2026/09/1168458",
+        "publishedAt": "2026-09-26T12:00:00.000Z"
+      },
+      {
+        "title": "China pushes back against US on Iran and Cuba in UN speech",
+        "source": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/china-pushes-back-against-us-on-iran-and-cuba-in-un-speech/",
+        "publishedAt": "2026-09-28T02:26:00.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nCuban journalist Henry Constantin has entered prison. [1]\n\nWHAT THIS MEANS FOR CUBA\nCuba's denunciation of US pressure comes as the country is linked to 120 US OFAC and Canada SEMA sanctions designations. [4][E3]\n\nKEY RISKS\nCuba is linked to 120 US OFAC and Canada SEMA sanctions designations, which could increase economic pressure. [E3]\n\nOUTLOOK\nA Polymarket market related to Cuba, \"US strike on Cuba by December 31?\", is priced Yes at 15% on Sep 28, 2026; it closes Jan 1, 2027. [E5]\nA Polymarket market related to Cuba, \"Miguel Díaz-Canel out as leader of Cuba by December 31?\", is priced Yes at 16% on Sep 28, 2026; it closes Jan 1, 2027. [E6]\n\nWATCH ITEMS\nThe question of whether a peaceful transition in Cuba is possible remains unresolved. [2]\nThe outcome of the Polymarket market \"US x Cuba economic deal by December 31, 2026?\" is pending. [E7]",
+      "generatedAt": "2026-09-28T05:00:07.506Z",
+      "sources": [
+        {
+          "title": "Cuban Journalist Henry Constantin Enters Prison",
+          "source": "Havana Times",
+          "url": "https://havanatimes.org/sos-for-journalist/cuban-journalist-henry-constantin-enters-prison/",
+          "publishedAt": "2026-09-27T16:51:04.000Z"
+        },
+        {
+          "title": "Is a Peaceful Transition in Cuba Possible?",
+          "source": "Havana Times",
+          "url": "https://havanatimes.org/opinion/is-a-peaceful-transition-in-cuba-possible/",
+          "publishedAt": "2026-09-27T22:19:30.000Z"
+        },
+        {
+          "title": "The Showman and Racism in Cuba",
+          "source": "Havana Times",
+          "url": "https://havanatimes.org/diaries/erick-hernandez/the-showman-and-racism-in-cuba/",
+          "publishedAt": "2026-09-27T19:57:34.000Z"
+        },
+        {
+          "title": "Cuba warns against ‘law of the jungle’ as Foreign Minister denounces US pressure",
+          "source": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168458",
+          "publishedAt": "2026-09-26T12:00:00.000Z"
+        },
+        {
+          "title": "China pushes back against US on Iran and Cuba in UN speech",
+          "source": "MyJoyOnline",
+          "url": "https://www.myjoyonline.com/china-pushes-back-against-us-on-iran-and-cuba-in-un-speech/",
+          "publishedAt": "2026-09-28T02:26:00.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E3",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "120",
+          "factText": "Cuba is linked to 120 US OFAC and Canada SEMA sanctions designations, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T00:01:35.739Z"
+        },
+        {
+          "id": "E5",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "15%",
+          "factText": "A Polymarket market related to Cuba, \"US strike on Cuba by December 31?\", priced Yes at 15% on Sep 28, 2026; it closes Jan 1, 2027.",
+          "asOf": "2026-09-28T04:51:12.326Z",
+          "url": "https://polymarket.com/event/us-strike-on-cuba-by"
+        },
+        {
+          "id": "E6",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "16%",
+          "factText": "A Polymarket market related to Cuba, \"Miguel Díaz-Canel out as leader of Cuba by December 31?\", priced Yes at 16% on Sep 28, 2026; it closes Jan 1, 2027.",
+          "asOf": "2026-09-28T04:51:12.326Z",
+          "url": "https://polymarket.com/event/miguel-daz-canel-out-as-leader-of-cuba-by-june-30"
+        },
+        {
+          "id": "E7",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "24%",
+          "factText": "A Polymarket market related to Cuba, \"US x Cuba economic deal by December 31, 2026?\", priced Yes at 24% on Sep 28, 2026; it closes Jan 1, 2027.",
+          "asOf": "2026-09-28T04:51:12.326Z",
+          "url": "https://polymarket.com/event/us-x-cuba-economic-deal-by"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

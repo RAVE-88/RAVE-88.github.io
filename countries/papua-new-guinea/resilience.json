@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "PG",
+  "countryName": "Papua New Guinea",
+  "slug": "papua-new-guinea",
+  "rank": 98,
+  "overallScore": 51.6,
+  "dimensionCoverage": 0.79,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Showcasing Papua New Guinea to the World",
+        "source": "postcourier.com.pg",
+        "url": "https://www.postcourier.com.pg/showcasing-papua-new-guinea-to-the-world/",
+        "publishedAt": "2026-09-27T04:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "At UN, Papua New Guinea outlines national strategy for population of 11 million",
+        "source": "postcourier.com.pg",
+        "url": "https://www.postcourier.com.pg/at-un-papua-new-guinea-outlines-national-strategy-for-population-of-11-million/",
+        "publishedAt": "2026-09-26T09:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "'Stop carbon emissions': Papua New Guinea, Solomon Islands leaders demand climate action",
+        "source": "rnz.co.nz",
+        "url": "https://www.rnz.co.nz/news/pacific/1573155/stop-carbon-emissions-papua-new-guinea-solomon-islands-leaders-demand-climate-action",
+        "publishedAt": "2026-09-25T03:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "An expedition ship carrying 124 people missed its first turn into a narrow Papua New Guinea harbor entrance in the dark and grounded on a coral reef about 525 feet off its planned track",
+        "source": "ecoportal.net",
+        "url": "https://www.ecoportal.net/en/expedition-ship-carrying-124-people-missed/39109/",
+        "publishedAt": "2026-09-24T23:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "BSP Financial Group Shares Jump 8.07% as Papua New Guinea's Largest Bank Extends Its Recent Rally on the ASX",
+        "source": "ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/bsp-financial-group-shares-rise-asx-no-catalyst-1875822",
+        "publishedAt": "2026-09-24T06:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

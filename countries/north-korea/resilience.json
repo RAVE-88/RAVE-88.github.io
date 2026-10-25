@@ -1,0 +1,102 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "KP",
+  "countryName": "North Korea",
+  "slug": "north-korea",
+  "rank": null,
+  "overallScore": null,
+  "dimensionCoverage": 0.51,
+  "confidence": "low",
+  "level": "unpublished",
+  "sourceStatus": "low-confidence",
+  "headlineEligible": false,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "South Korea demands apology from Ukraine over disclosure of North Korean POW transfer - CNN",
+        "source": "CNN World",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPX25yelIxbEVpNDZHTlpBSWluejFESTQ0TzNkQXBTcE9taU4xVlZEN1FndUVUenJBNTBkT1ZwY0laRzVTSkp6UXVrTDY3Y1Jra0hhS3I0Z0hWLWJDNUFmSzhnbzZmdFdQTUplUXI3Mk5VN3BuU2JULW9OekJWU1dESVlvUQ?oc=5",
+        "publishedAt": "2026-09-27T22:52:17.000Z"
+      },
+      {
+        "title": "South Korea demands apology from Ukraine over North Korean POW disclosure - Reuters",
+        "source": "Reuters Asia",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWHdqdnFfTEZYT1kxVWlSSlZRRnRseEw0RzAzbERrM2d0S2ZVSHhtb3Uzb3lwNi13cnNHV2ZobHVnclhfRzFxR2VPWEUzMGFFQ2hEa0Rvb1oyOXgybW9wejZsSVZZTVZ5OVdjZWhOVW5xVTNfTUtrbkRKUksxNW1hZXN1VWlvOGloRjRyV1BTTG1jdGJKMUxYV1RJWXdlNDF3aWpLbzl1N2g3Zl9XUWd5WXFuSmlXWEJXUFVTSktBV29CUnd6WEJuejE5VQ?oc=5",
+        "publishedAt": "2026-09-27T20:13:48.000Z"
+      },
+      {
+        "title": "North Korea’s Irregular Warfare After Ukraine",
+        "source": "War on the Rocks",
+        "url": "https://warontherocks.com/north-koreas-irregular-warfare-after-ukraine/",
+        "publishedAt": "2026-09-25T07:30:29.000Z"
+      },
+      {
+        "title": "Seoul seeks apology after Ukraine 'breached' confidentiality agreement over transfer of North Korean POWs",
+        "source": "EuroNews",
+        "url": "https://www.euronews.com/2026/09/28/seoul-seeks-apology-after-ukraine-breached-confidentiality-agreement-over-transfer-of-nort",
+        "publishedAt": "2026-09-28T03:49:15.000Z"
+      },
+      {
+        "title": "Ukraine, South Korea relations sour over North Korean POWs",
+        "source": "DW News",
+        "url": "https://www.dw.com/en/ukraine-south-korea-relations-sour-over-north-korean-pows/a-79451515?maca=en-rss-en-all-1573-xml-mrss",
+        "publishedAt": "2026-09-28T02:32:00.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nSouth Korea demands an apology from Ukraine over the disclosure of a North Korean prisoner of war transfer. [1][2][4]\n\nWHAT THIS MEANS FOR NORTH KOREA\nThe diplomatic dispute over North Korean POWs could worsen North Korea's international isolation, given its Country Instability Index score of 60 of 100 in the Elevated band. [5][E1]\n\nWATCH ITEMS\nThe resolution of the dispute between South Korea and Ukraine over the disclosure of North Korean POWs remains unresolved. [1][2][4][5]",
+      "generatedAt": "2026-09-28T05:03:28.505Z",
+      "sources": [
+        {
+          "title": "South Korea demands apology from Ukraine over disclosure of North Korean POW transfer - CNN",
+          "source": "CNN World",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPX25yelIxbEVpNDZHTlpBSWluejFESTQ0TzNkQXBTcE9taU4xVlZEN1FndUVUenJBNTBkT1ZwY0laRzVTSkp6UXVrTDY3Y1Jra0hhS3I0Z0hWLWJDNUFmSzhnbzZmdFdQTUplUXI3Mk5VN3BuU2JULW9OekJWU1dESVlvUQ?oc=5",
+          "publishedAt": "2026-09-27T22:52:17.000Z"
+        },
+        {
+          "title": "South Korea demands apology from Ukraine over North Korean POW disclosure - Reuters",
+          "source": "Reuters Asia",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWHdqdnFfTEZYT1kxVWlSSlZRRnRseEw0RzAzbERrM2d0S2ZVSHhtb3Uzb3lwNi13cnNHV2ZobHVnclhfRzFxR2VPWEUzMGFFQ2hEa0Rvb1oyOXgybW9wejZsSVZZTVZ5OVdjZWhOVW5xVTNfTUtrbkRKUksxNW1hZXN1VWlvOGloRjRyV1BTTG1jdGJKMUxYV1RJWXdlNDF3aWpLbzl1N2g3Zl9XUWd5WXFuSmlXWEJXUFVTSktBV29CUnd6WEJuejE5VQ?oc=5",
+          "publishedAt": "2026-09-27T20:13:48.000Z"
+        },
+        {
+          "title": "North Korea’s Irregular Warfare After Ukraine",
+          "source": "War on the Rocks",
+          "url": "https://warontherocks.com/north-koreas-irregular-warfare-after-ukraine/",
+          "publishedAt": "2026-09-25T07:30:29.000Z"
+        },
+        {
+          "title": "Seoul seeks apology after Ukraine 'breached' confidentiality agreement over transfer of North Korean POWs",
+          "source": "EuroNews",
+          "url": "https://www.euronews.com/2026/09/28/seoul-seeks-apology-after-ukraine-breached-confidentiality-agreement-over-transfer-of-nort",
+          "publishedAt": "2026-09-28T03:49:15.000Z"
+        },
+        {
+          "title": "Ukraine, South Korea relations sour over North Korean POWs",
+          "source": "DW News",
+          "url": "https://www.dw.com/en/ukraine-south-korea-relations-sour-over-north-korean-pows/a-79451515?maca=en-rss-en-all-1573-xml-mrss",
+          "publishedAt": "2026-09-28T02:32:00.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "cii",
+          "label": "Country Instability Index",
+          "value": "60 of 100 (Elevated)",
+          "factText": "North Korea has a Country Instability Index score of 60 of 100, in the Elevated band, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T05:01:53.862Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

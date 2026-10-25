@@ -1,0 +1,189 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "SD",
+  "countryName": "Sudan",
+  "slug": "sudan",
+  "rank": 170,
+  "overallScore": 19.7,
+  "dimensionCoverage": 0.71,
+  "confidence": "standard",
+  "level": "low",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Drone strike hits strategic fuel depot in central Sudan",
+        "source": "Radio Tamazuj",
+        "url": "https://www.radiotamazuj.org/en/news/article/drone-strike-hits-fuel-depot-in-central-sudan",
+        "publishedAt": "2026-09-27T11:43:50.000Z"
+      },
+      {
+        "title": "DR Congo, Sudan and Mali are Africa’s biggest military drone importers as US and Iran supply rival sides in Russia-Ukraine war - Business Insider Africa",
+        "source": "Sahel Crisis",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNczVQRWdTbWZTbURCVFVLRWlmMXgtc3Z6amg1UUdXaVJuNWNNX0s2ZG1ESkptNTVPLVJReE1qV1BTQllOUlNmeEVCbnd3M0NPZElfNGZkVGZtdVk0QVdzZHAxT0Y1NXZJMElVSkJGWndxcm5qSmVMeURlTTZFMjNaVW1OLVZTZDU1TlQzcEtGaHBueDRyVWViVHhTNG5CdEpTOWpheXptZWx3VDVqSFdWWW5ZVC1Pa0RoNngtUDM4Si1Fc3M5Z1IxZm5vOG1hc2RQWFQtbFpYaWZyUQ?oc=5",
+        "publishedAt": "2026-09-27T22:05:55.000Z"
+      },
+      {
+        "title": "Nuba Christian and Muslim leaders call for end to Sudan war",
+        "source": "Dabanga Sudan",
+        "url": "https://www.dabangasudan.org/en/all-news/article/nuba-christian-and-muslim-leaders-call-for-end-to-sudan-war",
+        "publishedAt": "2026-09-24T16:33:39.000Z"
+      },
+      {
+        "title": "Ethiopia accuses Eritrea, Sudan of backing Tigray rebels amid clashes",
+        "source": "France 24",
+        "url": "https://www.france24.com/en/africa/20260927-ethiopia-accuses-eritrea-sudan-backing-tigray-rebels",
+        "publishedAt": "2026-09-27T23:27:29.000Z"
+      },
+      {
+        "title": "Sudan: FAO launches nationwide livestock vaccination campaign to protect food security and livelihoods amid conflict",
+        "source": "FAO News",
+        "url": "https://www.fao.org/newsroom/detail/sudan--fao-launches-nationwide-livestock-vaccination-campaign-to-protect-food-security-and-livelihoods-amid-conflict/en",
+        "publishedAt": "2026-09-25T12:00:00.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nA drone strike has hit a strategic fuel depot in central Sudan. [1]\n\nWHAT THIS MEANS FOR SUDAN\nThe drone strike on a fuel depot, combined with Sudan's net energy import dependency of 0%, suggests the attack targets domestic fuel infrastructure rather than imported supply. [1][E3]\nSudan's role as a major drone importer and its 46 US and Canada sanctions designations indicate that its military procurement is subject to international restrictions. [2][E2]\n\nKEY RISKS\nThe Do Not Travel advisory for Sudan reflects the severe security risks from ongoing conflict and drone strikes. [E1]\n\nWATCH ITEMS\nIt is unresolved whether Ethiopia's accusation that Sudan backs Tigray rebels will escalate into further regional conflict. [4]",
+      "generatedAt": "2026-09-28T05:06:26.379Z",
+      "sources": [
+        {
+          "title": "Drone strike hits strategic fuel depot in central Sudan",
+          "source": "Radio Tamazuj",
+          "url": "https://www.radiotamazuj.org/en/news/article/drone-strike-hits-fuel-depot-in-central-sudan",
+          "publishedAt": "2026-09-27T11:43:50.000Z"
+        },
+        {
+          "title": "DR Congo, Sudan and Mali are Africa’s biggest military drone importers as US and Iran supply rival sides in Russia-Ukraine war - Business Insider Africa",
+          "source": "Sahel Crisis",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNczVQRWdTbWZTbURCVFVLRWlmMXgtc3Z6amg1UUdXaVJuNWNNX0s2ZG1ESkptNTVPLVJReE1qV1BTQllOUlNmeEVCbnd3M0NPZElfNGZkVGZtdVk0QVdzZHAxT0Y1NXZJMElVSkJGWndxcm5qSmVMeURlTTZFMjNaVW1OLVZTZDU1TlQzcEtGaHBueDRyVWViVHhTNG5CdEpTOWpheXptZWx3VDVqSFdWWW5ZVC1Pa0RoNngtUDM4Si1Fc3M5Z1IxZm5vOG1hc2RQWFQtbFpYaWZyUQ?oc=5",
+          "publishedAt": "2026-09-27T22:05:55.000Z"
+        },
+        {
+          "title": "Nuba Christian and Muslim leaders call for end to Sudan war",
+          "source": "Dabanga Sudan",
+          "url": "https://www.dabangasudan.org/en/all-news/article/nuba-christian-and-muslim-leaders-call-for-end-to-sudan-war",
+          "publishedAt": "2026-09-24T16:33:39.000Z"
+        },
+        {
+          "title": "Ethiopia accuses Eritrea, Sudan of backing Tigray rebels amid clashes",
+          "source": "France 24",
+          "url": "https://www.france24.com/en/africa/20260927-ethiopia-accuses-eritrea-sudan-backing-tigray-rebels",
+          "publishedAt": "2026-09-27T23:27:29.000Z"
+        },
+        {
+          "title": "Sudan: FAO launches nationwide livestock vaccination campaign to protect food security and livelihoods amid conflict",
+          "source": "FAO News",
+          "url": "https://www.fao.org/newsroom/detail/sudan--fao-launches-nationwide-livestock-vaccination-campaign-to-protect-food-security-and-livelihoods-amid-conflict/en",
+          "publishedAt": "2026-09-25T12:00:00.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Do Not Travel",
+          "factText": "The most severe government travel advisory World Monitor tracks for Sudan is Do Not Travel, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T05:03:30.360Z"
+        },
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "46",
+          "factText": "Sudan is linked to 46 US OFAC and Canada SEMA sanctions designations, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T00:01:35.739Z"
+        },
+        {
+          "id": "E3",
+          "kind": "energy",
+          "label": "Net energy import dependency",
+          "value": "0%",
+          "factText": "Sudan has a net energy import dependency of 0% (World Bank Open Data, 2023).",
+          "asOf": "2023-12-31T00:00:00.000Z"
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "title": "GDELT 190 — in Sudan",
+        "summary": "source: aa.com.tr",
+        "sourceUrl": "https://aa.com.tr/en/middle-east/sudan-says-fire-at-fuel-depots-after-rsf-drone-strike-in-al-jazirah-state-extinguished/4071049",
+        "occurredAt": "2026-09-27T23:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Sudan",
+        "summary": "source: www.arabnews.com",
+        "sourceUrl": "https://www.arabnews.com/middle-east/strikes-hit-sudan-cities-as-army-chief-defiant-after-us-visa-snub-3003468",
+        "occurredAt": "2026-09-27T23:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Sudan",
+        "summary": "source: www.arabnews.com",
+        "sourceUrl": "https://www.arabnews.com/middle-east/strikes-hit-sudan-cities-as-army-chief-defiant-after-us-visa-snub-3003468",
+        "occurredAt": "2026-09-27T23:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 192 — in Sudan",
+        "summary": "source: www.freemalaysiatoday.com",
+        "sourceUrl": "https://www.freemalaysiatoday.com/category/world/2026/09/27/strikes-hit-sudan-cities-as-army-chief-remains-defiant-after-us-visa-snub",
+        "occurredAt": "2026-09-27T18:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Sudan",
+        "summary": "source: www.freemalaysiatoday.com",
+        "sourceUrl": "https://www.freemalaysiatoday.com/category/world/2026/09/27/strikes-hit-sudan-cities-as-army-chief-remains-defiant-after-us-visa-snub",
+        "occurredAt": "2026-09-27T18:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Sudan",
+        "summary": "source: www.freemalaysiatoday.com",
+        "sourceUrl": "https://www.freemalaysiatoday.com/category/world/2026/09/27/strikes-hit-sudan-cities-as-army-chief-remains-defiant-after-us-visa-snub",
+        "occurredAt": "2026-09-27T18:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 192 — in Sudan",
+        "summary": "source: www.freemalaysiatoday.com",
+        "sourceUrl": "https://www.freemalaysiatoday.com/category/world/2026/09/27/strikes-hit-sudan-cities-as-army-chief-remains-defiant-after-us-visa-snub",
+        "occurredAt": "2026-09-27T18:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Sudan",
+        "summary": "source: www.freemalaysiatoday.com",
+        "sourceUrl": "https://www.freemalaysiatoday.com/category/world/2026/09/27/strikes-hit-sudan-cities-as-army-chief-remains-defiant-after-us-visa-snub",
+        "occurredAt": "2026-09-27T18:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 193 — in Sudan",
+        "summary": "source: allafrica.com",
+        "sourceUrl": "https://allafrica.com/stories/202609270109.html",
+        "occurredAt": "2026-09-27T17:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 193 — in Sudan",
+        "summary": "source: www.dabangasudan.org",
+        "sourceUrl": "https://www.dabangasudan.org/en/all-news/article/rsf-drones-strike-el-gezira-fuel-depot-as-both-sides-report-shootdowns",
+        "occurredAt": "2026-09-27T15:15:00.000Z",
+        "domain": "conflict"
+      }
+    ],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

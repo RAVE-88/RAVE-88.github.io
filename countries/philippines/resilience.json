@@ -1,0 +1,121 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "PH",
+  "countryName": "Philippines",
+  "slug": "philippines",
+  "rank": 75,
+  "overallScore": 54.6,
+  "dimensionCoverage": 0.81,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Philippines Says China Blocked Sea Mission, First Since 2024",
+        "source": "gCaptain",
+        "url": "https://gcaptain.com/philippines-says-china-blocked-sea-mission-first-since-2024/",
+        "publishedAt": "2026-09-27T15:35:31.000Z"
+      },
+      {
+        "title": "Will Indonesia's Nickel Quota Finally Bind as Monsoon Slows Philippine Ore? - Crux Investor",
+        "source": "Indonesia Nickel Policy",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeWFUNG10SDRnTUdlYjA5bHJQYXBJdzJMLVdGRFdCdHBiZEVHdVhPZVVfSGZ5WkJZdm1OTmMxTy1lN2ZtalY2aUhMQXB4TFpYTm9URzNsNURKTzdSOFlqckFINXNObHF5OEhJVXVyRFRtbE1SYmplU0JYV3NhaGlKWHhBX3VnTDNsUU51VHQ2S3MxMWVlbmZyUWFXbmNmMDlrSl9ON2IzN0Q3a1p5?oc=5",
+        "publishedAt": "2026-09-25T14:44:33.000Z"
+      },
+      {
+        "title": "ITCZ affects parts of Philippines; Typhoon Queenie exits PAR",
+        "source": "Rappler",
+        "url": "https://www.rappler.com/philippines/weather/typhoon-queenie-itcz-update-pagasa-forecast-september-27-2026-8pm/",
+        "publishedAt": "2026-09-27T15:15:25.000Z"
+      },
+      {
+        "title": "Lithuania and Philippines agree to coordinate labour migration",
+        "source": "LRT English",
+        "url": "https://www.lrt.lt/en/news-in-english/19/3063303/lithuania-and-philippines-agree-to-coordinate-labour-migration",
+        "publishedAt": "2026-09-25T12:42:00.000Z"
+      },
+      {
+        "title": "IMF warns Philippines against suspending excise tax on gasoline",
+        "source": "bworldonline.com",
+        "url": "https://bworldonline.com/top-stories/2026/09/28/782459/imf-warns-philippines-against-suspending-excise-tax-on-gasoline/",
+        "publishedAt": "2026-09-28T03:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nPhilippines reports that China blocked a sea mission, the first such incident since 2024. [1]\n\nWHAT THIS MEANS FOR PHILIPPINES\nThe reported Chinese blockade of a Philippine sea mission may increase the risk of a military clash, which a Polymarket market prices at 27% as of Sep 28, 2026. [1][E4]\n\nKEY RISKS\nThe Philippines is linked to 18 US OFAC and Canada SEMA sanctions designations as of Sep 28, 2026, exposing it to potential financial and trade restrictions. [E2]\nThe most severe government travel advisory for Philippines is Exercise Increased Caution as of Sep 28, 2026, indicating elevated safety risks for travelers. [E1]\n\nWATCH ITEMS\nIt remains unresolved whether China will continue to block Philippine sea missions following the first incident since 2024. [1]\nIt is unclear whether the Philippines will follow the IMF warning and refrain from suspending the excise tax on gasoline. [5]",
+      "generatedAt": "2026-09-28T05:05:32.532Z",
+      "sources": [
+        {
+          "title": "Philippines Says China Blocked Sea Mission, First Since 2024",
+          "source": "gCaptain",
+          "url": "https://gcaptain.com/philippines-says-china-blocked-sea-mission-first-since-2024/",
+          "publishedAt": "2026-09-27T15:35:31.000Z"
+        },
+        {
+          "title": "Will Indonesia's Nickel Quota Finally Bind as Monsoon Slows Philippine Ore? - Crux Investor",
+          "source": "Indonesia Nickel Policy",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeWFUNG10SDRnTUdlYjA5bHJQYXBJdzJMLVdGRFdCdHBiZEVHdVhPZVVfSGZ5WkJZdm1OTmMxTy1lN2ZtalY2aUhMQXB4TFpYTm9URzNsNURKTzdSOFlqckFINXNObHF5OEhJVXVyRFRtbE1SYmplU0JYV3NhaGlKWHhBX3VnTDNsUU51VHQ2S3MxMWVlbmZyUWFXbmNmMDlrSl9ON2IzN0Q3a1p5?oc=5",
+          "publishedAt": "2026-09-25T14:44:33.000Z"
+        },
+        {
+          "title": "ITCZ affects parts of Philippines; Typhoon Queenie exits PAR",
+          "source": "Rappler",
+          "url": "https://www.rappler.com/philippines/weather/typhoon-queenie-itcz-update-pagasa-forecast-september-27-2026-8pm/",
+          "publishedAt": "2026-09-27T15:15:25.000Z"
+        },
+        {
+          "title": "Lithuania and Philippines agree to coordinate labour migration",
+          "source": "LRT English",
+          "url": "https://www.lrt.lt/en/news-in-english/19/3063303/lithuania-and-philippines-agree-to-coordinate-labour-migration",
+          "publishedAt": "2026-09-25T12:42:00.000Z"
+        },
+        {
+          "title": "IMF warns Philippines against suspending excise tax on gasoline",
+          "source": "bworldonline.com",
+          "url": "https://bworldonline.com/top-stories/2026/09/28/782459/imf-warns-philippines-against-suspending-excise-tax-on-gasoline/",
+          "publishedAt": "2026-09-28T03:30:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Exercise Increased Caution",
+          "factText": "The most severe government travel advisory World Monitor tracks for Philippines is Exercise Increased Caution, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T05:03:30.360Z"
+        },
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "18",
+          "factText": "Philippines is linked to 18 US OFAC and Canada SEMA sanctions designations, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T00:01:35.739Z"
+        },
+        {
+          "id": "E4",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "27%",
+          "factText": "A Polymarket market related to Philippines, \"China x Philippines military clash before 2027?\", priced Yes at 27% on Sep 28, 2026; it closes Jan 1, 2027.",
+          "asOf": "2026-09-28T05:00:34.359Z",
+          "url": "https://polymarket.com/event/china-x-philippines-military-clash-before-2027-20260723214807932"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

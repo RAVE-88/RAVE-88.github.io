@@ -1,0 +1,125 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "JP",
+  "countryName": "Japan",
+  "slug": "japan",
+  "rank": 5,
+  "overallScore": 71.3,
+  "dimensionCoverage": 0.75,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Japan's corporate services inflation hits 2-year high - Reuters",
+        "source": "Reuters World",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOckhuSjBSeXYxT0JkaDJPZmF2cThESzJvaEE5dHBWWEpZVFVvbGdkTlhfa0NKOGllU1AxWTBHRzdDdFhTN2VWM1h6TUVEeTNWdmt6Z0FEajR4V1JMckFZZm9wbG1Hckh6d2NuTHhGTGRLbDlSeGhoQ21JNURHcjFkbVZROU9FMVVvNVBqYWprbGk2ci1vaHA0YmU0emluY09xRHNOd3ZTdG15Vlk?oc=5",
+        "publishedAt": "2026-09-28T00:29:00.000Z"
+      },
+      {
+        "title": "FM hails Egypt-Japan University as model of education cooperation",
+        "source": "Egypt Independent",
+        "url": "https://www.egyptindependent.com/fm-hails-egypt-japan-university-as-model-of-education-cooperation/",
+        "publishedAt": "2026-09-27T09:31:09.000Z"
+      },
+      {
+        "title": "Motoring: Nissan to reshape business in Japan for global growth push",
+        "source": "gdnonline.com",
+        "url": "https://www.gdnonline.com/Details/1407853/Nissan-to-reshape-business-in-Japan-for-global-growth-push",
+        "publishedAt": "2026-09-28T03:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Over 1,500 remain in shelters 2 months after Japan's Kumamoto quake-Xinhua",
+        "source": "english.news.cn",
+        "url": "https://english.news.cn/20260928/c08b57e5885e4b87a340241fe0697667/c.html",
+        "publishedAt": "2026-09-28T03:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Over 1,500 remain in shelters 2 months after Japan's Kumamoto quake-Xinhua",
+        "source": "english.news.cn",
+        "url": "https://english.news.cn/asiapacific/20260928/29d37171d50947ec86738b5bda353ef5/c.html",
+        "publishedAt": "2026-09-28T03:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nJapan's corporate services inflation has reached a 2-year high. [1]\nOver 1,500 people remain in shelters two months after the Kumamoto earthquake in Japan. [4]\n\nWHAT THIS MEANS FOR JAPAN\nJapan's high net energy import dependency of 87% makes the corporate services inflation increase particularly concerning for energy-intensive sectors. [1][E4]\n\nKEY RISKS\nJapan's 87% net energy import dependency exposes it to supply disruption risks through the Korea Strait chokepoint. [E4][E5]\nJapan is linked to 22 US OFAC and Canada SEMA sanctions designations, posing potential diplomatic and economic friction risks. [E3]\n\nWATCH ITEMS\nIt remains to be seen whether Nissan's business reshaping in Japan will succeed in supporting its global growth push. [3]",
+      "generatedAt": "2026-09-28T05:03:10.444Z",
+      "sources": [
+        {
+          "title": "Japan's corporate services inflation hits 2-year high - Reuters",
+          "source": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOckhuSjBSeXYxT0JkaDJPZmF2cThESzJvaEE5dHBWWEpZVFVvbGdkTlhfa0NKOGllU1AxWTBHRzdDdFhTN2VWM1h6TUVEeTNWdmt6Z0FEajR4V1JMckFZZm9wbG1Hckh6d2NuTHhGTGRLbDlSeGhoQ21JNURHcjFkbVZROU9FMVVvNVBqYWprbGk2ci1vaHA0YmU0emluY09xRHNOd3ZTdG15Vlk?oc=5",
+          "publishedAt": "2026-09-28T00:29:00.000Z"
+        },
+        {
+          "title": "FM hails Egypt-Japan University as model of education cooperation",
+          "source": "Egypt Independent",
+          "url": "https://www.egyptindependent.com/fm-hails-egypt-japan-university-as-model-of-education-cooperation/",
+          "publishedAt": "2026-09-27T09:31:09.000Z"
+        },
+        {
+          "title": "Motoring: Nissan to reshape business in Japan for global growth push",
+          "source": "gdnonline.com",
+          "url": "https://www.gdnonline.com/Details/1407853/Nissan-to-reshape-business-in-Japan-for-global-growth-push",
+          "publishedAt": "2026-09-28T03:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Over 1,500 remain in shelters 2 months after Japan's Kumamoto quake-Xinhua",
+          "source": "english.news.cn",
+          "url": "https://english.news.cn/20260928/c08b57e5885e4b87a340241fe0697667/c.html",
+          "publishedAt": "2026-09-28T03:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Over 1,500 remain in shelters 2 months after Japan's Kumamoto quake-Xinhua",
+          "source": "english.news.cn",
+          "url": "https://english.news.cn/asiapacific/20260928/29d37171d50947ec86738b5bda353ef5/c.html",
+          "publishedAt": "2026-09-28T03:00:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E3",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "22",
+          "factText": "Japan is linked to 22 US OFAC and Canada SEMA sanctions designations, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T00:01:35.739Z"
+        },
+        {
+          "id": "E4",
+          "kind": "energy",
+          "label": "Net energy import dependency",
+          "value": "87%",
+          "factText": "Japan has a net energy import dependency of 87% (World Bank Open Data, 2023).",
+          "asOf": "2023-12-31T00:00:00.000Z"
+        },
+        {
+          "id": "E5",
+          "kind": "chokepoint",
+          "label": "Chokepoint tracker",
+          "value": "Korea Strait",
+          "factText": "Korea Strait is a shipping chokepoint World Monitor tracks for Japan.",
+          "asOf": "2026-09-28T05:02:57.898Z",
+          "url": "https://www.worldmonitor.app/chokepoints/korea-strait/"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

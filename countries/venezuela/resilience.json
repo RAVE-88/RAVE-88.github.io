@@ -1,0 +1,120 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "VE",
+  "countryName": "Venezuela",
+  "slug": "venezuela",
+  "rank": 165,
+  "overallScore": 33.7,
+  "dimensionCoverage": 0.65,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Demonstranter i Venezuela vil ha opposisjonsleder hjem",
+        "source": "NRK",
+        "url": "https://www.nrk.no/nyheter/demonstranter-i-venezuela-vil-ha-opposisjonsleder-hjem-1.18038276",
+        "publishedAt": "2026-09-28T01:52:51.000Z"
+      },
+      {
+        "title": "Venezuelans rally for opposition leader’s return and presidential elections",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/28/venezuelans-rally-for-opposition-leaders-return-and-presidential-elections?traffic_source=rss",
+        "publishedAt": "2026-09-28T02:36:00.000Z"
+      },
+      {
+        "title": "Venezuela’s Oil Comeback Could Cost More Than $100 Billion",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Crude-Oil/Venezuelas-Oil-Comeback-Could-Cost-More-Than-100-Billion.html",
+        "publishedAt": "2026-09-27T23:00:00.000Z"
+      },
+      {
+        "title": "Venezuela's Oil Comeback Could Cost More Than $100 Billion - oilprice.com",
+        "source": "Oil & Gas",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZFN1eFRTdTJSNEFRbFM0Z0U3ZTdVRXR3SHRnNkp3QjItalRqNnVPOF80dk5GN0lnazMxUkhmLUswZkZGMktDby1sejBscVVZV2JKSEpiZlNOWi1zRTZENjViYk1HUlNtQ3VmOG51TlRia21xYW5OSnYzeV9BVVBlR3RFeUFuZ0c0QldvMkdoXzNEdDgyMUphMWVqMlZELWM50gGmAUFVX3lxTE1pYmxVMXFnMDJsREhYT3UxRjJGdENFZlBwNWxTWk92b0FHUWphUGxGVUNiaUpOWFhLR0w2NFJEamIxZDNXNW1TR1FqZHZDNF9nTElpTnM3X1RId1ZvY1Fxa2R1ZHFfRXBMdUhsUlU0aUNja2FvbGdYSFlPQm1YQmxuR3FhR3dEaXhXZ3J0MzRCYV9NOGhsN09Jc1ljdURwck1falNhZ3c?oc=5",
+        "publishedAt": "2026-09-27T23:00:00.000Z"
+      },
+      {
+        "title": "Venezuela releases dozens of political prisoners as election calls grow",
+        "source": "BBC Latin America",
+        "url": "https://www.bbc.co.uk/news/articles/c620lrw2xr12o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-27T15:56:25.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nVenezuela has released dozens of political prisoners as calls for elections grow. [5]\n\nWHAT THIS MEANS FOR VENEZUELA\nThe release of political prisoners amid growing election calls occurs while Venezuela has a Country Instability Index score of 50 of 100, in the Normal band. [5][E1]\n\nOUTLOOK\nA Polymarket market related to Venezuela, \"Will María Corina Machado enter Venezuela by December 31?\", priced Yes at 53% on Sep 28, 2026; it closes Jan 1, 2027. [E7]\nA Kalshi market related to Venezuela, \"Will Delcy Rodríguez be the head of state of Venezuela on Dec 31, 2026?\", priced Yes at 23% on Sep 28, 2026; it closes Dec 31, 2026. [E5]\n\nWATCH ITEMS\nIt is unresolved whether the opposition leader for whose return Venezuelans are rallying will actually return. [1][2]\nIt is unresolved whether presidential elections will be held in Venezuela. [2]",
+      "generatedAt": "2026-09-28T05:07:39.882Z",
+      "sources": [
+        {
+          "title": "Demonstranter i Venezuela vil ha opposisjonsleder hjem",
+          "source": "NRK",
+          "url": "https://www.nrk.no/nyheter/demonstranter-i-venezuela-vil-ha-opposisjonsleder-hjem-1.18038276",
+          "publishedAt": "2026-09-28T01:52:51.000Z"
+        },
+        {
+          "title": "Venezuelans rally for opposition leader’s return and presidential elections",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/28/venezuelans-rally-for-opposition-leaders-return-and-presidential-elections?traffic_source=rss",
+          "publishedAt": "2026-09-28T02:36:00.000Z"
+        },
+        {
+          "title": "Venezuela’s Oil Comeback Could Cost More Than $100 Billion",
+          "source": "OilPrice.com",
+          "url": "https://oilprice.com/Energy/Crude-Oil/Venezuelas-Oil-Comeback-Could-Cost-More-Than-100-Billion.html",
+          "publishedAt": "2026-09-27T23:00:00.000Z"
+        },
+        {
+          "title": "Venezuela's Oil Comeback Could Cost More Than $100 Billion - oilprice.com",
+          "source": "Oil & Gas",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZFN1eFRTdTJSNEFRbFM0Z0U3ZTdVRXR3SHRnNkp3QjItalRqNnVPOF80dk5GN0lnazMxUkhmLUswZkZGMktDby1sejBscVVZV2JKSEpiZlNOWi1zRTZENjViYk1HUlNtQ3VmOG51TlRia21xYW5OSnYzeV9BVVBlR3RFeUFuZ0c0QldvMkdoXzNEdDgyMUphMWVqMlZELWM50gGmAUFVX3lxTE1pYmxVMXFnMDJsREhYT3UxRjJGdENFZlBwNWxTWk92b0FHUWphUGxGVUNiaUpOWFhLR0w2NFJEamIxZDNXNW1TR1FqZHZDNF9nTElpTnM3X1RId1ZvY1Fxa2R1ZHFfRXBMdUhsUlU0aUNja2FvbGdYSFlPQm1YQmxuR3FhR3dEaXhXZ3J0MzRCYV9NOGhsN09Jc1ljdURwck1falNhZ3c?oc=5",
+          "publishedAt": "2026-09-27T23:00:00.000Z"
+        },
+        {
+          "title": "Venezuela releases dozens of political prisoners as election calls grow",
+          "source": "BBC Latin America",
+          "url": "https://www.bbc.co.uk/news/articles/c620lrw2xr12o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-09-27T15:56:25.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "cii",
+          "label": "Country Instability Index",
+          "value": "50 of 100 (Normal)",
+          "factText": "Venezuela has a Country Instability Index score of 50 of 100, in the Normal band, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T05:01:53.862Z"
+        },
+        {
+          "id": "E5",
+          "kind": "market",
+          "label": "Kalshi prediction market",
+          "value": "23%",
+          "factText": "A Kalshi market related to Venezuela, \"Will Delcy Rodríguez be the head of state of Venezuela on Dec 31, 2026?\", priced Yes at 23% on Sep 28, 2026; it closes Dec 31, 2026.",
+          "asOf": "2026-09-28T05:00:34.359Z",
+          "url": "https://kalshi.com/markets/KXVENEZUELALEADER-26DEC31-DROD"
+        },
+        {
+          "id": "E7",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "53%",
+          "factText": "A Polymarket market related to Venezuela, \"Will María Corina Machado enter Venezuela by December 31?\", priced Yes at 53% on Sep 28, 2026; it closes Jan 1, 2027.",
+          "asOf": "2026-09-28T05:00:34.359Z",
+          "url": "https://polymarket.com/event/will-mara-corina-machado-enter-venezuela-by-january-31"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

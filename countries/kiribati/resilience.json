@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "KI",
+  "countryName": "Kiribati",
+  "slug": "kiribati",
+  "rank": null,
+  "overallScore": null,
+  "dimensionCoverage": 0.64,
+  "confidence": "standard",
+  "level": "unpublished",
+  "sourceStatus": "unpublished",
+  "headlineEligible": false,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Kiribati President Maamau: Even smallest country can contribute to global peace",
+        "source": "postcourier.com.pg",
+        "url": "https://www.postcourier.com.pg/kiribati-president-maamau-even-smallest-country-can-contribute-to-global-peace/",
+        "publishedAt": "2026-09-28T03:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Four in five water samples on Kiribati island unsafe or high risk",
+        "source": "nzdoctor.co.nz",
+        "url": "https://www.nzdoctor.co.nz/article/undoctored/four-five-water-samples-kiribati-island-unsafe-or-high-risk",
+        "publishedAt": "2026-09-23T10:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Navigating the tides: how fiscal discipline sustains social protection in Kiribati - Devpolicy Blog from the Development Policy Centre",
+        "source": "devpolicy.org",
+        "url": "https://devpolicy.org/navigating-the-tides-how-fiscal-discipline-sustains-social-protection-in-kiribati-20260923/",
+        "publishedAt": "2026-09-22T23:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Kiribati spends one dollar in three on households, minister writes",
+        "source": "solomontimes.com",
+        "url": "https://www.solomontimes.com/feature/kiribati-spends-one-dollar-in-three-on-households-minister-writes/801",
+        "publishedAt": "2026-09-22T22:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Chinese VP calls for advancing China-Kiribati ties to new heights-Xinhua",
+        "source": "english.news.cn",
+        "url": "https://english.news.cn/20260926/f82cfa1907814ccfb95db957c2bde20b/c.html",
+        "publishedAt": "2026-09-26T15:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

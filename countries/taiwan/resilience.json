@@ -1,0 +1,192 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "TW",
+  "countryName": "Taiwan",
+  "slug": "taiwan",
+  "rank": null,
+  "overallScore": null,
+  "dimensionCoverage": 0.38,
+  "confidence": "low",
+  "level": "unpublished",
+  "sourceStatus": "low-confidence",
+  "headlineEligible": false,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "White House fact sheet omits Taiwan in Xi-Trump talks - Focus Taiwan",
+        "source": "Focus Taiwan",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB3MkZUNmJkNDJKRjMyaXd1VDFOXzZBYWw2RmcxU0ktRG1IYjRBb21oWmtxSS1OSmdIVHpPZDhtaElXM2k1YnhHRjVFNmxacllqZVBrYmt6cw?oc=5",
+        "publishedAt": "2026-09-26T09:53:00.000Z"
+      },
+      {
+        "title": "Trump asked Xi if China wanted to buy American weapons, US envoy says",
+        "source": "Financial Times",
+        "url": "https://www.ft.com/content/8b4690d4-7c02-48af-b117-56faf21c389d?syn-25a6b1a6=1",
+        "publishedAt": "2026-09-27T20:31:48.000Z"
+      },
+      {
+        "title": "The Coming Taiwan Crisis",
+        "source": "Foreign Affairs",
+        "url": "https://www.foreignaffairs.com/taiwan/coming-taiwan-crisis-china-jonathan-czin",
+        "publishedAt": "2026-09-25T04:00:00.000Z"
+      },
+      {
+        "title": "Transcript: Alexander Yui, Taiwan's representative to the U.S., on \"Face the Nation with Margaret Brennan,\" Sept. 27, 2026",
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/news/alexander-yui-taiwan-representative-face-the-nation-transcript-09-27-2026/",
+        "publishedAt": "2026-09-27T18:12:17.000Z"
+      },
+      {
+        "title": "No public mentions of Taiwan at official Xi and Trump meeting",
+        "source": "DW News",
+        "url": "https://www.dw.com/en/no-public-mentions-of-taiwan-at-official-xi-and-trump-meeting/a-79445378?maca=en-rss-en-all-1573-xml-mrss",
+        "publishedAt": "2026-09-27T08:05:00.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe White House fact sheet omitted Taiwan in the context of Xi-Trump talks, and there were no public mentions of Taiwan at the official Xi and Trump meeting. [1][5]\n\nOUTLOOK\nA Polymarket market on whether Puma Shen will win the next Taipei Mayor election is priced Yes at 19% as of Sep 28, 2026, closing Nov 29, 2026. [E5]\nA Polymarket market on whether China will invade Taiwan by December 31, 2027 is priced Yes at 13% as of Sep 28, 2026, closing Jan 1, 2028. [E8]\n\nWATCH ITEMS\nIt remains to be seen whether the US federal government will take a stake in Taiwan Semiconductor Manufacturing Company Limited, a market that closes Jan 1, 2027. [E6]\nThe outcome of the Polymarket market on whether China will invade Taiwan by December 31, 2027 is unresolved, closing Jan 1, 2028. [E8]",
+      "generatedAt": "2026-09-28T05:07:19.006Z",
+      "sources": [
+        {
+          "title": "White House fact sheet omits Taiwan in Xi-Trump talks - Focus Taiwan",
+          "source": "Focus Taiwan",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB3MkZUNmJkNDJKRjMyaXd1VDFOXzZBYWw2RmcxU0ktRG1IYjRBb21oWmtxSS1OSmdIVHpPZDhtaElXM2k1YnhHRjVFNmxacllqZVBrYmt6cw?oc=5",
+          "publishedAt": "2026-09-26T09:53:00.000Z"
+        },
+        {
+          "title": "Trump asked Xi if China wanted to buy American weapons, US envoy says",
+          "source": "Financial Times",
+          "url": "https://www.ft.com/content/8b4690d4-7c02-48af-b117-56faf21c389d?syn-25a6b1a6=1",
+          "publishedAt": "2026-09-27T20:31:48.000Z"
+        },
+        {
+          "title": "The Coming Taiwan Crisis",
+          "source": "Foreign Affairs",
+          "url": "https://www.foreignaffairs.com/taiwan/coming-taiwan-crisis-china-jonathan-czin",
+          "publishedAt": "2026-09-25T04:00:00.000Z"
+        },
+        {
+          "title": "Transcript: Alexander Yui, Taiwan's representative to the U.S., on \"Face the Nation with Margaret Brennan,\" Sept. 27, 2026",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/alexander-yui-taiwan-representative-face-the-nation-transcript-09-27-2026/",
+          "publishedAt": "2026-09-27T18:12:17.000Z"
+        },
+        {
+          "title": "No public mentions of Taiwan at official Xi and Trump meeting",
+          "source": "DW News",
+          "url": "https://www.dw.com/en/no-public-mentions-of-taiwan-at-official-xi-and-trump-meeting/a-79445378?maca=en-rss-en-all-1573-xml-mrss",
+          "publishedAt": "2026-09-27T08:05:00.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E5",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "19%",
+          "factText": "A Polymarket market related to Taiwan, \"Will Puma Shen win the next Taipei Mayor election?\", priced Yes at 19% on Sep 28, 2026; it closes Nov 29, 2026.",
+          "asOf": "2026-09-28T05:00:34.359Z",
+          "url": "https://polymarket.com/event/taipei-mayor-election-winner-20260813125857100"
+        },
+        {
+          "id": "E6",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "18%",
+          "factText": "A Polymarket market related to Taiwan, \"Will the US federal government take a stake in Taiwan Semiconductor Manufacturing Company Limited?\", priced Yes at 18% on Sep 28, 2026; it closes Jan 1, 2027.",
+          "asOf": "2026-09-28T05:00:34.359Z",
+          "url": "https://polymarket.com/event/which-companies-will-the-us-take-a-stake-in"
+        },
+        {
+          "id": "E8",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "13%",
+          "factText": "A Polymarket market related to Taiwan, \"Will China invade Taiwan by December 31, 2027?\", priced Yes at 13% on Sep 28, 2026; it closes Jan 1, 2028.",
+          "asOf": "2026-09-28T05:00:34.359Z",
+          "url": "https://polymarket.com/event/will-china-invade-taiwan-by-december-31-2027"
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "title": "Cross-Strait activity 2026-09-28: plaAircraftSorties: 3; planShips: 5; officialShips: 4; medianLineCrossings: 1; adizEntries: 1",
+        "summary": "",
+        "sourceUrl": "https://www.mnd.gov.tw/en/News/PLAAct/87843",
+        "occurredAt": "2026-09-28T00:00:00.000Z",
+        "domain": "military"
+      },
+      {
+        "title": "Cross-Strait activity 2026-09-27: plaAircraftSorties: 2; planShips: 5; officialShips: 6",
+        "summary": "",
+        "sourceUrl": "https://www.mnd.gov.tw/en/News/PLAAct/87841",
+        "occurredAt": "2026-09-27T00:00:00.000Z",
+        "domain": "military"
+      },
+      {
+        "title": "Cross-Strait activity 2026-09-26: plaAircraftSorties: 5; planShips: 6; officialShips: 5; medianLineCrossings: 1; adizEntries: 1",
+        "summary": "",
+        "sourceUrl": "https://www.mnd.gov.tw/en/News/PLAAct/87839",
+        "occurredAt": "2026-09-26T00:00:00.000Z",
+        "domain": "military"
+      },
+      {
+        "title": "Cross-Strait activity 2026-09-25: plaAircraftSorties: 2; planShips: 6; officialShips: 5; adizEntries: 1",
+        "summary": "",
+        "sourceUrl": "https://www.mnd.gov.tw/en/News/PLAAct/87837",
+        "occurredAt": "2026-09-25T00:00:00.000Z",
+        "domain": "military"
+      },
+      {
+        "title": "Cross-Strait activity 2026-09-24: plaAircraftSorties: 10; planShips: 6; officialShips: 6; medianLineCrossings: 5; adizEntries: 5",
+        "summary": "",
+        "sourceUrl": "https://www.mnd.gov.tw/en/News/PLAAct/87831",
+        "occurredAt": "2026-09-24T00:00:00.000Z",
+        "domain": "military"
+      },
+      {
+        "title": "Cross-Strait activity 2026-09-23: plaAircraftSorties: 10; planShips: 6; officialShips: 6; medianLineCrossings: 9; adizEntries: 9",
+        "summary": "",
+        "sourceUrl": "https://www.mnd.gov.tw/en/News/PLAAct/87821",
+        "occurredAt": "2026-09-23T00:00:00.000Z",
+        "domain": "military"
+      },
+      {
+        "title": "Cross-Strait activity 2026-09-22: plaAircraftSorties: 4; planShips: 6; officialShips: 3; medianLineCrossings: 4; adizEntries: 4",
+        "summary": "",
+        "sourceUrl": "https://www.mnd.gov.tw/en/News/PLAAct/87813",
+        "occurredAt": "2026-09-22T00:00:00.000Z",
+        "domain": "military"
+      },
+      {
+        "title": "Cross-Strait activity 2026-09-21: plaAircraftSorties: 4; planShips: 7; officialShips: 4; medianLineCrossings: 3; adizEntries: 3",
+        "summary": "",
+        "sourceUrl": "https://www.mnd.gov.tw/en/News/PLAAct/87807",
+        "occurredAt": "2026-09-21T00:00:00.000Z",
+        "domain": "military"
+      },
+      {
+        "title": "Cross-Strait activity 2026-09-20: plaAircraftSorties: 5; planShips: 11; officialShips: 6; medianLineCrossings: 5; adizEntries: 5",
+        "summary": "",
+        "sourceUrl": "https://www.mnd.gov.tw/en/News/PLAAct/87801",
+        "occurredAt": "2026-09-20T00:00:00.000Z",
+        "domain": "military"
+      },
+      {
+        "title": "Cross-Strait activity 2026-09-19: plaAircraftSorties: 20; planShips: 11; officialShips: 3; medianLineCrossings: 13; adizEntries: 13",
+        "summary": "",
+        "sourceUrl": "https://www.mnd.gov.tw/en/News/PLAAct/87799",
+        "occurredAt": "2026-09-19T00:00:00.000Z",
+        "domain": "military"
+      }
+    ],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

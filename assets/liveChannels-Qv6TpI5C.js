@@ -1,0 +1,3 @@
+import"./clerk-Bv6SR6q7.js";/* empty css             */import{p as i}from"./theme-colors-BmUbP5Zj.js";import{initLiveChannelsWindow as o}from"./live-channels-window-BgAxjpRm.js";import{a as r}from"./theme-manager-CAVZrcRi.js";import"./i18n-qlunRAMb.js";import"./live-channels-B4BepBDU.js";import"./base-D0QjlXm-.js";import"./markets-DAj2UmR6.js";import"./model-zw5s2y0R.js";import"./index-Bxy5zMWX.js";import"./storage-quota-BtyHkWgJ.js";import"./sanitize-D7dx0cA1.js";import"./user-location-PIZ0eOpN.js";import"./dom-utils-COg85yfw.js";async function t(){r(),await i({waitForFullTranslation:!0}),await o()}t().catch(console.error);
+
+;(globalThis.__WM_CHUNK_OWNERSHIP__||(globalThis.__WM_CHUNK_OWNERSHIP__={}))["liveChannels-Qv6TpI5C.js"]=1;

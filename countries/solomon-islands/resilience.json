@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "SB",
+  "countryName": "Solomon Islands",
+  "slug": "solomon-islands",
+  "rank": 52,
+  "overallScore": 58.3,
+  "dimensionCoverage": 0.71,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Indonesia, Solomon Islands agree to boost trade, ties at UN",
+        "source": "antaranews.com",
+        "url": "https://en.antaranews.com/news/432972/indonesia-solomon-islands-agree-to-boost-trade-ties-at-un",
+        "publishedAt": "2026-09-26T11:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "215 Graduate from USP Solomon Islands Campus in Honiara",
+        "source": "solomontimes.com",
+        "url": "https://www.solomontimes.com/news/215-graduate-from-usp-solomon-islands-campus-in-honiara/13250",
+        "publishedAt": "2026-09-25T08:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Solomon Islands moves above Pacific life expectancy average, economists write",
+        "source": "solomontimes.com",
+        "url": "https://www.solomontimes.com/news/solomon-islands-moves-above-pacific-life-expectancy-average-economists-write/13249",
+        "publishedAt": "2026-09-25T08:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Solomon Islands Officials Study Fiji Road and Traffic Systems",
+        "source": "solomontimes.com",
+        "url": "https://www.solomontimes.com/news/solomon-islands-officials-study-fiji-road-and-traffic-systems/13247",
+        "publishedAt": "2026-09-25T08:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Solomon Islands Media Industry warns of growing journalist…",
+        "source": "fijisun.com.fj",
+        "url": "https://fijisun.com.fj/news/pacific/solomon-islands-media-industry-warns-of-growing-journalist-shortage",
+        "publishedAt": "2026-09-24T09:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

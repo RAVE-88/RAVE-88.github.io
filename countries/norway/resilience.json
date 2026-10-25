@@ -1,0 +1,98 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "NO",
+  "countryName": "Norway",
+  "slug": "norway",
+  "rank": 2,
+  "overallScore": 75.4,
+  "dimensionCoverage": 0.76,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Watch UEFA Nations League Soccer: Livestream Norway vs. Portugal From Anywhere - CNET",
+        "source": "Options Market",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOem9CZVFKdWtyZElEMDBuc1h6cUQ4WFNFSi0tYUZRal9LUlhMdkVuSXJUZlM2MlB0SExxanFLQmduY1J0dC1JWGtWVnlzbGlMUnl5ZU9SWnBjMW82WFF6NjA5bGhzNUE4QmVoLU9Mc2VIeE5BNkZvNVVta0xBbWwwN3Via3lKSnNzc0J4dWNXcVc2WG1pNnNZb3cxSWstSkFOaUVSVFV5TkxjX3lIUkU0OGJkY042RTVOZlVBTnBDUk9ZMVk?oc=5",
+        "publishedAt": "2026-09-27T15:45:02.000Z"
+      },
+      {
+        "title": "Ronaldo benched as Ramos fires Portugal to 2-1 win over Norway",
+        "source": "Vanguard Nigeria",
+        "url": "https://www.vanguardngr.com/2026/09/ronaldo-benched-as-ramos-fires-portugal-to-2-1-win-over-norway/",
+        "publishedAt": "2026-09-27T21:38:11.000Z"
+      },
+      {
+        "title": "Ramos fires holders Portugal to 2-1 Nations League win in Norway",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/9/27/ramos-fires-holders-portugal-to-2-1-nations-league-win-in-norway?traffic_source=rss",
+        "publishedAt": "2026-09-27T21:02:48.000Z"
+      },
+      {
+        "title": "Why Norwegians are buying more Chinese EVs despite growing scepticism",
+        "source": "EuroNews",
+        "url": "https://www.euronews.com/2026/09/27/why-are-norwegians-buying-more-chinese-evs-despite-growing-scepticism",
+        "publishedAt": "2026-09-27T14:14:45.000Z"
+      },
+      {
+        "title": "Ramos Fires Holders Portugal to Nations League Win in Norway",
+        "source": "aawsat.com",
+        "url": "https://english.aawsat.com/sports/5323310-ramos-fires-holders-portugal-nations-league-win-norway",
+        "publishedAt": "2026-09-28T03:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nPortugal defeated Norway 2-1 in a Nations League match, with Ramos scoring for Portugal. [1][2][4]\nNorwegians are buying more Chinese EVs despite growing scepticism. [3]\n\nKEY RISKS\nThe 5 US OFAC and Canada SEMA sanctions designations linked to Norway pose a risk of increased scrutiny on Norwegian entities involved in international trade. [E2]\n\nWATCH ITEMS\nWhether the trend of Norwegians buying more Chinese EVs continues amid growing scepticism. [3]",
+      "generatedAt": "2026-09-28T05:05:06.858Z",
+      "sources": [
+        {
+          "title": "Ronaldo benched as Ramos fires Portugal to 2-1 win over Norway",
+          "source": "Vanguard Nigeria",
+          "url": "https://www.vanguardngr.com/2026/09/ronaldo-benched-as-ramos-fires-portugal-to-2-1-win-over-norway/",
+          "publishedAt": "2026-09-27T21:38:11.000Z"
+        },
+        {
+          "title": "Ramos fires holders Portugal to 2-1 Nations League win in Norway",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/9/27/ramos-fires-holders-portugal-to-2-1-nations-league-win-in-norway?traffic_source=rss",
+          "publishedAt": "2026-09-27T21:02:48.000Z"
+        },
+        {
+          "title": "Why Norwegians are buying more Chinese EVs despite growing scepticism",
+          "source": "EuroNews",
+          "url": "https://www.euronews.com/2026/09/27/why-are-norwegians-buying-more-chinese-evs-despite-growing-scepticism",
+          "publishedAt": "2026-09-27T14:14:45.000Z"
+        },
+        {
+          "title": "Ramos Fires Holders Portugal to Nations League Win in Norway",
+          "source": "aawsat.com",
+          "url": "https://english.aawsat.com/sports/5323310-ramos-fires-holders-portugal-nations-league-win-norway",
+          "publishedAt": "2026-09-28T03:15:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "5",
+          "factText": "Norway is linked to 5 US OFAC and Canada SEMA sanctions designations, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T00:01:35.739Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

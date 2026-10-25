@@ -1,0 +1,116 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "BD",
+  "countryName": "Bangladesh",
+  "slug": "bangladesh",
+  "rank": 148,
+  "overallScore": 40.8,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Bangladesh’s Youth-led NCP Struggles for an Independent Identity in Jamaat’s Shadow",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/09/bangladeshs-youth-led-ncp-struggles-for-an-independent-identity-in-jamaats-shadow/",
+        "publishedAt": "2026-09-25T02:02:00.000Z"
+      },
+      {
+        "title": "Who Is Indigenous? The Politics of Tribal Identity Terminology in India and Bangladesh",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/09/who-is-indigenous-the-politics-of-tribal-identity-terminology-in-india-and-bangladesh/",
+        "publishedAt": "2026-09-24T15:23:00.000Z"
+      },
+      {
+        "title": "Beyond protest: Mob violence and the struggle for institutional response in Bangladesh",
+        "source": "globalvoices.org",
+        "url": "https://globalvoices.org/2026/09/27/beyond-protest-mob-violence-and-the-struggle-for-institutional-response-in-bangladesh/",
+        "publishedAt": "2026-09-28T03:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Bangladesh metro official embarrassed after athlete barred for 'obscene' shorts – Asia News Network",
+        "source": "asianews.network",
+        "url": "https://asianews.network/bangladesh-metro-official-embarrassed-after-athlete-barred-for-obscene-shorts/",
+        "publishedAt": "2026-09-28T02:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "World Tourism Network Bangladesh Sets Global Example on World Tourism Day 2026",
+        "source": "forimmediaterelease.net",
+        "url": "https://forimmediaterelease.net/world-tourism-network-bangladesh-sets-global-example-on-world-tourism-day-2026/",
+        "publishedAt": "2026-09-28T01:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nBangladesh's youth-led NCP struggles for an independent identity in the shadow of Jamaat. [1]\nMob violence and the struggle for institutional response in Bangladesh have moved beyond protest. [3]\n\nWHAT THIS MEANS FOR BANGLADESH\nThe NCP's struggle for identity may complicate political stability, as Bangladesh is linked to 15 US OFAC and Canada SEMA sanctions designations as of Sep 28, 2026. [1][E2]\n\nKEY RISKS\nThe most severe government travel advisory World Monitor tracks for Bangladesh is Reconsider Travel as of Sep 28, 2026, indicating elevated risk for foreign engagement. [E1]\n\nWATCH ITEMS\nThe outcome of the politics of tribal identity terminology in India and Bangladesh remains unresolved. [2]",
+      "generatedAt": "2026-09-28T04:58:48.676Z",
+      "sources": [
+        {
+          "title": "Bangladesh’s Youth-led NCP Struggles for an Independent Identity in Jamaat’s Shadow",
+          "source": "The Diplomat",
+          "url": "https://thediplomat.com/2026/09/bangladeshs-youth-led-ncp-struggles-for-an-independent-identity-in-jamaats-shadow/",
+          "publishedAt": "2026-09-25T02:02:00.000Z"
+        },
+        {
+          "title": "Who Is Indigenous? The Politics of Tribal Identity Terminology in India and Bangladesh",
+          "source": "The Diplomat",
+          "url": "https://thediplomat.com/2026/09/who-is-indigenous-the-politics-of-tribal-identity-terminology-in-india-and-bangladesh/",
+          "publishedAt": "2026-09-24T15:23:00.000Z"
+        },
+        {
+          "title": "Beyond protest: Mob violence and the struggle for institutional response in Bangladesh",
+          "source": "globalvoices.org",
+          "url": "https://globalvoices.org/2026/09/27/beyond-protest-mob-violence-and-the-struggle-for-institutional-response-in-bangladesh/",
+          "publishedAt": "2026-09-28T03:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Bangladesh metro official embarrassed after athlete barred for 'obscene' shorts – Asia News Network",
+          "source": "asianews.network",
+          "url": "https://asianews.network/bangladesh-metro-official-embarrassed-after-athlete-barred-for-obscene-shorts/",
+          "publishedAt": "2026-09-28T02:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "World Tourism Network Bangladesh Sets Global Example on World Tourism Day 2026",
+          "source": "forimmediaterelease.net",
+          "url": "https://forimmediaterelease.net/world-tourism-network-bangladesh-sets-global-example-on-world-tourism-day-2026/",
+          "publishedAt": "2026-09-28T01:00:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Reconsider Travel",
+          "factText": "The most severe government travel advisory World Monitor tracks for Bangladesh is Reconsider Travel, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T04:03:15.792Z"
+        },
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "15",
+          "factText": "Bangladesh is linked to 15 US OFAC and Canada SEMA sanctions designations, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T00:01:35.739Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

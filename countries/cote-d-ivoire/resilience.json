@@ -1,0 +1,110 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "CI",
+  "countryName": "Côte d’Ivoire",
+  "slug": "cote-d-ivoire",
+  "rank": 134,
+  "overallScore": 43.5,
+  "dimensionCoverage": 0.78,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Haiti - News : Zapping...",
+        "source": "HaitiLibre English",
+        "url": "https://www.haitilibre.com/en/news-48538-haiti-news-zapping.html",
+        "publishedAt": "2026-09-27T15:10:24.000Z"
+      },
+      {
+        "title": "NASA Welcomes Côte d'Ivoire as Newest Artemis Accords Signatory",
+        "source": "nasa.gov",
+        "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-cote-divoire-as-newest-artemis-accords-signatory/",
+        "publishedAt": "2026-09-24T23:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Waraba Gold Confirms In-Situ Gold Mineralisation at Fetiko Within a 1.9 Kilometre Gold-in-Saprolite Corridor, Tengrela Gold Project, Côte d'Ivoire",
+        "source": "juniorminingnetwork.com",
+        "url": "https://www.juniorminingnetwork.com/junior-miner-news/press-releases/2872-cse/wbgd/211722-waraba-gold-confirms-in-situ-gold-mineralisation-at-fetiko-within-a-1-9-kilometre-gold-in-saprolite-corridor-tengrela-gold-project-cote-d-ivoire.html",
+        "publishedAt": "2026-09-24T11:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Côte d'Ivoire Signs Eight-Year Zipline Expansion, Taking Drone Health Logistics From One Centre to Ten",
+        "source": "iafrica.com",
+        "url": "https://iafrica.com/cote-divoire-signs-eight-year-zipline-expansion-taking-drone-health-logistics-from-one-centre-to-ten/",
+        "publishedAt": "2026-09-24T11:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "We came here to deliver, not to walk in the park - Black Stars coach ahead of Cote d'Ivoire clash",
+        "source": "ghanafa.org",
+        "url": "https://www.ghanafa.org/we-came-here-to-deliver-not-to-walk-in-the-park-black-stars-coach-ahead-of-cote-divoire-clash",
+        "publishedAt": "2026-09-24T11:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nCôte d'Ivoire became the newest signatory of the Artemis Accords, as announced by NASA. [2]\nWaraba Gold confirmed in-situ gold mineralisation at Fetiko within a 1.9 kilometre gold-in-saprolite corridor at the Tengrela Gold Project in Côte d'Ivoire. [3]\n\nWHAT THIS MEANS FOR CÔTE D’IVOIRE\nCôte d'Ivoire's signing of the Artemis Accords signals its growing engagement in space exploration, while the country faces 7 US OFAC and Canada SEMA sanctions designations that may complicate international partnerships. [2][E2]\n\nWATCH ITEMS\nThe outcome of the Zipline expansion to ten centres in Côte d'Ivoire over eight years remains to be seen. [4]",
+      "generatedAt": "2026-09-28T04:59:38.589Z",
+      "sources": [
+        {
+          "title": "Haiti - News : Zapping...",
+          "source": "HaitiLibre English",
+          "url": "https://www.haitilibre.com/en/news-48538-haiti-news-zapping.html",
+          "publishedAt": "2026-09-27T15:10:24.000Z"
+        },
+        {
+          "title": "NASA Welcomes Côte d'Ivoire as Newest Artemis Accords Signatory",
+          "source": "nasa.gov",
+          "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-cote-divoire-as-newest-artemis-accords-signatory/",
+          "publishedAt": "2026-09-24T23:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Waraba Gold Confirms In-Situ Gold Mineralisation at Fetiko Within a 1.9 Kilometre Gold-in-Saprolite Corridor, Tengrela Gold Project, Côte d'Ivoire",
+          "source": "juniorminingnetwork.com",
+          "url": "https://www.juniorminingnetwork.com/junior-miner-news/press-releases/2872-cse/wbgd/211722-waraba-gold-confirms-in-situ-gold-mineralisation-at-fetiko-within-a-1-9-kilometre-gold-in-saprolite-corridor-tengrela-gold-project-cote-d-ivoire.html",
+          "publishedAt": "2026-09-24T11:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Côte d'Ivoire Signs Eight-Year Zipline Expansion, Taking Drone Health Logistics From One Centre to Ten",
+          "source": "iafrica.com",
+          "url": "https://iafrica.com/cote-divoire-signs-eight-year-zipline-expansion-taking-drone-health-logistics-from-one-centre-to-ten/",
+          "publishedAt": "2026-09-24T11:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "We came here to deliver, not to walk in the park - Black Stars coach ahead of Cote d'Ivoire clash",
+          "source": "ghanafa.org",
+          "url": "https://www.ghanafa.org/we-came-here-to-deliver-not-to-walk-in-the-park-black-stars-coach-ahead-of-cote-divoire-clash",
+          "publishedAt": "2026-09-24T11:15:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "7",
+          "factText": "Côte d’Ivoire is linked to 7 US OFAC and Canada SEMA sanctions designations, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T00:01:35.739Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

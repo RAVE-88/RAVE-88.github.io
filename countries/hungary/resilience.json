@@ -1,0 +1,119 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "HU",
+  "countryName": "Hungary",
+  "slug": "hungary",
+  "rank": 37,
+  "overallScore": 61.2,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Ireland beats Israel 3-0 wearing black armbands to support Gaza",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/27-09-sv-ireland-beats-israel-ie?traffic_source=rss",
+        "publishedAt": "2026-09-28T01:39:02.000Z"
+      },
+      {
+        "title": "Magyar in Rome: Can the Church Maintain Its Influence in Hungary After Orban?",
+        "source": "Balkan Insight",
+        "url": "https://balkaninsight.com/2026/09/24/magyar-in-rome-can-the-church-maintain-its-influence-in-hungary-after-orban/rd/",
+        "publishedAt": "2026-09-24T06:02:09.000Z"
+      },
+      {
+        "title": "Dominik Szoboszlai and Milos Kerkez involved in Hungary brawl vs Ukraine",
+        "source": "caughtoffside.com",
+        "url": "https://www.caughtoffside.com/2026/09/27/szoboszlai-kerkez-hungary-brawl-ukraine/",
+        "publishedAt": "2026-09-27T20:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "MOL Group inaugurates 37.4 MWp solar park, energy storage system in Hungary",
+        "source": "tradearabia.com",
+        "url": "https://tradearabia.com/News/486529/MOL-Group-inaugurates-37.4-MWp-solar-park-energy-storage-system-in-Hungary",
+        "publishedAt": "2026-09-27T04:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Hungary holds up Ukraine's EU bid over minority concerns",
+        "source": "news.az",
+        "url": "https://news.az/news/hungary-holds-up-ukraines-eu-bid-over-minority-concerns",
+        "publishedAt": "2026-09-26T16:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nMOL Group has inaugurated a 37.4 MWp solar park and energy storage system in Hungary. [3]\nHungary is holding up Ukraine's EU bid over minority concerns. [4]\n\nWHAT THIS MEANS FOR HUNGARY\nHungary's hold on Ukraine's EU bid over minority concerns may be influenced by its 9 US OFAC and Canada SEMA sanctions designations, which could affect diplomatic leverage. [4][E2]\n\nKEY RISKS\nHungary's 9 US OFAC and Canada SEMA sanctions designations pose a risk of restricted international financial and trade relations. [E2]\nWith a net energy import dependency of 49%, Hungary faces risk of energy supply disruptions if external sources are compromised. [E3]\n\nOUTLOOK\nA Kalshi market related to Hungary, \"Where will Putin and Zelenskyy next meet?: Hungary\", is priced Yes at 11% on Sep 28, 2026, and closes Dec 31, 2028. [E4]\n\nWATCH ITEMS\nThe outcome of Hungary's hold on Ukraine's EU bid over minority concerns is pending. [4]",
+      "generatedAt": "2026-09-28T05:02:14.983Z",
+      "sources": [
+        {
+          "title": "Magyar in Rome: Can the Church Maintain Its Influence in Hungary After Orban?",
+          "source": "Balkan Insight",
+          "url": "https://balkaninsight.com/2026/09/24/magyar-in-rome-can-the-church-maintain-its-influence-in-hungary-after-orban/rd/",
+          "publishedAt": "2026-09-24T06:02:09.000Z"
+        },
+        {
+          "title": "Dominik Szoboszlai and Milos Kerkez involved in Hungary brawl vs Ukraine",
+          "source": "caughtoffside.com",
+          "url": "https://www.caughtoffside.com/2026/09/27/szoboszlai-kerkez-hungary-brawl-ukraine/",
+          "publishedAt": "2026-09-27T20:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "MOL Group inaugurates 37.4 MWp solar park, energy storage system in Hungary",
+          "source": "tradearabia.com",
+          "url": "https://tradearabia.com/News/486529/MOL-Group-inaugurates-37.4-MWp-solar-park-energy-storage-system-in-Hungary",
+          "publishedAt": "2026-09-27T04:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Hungary holds up Ukraine's EU bid over minority concerns",
+          "source": "news.az",
+          "url": "https://news.az/news/hungary-holds-up-ukraines-eu-bid-over-minority-concerns",
+          "publishedAt": "2026-09-26T16:00:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "9",
+          "factText": "Hungary is linked to 9 US OFAC and Canada SEMA sanctions designations, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T00:01:35.739Z"
+        },
+        {
+          "id": "E3",
+          "kind": "energy",
+          "label": "Net energy import dependency",
+          "value": "49%",
+          "factText": "Hungary has a net energy import dependency of 49% (Eurostat, 2024).",
+          "asOf": "2024-12-31T00:00:00.000Z"
+        },
+        {
+          "id": "E4",
+          "kind": "market",
+          "label": "Kalshi prediction market",
+          "value": "11%",
+          "factText": "A Kalshi market related to Hungary, \"Where will Putin and Zelenskyy next meet?: Hungary\", priced Yes at 11% on Sep 28, 2026; it closes Dec 31, 2028.",
+          "asOf": "2026-09-28T05:00:34.359Z",
+          "url": "https://kalshi.com/markets/KXPUTINZELENSKYYLOCATION-28-HUNG"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

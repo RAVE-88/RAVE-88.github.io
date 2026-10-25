@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "MU",
+  "countryName": "Mauritius",
+  "slug": "mauritius",
+  "rank": 67,
+  "overallScore": 55.9,
+  "dimensionCoverage": 0.85,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "[Blog] Civil Service College: Improving Mauritius Civil Service",
+        "source": "defimedia.info",
+        "url": "https://defimedia.info/blog-civil-service-college-improving-mauritius-civil-service",
+        "publishedAt": "2026-09-27T11:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "[Blog] Torchbearers of Tradition: Mauritius' Telugu Community and the 40 Day Vratam",
+        "source": "defimedia.info",
+        "url": "https://defimedia.info/blog-torchbearers-tradition-mauritius-telugu-community-and-40-day-vratam",
+        "publishedAt": "2026-09-27T11:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Mauritius denies landing permit to flight from Israel, forcing cancellation: Tour operator",
+        "source": "aa.com.tr",
+        "url": "https://aa.com.tr/en/africa/mauritius-denies-landing-permit-to-flight-from-israel-forcing-cancellation-tour-operator/4070490",
+        "publishedAt": "2026-09-27T03:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "India, Mauritius to discuss expanding product coverage under economic cooperation agreement",
+        "source": "thehindubusinessline.com",
+        "url": "https://www.thehindubusinessline.com/economy/india-mauritius-to-discuss-expanding-product-coverage-under-economic-cooperation-agreement/article71504307.ece",
+        "publishedAt": "2026-09-24T14:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Minister of Foreign Affairs, Regional Integration and International Trade of the Republic of Mauritius, Dhananjay Ramful, stated on Wednesday in New York that autonomy under Moroccan sovereignty is \"t",
+        "source": "globalsecurity.org",
+        "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260923-morocco-mfa02.htm",
+        "publishedAt": "2026-09-24T13:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

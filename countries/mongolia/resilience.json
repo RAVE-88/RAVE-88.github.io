@@ -1,0 +1,110 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "MN",
+  "countryName": "Mongolia",
+  "slug": "mongolia",
+  "rank": 55,
+  "overallScore": 57.4,
+  "dimensionCoverage": 0.81,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Mongolia’s New Government Set Ambitious Goals. But Are They Realistic?",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/09/mongolias-new-government-set-ambitious-goals-but-are-they-realistic/",
+        "publishedAt": "2026-09-25T17:36:00.000Z"
+      },
+      {
+        "title": "Mongolia and Australia plan to develop cooperation in mining, geology and human resources",
+        "source": "akipress.com",
+        "url": "https://akipress.com/news:921195:Mongolia_and_Australia_plan_to_develop_cooperation_in_mining,_geology_and_human_resources/",
+        "publishedAt": "2026-09-25T12:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Mongolia's Nomadic Herders Turn to Technology as Climate and Desertification Threaten Livelihoods – Sri Lanka Guardian",
+        "source": "slguardian.org",
+        "url": "https://slguardian.org/mongolias-nomadic-herders-turn-to-technology-as-climate-and-desertification-threaten-livelihoods/",
+        "publishedAt": "2026-09-25T05:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Mongolia and North Macedonia discuss bilateral cooperation",
+        "source": "akipress.com",
+        "url": "https://akipress.com/news:920642:Mongolia_and_North_Macedonia_discuss_bilateral_cooperation/",
+        "publishedAt": "2026-09-23T09:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Petro Matad production halted in Mongolia amid PetroChina row",
+        "source": "proactiveinvestors.com",
+        "url": "https://www.proactiveinvestors.com/companies/news/1098869/petro-matad-production-halted-in-mongolia-amid-petrochina-row-1098869.html",
+        "publishedAt": "2026-09-22T12:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nMongolia’s new government has set ambitious goals, though their realism is questioned. [1]\nMongolia and Australia plan to develop cooperation in mining, geology and human resources. [2]\n\nKEY RISKS\nMongolia's 8 sanctions designations could deter foreign investment in the mining sector. [E2]\n\nWATCH ITEMS\nWhether Petro Matad's halted production in Mongolia amid the PetroChina row will be resolved. [5]",
+      "generatedAt": "2026-09-28T05:04:33.480Z",
+      "sources": [
+        {
+          "title": "Mongolia’s New Government Set Ambitious Goals. But Are They Realistic?",
+          "source": "The Diplomat",
+          "url": "https://thediplomat.com/2026/09/mongolias-new-government-set-ambitious-goals-but-are-they-realistic/",
+          "publishedAt": "2026-09-25T17:36:00.000Z"
+        },
+        {
+          "title": "Mongolia and Australia plan to develop cooperation in mining, geology and human resources",
+          "source": "akipress.com",
+          "url": "https://akipress.com/news:921195:Mongolia_and_Australia_plan_to_develop_cooperation_in_mining,_geology_and_human_resources/",
+          "publishedAt": "2026-09-25T12:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Mongolia's Nomadic Herders Turn to Technology as Climate and Desertification Threaten Livelihoods – Sri Lanka Guardian",
+          "source": "slguardian.org",
+          "url": "https://slguardian.org/mongolias-nomadic-herders-turn-to-technology-as-climate-and-desertification-threaten-livelihoods/",
+          "publishedAt": "2026-09-25T05:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Mongolia and North Macedonia discuss bilateral cooperation",
+          "source": "akipress.com",
+          "url": "https://akipress.com/news:920642:Mongolia_and_North_Macedonia_discuss_bilateral_cooperation/",
+          "publishedAt": "2026-09-23T09:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Petro Matad production halted in Mongolia amid PetroChina row",
+          "source": "proactiveinvestors.com",
+          "url": "https://www.proactiveinvestors.com/companies/news/1098869/petro-matad-production-halted-in-mongolia-amid-petrochina-row-1098869.html",
+          "publishedAt": "2026-09-22T12:30:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "8",
+          "factText": "Mongolia is linked to 8 US OFAC and Canada SEMA sanctions designations, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T00:01:35.739Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

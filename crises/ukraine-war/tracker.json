@@ -1,0 +1,51 @@
+{
+  "dataset": "crisis-tracker",
+  "slug": "ukraine-war",
+  "title": "Ukraine war tracker",
+  "shortTitle": "Ukraine war",
+  "description": "Monthly conflict pulse for Ukraine and Russia: recorded events, political violence and fatalities from HAPI/HDX humanitarian summaries in a fixed two-country scope.",
+  "overview": "This tracker compares the latest available monthly conflict summaries for Ukraine and Russia. The totals reflect the maintained humanitarian dataset's country records and are not a battlefield map, casualty estimate, or prediction.",
+  "coverage": [
+    {
+      "code": "UA",
+      "name": "Ukraine"
+    },
+    {
+      "code": "RU",
+      "name": "Russia"
+    }
+  ],
+  "source": "shared/crawlable-crises.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "maintainedPulse": {
+    "state": "ready",
+    "eventsTotal": 4858,
+    "fatalities": 2015,
+    "politicalViolenceEvents": 4844,
+    "referencePeriod": "2026-09-01",
+    "asOf": "2026-09-28T04:31:34.699Z",
+    "missingCountries": [],
+    "rows": [
+      {
+        "code": "RU",
+        "name": "Russia",
+        "events": 1228,
+        "fatalities": 46,
+        "political": 1217,
+        "demonstrations": 11,
+        "referencePeriod": "2026-09-01",
+        "updatedAt": "2026-09-28T04:31:34.699Z"
+      },
+      {
+        "code": "UA",
+        "name": "Ukraine",
+        "events": 3630,
+        "fatalities": 1969,
+        "political": 3627,
+        "demonstrations": 3,
+        "referencePeriod": "2026-09-01",
+        "updatedAt": "2026-09-28T04:31:34.699Z"
+      }
+    ]
+  }
+}

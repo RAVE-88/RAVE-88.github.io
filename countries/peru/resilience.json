@@ -1,0 +1,113 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "PE",
+  "countryName": "Peru",
+  "slug": "peru",
+  "rank": 42,
+  "overallScore": 60.4,
+  "dimensionCoverage": 0.81,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Melbourne man’s mysterious disappearance on popular Peru hiking trail prompts widespread search",
+        "source": "Guardian Americas",
+        "url": "https://www.theguardian.com/world/2026/sep/27/melbourne-man-disappearance-south-american-hiking-trail-search-peru",
+        "publishedAt": "2026-09-27T06:45:54.000Z"
+      },
+      {
+        "title": "Borussia Dortmund's Mathis Albert makes instant impact on USA debut against Peru",
+        "source": "bundesliga.com",
+        "url": "https://www.bundesliga.com/en/bundesliga/news/mathis-albert-borussia-dortmund-usa-peru-international-instant-impact-39364",
+        "publishedAt": "2026-09-27T17:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Fears grow for Aussie missing on gruelling 120km solo hike in Peru after missed flight and loss of contact: 'Very worried'",
+        "source": "dailymail.com",
+        "url": "https://www.dailymail.com/news/article-16163369/jordan-yap-missing-peru-solo-hike-cordillera-huayhuash.html",
+        "publishedAt": "2026-09-27T01:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Desperate search under way after Melbourne hiker Jordan Yap vanishes in remote Peru mountains",
+        "source": "perthnow.com.au",
+        "url": "https://www.perthnow.com.au/news/desperate-search-under-way-after-melbourne-hiker-jordan-yap-vanishes-in-remote-peru-mountains-c-22932477",
+        "publishedAt": "2026-09-27T01:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nA Melbourne man has gone missing on a popular Peru hiking trail, prompting a widespread search. [1]\n\nWHAT THIS MEANS FOR PERU\nThe disappearance of a foreign hiker in Peru may affect tourism perceptions, even though the most severe government travel advisory for Peru is Exercise Increased Caution as of Sep 28, 2026. [1][E1]\n\nKEY RISKS\nPeru is linked to 35 US OFAC and Canada SEMA sanctions designations as of Sep 28, 2026, which could pose financial or reputational risks. [E2]\n\nOUTLOOK\nA Polymarket market related to Peru, \"Will Carlos Ricardo Bruce Montes de Oca win the next Lima mayoral elections?\", priced Yes at 8% on Sep 28, 2026; it closes Oct 5, 2026. [E4]\n\nWATCH ITEMS\nThe search for missing Melbourne hiker Jordan Yap in the remote Peru mountains remains unresolved. [4]\nThe outcome of the Lima mayoral election market closing Oct 5, 2026 is pending. [E4]",
+      "generatedAt": "2026-09-28T05:05:25.825Z",
+      "sources": [
+        {
+          "title": "Melbourne man’s mysterious disappearance on popular Peru hiking trail prompts widespread search",
+          "source": "Guardian Americas",
+          "url": "https://www.theguardian.com/world/2026/sep/27/melbourne-man-disappearance-south-american-hiking-trail-search-peru",
+          "publishedAt": "2026-09-27T06:45:54.000Z"
+        },
+        {
+          "title": "Borussia Dortmund's Mathis Albert makes instant impact on USA debut against Peru",
+          "source": "bundesliga.com",
+          "url": "https://www.bundesliga.com/en/bundesliga/news/mathis-albert-borussia-dortmund-usa-peru-international-instant-impact-39364",
+          "publishedAt": "2026-09-27T17:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Fears grow for Aussie missing on gruelling 120km solo hike in Peru after missed flight and loss of contact: 'Very worried'",
+          "source": "dailymail.com",
+          "url": "https://www.dailymail.com/news/article-16163369/jordan-yap-missing-peru-solo-hike-cordillera-huayhuash.html",
+          "publishedAt": "2026-09-27T01:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Desperate search under way after Melbourne hiker Jordan Yap vanishes in remote Peru mountains",
+          "source": "perthnow.com.au",
+          "url": "https://www.perthnow.com.au/news/desperate-search-under-way-after-melbourne-hiker-jordan-yap-vanishes-in-remote-peru-mountains-c-22932477",
+          "publishedAt": "2026-09-27T01:15:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Exercise Increased Caution",
+          "factText": "The most severe government travel advisory World Monitor tracks for Peru is Exercise Increased Caution, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T05:03:30.360Z"
+        },
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "35",
+          "factText": "Peru is linked to 35 US OFAC and Canada SEMA sanctions designations, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T00:01:35.739Z"
+        },
+        {
+          "id": "E4",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "8%",
+          "factText": "A Polymarket market related to Peru, \"Will Carlos Ricardo Bruce Montes de Oca win the next Lima mayoral elections?\", priced Yes at 8% on Sep 28, 2026; it closes Oct 5, 2026.",
+          "asOf": "2026-09-28T05:00:34.359Z",
+          "url": "https://polymarket.com/event/lima-mayoral-election-winner-20260724153924694"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

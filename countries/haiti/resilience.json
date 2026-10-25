@@ -1,0 +1,181 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "HT",
+  "countryName": "Haiti",
+  "slug": "haiti",
+  "rank": 150,
+  "overallScore": 40.5,
+  "dimensionCoverage": 0.72,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "What to know as trials over the assassination of Haiti’s president resume in Miami",
+        "source": "Winnipeg Free Press",
+        "url": "https://www.winnipegfreepress.com/world/2026/09/27/what-to-know-as-trials-over-the-assassination-of-haitis-president-resume-in-miami",
+        "publishedAt": "2026-09-28T04:05:55.000Z"
+      },
+      {
+        "title": "Haiti and Angola strengthen their cooperation",
+        "source": "HaitiLibre English",
+        "url": "https://www.haitilibre.com/en/news-48536-haiti-and-angola-strengthen-their-cooperation.html",
+        "publishedAt": "2026-09-27T14:29:56.000Z"
+      },
+      {
+        "title": "Haiti - Security : Congratulations to the forces involved and requests from the city of Kenscoff",
+        "source": "HaitiLibre English",
+        "url": "https://www.haitilibre.com/en/news-48534-haiti-security-congratulations-to-the-forces-involved-and-requests-from-the-city-of-kenscoff.html",
+        "publishedAt": "2026-09-27T13:45:47.000Z"
+      },
+      {
+        "title": "Haiti - News : Zapping...",
+        "source": "HaitiLibre English",
+        "url": "https://www.haitilibre.com/en/news-48538-haiti-news-zapping.html",
+        "publishedAt": "2026-09-27T15:10:24.000Z"
+      },
+      {
+        "title": "'Death of the Soccer God' pays 'homage' to Haitian diaspora and 'those who go back & do their best'",
+        "source": "France 24 LatAm",
+        "url": "https://www.france24.com/en/death-of-the-soccer-god-pays-homage-to-haitian-diaspora-and-those-who-go-back-do-their-best",
+        "publishedAt": "2026-09-24T06:29:27.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nTrials over the assassination of Haiti’s president are resuming in Miami. [1]\nHaiti and Angola are strengthening their cooperation. [2]\n\nWHAT THIS MEANS FOR HAITI\nThe resumption of trials in Miami over the assassination of Haiti’s president occurs while Haiti is linked to 21 US OFAC and Canada SEMA sanctions designations, underscoring the international legal and financial dimensions of the case. [1][E2]\n\nKEY RISKS\nThe Do Not Travel advisory for Haiti signals a high-risk security environment that could deter foreign investment and diplomatic engagement. [E1]\nThe 21 US OFAC and Canada SEMA sanctions designations linked to Haiti create risks of financial isolation and restricted access to international banking systems. [E2]\n\nWATCH ITEMS\nThe outcome of the trials over the assassination of Haiti’s president resuming in Miami remains unresolved. [1]",
+      "generatedAt": "2026-09-28T05:02:08.579Z",
+      "sources": [
+        {
+          "title": "What to know as trials over the assassination of Haiti’s president resume in Miami",
+          "source": "Winnipeg Free Press",
+          "url": "https://www.winnipegfreepress.com/world/2026/09/27/what-to-know-as-trials-over-the-assassination-of-haitis-president-resume-in-miami",
+          "publishedAt": "2026-09-28T04:05:55.000Z"
+        },
+        {
+          "title": "Haiti and Angola strengthen their cooperation",
+          "source": "HaitiLibre English",
+          "url": "https://www.haitilibre.com/en/news-48536-haiti-and-angola-strengthen-their-cooperation.html",
+          "publishedAt": "2026-09-27T14:29:56.000Z"
+        },
+        {
+          "title": "Haiti - Security : Congratulations to the forces involved and requests from the city of Kenscoff",
+          "source": "HaitiLibre English",
+          "url": "https://www.haitilibre.com/en/news-48534-haiti-security-congratulations-to-the-forces-involved-and-requests-from-the-city-of-kenscoff.html",
+          "publishedAt": "2026-09-27T13:45:47.000Z"
+        },
+        {
+          "title": "Haiti - News : Zapping...",
+          "source": "HaitiLibre English",
+          "url": "https://www.haitilibre.com/en/news-48538-haiti-news-zapping.html",
+          "publishedAt": "2026-09-27T15:10:24.000Z"
+        },
+        {
+          "title": "'Death of the Soccer God' pays 'homage' to Haitian diaspora and 'those who go back & do their best'",
+          "source": "France 24 LatAm",
+          "url": "https://www.france24.com/en/death-of-the-soccer-god-pays-homage-to-haitian-diaspora-and-those-who-go-back-do-their-best",
+          "publishedAt": "2026-09-24T06:29:27.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Do Not Travel",
+          "factText": "The most severe government travel advisory World Monitor tracks for Haiti is Do Not Travel, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T04:03:15.792Z"
+        },
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "21",
+          "factText": "Haiti is linked to 21 US OFAC and Canada SEMA sanctions designations, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T00:01:35.739Z"
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "title": "GDELT 195 — in Haiti",
+        "summary": "source: www.dailygazette.com",
+        "sourceUrl": "https://www.dailygazette.com/the_recorder/ap/national/what-to-know-as-trials-over-the-assassination-of-haitis-president-resume-in-miami/article_f3ace52a-3ea7-546a-a80c-9c1764d83bd1.html",
+        "occurredAt": "2026-09-28T04:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 195 — in Haiti",
+        "summary": "source: www.dailygazette.com",
+        "sourceUrl": "https://www.dailygazette.com/the_recorder/ap/national/what-to-know-as-trials-over-the-assassination-of-haitis-president-resume-in-miami/article_f3ace52a-3ea7-546a-a80c-9c1764d83bd1.html",
+        "occurredAt": "2026-09-28T04:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Haiti",
+        "summary": "source: www.dailygazette.com",
+        "sourceUrl": "https://www.dailygazette.com/the_recorder/ap/national/what-to-know-as-trials-over-the-assassination-of-haitis-president-resume-in-miami/article_f3ace52a-3ea7-546a-a80c-9c1764d83bd1.html",
+        "occurredAt": "2026-09-28T04:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Haiti",
+        "summary": "source: www.dailygazette.com",
+        "sourceUrl": "https://www.dailygazette.com/the_recorder/ap/national/what-to-know-as-trials-over-the-assassination-of-haitis-president-resume-in-miami/article_f3ace52a-3ea7-546a-a80c-9c1764d83bd1.html",
+        "occurredAt": "2026-09-28T04:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Haiti",
+        "summary": "source: www.dailygazette.com",
+        "sourceUrl": "https://www.dailygazette.com/the_recorder/ap/national/what-to-know-as-trials-over-the-assassination-of-haitis-president-resume-in-miami/article_f3ace52a-3ea7-546a-a80c-9c1764d83bd1.html",
+        "occurredAt": "2026-09-28T04:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Haiti",
+        "summary": "source: www.dailygazette.com",
+        "sourceUrl": "https://www.dailygazette.com/the_recorder/ap/national/what-to-know-as-trials-over-the-assassination-of-haitis-president-resume-in-miami/article_f3ace52a-3ea7-546a-a80c-9c1764d83bd1.html",
+        "occurredAt": "2026-09-28T04:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Haiti",
+        "summary": "source: www.icihaiti.com",
+        "sourceUrl": "https://www.icihaiti.com/en/news-48526-an-fad-h-soldier-kills-his-ex-partner.html",
+        "occurredAt": "2026-09-27T17:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 186 — in Haiti",
+        "summary": "source: www.breitbart.com",
+        "sourceUrl": "https://www.breitbart.com/latin-america/2026/09/26/haiti-prime-minister-tells-u-n-the-world-has-a-shared-responsibility-to-prevent-crises/",
+        "occurredAt": "2026-09-27T13:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 186 — in Haiti",
+        "summary": "source: www.breitbart.com",
+        "sourceUrl": "https://www.breitbart.com/latin-america/2026/09/26/haiti-prime-minister-tells-u-n-the-world-has-a-shared-responsibility-to-prevent-crises/",
+        "occurredAt": "2026-09-27T13:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Haiti",
+        "summary": "source: kenya-today.com",
+        "sourceUrl": "https://kenya-today.com/report-murkomen-vows-tougher-action-after-officer-killed-and-livestock-losses-in-samburu-east-3517/",
+        "occurredAt": "2026-09-26T21:45:00.000Z",
+        "domain": "conflict"
+      }
+    ],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

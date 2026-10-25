@@ -1,0 +1,113 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "TN",
+  "countryName": "Tunisia",
+  "slug": "tunisia",
+  "rank": 133,
+  "overallScore": 43.5,
+  "dimensionCoverage": 0.85,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "A look back at Tunisia's summer of shortages",
+        "source": "France 24 Africa",
+        "url": "https://www.france24.com/en/tv-shows/the-observers/20260924-look-back-tunisiassummer-shortages",
+        "publishedAt": "2026-09-24T09:43:31.000Z"
+      },
+      {
+        "title": "What Uganda Cranes showed against Tunisia",
+        "source": "kawowo.com",
+        "url": "https://kawowo.com/2026/09/27/ugandas-tunisia-test-what-the-cranes-showed/",
+        "publishedAt": "2026-09-27T09:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Syrian broadcasting authority wins four awards at Arab media festival in Tunisia",
+        "source": "sana.sy",
+        "url": "https://sana.sy/en/syria/2346131/",
+        "publishedAt": "2026-09-26T13:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Boussandel brings heat, dust and memory of Tunisia to Geneva",
+        "source": "middle-east-online.com",
+        "url": "https://www.middle-east-online.com/en/boussandel-brings-heat-dust-and-memory-tunisia-geneva",
+        "publishedAt": "2026-09-25T13:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Tunisia Wins 6 Awards At Asbu Festival 2026",
+        "source": "allafrica.com",
+        "url": "https://allafrica.com/stories/202609250213.html",
+        "publishedAt": "2026-09-25T13:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nTunisia experienced a summer of shortages. [1]\n\nWHAT THIS MEANS FOR TUNISIA\nThe summer of shortages may be linked to Tunisia's net energy import dependency of 0%, as domestic energy supply could not prevent the shortages. [1][E3]\n\nKEY RISKS\nTunisia is linked to 8 US OFAC and Canada SEMA sanctions designations, posing a risk of financial and trade restrictions. [E2]\n\nOUTLOOK\nA Polymarket market related to Tunisia, \"Will Tunisia recognize Israel by December 31?\", priced Yes at 6% on Sep 28, 2026; it closes Jan 1, 2027. [E4]\n\nWATCH ITEMS\nThe outcome of the Polymarket question \"Will Tunisia recognize Israel by December 31?\" remains unresolved. [E4]",
+      "generatedAt": "2026-09-28T05:07:01.504Z",
+      "sources": [
+        {
+          "title": "A look back at Tunisia's summer of shortages",
+          "source": "France 24 Africa",
+          "url": "https://www.france24.com/en/tv-shows/the-observers/20260924-look-back-tunisiassummer-shortages",
+          "publishedAt": "2026-09-24T09:43:31.000Z"
+        },
+        {
+          "title": "What Uganda Cranes showed against Tunisia",
+          "source": "kawowo.com",
+          "url": "https://kawowo.com/2026/09/27/ugandas-tunisia-test-what-the-cranes-showed/",
+          "publishedAt": "2026-09-27T09:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Boussandel brings heat, dust and memory of Tunisia to Geneva",
+          "source": "middle-east-online.com",
+          "url": "https://www.middle-east-online.com/en/boussandel-brings-heat-dust-and-memory-tunisia-geneva",
+          "publishedAt": "2026-09-25T13:30:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "8",
+          "factText": "Tunisia is linked to 8 US OFAC and Canada SEMA sanctions designations, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T00:01:35.739Z"
+        },
+        {
+          "id": "E3",
+          "kind": "energy",
+          "label": "Net energy import dependency",
+          "value": "0%",
+          "factText": "Tunisia has a net energy import dependency of 0% (World Bank Open Data, 2023).",
+          "asOf": "2023-12-31T00:00:00.000Z"
+        },
+        {
+          "id": "E4",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "6%",
+          "factText": "A Polymarket market related to Tunisia, \"Will Tunisia recognize Israel by December 31?\", priced Yes at 6% on Sep 28, 2026; it closes Jan 1, 2027.",
+          "asOf": "2026-09-28T05:00:34.359Z",
+          "url": "https://polymarket.com/event/which-countries-will-recognize-israel-by-december-31"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

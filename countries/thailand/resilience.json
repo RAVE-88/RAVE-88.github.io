@@ -1,0 +1,110 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "TH",
+  "countryName": "Thailand",
+  "slug": "thailand",
+  "rank": 91,
+  "overallScore": 52.3,
+  "dimensionCoverage": 0.81,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Thousands evacuated amid Bangkok floods",
+        "source": "France 24 Asia Pacific",
+        "url": "https://www.france24.com/en/thousands-evacuated-amid-bangkok-floods",
+        "publishedAt": "2026-09-27T13:59:00.000Z"
+      },
+      {
+        "title": "Bangkok declares flood disaster after massive 48-hour downpour",
+        "source": "France 24 Asia Pacific",
+        "url": "https://www.france24.com/en/asia-pacific/20260926-bangkok-declares-flood-disaster-after-massive-48h-downpour",
+        "publishedAt": "2026-09-26T04:40:09.000Z"
+      },
+      {
+        "title": "Thailand’s Independent Institutions Have Lost All Credibility",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/09/thailands-independent-institutions-have-lost-all-credibility/",
+        "publishedAt": "2026-09-25T05:47:00.000Z"
+      },
+      {
+        "title": "Teen rocker Nene Royal becomes first Thai to win America's Got Talent",
+        "source": "BBC Asia",
+        "url": "https://www.bbc.co.uk/news/articles/cqzjzl3d1409o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-24T06:47:12.000Z"
+      },
+      {
+        "title": "The week in pictures: Trump hosts Xi, the pope visits France and floods ravage Thailand",
+        "source": "France 24 LatAm",
+        "url": "https://www.france24.com/en/americas/20260927-the-week-in-pictures-trump-hosts-xi-the-pope-visits-france-and-floods-ravage-thailand",
+        "publishedAt": "2026-09-27T10:05:49.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThousands were evacuated and Bangkok declared a flood disaster after a massive 48-hour downpour. [1][2]\n\nWHAT THIS MEANS FOR THAILAND\nThe severe flooding in Bangkok, which led to a disaster declaration, may strain Thailand's energy infrastructure given its net energy import dependency of 58%. [2][E3]\n\nKEY RISKS\nThailand's link to 74 US OFAC and Canada SEMA sanctions designations exposes it to potential financial and trade restrictions. [E2]\n\nWATCH ITEMS\nThe aftermath of Bangkok's flood disaster and the recovery of evacuated residents remain unresolved. [1][2]",
+      "generatedAt": "2026-09-28T05:06:55.567Z",
+      "sources": [
+        {
+          "title": "Thousands evacuated amid Bangkok floods",
+          "source": "France 24 Asia Pacific",
+          "url": "https://www.france24.com/en/thousands-evacuated-amid-bangkok-floods",
+          "publishedAt": "2026-09-27T13:59:00.000Z"
+        },
+        {
+          "title": "Bangkok declares flood disaster after massive 48-hour downpour",
+          "source": "France 24 Asia Pacific",
+          "url": "https://www.france24.com/en/asia-pacific/20260926-bangkok-declares-flood-disaster-after-massive-48h-downpour",
+          "publishedAt": "2026-09-26T04:40:09.000Z"
+        },
+        {
+          "title": "Thailand’s Independent Institutions Have Lost All Credibility",
+          "source": "The Diplomat",
+          "url": "https://thediplomat.com/2026/09/thailands-independent-institutions-have-lost-all-credibility/",
+          "publishedAt": "2026-09-25T05:47:00.000Z"
+        },
+        {
+          "title": "Teen rocker Nene Royal becomes first Thai to win America's Got Talent",
+          "source": "BBC Asia",
+          "url": "https://www.bbc.co.uk/news/articles/cqzjzl3d1409o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-09-24T06:47:12.000Z"
+        },
+        {
+          "title": "The week in pictures: Trump hosts Xi, the pope visits France and floods ravage Thailand",
+          "source": "France 24 LatAm",
+          "url": "https://www.france24.com/en/americas/20260927-the-week-in-pictures-trump-hosts-xi-the-pope-visits-france-and-floods-ravage-thailand",
+          "publishedAt": "2026-09-27T10:05:49.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "74",
+          "factText": "Thailand is linked to 74 US OFAC and Canada SEMA sanctions designations, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T00:01:35.739Z"
+        },
+        {
+          "id": "E3",
+          "kind": "energy",
+          "label": "Net energy import dependency",
+          "value": "58%",
+          "factText": "Thailand has a net energy import dependency of 58% (World Bank Open Data, 2023).",
+          "asOf": "2023-12-31T00:00:00.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "GB",
+  "countryName": "United Kingdom",
+  "slug": "united-kingdom",
+  "rank": 33,
+  "overallScore": 61.6,
+  "dimensionCoverage": 0.76,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "5 men arrested near UK air base used by US in Iran war on suspicion of preparing a terrorist act - apnews.com",
+        "source": "AP News",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcERWNlhSekhlZGNhNVZ4dTZra2o2b3ZEdGFOeFhYWi02T2JlZ2VPNlZ6ZUQ1ODI1MHc3WElaaVRnV2RlZTlUeHhSR1pSN1NOanZiZkEyNnNtaXhPWS1qYXNrSDlIb1M0S3dwMktBNUJUd244MlZuTHJrNk12SGNCckdRSXBCZWxQWml1MHZHdEkwYjVlSEsyX0FOLTRWYlRZ?oc=5",
+        "publishedAt": "2026-09-27T19:14:00.000Z"
+      },
+      {
+        "title": "In 1906 Australia’s high court backed ethnic cleansing. That historical wrong and error of law must be put right | Peter Prince and (Waskam) Emelda Davis",
+        "source": "Guardian Pacific",
+        "url": "https://www.theguardian.com/commentisfree/2026/sep/26/high-court-australia-south-sea-islanders-law-ntwnfb",
+        "publishedAt": "2026-09-25T15:00:12.000Z"
+      },
+      {
+        "title": "U.K. police arrest 5 near airbase used by U.S. on suspicion of preparing a terrorist act",
+        "source": "CBC News",
+        "url": "https://www.cbc.ca/news/world/us-air-base-england-police-investigation-9.7360081?cmp=rss",
+        "publishedAt": "2026-09-27T09:18:16.000Z"
+      },
+      {
+        "title": "GOP rep believes Iran was involved in thwarted terrorist plan on US air base in the UK",
+        "source": "The Hill",
+        "url": "https://thehill.com/homenews/house/6114136-uk-arrests-raf-fairford-terrorists/",
+        "publishedAt": "2026-09-27T21:46:21.000Z"
+      },
+      {
+        "title": "Trump says men arrested at UK air base used by US were looking to do 'big damage' - Reuters",
+        "source": "Reuters World",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOThaUHcwMHZuZEY2dldUNjhYQ29PeWRJdEYxWFBPV3NEUUdSc0l4MkdhN3liTGdyNG9XaEhwWG8xRk8xR29JVlA0ZEV2ZXM3RVZCRDlPSHhzU29Pek9tZVREdUdvOHRXS1ZuaTR0TXVGV253bkplU1lNbG85WXRjYzcwV2ZSekFCa1gtR1RtV09zM3NYeF93?oc=5",
+        "publishedAt": "2026-09-27T07:11:00.000Z"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "empty",
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

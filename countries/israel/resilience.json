@@ -1,0 +1,123 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "IL",
+  "countryName": "Israel",
+  "slug": "israel",
+  "rank": 53,
+  "overallScore": 57.7,
+  "dimensionCoverage": 0.76,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Ireland beats Israel 3-0 wearing black armbands to support Gaza",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/27-09-sv-ireland-beats-israel-ie?traffic_source=rss",
+        "publishedAt": "2026-09-28T01:39:02.000Z"
+      },
+      {
+        "title": "Israeli far-right minister calls for annexation of South Litani area",
+        "source": "Naharnet Lebanon",
+        "url": "https://naharnet.com/stories/en/322751-israeli-far-right-minister-calls-for-annexation-of-south-litani-area",
+        "publishedAt": "2026-09-27T11:31:52.000Z"
+      },
+      {
+        "title": "61m tonnes of rubble: Gaza aid workers face delicate task of clearing ruins concealing up to 10,000 bodies",
+        "source": "Guardian ME",
+        "url": "https://www.theguardian.com/world/2026/sep/27/rubble-gaza-un-aid-workers-ruins-dead-bodies",
+        "publishedAt": "2026-09-27T07:00:58.000Z"
+      },
+      {
+        "title": "Ed Miliband to acknowledge Labour’s former stance on Palestine fell short",
+        "source": "Guardian ME",
+        "url": "https://www.theguardian.com/politics/2026/sep/28/ed-miliband-labour-former-stance-palestine-fell-short",
+        "publishedAt": "2026-09-28T04:00:24.000Z"
+      },
+      {
+        "title": "Israeli media says Netanyahu made unannounced visit to UAE",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/news/international/israeli-media-says-netanyahu-made-unannounced-visit-to-uae/article71517298.ece",
+        "publishedAt": "2026-09-28T04:06:17.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nAn Israeli far-right minister has called for the annexation of the South Litani area. [1]\n\nKEY RISKS\nThe most severe government travel advisory for Israel is Reconsider Travel, reflecting risks to safety and security. [E2]\n\nOUTLOOK\nA Polymarket market related to Israel, \"Israel military action against Lebanon on September 30?\", is priced Yes at 88% as of Sep 28, 2026, and closes Sep 30, 2026. [E5]\nA Polymarket market related to Israel, \"Will the Bank of Israel make no change to the Bank of Israel Interest Rate after the October decision?\", is priced Yes at 86% as of Sep 28, 2026, and closes Oct 21, 2026. [E6]\n\nWATCH ITEMS\nThe outcome of the Polymarket market on whether Israel will take military action against Lebanon on September 30, 2026, remains unresolved. [E5]\nThe outcome of the Polymarket market on whether Benjamin Netanyahu will be the next Prime Minister of Israel is unresolved until Oct 27, 2026. [E7]",
+      "generatedAt": "2026-09-28T05:02:30.450Z",
+      "sources": [
+        {
+          "title": "Israeli far-right minister calls for annexation of South Litani area",
+          "source": "Naharnet Lebanon",
+          "url": "https://naharnet.com/stories/en/322751-israeli-far-right-minister-calls-for-annexation-of-south-litani-area",
+          "publishedAt": "2026-09-27T11:31:52.000Z"
+        },
+        {
+          "title": "61m tonnes of rubble: Gaza aid workers face delicate task of clearing ruins concealing up to 10,000 bodies",
+          "source": "Guardian ME",
+          "url": "https://www.theguardian.com/world/2026/sep/27/rubble-gaza-un-aid-workers-ruins-dead-bodies",
+          "publishedAt": "2026-09-27T07:00:58.000Z"
+        },
+        {
+          "title": "Ed Miliband to acknowledge Labour’s former stance on Palestine fell short",
+          "source": "Guardian ME",
+          "url": "https://www.theguardian.com/politics/2026/sep/28/ed-miliband-labour-former-stance-palestine-fell-short",
+          "publishedAt": "2026-09-28T04:00:24.000Z"
+        },
+        {
+          "title": "Israeli media says Netanyahu made unannounced visit to UAE",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/israeli-media-says-netanyahu-made-unannounced-visit-to-uae/article71517298.ece",
+          "publishedAt": "2026-09-28T04:06:17.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Reconsider Travel",
+          "factText": "The most severe government travel advisory World Monitor tracks for Israel is Reconsider Travel, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T04:03:15.792Z"
+        },
+        {
+          "id": "E5",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "88%",
+          "factText": "A Polymarket market related to Israel, \"Israel military action against Lebanon on September 30?\", priced Yes at 88% on Sep 28, 2026; it closes Sep 30, 2026.",
+          "asOf": "2026-09-28T05:00:34.359Z",
+          "url": "https://polymarket.com/event/israel-military-action-against-lebanon-onptptpt-20260903"
+        },
+        {
+          "id": "E6",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "86%",
+          "factText": "A Polymarket market related to Israel, \"Will the Bank of Israel make no change to the Bank of Israel Interest Rate after the October decision?\", priced Yes at 86% on Sep 28, 2026; it closes Oct 21, 2026.",
+          "asOf": "2026-09-28T05:00:34.359Z",
+          "url": "https://polymarket.com/event/bank-of-israel-decision-in-october"
+        },
+        {
+          "id": "E7",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "29%",
+          "factText": "A Polymarket market related to Israel, \"Will Benjamin Netanyahu be the next Prime Minister of Israel?\", priced Yes at 29% on Sep 28, 2026; it closes Oct 27, 2026.",
+          "asOf": "2026-09-28T05:00:34.359Z",
+          "url": "https://polymarket.com/event/who-will-be-the-next-prime-minister-of-israel-after-the-next-election"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "GW",
+  "countryName": "Guinea-Bissau",
+  "slug": "guinea-bissau",
+  "rank": 151,
+  "overallScore": 40.1,
+  "dimensionCoverage": 0.73,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Elijah Warns Super Eagles Against Underestimating Guinea-Bissau",
+        "source": "ThisDay",
+        "url": "https://www.thisdaylive.com/2026/09/28/elijah-warns-super-eagles-against-underestimating-guinea-bissau/",
+        "publishedAt": "2026-09-28T01:11:41.000Z"
+      },
+      {
+        "title": "2027 AFCONQ: 7 Reasons Super Eagles Must Beat Guinea-Bissau On Tuesday",
+        "source": "leadership.ng",
+        "url": "https://leadership.ng/2027-afconq-7-reasons-super-eagles-must-beat-guinea-bissau-on-tuesday/",
+        "publishedAt": "2026-09-27T15:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Guinea-Bissau Reaffirms 'Clear and Consistent' Stance Backing Morocco's Territorial Integrity and Sovereignty over its Sahara – The North Africa Post",
+        "source": "northafricapost.com",
+        "url": "https://northafricapost.com/100577-guinea-bissau-reaffirms-clear-and-consistent-stance-backing-moroccos-territorial-integrity-and-sovereignty-over-its-sahara.html",
+        "publishedAt": "2026-09-27T03:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Turkish foreign minister meets counterparts from Venezuela, El Salvador, Guinea-Bissau in New York",
+        "source": "aa.com.tr",
+        "url": "https://aa.com.tr/en/politics/turkish-foreign-minister-meets-counterparts-from-venezuela-el-salvador-guinea-bissau-in-new-york/4069938",
+        "publishedAt": "2026-09-26T09:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "The Republic of Guinea-Bissau on Saturday, September 26, 2026, reaffirmed its \"clear, consistent and unequivocal\" position supporting the territorial integrity and sovereignty of the Kingdom of Morocc",
+        "source": "globalsecurity.org",
+        "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260926-morocco-mfa01.htm",
+        "publishedAt": "2026-09-27T11:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nGuinea-Bissau reaffirmed its 'clear, consistent and unequivocal' position supporting the territorial integrity and sovereignty of Morocco over its Sahara on September 26, 2026. [3][5]\nThe Turkish foreign minister met with the foreign minister of Guinea-Bissau in New York. [4]\n\nWHAT THIS MEANS FOR GUINEA-BISSAU\nGuinea-Bissau's reaffirmation of support for Morocco's territorial integrity may strengthen diplomatic ties with Morocco, potentially influencing its net energy import dependency of 0%. [3][E2]\n\nKEY RISKS\nThe most severe government travel advisory for Guinea-Bissau is Reconsider Travel, indicating elevated safety risks for travelers. [E1]",
+      "generatedAt": "2026-09-28T05:01:57.909Z",
+      "sources": [
+        {
+          "title": "Elijah Warns Super Eagles Against Underestimating Guinea-Bissau",
+          "source": "ThisDay",
+          "url": "https://www.thisdaylive.com/2026/09/28/elijah-warns-super-eagles-against-underestimating-guinea-bissau/",
+          "publishedAt": "2026-09-28T01:11:41.000Z"
+        },
+        {
+          "title": "2027 AFCONQ: 7 Reasons Super Eagles Must Beat Guinea-Bissau On Tuesday",
+          "source": "leadership.ng",
+          "url": "https://leadership.ng/2027-afconq-7-reasons-super-eagles-must-beat-guinea-bissau-on-tuesday/",
+          "publishedAt": "2026-09-27T15:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Guinea-Bissau Reaffirms 'Clear and Consistent' Stance Backing Morocco's Territorial Integrity and Sovereignty over its Sahara – The North Africa Post",
+          "source": "northafricapost.com",
+          "url": "https://northafricapost.com/100577-guinea-bissau-reaffirms-clear-and-consistent-stance-backing-moroccos-territorial-integrity-and-sovereignty-over-its-sahara.html",
+          "publishedAt": "2026-09-27T03:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Turkish foreign minister meets counterparts from Venezuela, El Salvador, Guinea-Bissau in New York",
+          "source": "aa.com.tr",
+          "url": "https://aa.com.tr/en/politics/turkish-foreign-minister-meets-counterparts-from-venezuela-el-salvador-guinea-bissau-in-new-york/4069938",
+          "publishedAt": "2026-09-26T09:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "The Republic of Guinea-Bissau on Saturday, September 26, 2026, reaffirmed its \"clear, consistent and unequivocal\" position supporting the territorial integrity...",
+          "source": "globalsecurity.org",
+          "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260926-morocco-mfa01.htm",
+          "publishedAt": "2026-09-27T11:45:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Reconsider Travel",
+          "factText": "The most severe government travel advisory World Monitor tracks for Guinea-Bissau is Reconsider Travel, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T04:03:15.792Z"
+        },
+        {
+          "id": "E2",
+          "kind": "energy",
+          "label": "Net energy import dependency",
+          "value": "0%",
+          "factText": "Guinea-Bissau has a net energy import dependency of 0% (World Bank Open Data, 2023).",
+          "asOf": "2023-12-31T00:00:00.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

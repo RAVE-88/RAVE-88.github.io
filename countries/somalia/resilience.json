@@ -1,0 +1,133 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "SO",
+  "countryName": "Somalia",
+  "slug": "somalia",
+  "rank": 169,
+  "overallScore": 21.1,
+  "dimensionCoverage": 0.69,
+  "confidence": "standard",
+  "level": "low",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Somalia: Puntland official says region has right to consider its political future",
+        "source": "horseedmedia.net",
+        "url": "https://horseedmedia.net/somalia-puntland-official-says-region-has-right-to-consider-its-political-future/425965/",
+        "publishedAt": "2026-09-27T18:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Hamza's Election Plan Meets Somalia's Political Reality: No Deal, No Access to Puntland or Jubaland",
+        "source": "wardheernews.com",
+        "url": "https://wardheernews.com/hamzas-election-plan-meets-somalias-political-reality-no-deal-no-access-to-puntland-or-jubaland/",
+        "publishedAt": "2026-09-27T15:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Somalia and EU to Hold Inaugural Business Forum in October",
+        "source": "horseedmedia.net",
+        "url": "https://horseedmedia.net/somalia-and-eu-to-hold-inaugural-business-forum-in-october/425951/",
+        "publishedAt": "2026-09-27T13:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Somalia: Former South West Leader Calls for International Probe Into Alleged Abuses",
+        "source": "horseedmedia.net",
+        "url": "https://horseedmedia.net/somalia-former-south-west-leader-calls-for-international-probe-into-alleged-abuses/425949/",
+        "publishedAt": "2026-09-27T13:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Somalia Launches Sixth Federal Darwish Batch with EU Support",
+        "source": "horseedmedia.net",
+        "url": "https://horseedmedia.net/somalia-launches-sixth-federal-darwish-batch-with-eu-support/425941/",
+        "publishedAt": "2026-09-27T13:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [
+      {
+        "title": "GDELT 192 — in Somalia",
+        "summary": "source: www.newvision.co.ug",
+        "sourceUrl": "https://www.newvision.co.ug/category/world/somali-pirates-escape-with-suspected-police-h-NV_241395_092026",
+        "occurredAt": "2026-09-27T17:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Somalia",
+        "summary": "source: wardheernews.com",
+        "sourceUrl": "https://wardheernews.com/city-under-fire-baidoas-civilians-pay-the-price/",
+        "occurredAt": "2026-09-27T00:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 181 — in Somalia",
+        "summary": "source: www.jpost.com",
+        "sourceUrl": "https://www.jpost.com/middle-east/article-909778",
+        "occurredAt": "2026-09-26T17:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Somalia",
+        "summary": "source: www.jpost.com",
+        "sourceUrl": "https://www.jpost.com/middle-east/article-909778",
+        "occurredAt": "2026-09-26T17:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Somalia",
+        "summary": "source: www.jpost.com",
+        "sourceUrl": "https://www.jpost.com/middle-east/article-909778",
+        "occurredAt": "2026-09-26T17:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 192 — in Somalia",
+        "summary": "source: raxanreeb.com",
+        "sourceUrl": "https://raxanreeb.com/puntland-forces-reclaim-hijacked-tanker-sibu-1-after-48-hour-operation/",
+        "occurredAt": "2026-09-26T11:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Somalia",
+        "summary": "source: raxanreeb.com",
+        "sourceUrl": "https://raxanreeb.com/puntland-forces-reclaim-hijacked-tanker-sibu-1-after-48-hour-operation/",
+        "occurredAt": "2026-09-26T11:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Somalia",
+        "summary": "source: www.shippingtribune.com",
+        "sourceUrl": "https://www.shippingtribune.com/news/shipping/US-sanctioned+oil+tanker+rescued+from+Somali+pirates",
+        "occurredAt": "2026-09-26T07:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 180 — in Somalia",
+        "summary": "source: www.shippingtribune.com",
+        "sourceUrl": "https://www.shippingtribune.com/news/shipping/US-sanctioned+oil+tanker+rescued+from+Somali+pirates",
+        "occurredAt": "2026-09-26T07:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Somalia",
+        "summary": "source: www.shippingtribune.com",
+        "sourceUrl": "https://www.shippingtribune.com/news/shipping/US-sanctioned+oil+tanker+rescued+from+Somali+pirates",
+        "occurredAt": "2026-09-26T07:00:00.000Z",
+        "domain": "conflict"
+      }
+    ],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

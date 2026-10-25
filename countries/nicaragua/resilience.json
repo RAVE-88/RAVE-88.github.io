@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "NI",
+  "countryName": "Nicaragua",
+  "slug": "nicaragua",
+  "rank": 68,
+  "overallScore": 55.8,
+  "dimensionCoverage": 0.79,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Is Nicaragua Safe for Expats in 2026? Crime and Politics",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/is-nicaragua-safe-expats-2026/",
+        "publishedAt": "2026-09-25T14:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "República Dominicana face Nicaragua in first Liga A test of the Concacaf Nations League",
+        "source": "el-balad.com",
+        "url": "https://www.el-balad.com/17053421",
+        "publishedAt": "2026-09-25T05:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Foreign ministers of the Americas to discuss Nicaragua in meeting called by the U.S.",
+        "source": "waer.org",
+        "url": "https://www.waer.org/2026-09-24/foreign-ministers-of-the-americas-to-discuss-nicaragua-in-meeting-called-by-the-u-s",
+        "publishedAt": "2026-09-25T01:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Foreign ministers of the Americas to discuss Nicaragua in meeting called by the U.S.",
+        "source": "wnmufm.org",
+        "url": "https://www.wnmufm.org/2026-09-24/foreign-ministers-of-the-americas-to-discuss-nicaragua-in-meeting-called-by-the-u-s",
+        "publishedAt": "2026-09-25T01:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Foreign ministers of the Americas to discuss Nicaragua in meeting called by the U.S.",
+        "source": "wqcs.org",
+        "url": "https://www.wqcs.org/2026-09-24/foreign-ministers-of-the-americas-to-discuss-nicaragua-in-meeting-called-by-the-u-s",
+        "publishedAt": "2026-09-25T01:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

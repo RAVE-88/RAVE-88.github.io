@@ -1,0 +1,57 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "EE",
+  "countryName": "Estonia",
+  "slug": "estonia",
+  "rank": 41,
+  "overallScore": 60.4,
+  "dimensionCoverage": 0.76,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Estonia to hold regular National Defense Council meetings",
+        "source": "ERR News",
+        "url": "https://news.err.ee/1610149717/estonia-to-hold-regular-national-defense-council-meetings",
+        "publishedAt": "2026-09-27T10:50:00.000Z"
+      },
+      {
+        "title": "Mikk Kasesalk: Estonian culture has no other refuge anywhere in the world",
+        "source": "ERR News",
+        "url": "https://news.err.ee/1610148226/mikk-kasesalk-estonian-culture-has-no-other-refuge-anywhere-in-the-world",
+        "publishedAt": "2026-09-27T08:10:00.000Z"
+      },
+      {
+        "title": "EIS to spend millions promoting Estonia and its e‑residency program worldwide",
+        "source": "ERR News",
+        "url": "https://news.err.ee/1610149636/eis-to-spend-millions-promoting-estonia-and-its-e-residency-program-worldwide",
+        "publishedAt": "2026-09-27T07:25:00.000Z"
+      },
+      {
+        "title": "Estonian Military Orchestra marks anniversary with concerts in Viljandi and Tallinn",
+        "source": "ERR News",
+        "url": "https://news.err.ee/1610149237/estonian-military-orchestra-marks-anniversary-with-concerts-in-viljandi-and-tallinn",
+        "publishedAt": "2026-09-26T13:25:00.000Z"
+      },
+      {
+        "title": "Kristian Sirp: Estonia's bigger defense budget requires smarter procurers",
+        "source": "ERR News",
+        "url": "https://news.err.ee/1610147026/kristian-sirp-estonia-s-bigger-defense-budget-requires-smarter-procurers",
+        "publishedAt": "2026-09-26T12:05:00.000Z"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "thin-grounding",
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

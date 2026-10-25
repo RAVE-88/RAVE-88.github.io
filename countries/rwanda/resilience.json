@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "RW",
+  "countryName": "Rwanda",
+  "slug": "rwanda",
+  "rank": 130,
+  "overallScore": 44.4,
+  "dimensionCoverage": 0.84,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Rwanda Explained 2026: Kagame, Tech Ambition, Economy",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/rwanda-explained-2026/",
+        "publishedAt": "2026-09-27T14:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "'Rwanda, Belgium restoring relations could allow development cooperation to resume' – Channel Africa",
+        "source": "channelafrica.co.za",
+        "url": "https://www.channelafrica.co.za/channelafrica/news/rwanda-belgium-restoring-relations-could-allow-development-cooperation-to-resume/",
+        "publishedAt": "2026-09-26T19:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Rwanda Open: Rugumayo's run ends as Uganda sends four into the weekend",
+        "source": "kawowo.com",
+        "url": "https://kawowo.com/2026/09/26/rwanda-open-rugumayos-run-ends-as-uganda-sends-four-into-the-weekend/",
+        "publishedAt": "2026-09-26T14:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Sullivan leads as Rwanda Open enters final stretch",
+        "source": "kawowo.com",
+        "url": "https://kawowo.com/2026/09/26/sullivan-leads-as-rwanda-open-enters-final-stretch/",
+        "publishedAt": "2026-09-26T14:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Rwanda, Pakistan sign trade cooperation deal",
+        "source": "tribune.com.pk",
+        "url": "https://tribune.com.pk/story/2631464/rwanda-pakistan-sign-trade-cooperation-deal",
+        "publishedAt": "2026-09-26T00:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

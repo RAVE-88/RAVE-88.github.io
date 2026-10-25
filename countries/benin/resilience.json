@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "BJ",
+  "countryName": "Benin",
+  "slug": "benin",
+  "rank": 153,
+  "overallScore": 39.5,
+  "dimensionCoverage": 0.78,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "2026 Country Report - Benin Has Strong Assets to Attract More Investment, Says African Development Bank Group Report",
+        "source": "allafrica.com",
+        "url": "https://allafrica.com/stories/202609260003.html",
+        "publishedAt": "2026-09-26T01:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "THE ECOWAS REPRESENTATION IN BENIN MAKES A DONATION TO THE 'THE HOUSE OF JOY' CHILDREN'S SHELTER AND PROTECTION CENTRE | Economic Community of West African States (ECOWAS)",
+        "source": "ecowas.int",
+        "url": "https://www.ecowas.int/the-ecowas-representation-in-benin-makes-a-donation-to-the-the-house-of-joy-childrens-shelter-and-protection-centre/",
+        "publishedAt": "2026-09-25T15:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "APO Group - Africa Newsroom / Press release | The Economic Community of West African States (ECOWAS) Representation in Benin Makes a Donation to the 'the House of Joy' Children's Shelter and Protectio",
+        "source": "africa-newsroom.com",
+        "url": "https://www.africa-newsroom.com/press/the-economic-community-of-west-african-states-ecowas-representation-in-benin-makes-a-donation-to-the-the-house-of-joy-childrens-shelter-and-protection-centre",
+        "publishedAt": "2026-09-25T12:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Benin-Asaba Road: FG takes over palliative repairs after concessionaire disagreement",
+        "source": "pmnewsnigeria.com",
+        "url": "https://pmnewsnigeria.com/2026/09/24/benin-asaba-road-fg-takes-over-palliative-repairs-after-concessionaire-disagreement/",
+        "publishedAt": "2026-09-24T23:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Return of EMOWA, Cultural Centre to Oba of Benin, two strong policy decisions of Okpebholo: Okaeben",
+        "source": "thesun.ng",
+        "url": "https://thesun.ng/return-of-emowa-cultural-centre-to-oba-of-benin-two-strong-policy-decisions-of-okpebholo-okaeben/",
+        "publishedAt": "2026-09-23T17:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

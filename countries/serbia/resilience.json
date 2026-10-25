@@ -1,0 +1,128 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "RS",
+  "countryName": "Serbia",
+  "slug": "serbia",
+  "rank": 31,
+  "overallScore": 61.7,
+  "dimensionCoverage": 0.79,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Vucic resigns as Serbia's president, setting up election that could see him become PM",
+        "source": "CBC News",
+        "url": "https://www.cbc.ca/news/world/vucic-resigns-serbia-president-9.7360341?cmp=rss",
+        "publishedAt": "2026-09-27T19:08:34.000Z"
+      },
+      {
+        "title": "Embattled Serbian president resigns, paving way for early elections",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-27T20:04:21.000Z"
+      },
+      {
+        "title": "Populist Serbian president resigning to run for prime minister in snap election",
+        "source": "National Post",
+        "url": "https://nationalpost.com/news/serbian-president-resigning-prime-minister-snap-election",
+        "publishedAt": "2026-09-27T19:11:27.000Z"
+      },
+      {
+        "title": "Embattled Serbian president resigns, paving way for early elections",
+        "source": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/embattled-serbian-president-resigns-paving-way-for-early-elections/",
+        "publishedAt": "2026-09-27T22:36:00.000Z"
+      },
+      {
+        "title": "Serbia's President Aleksandar Vucic announces resignation",
+        "source": "Le Monde",
+        "url": "https://www.lemonde.fr/en/international/article/2026/09/27/serbia-s-president-aleksandar-vucic-announces-resignation_6758015_4.html",
+        "publishedAt": "2026-09-27T21:53:37.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nSerbia's President Aleksandar Vucic has resigned, setting up an election that could see him become prime minister. [1][5]\n\nWHAT THIS MEANS FOR SERBIA\nVucic's resignation and potential shift to prime minister occurs while Serbia is linked to 51 US OFAC and Canada SEMA sanctions designations. [1][E2]\n\nKEY RISKS\nSerbia's net energy import dependency of 41% could pose a risk to economic stability during the political transition. [E3]\n\nOUTLOOK\nA Polymarket market on whether Aleksandar Vučić will be the next Prime Minister of Serbia is priced Yes at 68% as of Sep 28, 2026, closing Jun 30, 2028. [E5]\nA Kalshi market on whether Aleksandar Vučić will be Prime Minister of Serbia after the next election is priced Yes at 32% as of Sep 28, 2026, closing Dec 31, 2028. [E6]\n\nWATCH ITEMS\nThe outcome of the snap election following Vucic's resignation remains unresolved. [1][2]",
+      "generatedAt": "2026-09-28T05:06:04.150Z",
+      "sources": [
+        {
+          "title": "Vucic resigns as Serbia's president, setting up election that could see him become PM",
+          "source": "CBC News",
+          "url": "https://www.cbc.ca/news/world/vucic-resigns-serbia-president-9.7360341?cmp=rss",
+          "publishedAt": "2026-09-27T19:08:34.000Z"
+        },
+        {
+          "title": "Embattled Serbian president resigns, paving way for early elections",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-09-27T20:04:21.000Z"
+        },
+        {
+          "title": "Populist Serbian president resigning to run for prime minister in snap election",
+          "source": "National Post",
+          "url": "https://nationalpost.com/news/serbian-president-resigning-prime-minister-snap-election",
+          "publishedAt": "2026-09-27T19:11:27.000Z"
+        },
+        {
+          "title": "Embattled Serbian president resigns, paving way for early elections",
+          "source": "MyJoyOnline",
+          "url": "https://www.myjoyonline.com/embattled-serbian-president-resigns-paving-way-for-early-elections/",
+          "publishedAt": "2026-09-27T22:36:00.000Z"
+        },
+        {
+          "title": "Serbia's President Aleksandar Vucic announces resignation",
+          "source": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/09/27/serbia-s-president-aleksandar-vucic-announces-resignation_6758015_4.html",
+          "publishedAt": "2026-09-27T21:53:37.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "51",
+          "factText": "Serbia is linked to 51 US OFAC and Canada SEMA sanctions designations, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T00:01:35.739Z"
+        },
+        {
+          "id": "E3",
+          "kind": "energy",
+          "label": "Net energy import dependency",
+          "value": "41%",
+          "factText": "Serbia has a net energy import dependency of 41% (Eurostat, 2024).",
+          "asOf": "2024-12-31T00:00:00.000Z"
+        },
+        {
+          "id": "E5",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "68%",
+          "factText": "A Polymarket market related to Serbia, \"Will Aleksandar Vučić be the next Prime Minister of Serbia?\", priced Yes at 68% on Sep 28, 2026; it closes Jun 30, 2028.",
+          "asOf": "2026-09-28T05:00:34.359Z",
+          "url": "https://polymarket.com/event/next-prime-minister-of-serbia-20260629223938642"
+        },
+        {
+          "id": "E6",
+          "kind": "market",
+          "label": "Kalshi prediction market",
+          "value": "32%",
+          "factText": "A Kalshi market related to Serbia, \"Prime Minister of Serbia after the next election?: Aleksandar Vučić\", priced Yes at 32% on Sep 28, 2026; it closes Dec 31, 2028.",
+          "asOf": "2026-09-28T05:00:34.359Z",
+          "url": "https://kalshi.com/markets/KXSERBIAPM-27DEC31-AVUC"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

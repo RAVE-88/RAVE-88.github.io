@@ -1,0 +1,124 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "PL",
+  "countryName": "Poland",
+  "slug": "poland",
+  "rank": 36,
+  "overallScore": 61.2,
+  "dimensionCoverage": 0.76,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Poland ready to build factory to produce Patriot missiles - Ukrinform",
+        "source": "Ukrinform",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZnBfQnNrSlVJeHoxdU1BNTFtSmhUeW1YblRhQjJTcTZIcEctdFdlM1gwTHc3WlUwTENObDRQelVDUUt4RGUzX05POFByZEg4bzgxU082RVoycm5EZzhPSVFVV05TSEQ0bGl6V25fcWRWMTdzSjd3MU01NS0tbXBSQzIzZGhpS25Vb0VJbi1GRVpPVks0VmFSa0szMUJaWTBvX09tRE5CWnRidzN2azVJUtIBtgFBVV95cUxQTi1QT21YTmdVVnJCalUxRTkzZjZVeUZPdHNfekxncDduSDhuSWtVSFhtVWJ1NkhNYXhUa01ldTNqY2llLUhiajUyZzNCY09UZFFQcXBkdWhiRnJIckI1U3lRZEgxOTdqT2NCVUpXTmJ6cHpUaHFkbDhwZzZUNHFRZWN0WHJxTzI5R2E5MjlQYklxbUY2alJKQlhpa3JoNEJIajNBRGtTdjNidzF1Qjl2TDdiVVlEQQ?oc=5",
+        "publishedAt": "2026-09-27T17:19:00.000Z"
+      },
+      {
+        "title": "Polish defense official says US has decided to establish a base in Poland",
+        "source": "Defense One",
+        "url": "https://www.defenseone.com/policy/2026/09/poland-get-us-base-polish-defense-official-says/416257/",
+        "publishedAt": "2026-09-26T02:03:57.000Z"
+      },
+      {
+        "title": "Poland is racing ahead with military spending – but will it help or damage its economic growth story?",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/sep/27/poland-military-spending-economic-growth-economy-defence-boom",
+        "publishedAt": "2026-09-27T05:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Sweden vs Poland Predictions, Picks & Odds",
+        "source": "toffeeweb.com",
+        "url": "https://www.toffeeweb.com/sweden-vs-poland-predictions-picks-odds-28-09-2026/",
+        "publishedAt": "2026-09-26T21:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Poland to Pay Up to $4.4 Billion for Fort Trump",
+        "source": "politicalwire.com",
+        "url": "https://politicalwire.com/2026/09/26/poland-to-pay-up-to-4-4-billion-for-fort-trump/",
+        "publishedAt": "2026-09-26T14:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nPoland is preparing to build a factory to produce Patriot missiles and a US base has been decided, while the country is racing ahead with military spending. [1][2][3]\n\nWHAT THIS MEANS FOR POLAND\nPoland's military buildup, including a Patriot missile factory and a US base, occurs despite a Country Instability Index score of 33 of 100, indicating the country remains in the Normal band. [1][2][E1]\n\nKEY RISKS\nPoland's net energy import dependency of 46% exposes it to supply disruptions and price volatility, which could be exacerbated by increased military spending. [E4]\nPoland is linked to 13 US OFAC and Canada SEMA sanctions designations, creating potential compliance and reputational risks for its defense and energy sectors. [E3]\n\nWATCH ITEMS\nIt remains to be seen whether Poland's rapid military spending will help or damage its economic growth story. [3]",
+      "generatedAt": "2026-09-28T05:05:44.485Z",
+      "sources": [
+        {
+          "title": "Poland ready to build factory to produce Patriot missiles - Ukrinform",
+          "source": "Ukrinform",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZnBfQnNrSlVJeHoxdU1BNTFtSmhUeW1YblRhQjJTcTZIcEctdFdlM1gwTHc3WlUwTENObDRQelVDUUt4RGUzX05POFByZEg4bzgxU082RVoycm5EZzhPSVFVV05TSEQ0bGl6V25fcWRWMTdzSjd3MU01NS0tbXBSQzIzZGhpS25Vb0VJbi1GRVpPVks0VmFSa0szMUJaWTBvX09tRE5CWnRidzN2azVJUtIBtgFBVV95cUxQTi1QT21YTmdVVnJCalUxRTkzZjZVeUZPdHNfekxncDduSDhuSWtVSFhtVWJ1NkhNYXhUa01ldTNqY2llLUhiajUyZzNCY09UZFFQcXBkdWhiRnJIckI1U3lRZEgxOTdqT2NCVUpXTmJ6cHpUaHFkbDhwZzZUNHFRZWN0WHJxTzI5R2E5MjlQYklxbUY2alJKQlhpa3JoNEJIajNBRGtTdjNidzF1Qjl2TDdiVVlEQQ?oc=5",
+          "publishedAt": "2026-09-27T17:19:00.000Z"
+        },
+        {
+          "title": "Polish defense official says US has decided to establish a base in Poland",
+          "source": "Defense One",
+          "url": "https://www.defenseone.com/policy/2026/09/poland-get-us-base-polish-defense-official-says/416257/",
+          "publishedAt": "2026-09-26T02:03:57.000Z"
+        },
+        {
+          "title": "Poland is racing ahead with military spending – but will it help or damage its economic growth story?",
+          "source": "theguardian.com",
+          "url": "https://www.theguardian.com/world/2026/sep/27/poland-military-spending-economic-growth-economy-defence-boom",
+          "publishedAt": "2026-09-27T05:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Sweden vs Poland Predictions, Picks & Odds",
+          "source": "toffeeweb.com",
+          "url": "https://www.toffeeweb.com/sweden-vs-poland-predictions-picks-odds-28-09-2026/",
+          "publishedAt": "2026-09-26T21:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Poland to Pay Up to $4.4 Billion for Fort Trump",
+          "source": "politicalwire.com",
+          "url": "https://politicalwire.com/2026/09/26/poland-to-pay-up-to-4-4-billion-for-fort-trump/",
+          "publishedAt": "2026-09-26T14:30:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "cii",
+          "label": "Country Instability Index",
+          "value": "33 of 100 (Normal)",
+          "factText": "Poland has a Country Instability Index score of 33 of 100, in the Normal band, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T05:01:53.862Z"
+        },
+        {
+          "id": "E3",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "13",
+          "factText": "Poland is linked to 13 US OFAC and Canada SEMA sanctions designations, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T00:01:35.739Z"
+        },
+        {
+          "id": "E4",
+          "kind": "energy",
+          "label": "Net energy import dependency",
+          "value": "46%",
+          "factText": "Poland has a net energy import dependency of 46% (Eurostat, 2024).",
+          "asOf": "2024-12-31T00:00:00.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

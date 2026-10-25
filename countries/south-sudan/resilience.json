@@ -1,0 +1,181 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "SS",
+  "countryName": "South Sudan",
+  "slug": "south-sudan",
+  "rank": 168,
+  "overallScore": 28.5,
+  "dimensionCoverage": 0.71,
+  "confidence": "standard",
+  "level": "low",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Makuei says he won’t seek elected office in December vote",
+        "source": "Radio Tamazuj",
+        "url": "https://www.radiotamazuj.org/en/news/article/makuei-says-he-wont-seek-elected-office-in-december-vote",
+        "publishedAt": "2026-09-28T01:04:57.000Z"
+      },
+      {
+        "title": "‘Super El Niño’ deepens hunger crisis in South Sudan says UN",
+        "source": "France 24 Africa",
+        "url": "https://www.france24.com/en/video/20260926-super-el-ni%C3%B1o-deepens-hunger-crisis-in-south-sudan-says-un",
+        "publishedAt": "2026-09-26T10:06:43.000Z"
+      },
+      {
+        "title": "AFCON qualifier: Egypt’s Pharaohs arrive in Juba for South Sudan clash",
+        "source": "Radio Tamazuj",
+        "url": "https://www.radiotamazuj.org/en/news/article/afcon-qualifier-egypts-pharaohs-arrive-in-juba-for-south-sudan-clash",
+        "publishedAt": "2026-09-27T17:51:28.000Z"
+      },
+      {
+        "title": "Opinion| South Sudan needs national reform to sustain grassroots peace",
+        "source": "Radio Tamazuj",
+        "url": "https://www.radiotamazuj.org/en/news/article/opinion-south-sudan-needs-national-reform-to-sustain-grassroots-peace",
+        "publishedAt": "2026-09-27T11:05:06.000Z"
+      },
+      {
+        "title": "EAC tells universities to charge South Sudanese students local fees",
+        "source": "Radio Tamazuj",
+        "url": "https://www.radiotamazuj.org/en/news/article/eac-tells-universities-to-charge-south-sudanese-students-local-fees",
+        "publishedAt": "2026-09-27T10:09:13.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nMakuei says he won’t seek elected office in December vote. [1]\n‘Super El Niño’ deepens hunger crisis in South Sudan says UN. [2]\n\nWHAT THIS MEANS FOR SOUTH SUDAN\nMakuei’s decision not to run in the December vote may reduce political stability, as South Sudan is linked to 33 US OFAC and Canada SEMA sanctions designations. [1][E2]\nThe UN’s warning about a ‘Super El Niño’ deepening the hunger crisis is especially concerning given the most severe government travel advisory World Monitor tracks for South Sudan is Do Not Travel. [2][E1]\n\nKEY RISKS\nThe 33 US OFAC and Canada SEMA sanctions designations linked to South Sudan pose a risk of further economic isolation. [E2]\nThe Do Not Travel advisory indicates a high risk to safety and security in South Sudan. [E1]\n\nWATCH ITEMS\nIt remains to be seen whether Makuei’s decision not to seek office will affect the December vote. [1]\nThe outcome of the UN’s warning about the ‘Super El Niño’ deepening the hunger crisis is unresolved. [2]",
+      "generatedAt": "2026-09-28T05:06:43.155Z",
+      "sources": [
+        {
+          "title": "Makuei says he won’t seek elected office in December vote",
+          "source": "Radio Tamazuj",
+          "url": "https://www.radiotamazuj.org/en/news/article/makuei-says-he-wont-seek-elected-office-in-december-vote",
+          "publishedAt": "2026-09-28T01:04:57.000Z"
+        },
+        {
+          "title": "‘Super El Niño’ deepens hunger crisis in South Sudan says UN",
+          "source": "France 24 Africa",
+          "url": "https://www.france24.com/en/video/20260926-super-el-ni%C3%B1o-deepens-hunger-crisis-in-south-sudan-says-un",
+          "publishedAt": "2026-09-26T10:06:43.000Z"
+        },
+        {
+          "title": "AFCON qualifier: Egypt’s Pharaohs arrive in Juba for South Sudan clash",
+          "source": "Radio Tamazuj",
+          "url": "https://www.radiotamazuj.org/en/news/article/afcon-qualifier-egypts-pharaohs-arrive-in-juba-for-south-sudan-clash",
+          "publishedAt": "2026-09-27T17:51:28.000Z"
+        },
+        {
+          "title": "Opinion| South Sudan needs national reform to sustain grassroots peace",
+          "source": "Radio Tamazuj",
+          "url": "https://www.radiotamazuj.org/en/news/article/opinion-south-sudan-needs-national-reform-to-sustain-grassroots-peace",
+          "publishedAt": "2026-09-27T11:05:06.000Z"
+        },
+        {
+          "title": "EAC tells universities to charge South Sudanese students local fees",
+          "source": "Radio Tamazuj",
+          "url": "https://www.radiotamazuj.org/en/news/article/eac-tells-universities-to-charge-south-sudanese-students-local-fees",
+          "publishedAt": "2026-09-27T10:09:13.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Do Not Travel",
+          "factText": "The most severe government travel advisory World Monitor tracks for South Sudan is Do Not Travel, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T05:03:30.360Z"
+        },
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "33",
+          "factText": "South Sudan is linked to 33 US OFAC and Canada SEMA sanctions designations, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T00:01:35.739Z"
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "title": "GDELT 180 — in South Sudan",
+        "summary": "source: eyeradio.org",
+        "sourceUrl": "https://eyeradio.org/man-gets-7-years-in-jail-for-raping-elderly-woman/",
+        "occurredAt": "2026-09-28T04:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 180 — in South Sudan",
+        "summary": "source: eyeradio.org",
+        "sourceUrl": "https://eyeradio.org/man-gets-7-years-in-jail-for-raping-elderly-woman/",
+        "occurredAt": "2026-09-28T04:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in South Sudan",
+        "summary": "source: www.radiotamazuj.org",
+        "sourceUrl": "https://www.radiotamazuj.org/en/news/article/vehicles-burned-civilians-abducted-in-attacks-along-juba-mundri-road",
+        "occurredAt": "2026-09-28T04:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in South Sudan",
+        "summary": "source: www.radiotamazuj.org",
+        "sourceUrl": "https://www.radiotamazuj.org/en/news/article/vehicles-burned-civilians-abducted-in-attacks-along-juba-mundri-road",
+        "occurredAt": "2026-09-28T04:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 181 — in South Sudan",
+        "summary": "source: www.radiotamazuj.org",
+        "sourceUrl": "https://www.radiotamazuj.org/en/news/article/vehicles-burned-civilians-abducted-in-attacks-along-juba-mundri-road",
+        "occurredAt": "2026-09-28T04:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 181 — in South Sudan",
+        "summary": "source: www.radiotamazuj.org",
+        "sourceUrl": "https://www.radiotamazuj.org/en/news/article/vehicles-burned-civilians-abducted-in-attacks-along-juba-mundri-road",
+        "occurredAt": "2026-09-28T04:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 181 — in South Sudan",
+        "summary": "source: www.radiotamazuj.org",
+        "sourceUrl": "https://www.radiotamazuj.org/en/news/article/vehicles-burned-civilians-abducted-in-attacks-along-juba-mundri-road",
+        "occurredAt": "2026-09-28T04:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 181 — in South Sudan",
+        "summary": "source: www.radiotamazuj.org",
+        "sourceUrl": "https://www.radiotamazuj.org/en/news/article/vehicles-burned-civilians-abducted-in-attacks-along-juba-mundri-road",
+        "occurredAt": "2026-09-28T04:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in South Sudan",
+        "summary": "source: allafrica.com",
+        "sourceUrl": "https://allafrica.com/stories/202609230055.html",
+        "occurredAt": "2026-09-23T10:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 1821 — in South Sudan",
+        "summary": "source: allafrica.com",
+        "sourceUrl": "https://allafrica.com/stories/202609230055.html",
+        "occurredAt": "2026-09-23T10:00:00.000Z",
+        "domain": "conflict"
+      }
+    ],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

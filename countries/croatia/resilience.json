@@ -1,0 +1,48 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "HR",
+  "countryName": "Croatia",
+  "slug": "croatia",
+  "rank": 38,
+  "overallScore": 60.6,
+  "dimensionCoverage": 0.76,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Luka Modric sigue siendo un gran atractivo en Czech Republic Vs Croatia",
+        "source": "el-balad.com",
+        "url": "https://www.el-balad.com/17053723",
+        "publishedAt": "2026-09-27T18:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "England Nations League tickets for Czechia and Croatia Wembley games from £49",
+        "source": "somersetlive.co.uk",
+        "url": "https://www.somersetlive.co.uk/whats-on/shopping/england-tickets-nations-league-games-11173853",
+        "publishedAt": "2026-09-27T15:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Nord Stream suspect can be extradited to Germany, Croatia court rules",
+        "source": "2lt.com.au",
+        "url": "https://www.2lt.com.au/nord-stream-suspect-can-be-extradited-to-germany-croatia-court-rules/",
+        "publishedAt": "2026-09-27T09:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

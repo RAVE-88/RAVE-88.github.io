@@ -1,0 +1,128 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "IR",
+  "countryName": "Iran",
+  "slug": "iran",
+  "rank": 162,
+  "overallScore": 34.5,
+  "dimensionCoverage": 0.71,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Oil heads higher as US-Iran peace talks in stalemate - reuters.com",
+        "source": "Reuters US",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU3FBcU1hWkxSdzlSbHdGdkJEbDR0REJsckozLWtuZGRwbXJvNU1kVnFMendhelM2Q3plNUFlUm1yZTljZDFiMEQwZjVDcWt2X011c193RWUtWTVlcEE4bjBKSWtYZ1A5MnhXS2hUSlVCN0lPcjhTRmNBc2V4ZERrclRaVW45NUl0cmtsb1g2d0s3SFB5NDRPc0lnRzVSZHZ2S0E?oc=5",
+        "publishedAt": "2026-09-27T22:13:00.000Z"
+      },
+      {
+        "title": "Oil heads higher as US-Iran peace talks in stalemate",
+        "source": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/oil-heads-higher-as-us-iran-peace-talks-in-stalemate/",
+        "publishedAt": "2026-09-28T03:26:00.000Z"
+      },
+      {
+        "title": "Trump expects Iran talks next week after rejecting seven-day truce proposal",
+        "source": "France 24",
+        "url": "https://www.france24.com/en/middle-east/20260927-trump-expects-iran-talks-next-week-after-rejecting-seven-day-truce-proposal",
+        "publishedAt": "2026-09-27T22:10:44.000Z"
+      },
+      {
+        "title": "Trump expects US-Iran talks to resume this week despite rejecting truce plan - Al Arabiya English",
+        "source": "Al Arabiya",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOEFHdjNqclZNUEM1MlRXSFlPeE5WenViUW9udzlhQ1ZKakFBejNOYnVDX05GMTNBTHNWdm5meGNZZ3ZQMzVZeE91QWFSekxQelhVc3hOQU1FZm5ZQVR1OVYxOUZCdkFyRjZ6QWk3R3RwTnJhWmNLS3hNbkNxaDl3bXRtV2VacDBnRmZNRjFYU05nLTFtcVI5ZS0yWGNTaVlmMjdYWWZSWGUtT2l0SFNUWmJxU2NTa3JqdEUxWC1GZkJuU3NVUE5DUW91ZlVkd9IB0wFBVV95cUxNTVV3bHpSanlDVW1vcWRpLVp6VGg2VFhNbE9rUXhDT2FUVUpqYUw5RGVpQjJBMi1nMFdUSE9NWFo3c3dxYkFSeGlVREpOT1hZRnNNZmJIQzdNS0gxRnotVlFYTl83X05HLVBsSGdEbkJVdHVPTGFJcGVibk1iUHRscjNUWVVTajA1U3BTQXYyZnAwM0hlU005eEcwdV9RQUNUWkg2cjlpZUpsMFRVblZSZ0RtRFBIaGlJWlZKbllNU2dTNHRfWEc2eU1RdEVVVlFwWmpJ?oc=5",
+        "publishedAt": "2026-09-27T19:33:00.000Z"
+      },
+      {
+        "title": "Trump rejects Iran’s seven-day peace deal to reopen strait of Hormuz",
+        "source": "Guardian ME",
+        "url": "https://www.theguardian.com/world/2026/sep/26/trump-dismiss-iran-seven-day-peace-deal-hormuz",
+        "publishedAt": "2026-09-27T06:34:43.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nOil prices are rising as US-Iran peace talks are in stalemate. [1]\n\nWHAT THIS MEANS FOR IRAN\nThe stalemate in US-Iran peace talks and Trump's rejection of the truce proposal increase the risk of continued instability, as Iran has a Country Instability Index score of 63 of 100. [1][5][E1]\n\nKEY RISKS\nIran's 1,671 US OFAC and Canada SEMA sanctions designations expose it to ongoing economic and diplomatic pressure. [E3]\n\nOUTLOOK\nA Polymarket market related to Iran, \"Will Iran target an Arab country by September 30, 2026?\", priced Yes at 30% on Sep 28, 2026; it closes Sep 30, 2026. [E6]\nA Polymarket market related to Iran, \"Will Iran target Kuwait by September 30, 2026?\", priced Yes at 22% on Sep 28, 2026; it closes Sep 30, 2026. [E7]",
+      "generatedAt": "2026-09-28T05:02:51.758Z",
+      "sources": [
+        {
+          "title": "Oil heads higher as US-Iran peace talks in stalemate - reuters.com",
+          "source": "Reuters US",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU3FBcU1hWkxSdzlSbHdGdkJEbDR0REJsckozLWtuZGRwbXJvNU1kVnFMendhelM2Q3plNUFlUm1yZTljZDFiMEQwZjVDcWt2X011c193RWUtWTVlcEE4bjBKSWtYZ1A5MnhXS2hUSlVCN0lPcjhTRmNBc2V4ZERrclRaVW45NUl0cmtsb1g2d0s3SFB5NDRPc0lnRzVSZHZ2S0E?oc=5",
+          "publishedAt": "2026-09-27T22:13:00.000Z"
+        },
+        {
+          "title": "Oil heads higher as US-Iran peace talks in stalemate",
+          "source": "MyJoyOnline",
+          "url": "https://www.myjoyonline.com/oil-heads-higher-as-us-iran-peace-talks-in-stalemate/",
+          "publishedAt": "2026-09-28T03:26:00.000Z"
+        },
+        {
+          "title": "Trump expects Iran talks next week after rejecting seven-day truce proposal",
+          "source": "France 24",
+          "url": "https://www.france24.com/en/middle-east/20260927-trump-expects-iran-talks-next-week-after-rejecting-seven-day-truce-proposal",
+          "publishedAt": "2026-09-27T22:10:44.000Z"
+        },
+        {
+          "title": "Trump expects US-Iran talks to resume this week despite rejecting truce plan - Al Arabiya English",
+          "source": "Al Arabiya",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOEFHdjNqclZNUEM1MlRXSFlPeE5WenViUW9udzlhQ1ZKakFBejNOYnVDX05GMTNBTHNWdm5meGNZZ3ZQMzVZeE91QWFSekxQelhVc3hOQU1FZm5ZQVR1OVYxOUZCdkFyRjZ6QWk3R3RwTnJhWmNLS3hNbkNxaDl3bXRtV2VacDBnRmZNRjFYU05nLTFtcVI5ZS0yWGNTaVlmMjdYWWZSWGUtT2l0SFNUWmJxU2NTa3JqdEUxWC1GZkJuU3NVUE5DUW91ZlVkd9IB0wFBVV95cUxNTVV3bHpSanlDVW1vcWRpLVp6VGg2VFhNbE9rUXhDT2FUVUpqYUw5RGVpQjJBMi1nMFdUSE9NWFo3c3dxYkFSeGlVREpOT1hZRnNNZmJIQzdNS0gxRnotVlFYTl83X05HLVBsSGdEbkJVdHVPTGFJcGVibk1iUHRscjNUWVVTajA1U3BTQXYyZnAwM0hlU005eEcwdV9RQUNUWkg2cjlpZUpsMFRVblZSZ0RtRFBIaGlJWlZKbllNU2dTNHRfWEc2eU1RdEVVVlFwWmpJ?oc=5",
+          "publishedAt": "2026-09-27T19:33:00.000Z"
+        },
+        {
+          "title": "Trump rejects Iran’s seven-day peace deal to reopen strait of Hormuz",
+          "source": "Guardian ME",
+          "url": "https://www.theguardian.com/world/2026/sep/26/trump-dismiss-iran-seven-day-peace-deal-hormuz",
+          "publishedAt": "2026-09-27T06:34:43.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "cii",
+          "label": "Country Instability Index",
+          "value": "63 of 100 (Elevated)",
+          "factText": "Iran has a Country Instability Index score of 63 of 100, in the Elevated band, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T05:01:53.862Z"
+        },
+        {
+          "id": "E3",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "1,671",
+          "factText": "Iran is linked to 1,671 US OFAC and Canada SEMA sanctions designations, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T00:01:35.739Z"
+        },
+        {
+          "id": "E6",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "30%",
+          "factText": "A Polymarket market related to Iran, \"Will Iran target an Arab country by September 30, 2026?\", priced Yes at 30% on Sep 28, 2026; it closes Sep 30, 2026.",
+          "asOf": "2026-09-28T05:00:34.359Z",
+          "url": "https://polymarket.com/event/will-iran-target-an-arab-country-by-20260909"
+        },
+        {
+          "id": "E7",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "22%",
+          "factText": "A Polymarket market related to Iran, \"Will Iran target Kuwait by September 30, 2026?\", priced Yes at 22% on Sep 28, 2026; it closes Sep 30, 2026.",
+          "asOf": "2026-09-28T05:00:34.359Z",
+          "url": "https://polymarket.com/event/will-iran-target-kuwait-byptptpt-20260907"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

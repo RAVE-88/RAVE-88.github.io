@@ -1,0 +1,102 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "LT",
+  "countryName": "Lithuania",
+  "slug": "lithuania",
+  "rank": 26,
+  "overallScore": 62.6,
+  "dimensionCoverage": 0.76,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Russian state news agency deletes column calling for nuclear strike on Lithuania - Hromadske",
+        "source": "Hromadske EN",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcFhYVTRnTEJCSzdzRnVLZm84aTVLNVBCY1pidVF5SmdHdEo2OXhfVVNIZ21QeGJKbG5JeHFnc0dqYWtZNG1MZTRHblFndzZJQVNvSlZveXdXeFJ3VHh6Q0lQcjVYcXZkU1c3dUh1SllBd0hzX3gwZ3NQMWdiYUhfMnpnNFdFZ2oyUVRWcGZiNFRRUUo2N0o0TVVwZHVXNHdhVVp4QjM2UGtsWmsxbmtCTnpEaVgzT3prQ0UzYURYckRLUTBnTUNIVWI2UGczZ3pVUHBKetIB2gFBVV95cUxQdmZxbWFBTFpacFFlTXNPMi1iYlRuLVdNYmdjVjlaSDlsb2hNOFExQUdvTFZ0dnZWQlp4ZGV0eU9Nd0FnVnJPb21tVXRmWDJYMVQ4N3RqWUJvaUJldTFSbU44ZDdrc2tlTVVCeTBiTktlRXc3SFZNRVVtbGpTWnFnRHhRY1FqVktNdVpfS09COU8wbThaZzBWS1hVX1J5VWJnd1ZvRVJ4emFwbDltdTlBcFN4M2NacGdXMkhWdHJYblZHV3pETGQyR0tfWWE3dV80MjVnTWk1dEZUQQ?oc=5",
+        "publishedAt": "2026-09-25T14:16:00.000Z"
+      },
+      {
+        "title": "Between three countries, a young Lithuanian finds her way home",
+        "source": "LRT English",
+        "url": "https://www.lrt.lt/en/news-in-english/19/3063211/between-three-countries-a-young-lithuanian-finds-her-way-home",
+        "publishedAt": "2026-09-27T07:00:00.000Z"
+      },
+      {
+        "title": "1st Infantry Division soldiers deploy to Lithuania in ongoing effort to deter Russia",
+        "source": "Task & Purpose",
+        "url": "https://taskandpurpose.com/news/army-1st-infantry-division-lithuania-deployment/",
+        "publishedAt": "2026-09-24T16:12:05.000Z"
+      },
+      {
+        "title": "Lithuania’s interior minister wants to restore warning shots for police and border guards",
+        "source": "LRT English",
+        "url": "https://www.lrt.lt/en/news-in-english/19/3060383/lithuania-s-interior-minister-wants-to-restore-warning-shots-for-police-and-border-guards",
+        "publishedAt": "2026-09-27T05:00:00.000Z"
+      },
+      {
+        "title": "Young Lithuanian farmers compete in plowing contest",
+        "source": "LRT English",
+        "url": "https://www.lrt.lt/en/news-in-english/19/3063128/young-lithuanian-farmers-compete-in-plowing-contest",
+        "publishedAt": "2026-09-26T07:00:00.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nRussian state news agency deleted a column calling for a nuclear strike on Lithuania. [1]\n1st Infantry Division soldiers deployed to Lithuania in an ongoing effort to deter Russia. [3]\n\nKEY RISKS\nLithuania is linked to 7 US OFAC and Canada SEMA sanctions designations as of Sep 28, 2026, exposing it to potential retaliatory economic measures. [E2]\n\nWATCH ITEMS\nWhether Lithuania’s interior minister will succeed in restoring warning shots for police and border guards. [4]",
+      "generatedAt": "2026-09-28T05:03:56.779Z",
+      "sources": [
+        {
+          "title": "Russian state news agency deletes column calling for nuclear strike on Lithuania - Hromadske",
+          "source": "Hromadske EN",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcFhYVTRnTEJCSzdzRnVLZm84aTVLNVBCY1pidVF5SmdHdEo2OXhfVVNIZ21QeGJKbG5JeHFnc0dqYWtZNG1MZTRHblFndzZJQVNvSlZveXdXeFJ3VHh6Q0lQcjVYcXZkU1c3dUh1SllBd0hzX3gwZ3NQMWdiYUhfMnpnNFdFZ2oyUVRWcGZiNFRRUUo2N0o0TVVwZHVXNHdhVVp4QjM2UGtsWmsxbmtCTnpEaVgzT3prQ0UzYURYckRLUTBnTUNIVWI2UGczZ3pVUHBKetIB2gFBVV95cUxQdmZxbWFBTFpacFFlTXNPMi1iYlRuLVdNYmdjVjlaSDlsb2hNOFExQUdvTFZ0dnZWQlp4ZGV0eU9Nd0FnVnJPb21tVXRmWDJYMVQ4N3RqWUJvaUJldTFSbU44ZDdrc2tlTVVCeTBiTktlRXc3SFZNRVVtbGpTWnFnRHhRY1FqVktNdVpfS09COU8wbThaZzBWS1hVX1J5VWJnd1ZvRVJ4emFwbDltdTlBcFN4M2NacGdXMkhWdHJYblZHV3pETGQyR0tfWWE3dV80MjVnTWk1dEZUQQ?oc=5",
+          "publishedAt": "2026-09-25T14:16:00.000Z"
+        },
+        {
+          "title": "Between three countries, a young Lithuanian finds her way home",
+          "source": "LRT English",
+          "url": "https://www.lrt.lt/en/news-in-english/19/3063211/between-three-countries-a-young-lithuanian-finds-her-way-home",
+          "publishedAt": "2026-09-27T07:00:00.000Z"
+        },
+        {
+          "title": "1st Infantry Division soldiers deploy to Lithuania in ongoing effort to deter Russia",
+          "source": "Task & Purpose",
+          "url": "https://taskandpurpose.com/news/army-1st-infantry-division-lithuania-deployment/",
+          "publishedAt": "2026-09-24T16:12:05.000Z"
+        },
+        {
+          "title": "Lithuania’s interior minister wants to restore warning shots for police and border guards",
+          "source": "LRT English",
+          "url": "https://www.lrt.lt/en/news-in-english/19/3060383/lithuania-s-interior-minister-wants-to-restore-warning-shots-for-police-and-border-guards",
+          "publishedAt": "2026-09-27T05:00:00.000Z"
+        },
+        {
+          "title": "Young Lithuanian farmers compete in plowing contest",
+          "source": "LRT English",
+          "url": "https://www.lrt.lt/en/news-in-english/19/3063128/young-lithuanian-farmers-compete-in-plowing-contest",
+          "publishedAt": "2026-09-26T07:00:00.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "7",
+          "factText": "Lithuania is linked to 7 US OFAC and Canada SEMA sanctions designations, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T00:01:35.739Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

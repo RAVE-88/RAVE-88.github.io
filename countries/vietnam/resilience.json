@@ -1,0 +1,110 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "VN",
+  "countryName": "Vietnam",
+  "slug": "vietnam",
+  "rank": 90,
+  "overallScore": 52.6,
+  "dimensionCoverage": 0.81,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Vietnam, Canada Announce Establishment of Strategic Partnership",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/09/vietnam-canada-announce-establishment-of-strategic-partnership/",
+        "publishedAt": "2026-09-25T05:22:00.000Z"
+      },
+      {
+        "title": "Deputy Minister Kenny Morolong: 81st anniversary of the Socialist Republic of Vietnam",
+        "source": "gov.za",
+        "url": "https://www.gov.za/news/speeches/deputy-minister-kenny-morolong-81st-anniversary-socialist-republic-vietnam-21-sep",
+        "publishedAt": "2026-09-22T07:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Vietnamese, Republic of Korean partners to develop semiconductors and AI",
+        "source": "vietnamnews.vn",
+        "url": "https://vietnamnews.vn/economy/1800234/vietnamese-republic-of-korean-partners-to-develop-semiconductors-and-ai.html",
+        "publishedAt": "2026-09-21T16:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "US deportations to Vietnam surge: Returnees struggle to rebuild lives in an unfamiliar country",
+        "source": "asianews.network",
+        "url": "https://asianews.network/us-deportations-to-vietnam-surge-returnees-struggle-to-rebuild-lives-in-an-unfamiliar-country/",
+        "publishedAt": "2026-09-28T02:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Vietnam braces for long, uncertain El Niño",
+        "source": "asianews.network",
+        "url": "https://asianews.network/vietnam-braces-for-long-uncertain-el-nino/",
+        "publishedAt": "2026-09-28T02:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nVietnam and Canada announced the establishment of a strategic partnership. [1]\nVietnamese and Republic of Korean partners are collaborating to develop semiconductors and AI. [3]\n\nWHAT THIS MEANS FOR VIETNAM\nThe strategic partnership with Canada may help Vietnam navigate the 23 US OFAC and Canada SEMA sanctions designations it is linked to. [1][E2]\n\nKEY RISKS\nVietnam faces a risk from the 23 US OFAC and Canada SEMA sanctions designations it is linked to. [E2]\n\nWATCH ITEMS\nIt is unresolved how the surge in US deportations to Vietnam will affect returnees rebuilding their lives. [4]\nIt is unresolved how the long, uncertain El Niño will impact Vietnam. [5]",
+      "generatedAt": "2026-09-28T05:07:45.829Z",
+      "sources": [
+        {
+          "title": "Vietnam, Canada Announce Establishment of Strategic Partnership",
+          "source": "The Diplomat",
+          "url": "https://thediplomat.com/2026/09/vietnam-canada-announce-establishment-of-strategic-partnership/",
+          "publishedAt": "2026-09-25T05:22:00.000Z"
+        },
+        {
+          "title": "Deputy Minister Kenny Morolong: 81st anniversary of the Socialist Republic of Vietnam",
+          "source": "gov.za",
+          "url": "https://www.gov.za/news/speeches/deputy-minister-kenny-morolong-81st-anniversary-socialist-republic-vietnam-21-sep",
+          "publishedAt": "2026-09-22T07:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Vietnamese, Republic of Korean partners to develop semiconductors and AI",
+          "source": "vietnamnews.vn",
+          "url": "https://vietnamnews.vn/economy/1800234/vietnamese-republic-of-korean-partners-to-develop-semiconductors-and-ai.html",
+          "publishedAt": "2026-09-21T16:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "US deportations to Vietnam surge: Returnees struggle to rebuild lives in an unfamiliar country",
+          "source": "asianews.network",
+          "url": "https://asianews.network/us-deportations-to-vietnam-surge-returnees-struggle-to-rebuild-lives-in-an-unfamiliar-country/",
+          "publishedAt": "2026-09-28T02:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Vietnam braces for long, uncertain El Niño",
+          "source": "asianews.network",
+          "url": "https://asianews.network/vietnam-braces-for-long-uncertain-el-nino/",
+          "publishedAt": "2026-09-28T02:30:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "23",
+          "factText": "Vietnam is linked to 23 US OFAC and Canada SEMA sanctions designations, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T00:01:35.739Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

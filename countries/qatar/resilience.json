@@ -1,0 +1,61 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "QA",
+  "countryName": "Qatar",
+  "slug": "qatar",
+  "rank": 30,
+  "overallScore": 61.7,
+  "dimensionCoverage": 0.75,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Guilherme Bala makes thrilling international debut as UAE clinch Gulf Cup semi-final place",
+        "source": "The National",
+        "url": "https://www.thenationalnews.com/sport/football/2026/09/28/guilherme-bala-makes-thrilling-international-debut-as-uae-clinch-gulf-cup-semi-final-place/",
+        "publishedAt": "2026-09-28T03:10:19.000Z"
+      },
+      {
+        "title": "Finance minister Nirmala Sitharaman leads delegation to AIIB annual meeting in Qatar for key infrastructure talks",
+        "source": "hindustantimes.com",
+        "url": "https://www.hindustantimes.com/india-news/nirmala-sitharaman-to-lead-delegation-to-qatar-for-two-day-aiib-annual-meeting-101790536076838.html",
+        "publishedAt": "2026-09-28T04:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Emerson opens automation service centre in Qatar",
+        "source": "oilreviewmiddleeast.com",
+        "url": "https://oilreviewmiddleeast.com/industry/emerson-opens-automation-service-centre-in-qatar",
+        "publishedAt": "2026-09-28T04:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Qatar Charity completes 58 relief, development projects in Cote d'Ivoire",
+        "source": "gulf-times.com",
+        "url": "https://www.gulf-times.com/article/734303/qatar/qatar-charity-completes-58-relief-development-projects-in-cote-divoire",
+        "publishedAt": "2026-09-28T01:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Real Estate Trading in Qatar Reaches QR1.29 Billion in August",
+        "source": "qatarliving.com",
+        "url": "https://www.qatarliving.com/en/article/qatar-real-estate-trading-august-2026",
+        "publishedAt": "2026-09-28T01:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

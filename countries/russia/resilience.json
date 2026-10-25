@@ -1,0 +1,145 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "RU",
+  "countryName": "Russia",
+  "slug": "russia",
+  "rank": 99,
+  "overallScore": 51.5,
+  "dimensionCoverage": 0.78,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Russian and German FMs Meet for First Time Since Ukraine Invasion",
+        "source": "Moscow Times",
+        "url": "https://www.themoscowtimes.com/2026/09/26/russian-and-german-fms-meet-for-first-time-since-ukraine-invasion-a93799",
+        "publishedAt": "2026-09-26T16:59:15.000Z"
+      },
+      {
+        "title": "Russian state news agency deletes column calling for nuclear strike on Lithuania - Hromadske",
+        "source": "Hromadske EN",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcFhYVTRnTEJCSzdzRnVLZm84aTVLNVBCY1pidVF5SmdHdEo2OXhfVVNIZ21QeGJKbG5JeHFnc0dqYWtZNG1MZTRHblFndzZJQVNvSlZveXdXeFJ3VHh6Q0lQcjVYcXZkU1c3dUh1SllBd0hzX3gwZ3NQMWdiYUhfMnpnNFdFZ2oyUVRWcGZiNFRRUUo2N0o0TVVwZHVXNHdhVVp4QjM2UGtsWmsxbmtCTnpEaVgzT3prQ0UzYURYckRLUTBnTUNIVWI2UGczZ3pVUHBKetIB2gFBVV95cUxQdmZxbWFBTFpacFFlTXNPMi1iYlRuLVdNYmdjVjlaSDlsb2hNOFExQUdvTFZ0dnZWQlp4ZGV0eU9Nd0FnVnJPb21tVXRmWDJYMVQ4N3RqWUJvaUJldTFSbU44ZDdrc2tlTVVCeTBiTktlRXc3SFZNRVVtbGpTWnFnRHhRY1FqVktNdVpfS09COU8wbThaZzBWS1hVX1J5VWJnd1ZvRVJ4emFwbDltdTlBcFN4M2NacGdXMkhWdHJYblZHV3pETGQyR0tfWWE3dV80MjVnTWk1dEZUQQ?oc=5",
+        "publishedAt": "2026-09-25T14:16:00.000Z"
+      },
+      {
+        "title": "Russian Offensive Campaign Assessment, September 27, 2026 - Institute for the Study of War",
+        "source": "ISW",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQXpUdEUyQ1lJNXh4NDZPYUhXMlE2SXlNaWR3bWR4UHVreEVEYk5haExWMEEtTENoQlRjZzlrS2ViUjV0bm8tLWdCWXRQaHVJdV9tbnB5c2tGNDhoUVU3eEUwdWMwcmhlcmxGUFowbGlyY251Rk9TNWNpLVJUTDJ2UTVvekJ6OWVLNEhVcGszNHJuUDRXUk9abkhhQ0xlU05ZVlh4Z3g1SlIza2xhQ3c?oc=5",
+        "publishedAt": "2026-09-28T00:40:04.000Z"
+      },
+      {
+        "title": "Ukraine strikes Russian defense plant producing missile components, General Staff says - The Kyiv Independent",
+        "source": "Kyiv Independent",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZFpTbnowc2ZRUUZzSkF5XzJFUUxiX0RRblZJTGE0ZG9hR1k2b3lyNTZ5dUcwc3dtTmxvNG5FUXVNejVWNmhBYXhOSTBfUG8ya0gyWDNOM2t1NHdwUi0xb2std0pDTlRPVWwzLXdPWnBUTllCbWFRUjNmQkhQMnNpU3VmYTBQanhGc1VqWGFtRlI5LWdVRzlEVmF4UWNma3p1R2NCMW0yY295cHY3eEFFNVdES3E?oc=5",
+        "publishedAt": "2026-09-27T22:14:30.000Z"
+      },
+      {
+        "title": "Russian attacks kill eight in Ukraine after Moscow vows to continue war",
+        "source": "France 24",
+        "url": "https://www.france24.com/en/europe/20260927-russian-strikes-kill-eight-ukraine-war-moscow",
+        "publishedAt": "2026-09-27T21:55:28.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nRussian and German foreign ministers met for the first time since the Ukraine invasion. [1]\nUkraine struck a Russian defense plant producing missile components, according to the General Staff. [4]\n\nWHAT THIS MEANS FOR RUSSIA\nThe meeting between Russian and German foreign ministers occurs despite Russia having a Country Instability Index score of 76 of 100, in the High band. [1][E1]\nUkraine's strike on a Russian defense plant underscores the impact of the 5,938 US OFAC and Canada SEMA sanctions designations linked to Russia. [4][E3]\n\nKEY RISKS\nThe most severe government travel advisory for Russia is Do Not Travel, indicating high risk for travelers. [E2]\nThe Kerch Strait is a shipping chokepoint World Monitor tracks for Russia, posing a risk to maritime transit. [E5]\n\nOUTLOOK\nA Polymarket market on Russia-Ukraine peace talks by October 15, 2026 is priced Yes at 26% and closes Oct 15, 2026. [E6]\nA Polymarket market on the Bank of Russia making no change to the key rate after the October Meeting is priced Yes at 79% and closes Oct 24, 2026. [E7]\n\nWATCH ITEMS\nWhether the Russian state news agency's deleted column calling for a nuclear strike on Lithuania signals a shift in official rhetoric. [2]\nWhether the Polymarket market on Russia-Ukraine peace talks by October 15, 2026 resolves at its current 26% Yes price. [E6]",
+      "generatedAt": "2026-09-28T05:06:11.378Z",
+      "sources": [
+        {
+          "title": "Russian and German FMs Meet for First Time Since Ukraine Invasion",
+          "source": "Moscow Times",
+          "url": "https://www.themoscowtimes.com/2026/09/26/russian-and-german-fms-meet-for-first-time-since-ukraine-invasion-a93799",
+          "publishedAt": "2026-09-26T16:59:15.000Z"
+        },
+        {
+          "title": "Russian state news agency deletes column calling for nuclear strike on Lithuania - Hromadske",
+          "source": "Hromadske EN",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcFhYVTRnTEJCSzdzRnVLZm84aTVLNVBCY1pidVF5SmdHdEo2OXhfVVNIZ21QeGJKbG5JeHFnc0dqYWtZNG1MZTRHblFndzZJQVNvSlZveXdXeFJ3VHh6Q0lQcjVYcXZkU1c3dUh1SllBd0hzX3gwZ3NQMWdiYUhfMnpnNFdFZ2oyUVRWcGZiNFRRUUo2N0o0TVVwZHVXNHdhVVp4QjM2UGtsWmsxbmtCTnpEaVgzT3prQ0UzYURYckRLUTBnTUNIVWI2UGczZ3pVUHBKetIB2gFBVV95cUxQdmZxbWFBTFpacFFlTXNPMi1iYlRuLVdNYmdjVjlaSDlsb2hNOFExQUdvTFZ0dnZWQlp4ZGV0eU9Nd0FnVnJPb21tVXRmWDJYMVQ4N3RqWUJvaUJldTFSbU44ZDdrc2tlTVVCeTBiTktlRXc3SFZNRVVtbGpTWnFnRHhRY1FqVktNdVpfS09COU8wbThaZzBWS1hVX1J5VWJnd1ZvRVJ4emFwbDltdTlBcFN4M2NacGdXMkhWdHJYblZHV3pETGQyR0tfWWE3dV80MjVnTWk1dEZUQQ?oc=5",
+          "publishedAt": "2026-09-25T14:16:00.000Z"
+        },
+        {
+          "title": "Russian Offensive Campaign Assessment, September 27, 2026 - Institute for the Study of War",
+          "source": "ISW",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQXpUdEUyQ1lJNXh4NDZPYUhXMlE2SXlNaWR3bWR4UHVreEVEYk5haExWMEEtTENoQlRjZzlrS2ViUjV0bm8tLWdCWXRQaHVJdV9tbnB5c2tGNDhoUVU3eEUwdWMwcmhlcmxGUFowbGlyY251Rk9TNWNpLVJUTDJ2UTVvekJ6OWVLNEhVcGszNHJuUDRXUk9abkhhQ0xlU05ZVlh4Z3g1SlIza2xhQ3c?oc=5",
+          "publishedAt": "2026-09-28T00:40:04.000Z"
+        },
+        {
+          "title": "Ukraine strikes Russian defense plant producing missile components, General Staff says - The Kyiv Independent",
+          "source": "Kyiv Independent",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZFpTbnowc2ZRUUZzSkF5XzJFUUxiX0RRblZJTGE0ZG9hR1k2b3lyNTZ5dUcwc3dtTmxvNG5FUXVNejVWNmhBYXhOSTBfUG8ya0gyWDNOM2t1NHdwUi0xb2std0pDTlRPVWwzLXdPWnBUTllCbWFRUjNmQkhQMnNpU3VmYTBQanhGc1VqWGFtRlI5LWdVRzlEVmF4UWNma3p1R2NCMW0yY295cHY3eEFFNVdES3E?oc=5",
+          "publishedAt": "2026-09-27T22:14:30.000Z"
+        },
+        {
+          "title": "Russian attacks kill eight in Ukraine after Moscow vows to continue war",
+          "source": "France 24",
+          "url": "https://www.france24.com/en/europe/20260927-russian-strikes-kill-eight-ukraine-war-moscow",
+          "publishedAt": "2026-09-27T21:55:28.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "cii",
+          "label": "Country Instability Index",
+          "value": "76 of 100 (High)",
+          "factText": "Russia has a Country Instability Index score of 76 of 100, in the High band, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T05:01:53.862Z"
+        },
+        {
+          "id": "E2",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Do Not Travel",
+          "factText": "The most severe government travel advisory World Monitor tracks for Russia is Do Not Travel, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T05:03:30.360Z"
+        },
+        {
+          "id": "E3",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "5,938",
+          "factText": "Russia is linked to 5,938 US OFAC and Canada SEMA sanctions designations, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T00:01:35.739Z"
+        },
+        {
+          "id": "E5",
+          "kind": "chokepoint",
+          "label": "Chokepoint tracker",
+          "value": "Kerch Strait",
+          "factText": "Kerch Strait is a shipping chokepoint World Monitor tracks for Russia.",
+          "asOf": "2026-09-28T05:06:05.178Z",
+          "url": "https://www.worldmonitor.app/chokepoints/kerch-strait/"
+        },
+        {
+          "id": "E6",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "26%",
+          "factText": "A Polymarket market related to Russia, \"Russia-Ukraine peace talks by October 15, 2026?\", priced Yes at 26% on Sep 28, 2026; it closes Oct 15, 2026.",
+          "asOf": "2026-09-28T05:00:34.359Z",
+          "url": "https://polymarket.com/event/russia-x-ukraine-peace-talks-byptptpt-20260609012540716"
+        },
+        {
+          "id": "E7",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "79%",
+          "factText": "A Polymarket market related to Russia, \"Will the Bank of Russia make no change to the key rate after the October Meeting?\", priced Yes at 79% on Sep 28, 2026; it closes Oct 24, 2026.",
+          "asOf": "2026-09-28T05:00:34.359Z",
+          "url": "https://polymarket.com/event/bank-of-russia-decision-in-october-20260724021538830"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

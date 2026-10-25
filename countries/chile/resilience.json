@@ -1,0 +1,110 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "CL",
+  "countryName": "Chile",
+  "slug": "chile",
+  "rank": 51,
+  "overallScore": 58.7,
+  "dimensionCoverage": 0.75,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "High copper prices support miners in Chile, but investments dent gains - Mining Weekly",
+        "source": "Mining Weekly",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSk9FT29XcVlLUzQzM3ZSTkxfdGZZRTBCMzl5d01kdXFQaDFYX1hkS1l1Q3JmbXQwNFh0eG5PYTFPZTZ1TlFaOVpXLXl0TnBsbnEzYTY1Wld6LW1IdU9KZ2gwVmpFQ0VXUFhjZ2d2MHJ3OXNPRWhBQVdaLW1hWHkyTERBQ1RNdWVlclZ1a1hpeGs1TnBFR3Ytcm16anBoUjY2MVdOQzZtcWV5dTZpVm9xZnN0blk3R2xW?oc=5",
+        "publishedAt": "2026-09-25T06:16:00.000Z"
+      },
+      {
+        "title": "500 Homes, One Severed Highway: Inside the Storm System Overwhelming Southern Chile",
+        "source": "latintimes.com",
+        "url": "https://www.latintimes.com/500-homes-one-severed-highway-inside-storm-system-overwhelming-southern-chile-599602",
+        "publishedAt": "2026-09-27T18:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "This Dish Has All the Big Flavors of Classic Chile Rellenos Without the Deep Frying",
+        "source": "theepochtimes.com",
+        "url": "https://www.theepochtimes.com/recipes/this-dish-has-all-the-big-flavors-of-classic-chile-rellenos-without-the-deep-frying-6093166",
+        "publishedAt": "2026-09-27T15:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "One Of The World's Best Destinations To View Penguins Is A Gorgeous Island Off The Coast Of Chile",
+        "source": "aol.com",
+        "url": "https://www.aol.com/articles/one-worlds-best-destinations-view-074500000.html",
+        "publishedAt": "2026-09-27T15:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Chile Storm Alert: Thunderstorms Sunday, More Rain in October",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/chile-storm-alert-thunderstorms-atmospheric-river-october-2026/",
+        "publishedAt": "2026-09-27T14:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nHigh copper prices support miners in Chile, but investments dent gains. [1]\nA storm system is overwhelming southern Chile, affecting 500 homes and severing a highway. [2]\n\nWHAT THIS MEANS FOR CHILE\nChile's high net energy import dependency of 62% means that disruptions from the storm system overwhelming southern Chile could strain energy supply logistics. [2][E3]\n\nKEY RISKS\nChile's net energy import dependency of 62% exposes the country to supply disruptions from external shocks. [E3]\n\nWATCH ITEMS\nThe storm alert warns of thunderstorms on Sunday and more rain in October, which could worsen conditions in southern Chile. [5]",
+      "generatedAt": "2026-09-28T04:59:41.283Z",
+      "sources": [
+        {
+          "title": "High copper prices support miners in Chile, but investments dent gains - Mining Weekly",
+          "source": "Mining Weekly",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSk9FT29XcVlLUzQzM3ZSTkxfdGZZRTBCMzl5d01kdXFQaDFYX1hkS1l1Q3JmbXQwNFh0eG5PYTFPZTZ1TlFaOVpXLXl0TnBsbnEzYTY1Wld6LW1IdU9KZ2gwVmpFQ0VXUFhjZ2d2MHJ3OXNPRWhBQVdaLW1hWHkyTERBQ1RNdWVlclZ1a1hpeGs1TnBFR3Ytcm16anBoUjY2MVdOQzZtcWV5dTZpVm9xZnN0blk3R2xW?oc=5",
+          "publishedAt": "2026-09-25T06:16:00.000Z"
+        },
+        {
+          "title": "500 Homes, One Severed Highway: Inside the Storm System Overwhelming Southern Chile",
+          "source": "latintimes.com",
+          "url": "https://www.latintimes.com/500-homes-one-severed-highway-inside-storm-system-overwhelming-southern-chile-599602",
+          "publishedAt": "2026-09-27T18:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "This Dish Has All the Big Flavors of Classic Chile Rellenos Without the Deep Frying",
+          "source": "theepochtimes.com",
+          "url": "https://www.theepochtimes.com/recipes/this-dish-has-all-the-big-flavors-of-classic-chile-rellenos-without-the-deep-frying-6093166",
+          "publishedAt": "2026-09-27T15:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "One Of The World's Best Destinations To View Penguins Is A Gorgeous Island Off The Coast Of Chile",
+          "source": "aol.com",
+          "url": "https://www.aol.com/articles/one-worlds-best-destinations-view-074500000.html",
+          "publishedAt": "2026-09-27T15:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Chile Storm Alert: Thunderstorms Sunday, More Rain in October",
+          "source": "riotimesonline.com",
+          "url": "https://www.riotimesonline.com/chile-storm-alert-thunderstorms-atmospheric-river-october-2026/",
+          "publishedAt": "2026-09-27T14:00:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E3",
+          "kind": "energy",
+          "label": "Net energy import dependency",
+          "value": "62%",
+          "factText": "Chile has a net energy import dependency of 62% (World Bank Open Data, 2023).",
+          "asOf": "2023-12-31T00:00:00.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

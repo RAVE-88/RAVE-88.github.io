@@ -1,0 +1,110 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "KZ",
+  "countryName": "Kazakhstan",
+  "slug": "kazakhstan",
+  "rank": 54,
+  "overallScore": 57.5,
+  "dimensionCoverage": 0.78,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Caspian naval exercise ends in tragedy: 14 Kazakh sailors dead",
+        "source": "Eurasianet",
+        "url": "https://eurasianet.org/caspian-naval-exercise-ends-in-tragedy-14-kazakh-sailors-dead",
+        "publishedAt": "2026-09-25T00:00:00.000Z"
+      },
+      {
+        "title": "Kazakhstan Takes Part in Abraham Accords Meeting as Trump-Promised Signing Awaits",
+        "source": "The Times of Central Asia",
+        "url": "https://timesca.com/kazakhstan-takes-part-in-abraham-accords-meeting-as-trump-promised-signing-awaits/",
+        "publishedAt": "2026-09-28T01:49:03.000Z"
+      },
+      {
+        "title": "Kazakhstan Appoints Myrzakhmetov as Defense Minister",
+        "source": "The Astana Times",
+        "url": "https://astanatimes.com/2026/09/kazakhstan-appoints-myrzakhmetov-as-defense-minister/",
+        "publishedAt": "2026-09-27T08:37:34.000Z"
+      },
+      {
+        "title": "How Kazakhstan Initiated C5+1",
+        "source": "The Times of Central Asia",
+        "url": "https://timesca.com/how-kazakhstan-initiated-c51/",
+        "publishedAt": "2026-09-27T16:47:23.000Z"
+      },
+      {
+        "title": "Murder? Ancient Burial in Southern Kazakhstan Reveals Woman With Fatal Skull Injury",
+        "source": "The Astana Times",
+        "url": "https://astanatimes.com/2026/09/murder-ancient-burial-in-southern-kazakhstan-reveals-woman-with-fatal-skull-injury/",
+        "publishedAt": "2026-09-27T05:00:57.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nCaspian naval exercise ends in tragedy: 14 Kazakh sailors dead [1]\nKazakhstan Appoints Myrzakhmetov as Defense Minister [3]\n\nWHAT THIS MEANS FOR KAZAKHSTAN\nKazakhstan's net energy export status of -119% indicates strong energy security despite regional military appointments [3][E3]\n\nKEY RISKS\nKazakhstan is linked to 24 US OFAC and Canada SEMA sanctions designations as of Sep 28, 2026 [E2]\n\nWATCH ITEMS\nKazakhstan Takes Part in Abraham Accords Meeting as Trump-Promised Signing Awaits [2]",
+      "generatedAt": "2026-09-28T05:03:42.166Z",
+      "sources": [
+        {
+          "title": "Caspian naval exercise ends in tragedy: 14 Kazakh sailors dead",
+          "source": "Eurasianet",
+          "url": "https://eurasianet.org/caspian-naval-exercise-ends-in-tragedy-14-kazakh-sailors-dead",
+          "publishedAt": "2026-09-25T00:00:00.000Z"
+        },
+        {
+          "title": "Kazakhstan Takes Part in Abraham Accords Meeting as Trump-Promised Signing Awaits",
+          "source": "The Times of Central Asia",
+          "url": "https://timesca.com/kazakhstan-takes-part-in-abraham-accords-meeting-as-trump-promised-signing-awaits/",
+          "publishedAt": "2026-09-28T01:49:03.000Z"
+        },
+        {
+          "title": "Kazakhstan Appoints Myrzakhmetov as Defense Minister",
+          "source": "The Astana Times",
+          "url": "https://astanatimes.com/2026/09/kazakhstan-appoints-myrzakhmetov-as-defense-minister/",
+          "publishedAt": "2026-09-27T08:37:34.000Z"
+        },
+        {
+          "title": "How Kazakhstan Initiated C5+1",
+          "source": "The Times of Central Asia",
+          "url": "https://timesca.com/how-kazakhstan-initiated-c51/",
+          "publishedAt": "2026-09-27T16:47:23.000Z"
+        },
+        {
+          "title": "Murder? Ancient Burial in Southern Kazakhstan Reveals Woman With Fatal Skull Injury",
+          "source": "The Astana Times",
+          "url": "https://astanatimes.com/2026/09/murder-ancient-burial-in-southern-kazakhstan-reveals-woman-with-fatal-skull-injury/",
+          "publishedAt": "2026-09-27T05:00:57.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "24",
+          "factText": "Kazakhstan is linked to 24 US OFAC and Canada SEMA sanctions designations, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T00:01:35.739Z"
+        },
+        {
+          "id": "E3",
+          "kind": "energy",
+          "label": "Net energy import dependency",
+          "value": "-119%",
+          "factText": "Kazakhstan has a net energy import dependency of -119% (World Bank Open Data, 2023); a negative value means Kazakhstan is a net energy exporter.",
+          "asOf": "2023-12-31T00:00:00.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

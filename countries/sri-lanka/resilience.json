@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "LK",
+  "countryName": "Sri Lanka",
+  "slug": "sri-lanka",
+  "rank": 111,
+  "overallScore": 48.8,
+  "dimensionCoverage": 0.81,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Nallur Residents Protest After Police Remove Thileepan Statue in Northern Sri Lanka",
+        "source": "lankanewspapers.com",
+        "url": "https://www.lankanewspapers.com/2026/09/28/nallur-residents-protest-after-police-remove-thileepan-statue-in-northern-sri-lanka",
+        "publishedAt": "2026-09-28T02:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Sri Lanka Extends Judges' Terms as Protesters Take to the Streets",
+        "source": "lankanewspapers.com",
+        "url": "https://www.lankanewspapers.com/2026/09/28/sri-lanka-extends-judges-terms-as-protesters-take-to-the-streets",
+        "publishedAt": "2026-09-28T02:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Sri Lanka's Graduate Unemployment Crisis: A Costly Paradox the Nation Can No Longer Ignore",
+        "source": "lankanewspapers.com",
+        "url": "https://www.lankanewspapers.com/2026/09/28/sri-lanka-s-graduate-unemployment-crisis-a-costly-paradox-the-nation-can-no-longer-ignore",
+        "publishedAt": "2026-09-28T02:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Sri Lanka Stands Firm on Rooftop Solar Net Plus Policy Shift Amid Industry Scrutiny",
+        "source": "lankanewspapers.com",
+        "url": "https://www.lankanewspapers.com/2026/09/28/sri-lanka-stands-firm-on-rooftop-solar-net-plus-policy-shift-amid-industry-scrutiny",
+        "publishedAt": "2026-09-28T02:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "LankaWeb – Bankers Threaten Sri Lanka: Wall Street or Civil War?",
+        "source": "lankaweb.com",
+        "url": "https://www.lankaweb.com/news/items/2026/09/27/bankers-threaten-sri-lanka-wall-street-or-civil-war/",
+        "publishedAt": "2026-09-28T02:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

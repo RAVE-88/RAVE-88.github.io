@@ -1,0 +1,181 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "ML",
+  "countryName": "Mali",
+  "slug": "mali",
+  "rank": 166,
+  "overallScore": 32,
+  "dimensionCoverage": 0.75,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "DR Congo, Sudan and Mali are Africa’s biggest military drone importers as US and Iran supply rival sides in Russia-Ukraine war - Business Insider Africa",
+        "source": "Sahel Crisis",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNczVQRWdTbWZTbURCVFVLRWlmMXgtc3Z6amg1UUdXaVJuNWNNX0s2ZG1ESkptNTVPLVJReE1qV1BTQllOUlNmeEVCbnd3M0NPZElfNGZkVGZtdVk0QVdzZHAxT0Y1NXZJMElVSkJGWndxcm5qSmVMeURlTTZFMjNaVW1OLVZTZDU1TlQzcEtGaHBueDRyVWViVHhTNG5CdEpTOWpheXptZWx3VDVqSFdWWW5ZVC1Pa0RoNngtUDM4Si1Fc3M5Z1IxZm5vOG1hc2RQWFQtbFpYaWZyUQ?oc=5",
+        "publishedAt": "2026-09-27T22:05:55.000Z"
+      },
+      {
+        "title": "Barrick Mining reaches deal with unions at Mali gold mine, easing strike threat - Reuters",
+        "source": "Reuters Commodities",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObkV1YzdDNFNhaGxKOVMxV0dhSk5jZWY2N0VsaXBuR29XNm91cjhGb2E1TTZVWWlIZWdtd1N3MFVCTnVWeFlEdm9ubTdWSTFfN3VyRXpsVi05Q3hpYk9rVXJRZXRVd3F5aUJWd1JzZWhYUmdhZC14eWEyTnlTcjFITmtXZU1DZ2U2ZmpTWkN4WlFqQTJGZ3ZvLVBfY1BKRy1sZFg3OThBUFJVUDJ4UDJyLU5ZUk1GMjhIUkVYR2xR?oc=5",
+        "publishedAt": "2026-09-27T14:33:51.000Z"
+      },
+      {
+        "title": "Barrick Mining Reaches Deal With Mali Unions, Averting Strikes - bloomberg.com",
+        "source": "Bloomberg Commodities",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaG1IeENwOW9oTWFXTWdfZUVFc2lZWlRWQ1FWQ2pYdHk5a21DTFozUmN1cC1mVnFRSHZvbWlHdXVIZUVyZU9PajZITFc4WDNRYkJGV1dCa0RrUms0YzBlQ3NnS2ctTHJDQmRDeFpneVd3MDRoMHJmcFBXNGxyNGkwdGFhcWJfdThiQkxhLW5MZXk2cktGdkg1Vkp6VlJMVElGQjNlVUQ0R2t0X0dnNEV0X0d3?oc=5",
+        "publishedAt": "2026-09-27T11:34:06.000Z"
+      },
+      {
+        "title": "Barrick Mining reaches deal with unions at Mali gold mine, easing strike threat - tradingview.com",
+        "source": "Gold Majors",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNG5RTHhEQ3lEQTJmdGdWeUM1TURxeE1TdDd2MTJ6NTV5MzJoNGpKMTcwQnAtRWVCeTFOWEY3TkN6UWo1eXBOWUdpN2t5X3ktTmNfcWNmVmNYcmE4dmxfcmhHWFM4aGVLTGRVdTRNd2hPOG5reS1MeU14V3BKaWI4TGJRM0ROTzhScEx5cnZBMWNHNzhGSzN5alBZXzV6SjdMdWFTSnRCcFdFV2RoalQxRlFTekZaUG95WjgzVF9HUnlKUmJjMTdzWV83TDNVYkNfRldOS1RmYlpTeVBJTHdtbVV3?oc=5",
+        "publishedAt": "2026-09-27T13:01:07.000Z"
+      },
+      {
+        "title": "Crash du vol Air Algérie AH5017 au Mali, le jugement attendu à Paris",
+        "source": "Studio Tamani",
+        "url": "https://www.studiotamani.org/208210-crash-du-vol-air-algerie-ah5017-au-mali-le-jugement-attendu-a-paris",
+        "publishedAt": "2026-09-25T15:44:28.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nBarrick Mining reached a deal with unions at its Mali gold mine, easing the threat of a strike. [2][3][4]\n\nWHAT THIS MEANS FOR MALI\nThe deal between Barrick Mining and unions at the Mali gold mine reduces operational disruption risks for a key sector, even as Mali faces 24 US OFAC and Canada SEMA sanctions designations. [2][E2]\n\nKEY RISKS\nThe most severe government travel advisory World Monitor tracks for Mali is Do Not Travel, indicating high security risks for foreign nationals. [E1]\n\nWATCH ITEMS\nThe judgment in Paris for the crash of Air Algérie flight AH5017 in Mali remains awaited. [5]",
+      "generatedAt": "2026-09-28T05:04:27.812Z",
+      "sources": [
+        {
+          "title": "DR Congo, Sudan and Mali are Africa’s biggest military drone importers as US and Iran supply rival sides in Russia-Ukraine war - Business Insider Africa",
+          "source": "Sahel Crisis",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNczVQRWdTbWZTbURCVFVLRWlmMXgtc3Z6amg1UUdXaVJuNWNNX0s2ZG1ESkptNTVPLVJReE1qV1BTQllOUlNmeEVCbnd3M0NPZElfNGZkVGZtdVk0QVdzZHAxT0Y1NXZJMElVSkJGWndxcm5qSmVMeURlTTZFMjNaVW1OLVZTZDU1TlQzcEtGaHBueDRyVWViVHhTNG5CdEpTOWpheXptZWx3VDVqSFdWWW5ZVC1Pa0RoNngtUDM4Si1Fc3M5Z1IxZm5vOG1hc2RQWFQtbFpYaWZyUQ?oc=5",
+          "publishedAt": "2026-09-27T22:05:55.000Z"
+        },
+        {
+          "title": "Barrick Mining reaches deal with unions at Mali gold mine, easing strike threat - Reuters",
+          "source": "Reuters Commodities",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObkV1YzdDNFNhaGxKOVMxV0dhSk5jZWY2N0VsaXBuR29XNm91cjhGb2E1TTZVWWlIZWdtd1N3MFVCTnVWeFlEdm9ubTdWSTFfN3VyRXpsVi05Q3hpYk9rVXJRZXRVd3F5aUJWd1JzZWhYUmdhZC14eWEyTnlTcjFITmtXZU1DZ2U2ZmpTWkN4WlFqQTJGZ3ZvLVBfY1BKRy1sZFg3OThBUFJVUDJ4UDJyLU5ZUk1GMjhIUkVYR2xR?oc=5",
+          "publishedAt": "2026-09-27T14:33:51.000Z"
+        },
+        {
+          "title": "Barrick Mining Reaches Deal With Mali Unions, Averting Strikes - bloomberg.com",
+          "source": "Bloomberg Commodities",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaG1IeENwOW9oTWFXTWdfZUVFc2lZWlRWQ1FWQ2pYdHk5a21DTFozUmN1cC1mVnFRSHZvbWlHdXVIZUVyZU9PajZITFc4WDNRYkJGV1dCa0RrUms0YzBlQ3NnS2ctTHJDQmRDeFpneVd3MDRoMHJmcFBXNGxyNGkwdGFhcWJfdThiQkxhLW5MZXk2cktGdkg1Vkp6VlJMVElGQjNlVUQ0R2t0X0dnNEV0X0d3?oc=5",
+          "publishedAt": "2026-09-27T11:34:06.000Z"
+        },
+        {
+          "title": "Barrick Mining reaches deal with unions at Mali gold mine, easing strike threat - tradingview.com",
+          "source": "Gold Majors",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNG5RTHhEQ3lEQTJmdGdWeUM1TURxeE1TdDd2MTJ6NTV5MzJoNGpKMTcwQnAtRWVCeTFOWEY3TkN6UWo1eXBOWUdpN2t5X3ktTmNfcWNmVmNYcmE4dmxfcmhHWFM4aGVLTGRVdTRNd2hPOG5reS1MeU14V3BKaWI4TGJRM0ROTzhScEx5cnZBMWNHNzhGSzN5alBZXzV6SjdMdWFTSnRCcFdFV2RoalQxRlFTekZaUG95WjgzVF9HUnlKUmJjMTdzWV83TDNVYkNfRldOS1RmYlpTeVBJTHdtbVV3?oc=5",
+          "publishedAt": "2026-09-27T13:01:07.000Z"
+        },
+        {
+          "title": "Crash du vol Air Algérie AH5017 au Mali, le jugement attendu à Paris",
+          "source": "Studio Tamani",
+          "url": "https://www.studiotamani.org/208210-crash-du-vol-air-algerie-ah5017-au-mali-le-jugement-attendu-a-paris",
+          "publishedAt": "2026-09-25T15:44:28.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Do Not Travel",
+          "factText": "The most severe government travel advisory World Monitor tracks for Mali is Do Not Travel, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T05:03:30.360Z"
+        },
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "24",
+          "factText": "Mali is linked to 24 US OFAC and Canada SEMA sanctions designations, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T00:01:35.739Z"
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "title": "GDELT 190 — in Mali",
+        "summary": "source: www.christiandaily.com",
+        "sourceUrl": "https://www.christiandaily.com/news/more-christians-killed-in-previously-attacked-area-in-nigeria",
+        "occurredAt": "2026-09-26T00:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Mali",
+        "summary": "source: www.christiandaily.com",
+        "sourceUrl": "https://www.christiandaily.com/news/more-christians-killed-in-previously-attacked-area-in-nigeria",
+        "occurredAt": "2026-09-26T00:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Mali",
+        "summary": "source: www.christiandaily.com",
+        "sourceUrl": "https://www.christiandaily.com/news/more-christians-killed-in-previously-attacked-area-in-nigeria",
+        "occurredAt": "2026-09-26T00:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Mali",
+        "summary": "source: hotair.com",
+        "sourceUrl": "https://hotair.com/david-strom/2026/09/25/the-inverted-moral-universe-of-asylum-policies-summed-up-in-one-small-boat-n3819348",
+        "occurredAt": "2026-09-25T20:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Mali",
+        "summary": "source: lestimes.com",
+        "sourceUrl": "https://lestimes.com/?p=91653",
+        "occurredAt": "2026-09-25T14:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 193 — in Mali",
+        "summary": "source: lestimes.com",
+        "sourceUrl": "https://lestimes.com/?p=91653",
+        "occurredAt": "2026-09-25T14:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Mali",
+        "summary": "source: lestimes.com",
+        "sourceUrl": "https://lestimes.com/?p=91653",
+        "occurredAt": "2026-09-25T14:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 192 — in Mali",
+        "summary": "source: www.eurasiareview.com",
+        "sourceUrl": "https://www.eurasiareview.com/24092026-terrorist-tuareg-alliance-leaves-malis-junta-on-shaky-ground-analysis/",
+        "occurredAt": "2026-09-24T01:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Mali",
+        "summary": "source: www.africa.com",
+        "sourceUrl": "https://www.africa.com/top-10-news/mali-celebrates-independence-amid-rising-insecurity",
+        "occurredAt": "2026-09-22T22:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Mali",
+        "summary": "source: www.timesofearth.com",
+        "sourceUrl": "https://www.timesofearth.com/2026/09/22/al-qaeda-linked-militants-kill-more-than-100-malian-soldiers-in-attack-this-month/",
+        "occurredAt": "2026-09-22T13:00:00.000Z",
+        "domain": "conflict"
+      }
+    ],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

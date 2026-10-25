@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "HK",
+  "countryName": "Hong Kong",
+  "slug": "hong-kong",
+  "rank": 78,
+  "overallScore": 54.2,
+  "dimensionCoverage": 0.7,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "LEGOLAND® Discovery Centre Hong Kong's \"Brick or Treat\" Returns with an Upgrade: Five Spooktacular Activities and a Chillingly Charming 4D Experience",
+        "source": "sina.com.hk",
+        "url": "https://portal.sina.com.hk/finance/finance-mediaoutreachnewswire/media-outreach/2026/09/28/1938919/legoland-discovery-centre-hong-kongs-brick-or-treat-returns-with-an-upgrade-five-spooktacular-activities-and-a-chillingly-charming-4d-experience/",
+        "publishedAt": "2026-09-28T04:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Centurion expands Hong Kong presence with $59.4m building acquisition",
+        "source": "sbr.com.sg",
+        "url": "https://sbr.com.sg/residential-property/news/centurion-expands-hong-kong-presence-594m-building-acquisition",
+        "publishedAt": "2026-09-28T04:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Hong Kong to close deals with firms from strategic sectors in months: Paul Chan",
+        "source": "scmp.com",
+        "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3368971/hong-kong-close-deals-firms-strategic-sectors-months-paul-chan",
+        "publishedAt": "2026-09-28T03:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Opinion | How Hong Kong is trying a new solution to its land value problem",
+        "source": "scmp.com",
+        "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3368422/how-hong-kong-trying-new-solution-its-land-value-problem",
+        "publishedAt": "2026-09-28T03:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Hong Kong Stock Market Poised To Halt Losing Streak",
+        "source": "rttnews.com",
+        "url": "https://www.rttnews.com/story.aspx?Id=3694103",
+        "publishedAt": "2026-09-28T02:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

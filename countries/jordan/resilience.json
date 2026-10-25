@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "JO",
+  "countryName": "Jordan",
+  "slug": "jordan",
+  "rank": 88,
+  "overallScore": 52.9,
+  "dimensionCoverage": 0.81,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "'Lanterns' Episode 7 Ending Explained: Antaan, Sinestro, and Who Killed Hal Jordan?",
+        "source": "polygon.com",
+        "url": "https://www.polygon.com/lanterns-episode-7-ending-explained-what-planet-is-sinestro-on/",
+        "publishedAt": "2026-09-28T04:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Lanterns: Your S01E07: \"The Jordan Boys' Legacy\" Updated Preview",
+        "source": "bleedingcool.com",
+        "url": "https://bleedingcool.com/tv/lanterns-your-s01e07-the-jordan-boys-legacy-updated-preview/",
+        "publishedAt": "2026-09-28T02:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Ronika Stone Love, Packers QB Jordan Love's wife, asks for help finding purse, camera taken during Thursday's game",
+        "source": "wbay.com",
+        "url": "https://www.wbay.com/2026/09/27/ronika-stone-love-packers-qb-jordan-loves-wife-asks-help-finding-purse-camera-taken-during-thursdays-game/",
+        "publishedAt": "2026-09-28T00:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Ronika Stone Love, Packers QB Jordan Love's wife, asks for help finding purse, camera taken during Thursday's game",
+        "source": "wmtv15news.com",
+        "url": "https://www.wmtv15news.com/2026/09/27/ronika-stone-love-packers-qb-jordan-loves-wife-asks-help-finding-purse-camera-taken-during-thursdays-game/",
+        "publishedAt": "2026-09-28T00:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Jordan Love's wife asks for help after her purse and camera were stolen at Lambeau Field",
+        "source": "fox11online.com",
+        "url": "https://fox11online.com/news/local/jordan-loves-wife-asks-for-help-after-her-purse-and-camera-were-stolen-at-lambeau-field-ronika-stone-love-bag-id-green-bay-packers",
+        "publishedAt": "2026-09-27T22:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

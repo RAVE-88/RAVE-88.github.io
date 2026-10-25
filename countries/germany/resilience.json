@@ -1,0 +1,136 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "DE",
+  "countryName": "Germany",
+  "slug": "germany",
+  "rank": 24,
+  "overallScore": 63.2,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Russian and German FMs Meet for First Time Since Ukraine Invasion",
+        "source": "Moscow Times",
+        "url": "https://www.themoscowtimes.com/2026/09/26/russian-and-german-fms-meet-for-first-time-since-ukraine-invasion-a93799",
+        "publishedAt": "2026-09-26T16:59:15.000Z"
+      },
+      {
+        "title": "Military Medical Services visits Germany’s Ottobock to strengthen cooperation in rehabilitation and prosthetic services",
+        "source": "Libya Herald",
+        "url": "https://libyaherald.com/2026/09/military-medical-services-visits-germanys-ottobock-to-strengthen-cooperation-in-rehabilitation-and-prosthetic-services/",
+        "publishedAt": "2026-09-27T10:28:00.000Z"
+      },
+      {
+        "title": "What went right this week: the good news that matters",
+        "source": "Positive.News",
+        "url": "https://www.positive.news/society/good-news-stories-from-week-39-of-2026/",
+        "publishedAt": "2026-09-25T05:11:56.000Z"
+      },
+      {
+        "title": "East German espionage raised GDP by 7.4% in late 1980s, study finds - Reuters",
+        "source": "Reuters Commodities",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT3RiR0VIbnB1eGJVdTR2bU5hdDM5X21GLTNQYTVURnIyeVNrTjhGaVM4bmxiWDBJS0FtckJEMy1CZUo5OWlwZTVSQ25HbURPY0hMaldBY2hEVE9iYTc5dUNqTE1FaE9Zd3NGaEZ0QTZnTndJNE5kT1JMdTZiWkNwNkthZFhZN3IzWmZfQ3R0SjZoX3M0by1vV1NMUlF0UlZsbWJ3YW5RenE5QQ?oc=5",
+        "publishedAt": "2026-09-27T06:34:00.000Z"
+      },
+      {
+        "title": "Germany’s AfD is so extreme it’s putting off other far-right parties",
+        "source": "Egypt Independent",
+        "url": "https://www.egyptindependent.com/germanys-afd-is-so-extreme-its-putting-off-other-far-right-parties/",
+        "publishedAt": "2026-09-27T13:18:30.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nRussian and German foreign ministers met for the first time since the Ukraine invasion. [1]\nMilitary Medical Services visited Germany’s Ottobock to strengthen cooperation in rehabilitation and prosthetic services. [2]\n\nWHAT THIS MEANS FOR GERMANY\nThe meeting between Russian and German foreign ministers occurs while Germany has a Country Instability Index score of 36 of 100, in the Normal band. [1][E1]\nGermany's 67% net energy import dependency underscores the significance of diplomatic engagement with Russia. [1][E4]\n\nKEY RISKS\nGermany's net energy import dependency of 67% exposes it to potential supply disruptions. [E4]\nGermany is linked to 130 US OFAC and Canada SEMA sanctions designations, which could affect international relations. [E3]\n\nOUTLOOK\nA Polymarket market asks if Friedrich Merz is out as Chancellor of Germany before December 31, 2026, priced Yes at 11% on Sep 28, 2026; it closes Jan 1, 2027. [E6]\nA Kalshi market asks who the next German federal election winner is, with AfD priced at 83% on Sep 28, 2026; it closes Mar 25, 2030. [E8]\n\nWATCH ITEMS\nThe outcome of the meeting between Russian and German foreign ministers remains to be seen. [1]\nWhether the AfD's extremism deters other far-right parties from cooperation is an unresolved dynamic. [5]",
+      "generatedAt": "2026-09-28T05:00:19.019Z",
+      "sources": [
+        {
+          "title": "Russian and German FMs Meet for First Time Since Ukraine Invasion",
+          "source": "Moscow Times",
+          "url": "https://www.themoscowtimes.com/2026/09/26/russian-and-german-fms-meet-for-first-time-since-ukraine-invasion-a93799",
+          "publishedAt": "2026-09-26T16:59:15.000Z"
+        },
+        {
+          "title": "Military Medical Services visits Germany’s Ottobock to strengthen cooperation in rehabilitation and prosthetic services",
+          "source": "Libya Herald",
+          "url": "https://libyaherald.com/2026/09/military-medical-services-visits-germanys-ottobock-to-strengthen-cooperation-in-rehabilitation-and-prosthetic-services/",
+          "publishedAt": "2026-09-27T10:28:00.000Z"
+        },
+        {
+          "title": "What went right this week: the good news that matters",
+          "source": "Positive.News",
+          "url": "https://www.positive.news/society/good-news-stories-from-week-39-of-2026/",
+          "publishedAt": "2026-09-25T05:11:56.000Z"
+        },
+        {
+          "title": "East German espionage raised GDP by 7.4% in late 1980s, study finds - Reuters",
+          "source": "Reuters Commodities",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT3RiR0VIbnB1eGJVdTR2bU5hdDM5X21GLTNQYTVURnIyeVNrTjhGaVM4bmxiWDBJS0FtckJEMy1CZUo5OWlwZTVSQ25HbURPY0hMaldBY2hEVE9iYTc5dUNqTE1FaE9Zd3NGaEZ0QTZnTndJNE5kT1JMdTZiWkNwNkthZFhZN3IzWmZfQ3R0SjZoX3M0by1vV1NMUlF0UlZsbWJ3YW5RenE5QQ?oc=5",
+          "publishedAt": "2026-09-27T06:34:00.000Z"
+        },
+        {
+          "title": "Germany’s AfD is so extreme it’s putting off other far-right parties",
+          "source": "Egypt Independent",
+          "url": "https://www.egyptindependent.com/germanys-afd-is-so-extreme-its-putting-off-other-far-right-parties/",
+          "publishedAt": "2026-09-27T13:18:30.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "cii",
+          "label": "Country Instability Index",
+          "value": "36 of 100 (Normal)",
+          "factText": "Germany has a Country Instability Index score of 36 of 100, in the Normal band, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T04:51:51.988Z"
+        },
+        {
+          "id": "E3",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "130",
+          "factText": "Germany is linked to 130 US OFAC and Canada SEMA sanctions designations, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T00:01:35.739Z"
+        },
+        {
+          "id": "E4",
+          "kind": "energy",
+          "label": "Net energy import dependency",
+          "value": "67%",
+          "factText": "Germany has a net energy import dependency of 67% (Eurostat, 2024).",
+          "asOf": "2024-12-31T00:00:00.000Z"
+        },
+        {
+          "id": "E6",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "11%",
+          "factText": "A Polymarket market related to Germany, \"Friedrich Merz out as Chancellor of Germany before December 31, 2026?\", priced Yes at 11% on Sep 28, 2026; it closes Jan 1, 2027.",
+          "asOf": "2026-09-28T04:51:12.326Z",
+          "url": "https://polymarket.com/event/friedrich-merz-out-as-chancellor-of-germany-before-2027"
+        },
+        {
+          "id": "E8",
+          "kind": "market",
+          "label": "Kalshi prediction market",
+          "value": "83%",
+          "factText": "A Kalshi market related to Germany, \"Next German federal election winner?: AfD\", priced Yes at 83% on Sep 28, 2026; it closes Mar 25, 2030.",
+          "asOf": "2026-09-28T04:51:12.326Z",
+          "url": "https://kalshi.com/markets/KXGERELECTION-29MAR25-AFD"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

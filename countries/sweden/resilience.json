@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "SE",
+  "countryName": "Sweden",
+  "slug": "sweden",
+  "rank": 10,
+  "overallScore": 66.9,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "'The same struggles as 100 years ago': exhibition highlights lives of Sami people in Sweden | Indigenous peoples",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/sep/28/same-struggles-exhibition-highlights-lives-sami-people-sweden",
+        "publishedAt": "2026-09-28T04:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Isak Returns To Liverpool For Assessment After Injury On Duty For Sweden",
+        "source": "leadership.ng",
+        "url": "https://leadership.ng/isak-returns-to-liverpool-for-assessment-after-injury-on-duty-for-sweden/",
+        "publishedAt": "2026-09-27T19:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Alexander Isak to miss Sweden's remaining Nations League matches - Football International - phpstack-1649576-6553255.cloudwaysapps.com",
+        "source": "geosuper.tv",
+        "url": "https://www.geosuper.tv/latest/59991-alexander-isak-to-miss-swedens-remaining-nations-league-matches",
+        "publishedAt": "2026-09-27T14:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Isak returns to Liverpool after picking up 'minor injury' with Sweden",
+        "source": "the42.ie",
+        "url": "https://www.the42.ie/alexander-isak-liverpool-7174940-Sep2026/",
+        "publishedAt": "2026-09-27T14:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Alexander Isak returns to Liverpool due to injury picked up on Sweden duty",
+        "source": "metro.co.uk",
+        "url": "https://metro.co.uk/2026/09/27/alexander-isak-returns-liverpool-due-injury-picked-sweden-duty-29656532/",
+        "publishedAt": "2026-09-27T13:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

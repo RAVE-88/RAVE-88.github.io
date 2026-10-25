@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "SV",
+  "countryName": "El Salvador",
+  "slug": "el-salvador",
+  "rank": 82,
+  "overallScore": 54,
+  "dimensionCoverage": 0.81,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Madison, October 5-6, 2026: US-El Salvador Sister Cities (USESSC) Midwest Speaking Tourwith three Salvadoran social movement leaders",
+        "source": "wibailoutpeople.org",
+        "url": "https://wibailoutpeople.org/2026/09/27/madison-october-5-6-2026-us-el-salvador-sister-cities-usessc-midwest-speaking-tourwith-three-salvadoran-social-movement-leaders/",
+        "publishedAt": "2026-09-28T00:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "El Salvador Explained 2026: Bukele, Economy, What to Watch",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/el-salvador-explained-2026/",
+        "publishedAt": "2026-09-26T14:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Investing in El Salvador 2026: Property, Bitcoin, Security",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/investing-el-salvador-foreigners-2026/",
+        "publishedAt": "2026-09-25T14:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "TPS El Salvador Remains For Now",
+        "source": "mondaq.com",
+        "url": "https://www.mondaq.com/unitedstates/work-visas/1846976/tps-el-salvador-remains-for-now",
+        "publishedAt": "2026-09-24T17:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Open Bank Account El Salvador Foreigner 2026 Rules | The Rio Times",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/bank-account-el-salvador-foreigners-2026/",
+        "publishedAt": "2026-09-23T12:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

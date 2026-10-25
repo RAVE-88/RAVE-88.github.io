@@ -1,0 +1,127 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "GH",
+  "countryName": "Ghana",
+  "slug": "ghana",
+  "rank": 110,
+  "overallScore": 48.9,
+  "dimensionCoverage": 0.85,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "NAFCO builds GH¢100m food buffer as Ghana moves to strengthen food security",
+        "source": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/nafco-builds-gh%c2%a2100m-food-buffer-as-ghana-moves-to-strengthen-food-security/",
+        "publishedAt": "2026-09-28T03:45:00.000Z"
+      },
+      {
+        "title": "Business Day Ghana- Latest Business News | Economy | Banking|",
+        "source": "businessdayghana.com",
+        "url": "https://businessdayghana.com/page/1731/",
+        "publishedAt": "2026-09-28T01:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "10 universities in Ghana that accept low WASSCE scores – Ghanamma.com",
+        "source": "ghanamma.com",
+        "url": "https://www.ghanamma.com/2026/09/28/10-universities-in-ghana-that-accept-low-wassce-scores-2/",
+        "publishedAt": "2026-09-28T00:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Hearts of Oak snatch top spot from Medeama to rank as the best club in Ghana; Top 10 latest ranking – Ghanamma.com",
+        "source": "ghanamma.com",
+        "url": "https://www.ghanamma.com/2026/09/27/hearts-of-oak-snatch-top-spot-from-medeama-to-rank-as-the-best-club-in-ghana-top-10-latest-ranking/",
+        "publishedAt": "2026-09-27T22:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "North East Gonja floods leave 246 homeless in Ghana",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/floods-leave-246-homeless-north-east-gonja-ghana-2026/",
+        "publishedAt": "2026-09-27T10:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nNAFCO builds GH¢100m food buffer as Ghana moves to strengthen food security. [1]\nNorth East Gonja floods leave 246 homeless in Ghana. [5]\n\nWHAT THIS MEANS FOR GHANA\nThe GH¢100m food buffer investment by NAFCO may help mitigate food supply disruptions, though Ghana's net energy import dependency of 0% suggests energy self-sufficiency does not shield it from climate-related shocks like the North East Gonja floods. [1][5][E3]\n\nKEY RISKS\nGhana is linked to 3 US OFAC and Canada SEMA sanctions designations, which could complicate international trade and investment. [E2]\n\nWATCH ITEMS\nThe outcome of the Kalshi market on whether the NDC wins the Ghana parliamentary election, priced at 61% on Sep 28, 2026, with a close date of Dec 7, 2029. [E4]",
+      "generatedAt": "2026-09-28T05:01:46.890Z",
+      "sources": [
+        {
+          "title": "NAFCO builds GH¢100m food buffer as Ghana moves to strengthen food security",
+          "source": "MyJoyOnline",
+          "url": "https://www.myjoyonline.com/nafco-builds-gh%c2%a2100m-food-buffer-as-ghana-moves-to-strengthen-food-security/",
+          "publishedAt": "2026-09-28T03:45:00.000Z"
+        },
+        {
+          "title": "Business Day Ghana- Latest Business News | Economy | Banking|",
+          "source": "businessdayghana.com",
+          "url": "https://businessdayghana.com/page/1731/",
+          "publishedAt": "2026-09-28T01:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "10 universities in Ghana that accept low WASSCE scores – Ghanamma.com",
+          "source": "ghanamma.com",
+          "url": "https://www.ghanamma.com/2026/09/28/10-universities-in-ghana-that-accept-low-wassce-scores-2/",
+          "publishedAt": "2026-09-28T00:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Hearts of Oak snatch top spot from Medeama to rank as the best club in Ghana; Top 10 latest ranking – Ghanamma.com",
+          "source": "ghanamma.com",
+          "url": "https://www.ghanamma.com/2026/09/27/hearts-of-oak-snatch-top-spot-from-medeama-to-rank-as-the-best-club-in-ghana-top-10-latest-ranking/",
+          "publishedAt": "2026-09-27T22:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "North East Gonja floods leave 246 homeless in Ghana",
+          "source": "riotimesonline.com",
+          "url": "https://www.riotimesonline.com/floods-leave-246-homeless-north-east-gonja-ghana-2026/",
+          "publishedAt": "2026-09-27T10:30:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "3",
+          "factText": "Ghana is linked to 3 US OFAC and Canada SEMA sanctions designations, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T00:01:35.739Z"
+        },
+        {
+          "id": "E3",
+          "kind": "energy",
+          "label": "Net energy import dependency",
+          "value": "0%",
+          "factText": "Ghana has a net energy import dependency of 0% (World Bank Open Data, 2023).",
+          "asOf": "2023-12-31T00:00:00.000Z"
+        },
+        {
+          "id": "E4",
+          "kind": "market",
+          "label": "Kalshi prediction market",
+          "value": "61%",
+          "factText": "A Kalshi market related to Ghana, \"Ghana parliamentary election winner?: NDC\", priced Yes at 61% on Sep 28, 2026; it closes Dec 7, 2029.",
+          "asOf": "2026-09-28T05:00:34.359Z",
+          "url": "https://kalshi.com/markets/KXGHANAPARLI-28-NDC"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

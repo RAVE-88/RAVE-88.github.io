@@ -1,0 +1,3 @@
+let t=null;function i(e){t=e}function o(e){return e<=200?"0-200":e<=500?"201-500":e<=1e3?"501-1000":e<=2e3?"1001-2000":"2000+"}function c(e=t){if(!e)return null;const n=Object.entries(e.truncated).map(([u,r])=>`${u}:${r.shown}/${r.total}`).sort();return{globeMarkers:e.rendered,globeMarkerBucket:o(e.rendered),globeActiveLayerCount:e.activeLayerCount,globeTruncated:n,globeBudgetProfile:e.budgetProfile}}export{c as g,i as s};
+
+;(globalThis.__WM_CHUNK_OWNERSHIP__||(globalThis.__WM_CHUNK_OWNERSHIP__={}))["globe-marker-probe-CYyPnhKX.js"]=1;

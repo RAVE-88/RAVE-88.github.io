@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "MD",
+  "countryName": "Moldova",
+  "slug": "moldova",
+  "rank": 71,
+  "overallScore": 55.3,
+  "dimensionCoverage": 0.81,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Moldova Declares Energy, Water Emergency; PM Rules Out NATO Membership",
+        "source": "worthynews.com",
+        "url": "https://www.worthynews.com/117792-moldova-declares-energy-water-emergency-pm-rules-out-nato-membership",
+        "publishedAt": "2026-09-28T01:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Moldova Does Not Plan to Join NATO - Prime Minister",
+        "source": "globalsecurity.org",
+        "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260925-sputnik01.htm",
+        "publishedAt": "2026-09-27T11:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "19:45 kick-off set for Slovakia Vs Moldova as Nations League C Group 3 rivals meet in Presov",
+        "source": "el-balad.com",
+        "url": "https://www.el-balad.com/17053760",
+        "publishedAt": "2026-09-26T20:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Moldova Does Not Plan to Join NATO - Prime Minister",
+        "source": "sputnikglobe.com",
+        "url": "https://sputnikglobe.com/20260925/moldova-does-not-plan-to-join-nato---prime-minister-1124786290.html",
+        "publishedAt": "2026-09-25T10:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Transnistria referendum talk signals new phase in Russia's pressure on Moldova",
+        "source": "azernews.az",
+        "url": "https://www.azernews.az/analysis/264415.html",
+        "publishedAt": "2026-09-24T17:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

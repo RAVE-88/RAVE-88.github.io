@@ -1,0 +1,173 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "AF",
+  "countryName": "Afghanistan",
+  "slug": "afghanistan",
+  "rank": 163,
+  "overallScore": 34,
+  "dimensionCoverage": 0.69,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Afghanistan says 28 fighters killed after crossing from Pakistan; Islamabad denies ties - Reuters",
+        "source": "Reuters World",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWHFmNzhleVFtVHNiMHZNN2JEeWxxS25BZkJGYTZ4d0lRODhZdHhKUnI3LTNMWHlMTTZiaDdkaDlabGl3Uld5dXdqVFdjMVNIRFVrNk8waXl4d1EwNF9hSEVaV2tiTGs5TjA5ZkZjNUptSi1xdFlNNG5NMnZOdXdCSDFSNmpjR0ZzdVF4bWJzZThBOFNuXy1aSndCdjZmSVFqTjc3VWVSNllOcFk4THNhb2t5OFk?oc=5",
+        "publishedAt": "2026-09-27T12:02:30.000Z"
+      },
+      {
+        "title": "Info ministry rejects Afghan Taliban's 'frivolous' claims linking Pakistan to reported Nuristan violence",
+        "source": "Dawn",
+        "url": "https://www.dawn.com/news/2033051/info-ministry-rejects-afghan-talibans-frivolous-claims-linking-pakistan-to-reported-nuristan-violence",
+        "publishedAt": "2026-09-27T18:36:14.000Z"
+      },
+      {
+        "title": "Pakistan PM tells UN Afghanistan’s soil is being used for attacks against his country",
+        "source": "Amu TV",
+        "url": "https://amu.tv/253195/",
+        "publishedAt": "2026-09-26T14:59:27.000Z"
+      },
+      {
+        "title": "Pakistan’s Punitive Gamble in Afghanistan: An Open War With No End in Sight",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/09/pakistans-punitive-gamble-in-afghanistan-an-open-war-with-no-end-in-sight/",
+        "publishedAt": "2026-09-25T12:28:00.000Z"
+      },
+      {
+        "title": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
+        "source": "BBC Asia",
+        "url": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-24T19:02:36.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nAfghanistan says 28 fighters were killed after crossing from Pakistan, while Islamabad denies ties. [1]\nFour civilians were killed in Pakistani strikes in Afghanistan, according to the Taliban. [5]\n\nKEY RISKS\nAfghanistan's link to 80 US OFAC and Canada SEMA sanctions designations poses a risk of further international financial isolation. [E3]\n\nWATCH ITEMS\nWhether Pakistan's reported strikes in Afghanistan will escalate into an open war with no end in sight. [4]",
+      "generatedAt": "2026-09-28T04:58:15.822Z",
+      "sources": [
+        {
+          "title": "Afghanistan says 28 fighters killed after crossing from Pakistan; Islamabad denies ties - Reuters",
+          "source": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWHFmNzhleVFtVHNiMHZNN2JEeWxxS25BZkJGYTZ4d0lRODhZdHhKUnI3LTNMWHlMTTZiaDdkaDlabGl3Uld5dXdqVFdjMVNIRFVrNk8waXl4d1EwNF9hSEVaV2tiTGs5TjA5ZkZjNUptSi1xdFlNNG5NMnZOdXdCSDFSNmpjR0ZzdVF4bWJzZThBOFNuXy1aSndCdjZmSVFqTjc3VWVSNllOcFk4THNhb2t5OFk?oc=5",
+          "publishedAt": "2026-09-27T12:02:30.000Z"
+        },
+        {
+          "title": "Info ministry rejects Afghan Taliban's 'frivolous' claims linking Pakistan to reported Nuristan violence",
+          "source": "Dawn",
+          "url": "https://www.dawn.com/news/2033051/info-ministry-rejects-afghan-talibans-frivolous-claims-linking-pakistan-to-reported-nuristan-violence",
+          "publishedAt": "2026-09-27T18:36:14.000Z"
+        },
+        {
+          "title": "Pakistan PM tells UN Afghanistan’s soil is being used for attacks against his country",
+          "source": "Amu TV",
+          "url": "https://amu.tv/253195/",
+          "publishedAt": "2026-09-26T14:59:27.000Z"
+        },
+        {
+          "title": "Pakistan’s Punitive Gamble in Afghanistan: An Open War With No End in Sight",
+          "source": "The Diplomat",
+          "url": "https://thediplomat.com/2026/09/pakistans-punitive-gamble-in-afghanistan-an-open-war-with-no-end-in-sight/",
+          "publishedAt": "2026-09-25T12:28:00.000Z"
+        },
+        {
+          "title": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
+          "source": "BBC Asia",
+          "url": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-09-24T19:02:36.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E3",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "80",
+          "factText": "Afghanistan is linked to 80 US OFAC and Canada SEMA sanctions designations, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T00:01:35.739Z"
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "title": "GDELT 180 — in Afghanistan",
+        "summary": "source: japantoday.com",
+        "sourceUrl": "https://japantoday.com/category/world/afghanistan-says-28-fighters-killed-32-captured-after-crossing-from-pakistan",
+        "occurredAt": "2026-09-28T02:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Afghanistan",
+        "summary": "source: www.eurasiareview.com",
+        "sourceUrl": "https://www.eurasiareview.com/26092026-from-badghis-to-kandahar-registanis-return-and-the-expanding-anti-taliban-resistance-oped/",
+        "occurredAt": "2026-09-27T21:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Afghanistan",
+        "summary": "source: www.eurasiareview.com",
+        "sourceUrl": "https://www.eurasiareview.com/26092026-from-badghis-to-kandahar-registanis-return-and-the-expanding-anti-taliban-resistance-oped/",
+        "occurredAt": "2026-09-27T21:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Afghanistan",
+        "summary": "source: www.eurasiareview.com",
+        "sourceUrl": "https://www.eurasiareview.com/26092026-from-badghis-to-kandahar-registanis-return-and-the-expanding-anti-taliban-resistance-oped/",
+        "occurredAt": "2026-09-27T21:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Afghanistan",
+        "summary": "source: www.eurasiareview.com",
+        "sourceUrl": "https://www.eurasiareview.com/26092026-from-badghis-to-kandahar-registanis-return-and-the-expanding-anti-taliban-resistance-oped/",
+        "occurredAt": "2026-09-27T21:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Afghanistan",
+        "summary": "source: www.eurasiareview.com",
+        "sourceUrl": "https://www.eurasiareview.com/26092026-from-badghis-to-kandahar-registanis-return-and-the-expanding-anti-taliban-resistance-oped/",
+        "occurredAt": "2026-09-27T21:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Afghanistan",
+        "summary": "source: www.eurasiareview.com",
+        "sourceUrl": "https://www.eurasiareview.com/26092026-from-badghis-to-kandahar-registanis-return-and-the-expanding-anti-taliban-resistance-oped/",
+        "occurredAt": "2026-09-27T21:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Afghanistan",
+        "summary": "source: grenadachronicle.com",
+        "sourceUrl": "https://grenadachronicle.com/afghanistan-says-28-fighters-killed-as-islamabad-kabul-trade-accusations/",
+        "occurredAt": "2026-09-27T19:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Afghanistan",
+        "summary": "source: kashmirlife.net",
+        "sourceUrl": "https://kashmirlife.net/28-fighters-killed-after-crossing-from-pakistan-into-afghanistan-taliban-defence-ministry-453916/",
+        "occurredAt": "2026-09-27T19:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Afghanistan",
+        "summary": "source: www.aljazeera.com",
+        "sourceUrl": "https://www.aljazeera.com/news/2026/9/27/afghanistan-says-28-fighters-killed-as-islamabad-kabul-trade-accusations",
+        "occurredAt": "2026-09-27T17:30:00.000Z",
+        "domain": "conflict"
+      }
+    ],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "KE",
+  "countryName": "Kenya",
+  "slug": "kenya",
+  "rank": 144,
+  "overallScore": 41.2,
+  "dimensionCoverage": 0.85,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "The Next Wave: Kenya’s payments revolution cannot end with mobile money",
+        "source": "TechCabal (Africa)",
+        "url": "https://techcabal.com/2026/09/27/kenyas-payments-revolution-cannot-end-with-mobile-money/",
+        "publishedAt": "2026-09-27T14:09:40.000Z"
+      },
+      {
+        "title": "How sacred Kenyan hill became US-China minerals battleground - South China Morning Post",
+        "source": "China Commodity Imports",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdnZTYTE2TXB5S1A1NGgxSnFHOE84bDZaUXF2Z3U1TUNaS2FKQ1R3TEF3NUE3VThycnNqZU5ZZWNKSkJ4MDRYaWxSRUd0M1pVMUdEVGk4cnVLU2lYdkhPeDJSeFVydy1zWjNQVUpkYnV1VEtvbXpVTXg4Rk9MNTVPRGJnVktXbmRuejUtQ3ozXzhYSXdfNHNNVWZvVFBqRld4OHlCbXUzNG1WNlNGaXNEelBLR3lMNWFTTm1hNkVXbFo0TGNFRzhCZ9IByAFBVV95cUxPdnZTYTE2TXB5S1A1NGgxSnFHOE84bDZaUXF2Z3U1TUNaS2FKQ1R3TEF3NUE3VThycnNqZU5ZZWNKSkJ4MDRYaWxSRUd0M1pVMUdEVGk4cnVLU2lYdkhPeDJSeFVydy1zWjNQVUpkYnV1VEtvbXpVTXg4Rk9MNTVPRGJnVktXbmRuejUtQ3ozXzhYSXdfNHNNVWZvVFBqRld4OHlCbXUzNG1WNlNGaXNEelBLR3lMNWFTTm1hNkVXbFo0TGNFRzhCZw?oc=5",
+        "publishedAt": "2026-09-27T04:00:21.000Z"
+      },
+      {
+        "title": "Kenyan High Commissioner hosts Heads of Mission from 25 countries",
+        "source": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/kenyan-high-commissioner-hosts-heads-of-mission-from-25-countries/",
+        "publishedAt": "2026-09-27T22:47:00.000Z"
+      },
+      {
+        "title": "Luno Acquires Kenya's GTXN to Enter Cross-Border Payments : TechMoran",
+        "source": "techmoran.com",
+        "url": "https://techmoran.com/2026/09/27/luno-acquires-kenyas-gtxn-to-expand-into-cross-border-payments/",
+        "publishedAt": "2026-09-28T00:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Earning Global Income Safely: Grace Mureithi Breaks Down Kenya's Gig Economy",
+        "source": "ghafla.co.ke",
+        "url": "https://www.ghafla.co.ke/earning-global-income-safely-grace-mureithi-breaks-down-kenyas-gig-economy/",
+        "publishedAt": "2026-09-28T00:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nLuno has acquired Kenya's GTXN to enter cross-border payments, and Kenya's payments revolution is described as not ending with mobile money. [1][4]\n\nWHAT THIS MEANS FOR KENYA\nLuno's acquisition of GTXN to enter cross-border payments could expand Kenya's digital payment ecosystem beyond mobile money, but Kenya's link to 19 sanctions designations may complicate international transactions. [4][E2]\n\nKEY RISKS\nKenya's net energy import dependency of 22% exposes the country to global energy price volatility. [E3]\nKenya is linked to 19 US OFAC and Canada SEMA sanctions designations, which could deter foreign investment. [E2]\n\nWATCH ITEMS\nThe outcome of the US-China minerals competition over the sacred Kenyan hill remains unresolved. [2]",
+      "generatedAt": "2026-09-28T05:03:16.100Z",
+      "sources": [
+        {
+          "title": "The Next Wave: Kenya’s payments revolution cannot end with mobile money",
+          "source": "TechCabal (Africa)",
+          "url": "https://techcabal.com/2026/09/27/kenyas-payments-revolution-cannot-end-with-mobile-money/",
+          "publishedAt": "2026-09-27T14:09:40.000Z"
+        },
+        {
+          "title": "How sacred Kenyan hill became US-China minerals battleground - South China Morning Post",
+          "source": "China Commodity Imports",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdnZTYTE2TXB5S1A1NGgxSnFHOE84bDZaUXF2Z3U1TUNaS2FKQ1R3TEF3NUE3VThycnNqZU5ZZWNKSkJ4MDRYaWxSRUd0M1pVMUdEVGk4cnVLU2lYdkhPeDJSeFVydy1zWjNQVUpkYnV1VEtvbXpVTXg4Rk9MNTVPRGJnVktXbmRuejUtQ3ozXzhYSXdfNHNNVWZvVFBqRld4OHlCbXUzNG1WNlNGaXNEelBLR3lMNWFTTm1hNkVXbFo0TGNFRzhCZ9IByAFBVV95cUxPdnZTYTE2TXB5S1A1NGgxSnFHOE84bDZaUXF2Z3U1TUNaS2FKQ1R3TEF3NUE3VThycnNqZU5ZZWNKSkJ4MDRYaWxSRUd0M1pVMUdEVGk4cnVLU2lYdkhPeDJSeFVydy1zWjNQVUpkYnV1VEtvbXpVTXg4Rk9MNTVPRGJnVktXbmRuejUtQ3ozXzhYSXdfNHNNVWZvVFBqRld4OHlCbXUzNG1WNlNGaXNEelBLR3lMNWFTTm1hNkVXbFo0TGNFRzhCZw?oc=5",
+          "publishedAt": "2026-09-27T04:00:21.000Z"
+        },
+        {
+          "title": "Kenyan High Commissioner hosts Heads of Mission from 25 countries",
+          "source": "MyJoyOnline",
+          "url": "https://www.myjoyonline.com/kenyan-high-commissioner-hosts-heads-of-mission-from-25-countries/",
+          "publishedAt": "2026-09-27T22:47:00.000Z"
+        },
+        {
+          "title": "Luno Acquires Kenya's GTXN to Enter Cross-Border Payments : TechMoran",
+          "source": "techmoran.com",
+          "url": "https://techmoran.com/2026/09/27/luno-acquires-kenyas-gtxn-to-expand-into-cross-border-payments/",
+          "publishedAt": "2026-09-28T00:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Earning Global Income Safely: Grace Mureithi Breaks Down Kenya's Gig Economy",
+          "source": "ghafla.co.ke",
+          "url": "https://www.ghafla.co.ke/earning-global-income-safely-grace-mureithi-breaks-down-kenyas-gig-economy/",
+          "publishedAt": "2026-09-28T00:00:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "19",
+          "factText": "Kenya is linked to 19 US OFAC and Canada SEMA sanctions designations, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T00:01:35.739Z"
+        },
+        {
+          "id": "E3",
+          "kind": "energy",
+          "label": "Net energy import dependency",
+          "value": "22%",
+          "factText": "Kenya has a net energy import dependency of 22% (World Bank Open Data, 2023).",
+          "asOf": "2023-12-31T00:00:00.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

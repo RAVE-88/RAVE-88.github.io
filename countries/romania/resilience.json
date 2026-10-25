@@ -1,0 +1,128 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "RO",
+  "countryName": "Romania",
+  "slug": "romania",
+  "rank": 49,
+  "overallScore": 58.9,
+  "dimensionCoverage": 0.76,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Bloomberg: Romania gives blood donors better rates on government bonds. The program has raised about $600 million since the start of 2025.",
+        "source": "Meduza",
+        "url": "https://meduza.io/en/news/2026/09/25/bloomberg-romania-gives-blood-donors-better-rates-on-government-bonds-the-program-has-raised-about-600-million-since-the-start-of-2025",
+        "publishedAt": "2026-09-25T16:58:50.000Z"
+      },
+      {
+        "title": "September 27, 2026 UPDATE - Radio Romania International",
+        "source": "rri.ro",
+        "url": "https://www.rri.ro/en/news-and-current-affairs/newsflash/september-27-2026-update-id1064346.html",
+        "publishedAt": "2026-09-27T20:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Listen to RRI in English - September 27, 2026 - Radio Romania International",
+        "source": "rri.ro",
+        "url": "https://www.rri.ro/en/on-demand/listen-here/listen-to-rri-in-english-september-27-2026-id1064339.html",
+        "publishedAt": "2026-09-27T16:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Syria, Romania discuss parliamentary ties and medical cooperation",
+        "source": "sana.sy",
+        "url": "https://sana.sy/en/health/2346326/",
+        "publishedAt": "2026-09-27T13:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "September 27, 2026 - Radio Romania International",
+        "source": "rri.ro",
+        "url": "https://www.rri.ro/en/news-and-current-affairs/newsflash/september-27-2026-id1064272.html",
+        "publishedAt": "2026-09-27T12:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nRomania gives blood donors better rates on government bonds, and the program has raised about $600 million since the start of 2025. [1]\n\nKEY RISKS\nRomania's net energy import dependency of 30% exposes it to supply disruptions or price shocks. [E3]\n\nOUTLOOK\nA Polymarket market related to Romania, \"Will the next Prime Minister of Romania be appointed by December 31?\", priced Yes at 39% on Sep 28, 2026; it closes Jan 1, 2027. [E4]\nA Polymarket market related to Romania, \"Will Sorin Grindeanu be the next Prime Minister of Romania?\", priced Yes at 37% on Sep 28, 2026; it closes Jan 1, 2028. [E5]\n\nWATCH ITEMS\nThe outcome of discussions between Syria and Romania on parliamentary ties and medical cooperation remains unresolved. [4]",
+      "generatedAt": "2026-09-28T05:05:59.340Z",
+      "sources": [
+        {
+          "title": "Bloomberg: Romania gives blood donors better rates on government bonds. The program has raised about $600 million since the start of 2025.",
+          "source": "Meduza",
+          "url": "https://meduza.io/en/news/2026/09/25/bloomberg-romania-gives-blood-donors-better-rates-on-government-bonds-the-program-has-raised-about-600-million-since-the-start-of-2025",
+          "publishedAt": "2026-09-25T16:58:50.000Z"
+        },
+        {
+          "title": "September 27, 2026 UPDATE - Radio Romania International",
+          "source": "rri.ro",
+          "url": "https://www.rri.ro/en/news-and-current-affairs/newsflash/september-27-2026-update-id1064346.html",
+          "publishedAt": "2026-09-27T20:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Listen to RRI in English - September 27, 2026 - Radio Romania International",
+          "source": "rri.ro",
+          "url": "https://www.rri.ro/en/on-demand/listen-here/listen-to-rri-in-english-september-27-2026-id1064339.html",
+          "publishedAt": "2026-09-27T16:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Syria, Romania discuss parliamentary ties and medical cooperation",
+          "source": "sana.sy",
+          "url": "https://sana.sy/en/health/2346326/",
+          "publishedAt": "2026-09-27T13:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "September 27, 2026 - Radio Romania International",
+          "source": "rri.ro",
+          "url": "https://www.rri.ro/en/news-and-current-affairs/newsflash/september-27-2026-id1064272.html",
+          "publishedAt": "2026-09-27T12:15:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E3",
+          "kind": "energy",
+          "label": "Net energy import dependency",
+          "value": "30%",
+          "factText": "Romania has a net energy import dependency of 30% (Eurostat, 2024).",
+          "asOf": "2024-12-31T00:00:00.000Z"
+        },
+        {
+          "id": "E4",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "39%",
+          "factText": "A Polymarket market related to Romania, \"Will the next Prime Minister of Romania be appointed by December 31?\", priced Yes at 39% on Sep 28, 2026; it closes Jan 1, 2027.",
+          "asOf": "2026-09-28T05:00:34.359Z",
+          "url": "https://polymarket.com/event/next-romania-pm-appointed-by-20260623155722428"
+        },
+        {
+          "id": "E5",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "37%",
+          "factText": "A Polymarket market related to Romania, \"Will Sorin Grindeanu be the next Prime Minister of Romania?\", priced Yes at 37% on Sep 28, 2026; it closes Jan 1, 2028.",
+          "asOf": "2026-09-28T05:00:34.359Z",
+          "url": "https://polymarket.com/event/next-prime-minister-of-romania-732"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

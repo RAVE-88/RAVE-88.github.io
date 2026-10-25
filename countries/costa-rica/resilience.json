@@ -1,0 +1,110 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "CR",
+  "countryName": "Costa Rica",
+  "slug": "costa-rica",
+  "rank": 92,
+  "overallScore": 52,
+  "dimensionCoverage": 0.75,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Haiti - News : Zapping...",
+        "source": "HaitiLibre English",
+        "url": "https://www.haitilibre.com/en/news-48538-haiti-news-zapping.html",
+        "publishedAt": "2026-09-27T15:10:24.000Z"
+      },
+      {
+        "title": "Fire Forces Costa Rica Imax Theater to Close Indefinitely, 1 Left in Country",
+        "source": "thewrap.com",
+        "url": "https://www.thewrap.com/industry-news/business/fire-costa-rica-imax-close-indefinitely/",
+        "publishedAt": "2026-09-28T01:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "ICT Celebrates World Tourism Day with Nationwide Tours Across Costa Rica's Seven Provinces ⋆ The Costa Rica News",
+        "source": "thecostaricanews.com",
+        "url": "https://thecostaricanews.com/ict-celebrates-world-tourism-day-with-nationwide-tours-across-costa-ricas-seven-provinces/",
+        "publishedAt": "2026-09-27T05:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Tropical Wave No. 47 and Trough Increase Rainfall Across Costa Rica: CNE Reports Severe Downpours in Cartago, Heredia, and Alajuela ⋆ The Costa Rica News",
+        "source": "thecostaricanews.com",
+        "url": "https://thecostaricanews.com/tropical-wave-no-47-and-trough-increase-rainfall-across-costa-rica-cne-reports-severe-downpours-in-cartago-heredia-and-alajuela/",
+        "publishedAt": "2026-09-27T05:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Costa Rica: AERIS Advances Expansion and New Parking Improvements at Juan Santamaría International Airport ⋆ The Costa Rica News",
+        "source": "thecostaricanews.com",
+        "url": "https://thecostaricanews.com/costa-rica-aeris-advances-expansion-and-new-parking-improvements-at-juan-santamaria-international-airport/",
+        "publishedAt": "2026-09-26T20:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nTropical Wave No. 47 and a trough are increasing rainfall across Costa Rica, with the CNE reporting severe downpours in Cartago, Heredia, and Alajuela. [4]\nA fire forced the Costa Rica Imax Theater to close indefinitely, leaving one Imax theater in the country. [2]\n\nWHAT THIS MEANS FOR COSTA RICA\nThe severe downpours from Tropical Wave No. 47 may strain Costa Rica's infrastructure, given the country's net energy import dependency of 60%. [4][E3]\n\nKEY RISKS\nCosta Rica's 60% net energy import dependency creates a risk of energy supply disruptions during extreme weather events. [E3]\n\nWATCH ITEMS\nThe indefinite closure of the Costa Rica Imax Theater after a fire leaves one Imax theater in the country, with no announced reopening date. [2]",
+      "generatedAt": "2026-09-28T05:00:00.566Z",
+      "sources": [
+        {
+          "title": "Haiti - News : Zapping...",
+          "source": "HaitiLibre English",
+          "url": "https://www.haitilibre.com/en/news-48538-haiti-news-zapping.html",
+          "publishedAt": "2026-09-27T15:10:24.000Z"
+        },
+        {
+          "title": "Fire Forces Costa Rica Imax Theater to Close Indefinitely, 1 Left in Country",
+          "source": "thewrap.com",
+          "url": "https://www.thewrap.com/industry-news/business/fire-costa-rica-imax-close-indefinitely/",
+          "publishedAt": "2026-09-28T01:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "ICT Celebrates World Tourism Day with Nationwide Tours Across Costa Rica's Seven Provinces ⋆ The Costa Rica News",
+          "source": "thecostaricanews.com",
+          "url": "https://thecostaricanews.com/ict-celebrates-world-tourism-day-with-nationwide-tours-across-costa-ricas-seven-provinces/",
+          "publishedAt": "2026-09-27T05:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Tropical Wave No. 47 and Trough Increase Rainfall Across Costa Rica: CNE Reports Severe Downpours in Cartago, Heredia, and Alajuela ⋆ The Costa Rica News",
+          "source": "thecostaricanews.com",
+          "url": "https://thecostaricanews.com/tropical-wave-no-47-and-trough-increase-rainfall-across-costa-rica-cne-reports-severe-downpours-in-cartago-heredia-and-alajuela/",
+          "publishedAt": "2026-09-27T05:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Costa Rica: AERIS Advances Expansion and New Parking Improvements at Juan Santamaría International Airport ⋆ The Costa Rica News",
+          "source": "thecostaricanews.com",
+          "url": "https://thecostaricanews.com/costa-rica-aeris-advances-expansion-and-new-parking-improvements-at-juan-santamaria-international-airport/",
+          "publishedAt": "2026-09-26T20:15:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E3",
+          "kind": "energy",
+          "label": "Net energy import dependency",
+          "value": "60%",
+          "factText": "Costa Rica has a net energy import dependency of 60% (World Bank Open Data, 2023).",
+          "asOf": "2023-12-31T00:00:00.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "ZA",
+  "countryName": "South Africa",
+  "slug": "south-africa",
+  "rank": 114,
+  "overallScore": 48.2,
+  "dimensionCoverage": 0.85,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "South African white genocide does not exist, new ambassador to US tells BBC",
+        "source": "BBC Africa",
+        "url": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-25T23:20:48.000Z"
+      },
+      {
+        "title": "Two mass shootings in South Africa leave 27 dead",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-27T14:09:22.000Z"
+      },
+      {
+        "title": "South Africa shootings leave 27 killed",
+        "source": "France 24 Africa",
+        "url": "https://www.france24.com/en/south-africa-shootings-leave-27-killed",
+        "publishedAt": "2026-09-27T13:56:20.000Z"
+      },
+      {
+        "title": "At least 27 dead after two mass shootings in South Africa, police say",
+        "source": "Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
+        "publishedAt": "2026-09-27T13:46:49.000Z"
+      },
+      {
+        "title": "Gunmen kill at least 27 people in separate mass shootings in South Africa",
+        "source": "France 24 Africa",
+        "url": "https://www.france24.com/en/africa/20260927-gunmen-kill-27-people-in-separate-mass-shootings-in-south-africa",
+        "publishedAt": "2026-09-27T12:34:08.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nTwo mass shootings in South Africa left 27 dead, according to police. [2][3][4][5]\n\nWHAT THIS MEANS FOR SOUTH AFRICA\nThe mass shootings highlight security challenges that may affect South Africa's travel advisory, which is currently set at Exercise Increased Caution. [2][E1]\n\nKEY RISKS\nSouth Africa's 48 sanctions designations pose a risk to its international financial and trade relations. [E2]\n\nOUTLOOK\nA Polymarket market on whether Helen Zille will be the next mayor of Johannesburg is priced Yes at 66% as of Sep 28, 2026, and closes Nov 17, 2026. [E5]\n\nWATCH ITEMS\nThe outcome of the mass shootings investigation and any policy response remains unresolved. [2][3][4][5]\nThe Polymarket market on Helen Zille becoming the next mayor of Johannesburg will resolve by Nov 17, 2026. [E5]",
+      "generatedAt": "2026-09-28T05:08:02.331Z",
+      "sources": [
+        {
+          "title": "South African white genocide does not exist, new ambassador to US tells BBC",
+          "source": "BBC Africa",
+          "url": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-09-25T23:20:48.000Z"
+        },
+        {
+          "title": "Two mass shootings in South Africa leave 27 dead",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-09-27T14:09:22.000Z"
+        },
+        {
+          "title": "South Africa shootings leave 27 killed",
+          "source": "France 24 Africa",
+          "url": "https://www.france24.com/en/south-africa-shootings-leave-27-killed",
+          "publishedAt": "2026-09-27T13:56:20.000Z"
+        },
+        {
+          "title": "At least 27 dead after two mass shootings in South Africa, police say",
+          "source": "Guardian World",
+          "url": "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
+          "publishedAt": "2026-09-27T13:46:49.000Z"
+        },
+        {
+          "title": "Gunmen kill at least 27 people in separate mass shootings in South Africa",
+          "source": "France 24 Africa",
+          "url": "https://www.france24.com/en/africa/20260927-gunmen-kill-27-people-in-separate-mass-shootings-in-south-africa",
+          "publishedAt": "2026-09-27T12:34:08.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Exercise Increased Caution",
+          "factText": "The most severe government travel advisory World Monitor tracks for South Africa is Exercise Increased Caution, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T05:03:30.360Z"
+        },
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "48",
+          "factText": "South Africa is linked to 48 US OFAC and Canada SEMA sanctions designations, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T00:01:35.739Z"
+        },
+        {
+          "id": "E5",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "66%",
+          "factText": "A Polymarket market related to South Africa, \"Will Helen Zille be the next mayor of Johannesburg?\", priced Yes at 66% on Sep 28, 2026; it closes Nov 17, 2026.",
+          "asOf": "2026-09-28T05:00:34.359Z",
+          "url": "https://polymarket.com/event/next-mayor-of-johannesburg-20260609220245506"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "BI",
+  "countryName": "Burundi",
+  "slug": "burundi",
+  "rank": 149,
+  "overallScore": 40.7,
+  "dimensionCoverage": 0.81,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "IMF urges Burundi to improve banking data, oversight – Channel Africa",
+        "source": "channelafrica.co.za",
+        "url": "https://www.channelafrica.co.za/channelafrica/news/imf-urges-burundi-to-improve-banking-data-oversight/",
+        "publishedAt": "2026-09-26T19:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Burundi UN Reform Demand Speaks for African Union",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/burundi-un-reform-african-union-security-council-2026/",
+        "publishedAt": "2026-09-24T10:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

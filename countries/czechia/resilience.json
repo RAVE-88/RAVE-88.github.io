@@ -1,0 +1,118 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "CZ",
+  "countryName": "Czechia",
+  "slug": "czechia",
+  "rank": 7,
+  "overallScore": 68.8,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Democracy Digest: Czechia Restricts Rules for Russian Diplomats Travelling",
+        "source": "Balkan Insight",
+        "url": "https://balkaninsight.com/2026/09/25/democracy-digest-czechia-restricts-rules-for-russian-diplomats-travelling/rd/",
+        "publishedAt": "2026-09-25T06:02:10.000Z"
+      },
+      {
+        "title": "Croatia Rally Past Czech Republic 2-1 in UEFA Nations League Clash",
+        "source": "en.tempo.co",
+        "url": "https://en.tempo.co/read/2120393/croatia-rally-past-czech-republic-2-1-in-uefa-nations-league-clash",
+        "publishedAt": "2026-09-27T07:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Heroes' Day event held in Prague, the Czech Republic-Xinhua",
+        "source": "english.news.cn",
+        "url": "https://english.news.cn/europe/20260927/b7d15177c8e34de1bb9f46f5e89012c4/c.html",
+        "publishedAt": "2026-09-27T00:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Czech Republic's ancient sanctuary is a 1,000 years older than Stonehenge",
+        "source": "jpost.com",
+        "url": "https://www.jpost.com/archaeology/article-909697",
+        "publishedAt": "2026-09-26T23:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Leading orchestra in the Czech Republic celebrates 100th anniversary of its founding",
+        "source": "english.radio.cz",
+        "url": "https://english.radio.cz/leading-orchestra-czech-republic-celebrates-100th-anniversary-its-founding-8898253",
+        "publishedAt": "2026-09-25T23:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nCzechia has restricted rules for Russian diplomats travelling within the country. [1]\n\nWHAT THIS MEANS FOR CZECHIA\nThe new restrictions on Russian diplomats may affect Czechia's diplomatic relations, given its 10 US OFAC and Canada SEMA sanctions designations. [1][E2]\n\nKEY RISKS\nCzechia's net energy import dependency of 39% could pose a risk if energy supply disruptions occur. [E3]\n\nWATCH ITEMS\nIt remains to be seen how Russia will respond to Czechia's new restrictions on Russian diplomats. [1]",
+      "generatedAt": "2026-09-28T05:00:12.037Z",
+      "sources": [
+        {
+          "title": "Democracy Digest: Czechia Restricts Rules for Russian Diplomats Travelling",
+          "source": "Balkan Insight",
+          "url": "https://balkaninsight.com/2026/09/25/democracy-digest-czechia-restricts-rules-for-russian-diplomats-travelling/rd/",
+          "publishedAt": "2026-09-25T06:02:10.000Z"
+        },
+        {
+          "title": "Croatia Rally Past Czech Republic 2-1 in UEFA Nations League Clash",
+          "source": "en.tempo.co",
+          "url": "https://en.tempo.co/read/2120393/croatia-rally-past-czech-republic-2-1-in-uefa-nations-league-clash",
+          "publishedAt": "2026-09-27T07:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Heroes' Day event held in Prague, the Czech Republic-Xinhua",
+          "source": "english.news.cn",
+          "url": "https://english.news.cn/europe/20260927/b7d15177c8e34de1bb9f46f5e89012c4/c.html",
+          "publishedAt": "2026-09-27T00:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Czech Republic's ancient sanctuary is a 1,000 years older than Stonehenge",
+          "source": "jpost.com",
+          "url": "https://www.jpost.com/archaeology/article-909697",
+          "publishedAt": "2026-09-26T23:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Leading orchestra in the Czech Republic celebrates 100th anniversary of its founding",
+          "source": "english.radio.cz",
+          "url": "https://english.radio.cz/leading-orchestra-czech-republic-celebrates-100th-anniversary-its-founding-8898253",
+          "publishedAt": "2026-09-25T23:45:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "10",
+          "factText": "Czechia is linked to 10 US OFAC and Canada SEMA sanctions designations, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T00:01:35.739Z"
+        },
+        {
+          "id": "E3",
+          "kind": "energy",
+          "label": "Net energy import dependency",
+          "value": "39%",
+          "factText": "Czechia has a net energy import dependency of 39% (Eurostat, 2024).",
+          "asOf": "2024-12-31T00:00:00.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

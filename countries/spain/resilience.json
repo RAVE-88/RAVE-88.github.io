@@ -1,0 +1,128 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "ES",
+  "countryName": "Spain",
+  "slug": "spain",
+  "rank": 18,
+  "overallScore": 64.2,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "How to conjugate Spanish verbs and impress your friends",
+        "source": "Mexico News Daily",
+        "url": "https://mexiconewsdaily.com/mexico-living/spanish-verbs-conjugation-mexican/",
+        "publishedAt": "2026-09-27T22:00:19.000Z"
+      },
+      {
+        "title": "‘Please fight’: How an elderly woman’s eviction put Spain’s housing crisis in the spotlight - CNN",
+        "source": "CNN World",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUmhtdG5WUVNGLUdnMTE5cVU3dEJsWktGUVZySlMwZmNGcHpNZ2gyQjJ2UzRBLTQ3YlpPdUNzVGYzN3RPSkw1bENDSFhieDFaNDAtT0UwV05LWnhDbUY2b2RDMWt2ZnczVms0bG54cVdPQ2xfWklLakh4NjVOUUlXUVFMWTEycTNTVnc?oc=5",
+        "publishedAt": "2026-09-27T21:09:11.000Z"
+      },
+      {
+        "title": "Masked men shoot up occupied car at Spanish Banks: VPD",
+        "source": "Vancouver Sun",
+        "url": "https://vancouversun.com/news/masked-men-shoot-up-occupied-car-at-spanish-banks-vpd",
+        "publishedAt": "2026-09-27T21:25:20.000Z"
+      },
+      {
+        "title": "Spain crush English comeback hopes in Nations League thriller",
+        "source": "Daily Sabah",
+        "url": "https://www.dailysabah.com/sports/football/spain-crush-english-comeback-hopes-in-nations-league-thriller",
+        "publishedAt": "2026-09-27T13:57:00.000Z"
+      },
+      {
+        "title": "Spain: Thousands protest in Madrid against housing crisis",
+        "source": "DW News",
+        "url": "https://www.dw.com/en/spain-thousands-protest-in-madrid-against-housing-crisis/a-79446662?maca=en-rss-en-all-1573-xml-mrss",
+        "publishedAt": "2026-09-27T01:53:00.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThousands protested in Madrid against the housing crisis, and an elderly woman's eviction has put Spain's housing crisis in the spotlight. [2][5]\n\nWHAT THIS MEANS FOR SPAIN\nThe housing protests in Madrid underscore public frustration that could increase political pressure, especially as a market gives a 79% probability that Alberto Núñez Feijóo will be the next Prime Minister. [5][E6]\nSpain's 69% net energy import dependency makes the Strait of Gibraltar shipping chokepoint critical for its energy security, a vulnerability highlighted by the ongoing housing crisis. [2][E3][E4]\n\nKEY RISKS\nSpain's 69% net energy import dependency exposes it to supply disruptions, particularly through the Strait of Gibraltar chokepoint. [E3][E4]\nSpain is linked to 52 US OFAC and Canada SEMA sanctions designations, posing compliance and reputational risks. [E2]\n\nOUTLOOK\nA Polymarket market on Alberto Núñez Feijóo becoming the next Prime Minister is priced Yes at 79% as of Sep 28, 2026, and closes Apr 1, 2028. [E6]\n\nWATCH ITEMS\nIt is unresolved whether the housing protests in Madrid will lead to policy changes or further escalation. [5]",
+      "generatedAt": "2026-09-28T05:01:03.252Z",
+      "sources": [
+        {
+          "title": "How to conjugate Spanish verbs and impress your friends",
+          "source": "Mexico News Daily",
+          "url": "https://mexiconewsdaily.com/mexico-living/spanish-verbs-conjugation-mexican/",
+          "publishedAt": "2026-09-27T22:00:19.000Z"
+        },
+        {
+          "title": "‘Please fight’: How an elderly woman’s eviction put Spain’s housing crisis in the spotlight - CNN",
+          "source": "CNN World",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUmhtdG5WUVNGLUdnMTE5cVU3dEJsWktGUVZySlMwZmNGcHpNZ2gyQjJ2UzRBLTQ3YlpPdUNzVGYzN3RPSkw1bENDSFhieDFaNDAtT0UwV05LWnhDbUY2b2RDMWt2ZnczVms0bG54cVdPQ2xfWklLakh4NjVOUUlXUVFMWTEycTNTVnc?oc=5",
+          "publishedAt": "2026-09-27T21:09:11.000Z"
+        },
+        {
+          "title": "Masked men shoot up occupied car at Spanish Banks: VPD",
+          "source": "Vancouver Sun",
+          "url": "https://vancouversun.com/news/masked-men-shoot-up-occupied-car-at-spanish-banks-vpd",
+          "publishedAt": "2026-09-27T21:25:20.000Z"
+        },
+        {
+          "title": "Spain crush English comeback hopes in Nations League thriller",
+          "source": "Daily Sabah",
+          "url": "https://www.dailysabah.com/sports/football/spain-crush-english-comeback-hopes-in-nations-league-thriller",
+          "publishedAt": "2026-09-27T13:57:00.000Z"
+        },
+        {
+          "title": "Spain: Thousands protest in Madrid against housing crisis",
+          "source": "DW News",
+          "url": "https://www.dw.com/en/spain-thousands-protest-in-madrid-against-housing-crisis/a-79446662?maca=en-rss-en-all-1573-xml-mrss",
+          "publishedAt": "2026-09-27T01:53:00.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "52",
+          "factText": "Spain is linked to 52 US OFAC and Canada SEMA sanctions designations, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T00:01:35.739Z"
+        },
+        {
+          "id": "E3",
+          "kind": "energy",
+          "label": "Net energy import dependency",
+          "value": "69%",
+          "factText": "Spain has a net energy import dependency of 69% (Eurostat, 2024).",
+          "asOf": "2024-12-31T00:00:00.000Z"
+        },
+        {
+          "id": "E4",
+          "kind": "chokepoint",
+          "label": "Chokepoint tracker",
+          "value": "Strait of Gibraltar",
+          "factText": "Strait of Gibraltar is a shipping chokepoint World Monitor tracks for Spain.",
+          "asOf": "2026-09-28T05:00:57.666Z",
+          "url": "https://www.worldmonitor.app/chokepoints/strait-of-gibraltar/"
+        },
+        {
+          "id": "E6",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "79%",
+          "factText": "A Polymarket market related to Spain, \"Will Alberto Núñez Feijóo be the next Prime Minister of Spain?\", priced Yes at 79% on Sep 28, 2026; it closes Apr 1, 2028.",
+          "asOf": "2026-09-28T05:00:34.359Z",
+          "url": "https://polymarket.com/event/next-prime-minister-of-spain-20260625005215443"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "SC",
+  "countryName": "Seychelles",
+  "slug": "seychelles",
+  "rank": null,
+  "overallScore": null,
+  "dimensionCoverage": 0.76,
+  "confidence": "standard",
+  "level": "unpublished",
+  "sourceStatus": "unpublished",
+  "headlineEligible": false,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "APO Group - Africa Newsroom / Press release | Seychelles: Minister Barry Faure addresses the High-Level Meeting on Sea Level Rise at the United Nations",
+        "source": "africa-newsroom.com",
+        "url": "https://www.africa-newsroom.com/press/seychelles-minister-barry-faure-addresses-the-highlevel-meeting-on-sea-level-rise-at-the-united-nations",
+        "publishedAt": "2026-09-27T17:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Seychelles: Minister Barry Faure addresses the High-Level Meeting on Sea Level Rise at the United Nations",
+        "source": "africa.com",
+        "url": "https://www.africa.com/apo/seychelles-minister-barry-faure-addresses-the-highlevel-meeting-on-sea-level-rise-at-the-united-nations",
+        "publishedAt": "2026-09-27T17:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Seychelles takes helm of SIDS DOCK",
+        "source": "nation.sc",
+        "url": "https://www.nation.sc/articles/32505/seychelles-takes-helm-of-sids-dock",
+        "publishedAt": "2026-09-26T09:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Seychelles, UN discuss climate, Sids priorities",
+        "source": "nation.sc",
+        "url": "https://www.nation.sc/articles/32516/seychelles-un-discuss-climate-sids-priorities-",
+        "publishedAt": "2026-09-26T09:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Seychelles takes helm of SIDS DOCK",
+        "source": "nation.sc",
+        "url": "https://nation.sc/articles/32505/seychelles-takes-helm-of-sids-dock",
+        "publishedAt": "2026-09-26T07:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

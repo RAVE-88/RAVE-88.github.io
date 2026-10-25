@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "PY",
+  "countryName": "Paraguay",
+  "slug": "paraguay",
+  "rank": 60,
+  "overallScore": 56.7,
+  "dimensionCoverage": 0.81,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Mennonite documentary looks at Paraguay migration, 10 percent died – The Carillon",
+        "source": "thecarillon.com",
+        "url": "https://www.thecarillon.com/local/2026/09/27/mennonite-documentary-looks-at-paraguay-migration-10-percent-died",
+        "publishedAt": "2026-09-27T21:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Paraguay's president urges UN to let Taiwan in, calls island's exclusion 'a stain'",
+        "source": "scmp.com",
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3368561/paraguays-president-urges-un-let-taiwan-calls-islands-exclusion-stain",
+        "publishedAt": "2026-09-23T20:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Minor Hotels and Grupo Petra Sign Paraguay Development Agreements",
+        "source": "hotelnewsresource.com",
+        "url": "https://www.hotelnewsresource.com/article143021.html",
+        "publishedAt": "2026-09-23T19:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Massachusetts Guard, Paraguay strengthen 25-year partnership",
+        "source": "globalsecurity.org",
+        "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260924-arnews01.htm",
+        "publishedAt": "2026-09-25T13:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Paraguay's Foreign Minister, Rubén Darío Ramírez Lezcano, reaffirmed Wednesday in New York his country's support for the Moroccanness of the Sahara.",
+        "source": "globalsecurity.org",
+        "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260923-morocco-mfa01.htm",
+        "publishedAt": "2026-09-24T13:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

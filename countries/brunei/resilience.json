@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "BN",
+  "countryName": "Brunei",
+  "slug": "brunei",
+  "rank": 46,
+  "overallScore": 59.5,
+  "dimensionCoverage": 0.75,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Brunei's No.1 News Website",
+        "source": "brudirect.com",
+        "url": "https://brudirect.com/daywise.php?date=2026-09-28",
+        "publishedAt": "2026-09-27T20:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Brunei's No.1 News Website",
+        "source": "brudirect.com",
+        "url": "https://brudirect.com/post/Rice-cultivation-paves-path-for-rehabilitation",
+        "publishedAt": "2026-09-27T20:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Brunei's No.1 News Website",
+        "source": "brudirect.com",
+        "url": "https://brudirect.com/post/Unauthorised-workshop-ordered-to-cease-operations",
+        "publishedAt": "2026-09-27T20:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "No lasting peace without Palestinian justice, Brunei tells UN",
+        "source": "wn.com",
+        "url": "https://article.wn.com/view/2026/09/27/No_lasting_peace_without_Palestinian_justice_Brunei_tells_UN/",
+        "publishedAt": "2026-09-27T10:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Brunei's No.1 News Website",
+        "source": "brudirect.com",
+        "url": "https://brudirect.com/daywise.php?date=2026-09-27",
+        "publishedAt": "2026-09-26T21:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

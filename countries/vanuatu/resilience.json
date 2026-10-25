@@ -1,0 +1,118 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "VU",
+  "countryName": "Vanuatu",
+  "slug": "vanuatu",
+  "rank": 81,
+  "overallScore": 54.1,
+  "dimensionCoverage": 0.73,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Vanuatu Denies Revoking Andrew Tate’s Citizenship",
+        "source": "OCCRP",
+        "url": "https://www.occrp.org/en/news/vanuatu-denies-revoking-andrew-tates-citizenship",
+        "publishedAt": "2026-09-24T10:21:00.000Z"
+      },
+      {
+        "title": "Pacific.scoop.co.nz » Vanuatu Signs Declaration To Give Children And Youth Greater Voice On Climate",
+        "source": "scoop.co.nz",
+        "url": "https://pacific.scoop.co.nz/2026/09/vanuatu-signs-declaration-to-give-children-and-youth-greater-voice-on-climate/",
+        "publishedAt": "2026-09-28T04:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Pacific.scoop.co.nz » 'We Will Not Forget': Vanuatu Comes Together To Honour 45 Lives Lost At Sea In Recent Weeks",
+        "source": "scoop.co.nz",
+        "url": "https://pacific.scoop.co.nz/2026/09/we-will-not-forget-vanuatu-comes-together-to-honour-45-lives-lost-at-sea-in-recent-weeks/",
+        "publishedAt": "2026-09-28T04:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Vanuatu Trade Unions Raise Concerns Over Education Essential Service Designation",
+        "source": "dailypost.vu",
+        "url": "https://www.dailypost.vu/news/vanuatu-trade-unions-raise-concerns-over-education-essential-service-designation/article_52580e50-b1aa-56cd-b894-6166fd67e87a.html",
+        "publishedAt": "2026-09-28T03:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "'We will not forget': Vanuatu comes together to honour 45 lives lost at sea in recent weeks",
+        "source": "rnz.co.nz",
+        "url": "https://www.rnz.co.nz/news/pacific/1627211/we-will-not-forget-vanuatu-comes-together-to-honour-45-lives-lost-at-sea-in-recent-weeks",
+        "publishedAt": "2026-09-27T22:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nVanuatu has signed a declaration to give children and youth a greater voice on climate. [2]\nVanuatu came together to honour 45 lives lost at sea in recent weeks. [3][5]\n\nWHAT THIS MEANS FOR VANUATU\nThe signing of the declaration to give youth a greater voice on climate signals Vanuatu's commitment to climate action, despite having a net energy import dependency of 0%. [2][E3]\n\nKEY RISKS\nVanuatu's link to 2 US OFAC and Canada SEMA sanctions designations poses a risk of financial and reputational repercussions. [E2]\n\nWATCH ITEMS\nThe resolution of trade union concerns over the education essential service designation remains unresolved. [4]",
+      "generatedAt": "2026-09-28T05:07:50.004Z",
+      "sources": [
+        {
+          "title": "Vanuatu Denies Revoking Andrew Tate’s Citizenship",
+          "source": "OCCRP",
+          "url": "https://www.occrp.org/en/news/vanuatu-denies-revoking-andrew-tates-citizenship",
+          "publishedAt": "2026-09-24T10:21:00.000Z"
+        },
+        {
+          "title": "Pacific.scoop.co.nz » Vanuatu Signs Declaration To Give Children And Youth Greater Voice On Climate",
+          "source": "scoop.co.nz",
+          "url": "https://pacific.scoop.co.nz/2026/09/vanuatu-signs-declaration-to-give-children-and-youth-greater-voice-on-climate/",
+          "publishedAt": "2026-09-28T04:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Pacific.scoop.co.nz » 'We Will Not Forget': Vanuatu Comes Together To Honour 45 Lives Lost At Sea In Recent Weeks",
+          "source": "scoop.co.nz",
+          "url": "https://pacific.scoop.co.nz/2026/09/we-will-not-forget-vanuatu-comes-together-to-honour-45-lives-lost-at-sea-in-recent-weeks/",
+          "publishedAt": "2026-09-28T04:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Vanuatu Trade Unions Raise Concerns Over Education Essential Service Designation",
+          "source": "dailypost.vu",
+          "url": "https://www.dailypost.vu/news/vanuatu-trade-unions-raise-concerns-over-education-essential-service-designation/article_52580e50-b1aa-56cd-b894-6166fd67e87a.html",
+          "publishedAt": "2026-09-28T03:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "'We will not forget': Vanuatu comes together to honour 45 lives lost at sea in recent weeks",
+          "source": "rnz.co.nz",
+          "url": "https://www.rnz.co.nz/news/pacific/1627211/we-will-not-forget-vanuatu-comes-together-to-honour-45-lives-lost-at-sea-in-recent-weeks",
+          "publishedAt": "2026-09-27T22:30:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "2",
+          "factText": "Vanuatu is linked to 2 US OFAC and Canada SEMA sanctions designations, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T00:01:35.739Z"
+        },
+        {
+          "id": "E3",
+          "kind": "energy",
+          "label": "Net energy import dependency",
+          "value": "0%",
+          "factText": "Vanuatu has a net energy import dependency of 0% (World Bank Open Data, 2023).",
+          "asOf": "2023-12-31T00:00:00.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

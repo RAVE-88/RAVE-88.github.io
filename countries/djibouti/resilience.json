@@ -1,0 +1,118 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "DJ",
+  "countryName": "Djibouti",
+  "slug": "djibouti",
+  "rank": 132,
+  "overallScore": 43.6,
+  "dimensionCoverage": 0.83,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
+        "source": "BBC Africa",
+        "url": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-25T14:24:19.000Z"
+      },
+      {
+        "title": "Djibouti price surge hits Ethiopian truckers as Yemen war clouds Red Sea trade route",
+        "source": "capitalethiopia.com",
+        "url": "https://capitalethiopia.com/2026/09/27/djibouti-price-surge-hits-ethiopian-truckers-as-yemen-war-clouds-red-sea-trade-route/",
+        "publishedAt": "2026-09-27T01:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Arab News | Djibouti appeals for global support amid influx of refugees from Yemen",
+        "source": "arabnews.com",
+        "url": "https://www.arabnews.com/middle-east/djibouti-appeals-for-global-support-amid-influx-of-refugees-from-yemen-3003328",
+        "publishedAt": "2026-09-26T22:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Dangote Group and Ethiopian Investment Holdings Launch Strategic Fuel Terminal in Djibouti",
+        "source": "capitalethiopia.com",
+        "url": "https://capitalethiopia.com/2026/09/24/dangote-group-and-ethiopian-investment-holdings-launch-strategic-fuel-terminal-in-djibouti/",
+        "publishedAt": "2026-09-24T14:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Yemenis seek safety in Djibouti as African migrants continue crossing to Yemen",
+        "source": "middleeasteye.net",
+        "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemenis-seek-safety-djibouti-african-migrants-continue-crossing-yemen",
+        "publishedAt": "2026-09-24T14:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nAfrica's richest man helps fund a $660m fuel pipeline between Ethiopia and Djibouti. [1]\nDjibouti appeals for global support amid an influx of refugees from Yemen. [3]\n\nWHAT THIS MEANS FOR DJIBOUTI\nThe $660m fuel pipeline funded by Africa's richest man could reduce Djibouti's net energy import dependency of 0% by enabling domestic fuel handling. [1][E3]\nDjibouti's appeal for global support amid an influx of Yemeni refugees is complicated by its link to 4 US OFAC and Canada SEMA sanctions designations. [3][E2]\n\nKEY RISKS\nDjibouti's link to 4 US OFAC and Canada SEMA sanctions designations may deter international aid for the refugee influx. [E2]\n\nWATCH ITEMS\nWhether the $660m fuel pipeline between Ethiopia and Djibouti will proceed as planned. [1]\nWhether global support will materialize for Djibouti amid the influx of refugees from Yemen. [3]",
+      "generatedAt": "2026-09-28T05:00:24.055Z",
+      "sources": [
+        {
+          "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
+          "source": "BBC Africa",
+          "url": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-09-25T14:24:19.000Z"
+        },
+        {
+          "title": "Djibouti price surge hits Ethiopian truckers as Yemen war clouds Red Sea trade route",
+          "source": "capitalethiopia.com",
+          "url": "https://capitalethiopia.com/2026/09/27/djibouti-price-surge-hits-ethiopian-truckers-as-yemen-war-clouds-red-sea-trade-route/",
+          "publishedAt": "2026-09-27T01:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Arab News | Djibouti appeals for global support amid influx of refugees from Yemen",
+          "source": "arabnews.com",
+          "url": "https://www.arabnews.com/middle-east/djibouti-appeals-for-global-support-amid-influx-of-refugees-from-yemen-3003328",
+          "publishedAt": "2026-09-26T22:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Dangote Group and Ethiopian Investment Holdings Launch Strategic Fuel Terminal in Djibouti",
+          "source": "capitalethiopia.com",
+          "url": "https://capitalethiopia.com/2026/09/24/dangote-group-and-ethiopian-investment-holdings-launch-strategic-fuel-terminal-in-djibouti/",
+          "publishedAt": "2026-09-24T14:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Yemenis seek safety in Djibouti as African migrants continue crossing to Yemen",
+          "source": "middleeasteye.net",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemenis-seek-safety-djibouti-african-migrants-continue-crossing-yemen",
+          "publishedAt": "2026-09-24T14:15:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "4",
+          "factText": "Djibouti is linked to 4 US OFAC and Canada SEMA sanctions designations, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T00:01:35.739Z"
+        },
+        {
+          "id": "E3",
+          "kind": "energy",
+          "label": "Net energy import dependency",
+          "value": "0%",
+          "factText": "Djibouti has a net energy import dependency of 0% (World Bank Open Data, 2023).",
+          "asOf": "2023-12-31T00:00:00.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "UZ",
+  "countryName": "Uzbekistan",
+  "slug": "uzbekistan",
+  "rank": 39,
+  "overallScore": 60.6,
+  "dimensionCoverage": 0.81,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Georgia Extradites to United States U.S.-Uzbek Citizen Wanted for Terrorism Support",
+        "source": "Civil.ge",
+        "url": "https://civil.ge/archives/752619",
+        "publishedAt": "2026-09-25T13:48:54.000Z"
+      },
+      {
+        "title": "What We Found at ICT Week Uzbekistan: Startups, Robots and the Next Wave of Digital Innovation",
+        "source": "The Times of Central Asia",
+        "url": "https://timesca.com/what-we-found-at-ict-week-uzbekistan-startups-robots-and-the-next-wave-of-digital-innovation/",
+        "publishedAt": "2026-09-25T12:59:20.000Z"
+      },
+      {
+        "title": "Agrobank Venture Fund Launches With $6.1 Million to Support Startups in Uzbekistan",
+        "source": "The Times of Central Asia",
+        "url": "https://timesca.com/agrobank-venture-fund-uzbekistan/",
+        "publishedAt": "2026-09-25T11:21:03.000Z"
+      },
+      {
+        "title": "Rubio to Lead Major U.S. Business Delegation to Uzbekistan for C5+1 Talks",
+        "source": "The Times of Central Asia",
+        "url": "https://timesca.com/rubio-to-lead-major-u-s-business-delegation-to-uzbekistan-for-c51-talks/",
+        "publishedAt": "2026-09-25T10:57:46.000Z"
+      },
+      {
+        "title": "Uzbekistan launches $2.6B wind power project in Karakalpakstan",
+        "source": "trend.az",
+        "url": "https://www.trend.az/casia/uzbekistan/4228603.html",
+        "publishedAt": "2026-09-28T04:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nGeorgia extradited a U.S.-Uzbek citizen wanted for terrorism support to the United States. [1]\nAgrobank Venture Fund launched with $6.1 million to support startups in Uzbekistan. [3]\n\nWHAT THIS MEANS FOR UZBEKISTAN\nThe extradition of a U.S.-Uzbek citizen for terrorism support highlights security concerns despite the country's low government travel advisory rating. [1][E1]\n\nKEY RISKS\nUzbekistan's link to 25 US OFAC and Canada SEMA sanctions designations poses a risk for international business dealings. [E2]\n\nWATCH ITEMS\nThe outcome of the C5+1 talks led by Rubio with a major U.S. business delegation to Uzbekistan remains unresolved. [4]",
+      "generatedAt": "2026-09-28T05:07:34.287Z",
+      "sources": [
+        {
+          "title": "Georgia Extradites to United States U.S.-Uzbek Citizen Wanted for Terrorism Support",
+          "source": "Civil.ge",
+          "url": "https://civil.ge/archives/752619",
+          "publishedAt": "2026-09-25T13:48:54.000Z"
+        },
+        {
+          "title": "What We Found at ICT Week Uzbekistan: Startups, Robots and the Next Wave of Digital Innovation",
+          "source": "The Times of Central Asia",
+          "url": "https://timesca.com/what-we-found-at-ict-week-uzbekistan-startups-robots-and-the-next-wave-of-digital-innovation/",
+          "publishedAt": "2026-09-25T12:59:20.000Z"
+        },
+        {
+          "title": "Agrobank Venture Fund Launches With $6.1 Million to Support Startups in Uzbekistan",
+          "source": "The Times of Central Asia",
+          "url": "https://timesca.com/agrobank-venture-fund-uzbekistan/",
+          "publishedAt": "2026-09-25T11:21:03.000Z"
+        },
+        {
+          "title": "Rubio to Lead Major U.S. Business Delegation to Uzbekistan for C5+1 Talks",
+          "source": "The Times of Central Asia",
+          "url": "https://timesca.com/rubio-to-lead-major-u-s-business-delegation-to-uzbekistan-for-c51-talks/",
+          "publishedAt": "2026-09-25T10:57:46.000Z"
+        },
+        {
+          "title": "Uzbekistan launches $2.6B wind power project in Karakalpakstan",
+          "source": "trend.az",
+          "url": "https://www.trend.az/casia/uzbekistan/4228603.html",
+          "publishedAt": "2026-09-28T04:00:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Exercise Normal Precautions",
+          "factText": "The most severe government travel advisory World Monitor tracks for Uzbekistan is Exercise Normal Precautions, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T05:03:30.360Z"
+        },
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "25",
+          "factText": "Uzbekistan is linked to 25 US OFAC and Canada SEMA sanctions designations, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T00:01:35.739Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

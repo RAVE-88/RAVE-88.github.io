@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "BW",
+  "countryName": "Botswana",
+  "slug": "botswana",
+  "rank": 129,
+  "overallScore": 44.6,
+  "dimensionCoverage": 0.84,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Moody's Downgrades Botswana Again as Diamond Slump Persists",
+        "source": "idexonline.com",
+        "url": "https://www.idexonline.com/FullArticle?Id=51423",
+        "publishedAt": "2026-09-28T04:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Desert & Delta celebrates Aussie trade as Botswana portfolio expands",
+        "source": "travelweekly.com.au",
+        "url": "https://travelweekly.com.au/desert-delta-celebrates-aussie-trade-as-botswana-portfolio-expands/",
+        "publishedAt": "2026-09-28T02:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Botswana cattle industry is \"on its knees\", Dow, farmers",
+        "source": "sundaystandard.info",
+        "url": "https://www.sundaystandard.info/botswana-cattle-industry-is-on-its-knees-dow-farmers/",
+        "publishedAt": "2026-09-28T01:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Cramped homes, blocked streets- The hidden crisis in Botswana's cities",
+        "source": "sundaystandard.info",
+        "url": "https://www.sundaystandard.info/cramped-homes-blocked-streets-the-hidden-crisis-in-botswanas-cities/",
+        "publishedAt": "2026-09-28T01:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Gaolathe tells London Botswana must reinvent itself beyond diamonds",
+        "source": "sundaystandard.info",
+        "url": "https://www.sundaystandard.info/gaolathe-tells-london-botswana-must-reinvent-itself-beyond-diamonds/",
+        "publishedAt": "2026-09-28T01:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

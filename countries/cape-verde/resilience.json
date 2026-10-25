@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "CV",
+  "countryName": "Cape Verde",
+  "slug": "cape-verde",
+  "rank": 83,
+  "overallScore": 54,
+  "dimensionCoverage": 0.84,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "TROPICS: Tropical Storm Fay reforms, watching area near Cape Verde",
+        "source": "wptv.com",
+        "url": "https://www.wptv.com/weather/tropical-weather/tropics-tropical-storm-fay-reforms-watching-area-near-cape-verde",
+        "publishedAt": "2026-09-24T15:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "TROPICS: Tropical Storm Fay reforms, watching area near Cape Verde",
+        "source": "wflx.com",
+        "url": "https://www.wflx.com/2026/09/24/tropics-tropical-storm-fay-reforms-watching-area-near-cape-verde/",
+        "publishedAt": "2026-09-24T14:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Women sand miners toil stripped Cape Verde beach",
+        "source": "thestar.com.my",
+        "url": "https://www.thestar.com.my/lifestyle/living/2026/09/24/women-sand-miners-toil-stripped-cape-verde-beach",
+        "publishedAt": "2026-09-24T10:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Cape Verde to host CAF strategy conference - Blueprint Newspapers Limited",
+        "source": "blueprint.ng",
+        "url": "https://blueprint.ng/cape-verde-to-host-caf-strategy-conference/",
+        "publishedAt": "2026-09-21T17:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Cape Verde: LNBA Delegation Departs for African Bar Association 2026 Annual Conference in Cape Verde",
+        "source": "allafrica.com",
+        "url": "https://allafrica.com/stories/202609210636.html",
+        "publishedAt": "2026-09-21T18:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

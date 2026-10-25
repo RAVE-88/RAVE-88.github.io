@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "PA",
+  "countryName": "Panama",
+  "slug": "panama",
+  "rank": 76,
+  "overallScore": 54.5,
+  "dimensionCoverage": 0.75,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "During the Mejorana Festival in Panama a Bull Charges a Man Inside the Barrier.",
+        "source": "newsroompanama.com",
+        "url": "https://newsroompanama.com/2026/09/27/during-the-mejorana-festival-in-panama-a-bull-charges-a-man-inside-the-barrier/",
+        "publishedAt": "2026-09-27T23:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Jet fuel Prices are Soaring in Panama Putting Pressure on Airlines to Create More Expensive Tickets?",
+        "source": "newsroompanama.com",
+        "url": "https://newsroompanama.com/2026/09/27/jet-fuel-prices-are-soaring-in-panama-putting-pressure-on-airlines-to-create-more-expensive-tickets/",
+        "publishedAt": "2026-09-27T18:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Panama Lawyer Javier Yap Endara says 'Their Trap Didn't Work Because We Got Ahead of Them by Submitting the Signatures'.",
+        "source": "newsroompanama.com",
+        "url": "https://newsroompanama.com/2026/09/27/panama-lawyer-javier-yap-endara-says-their-trap-didnt-work-because-we-got-ahead-of-them-by-submitting-the-signatures/",
+        "publishedAt": "2026-09-27T18:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Panama City Beach hosts annual fall festival and market",
+        "source": "wjhg.com",
+        "url": "https://www.wjhg.com/2026/09/27/panama-city-beach-hosts-annual-fall-festival-market/",
+        "publishedAt": "2026-09-27T05:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Panama City celebrates fall with annual Oktoberfest",
+        "source": "wjhg.com",
+        "url": "https://www.wjhg.com/2026/09/27/panama-city-celebrates-fall-with-annual-oktoberfest/",
+        "publishedAt": "2026-09-27T05:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

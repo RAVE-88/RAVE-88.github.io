@@ -1,0 +1,61 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "BH",
+  "countryName": "Bahrain",
+  "slug": "bahrain",
+  "rank": 122,
+  "overallScore": 46.3,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Guilherme Bala makes thrilling international debut as UAE clinch Gulf Cup semi-final place",
+        "source": "The National",
+        "url": "https://www.thenationalnews.com/sport/football/2026/09/28/guilherme-bala-makes-thrilling-international-debut-as-uae-clinch-gulf-cup-semi-final-place/",
+        "publishedAt": "2026-09-28T03:10:19.000Z"
+      },
+      {
+        "title": "Diyar Al Muharraq to unveil new residential plots at Bahrain expo",
+        "source": "tradearabia.com",
+        "url": "https://tradearabia.com/News/486830/Diyar-Al-Muharraq-to-unveil-new-residential-plots-at-Bahrain-expo",
+        "publishedAt": "2026-09-28T03:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Bahrain News: Team Bahrain's role in crisis response 'vital'",
+        "source": "gdnonline.com",
+        "url": "https://www.gdnonline.com/Details/1407839/Team-Bahrain%E2%80%99s-role-in-crisis-response-%E2%80%98vital%E2%80%99",
+        "publishedAt": "2026-09-28T03:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Bahrain News: Bahraini farmers get chance to apply for subsidised fertiliser",
+        "source": "gdnonline.com",
+        "url": "https://www.gdnonline.com/Details/1407846/Bahraini-farmers-get-chance-to-apply-for-subsidised-fertiliser",
+        "publishedAt": "2026-09-28T03:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Bahrain Business: Bahrain Chamber-IPA focus on workforce development plans",
+        "source": "gdnonline.com",
+        "url": "https://www.gdnonline.com/Details/1407849/Bahrain-Chamber-IPA-focus-on-workforce-development-plans",
+        "publishedAt": "2026-09-28T03:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

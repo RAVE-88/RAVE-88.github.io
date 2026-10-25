@@ -1,0 +1,48 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "UG",
+  "countryName": "Uganda",
+  "slug": "uganda",
+  "rank": 143,
+  "overallScore": 41.9,
+  "dimensionCoverage": 0.85,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Lubega-Mbabazi pair lead Uganda's Doubles redemption with Silver in Future series",
+        "source": "kawowo.com",
+        "url": "https://kawowo.com/2026/09/27/lubega-mbabazi-pair-lead-ugandas-doubles-redemption-with-silver-in-future-series/",
+        "publishedAt": "2026-09-28T00:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Uganda's Kampala International Challenge ends with Lubega and Mbabazi flying the flag in Mixed Doubles Final",
+        "source": "kawowo.com",
+        "url": "https://kawowo.com/2026/09/27/ugandas-kampala-international-challenge-ends-with-lubega-and-mbabazi-flying-the-flag-in-mixed-doubles-final/",
+        "publishedAt": "2026-09-28T00:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Church of Uganda explains liturgical procedures following scuffle in Abim",
+        "source": "ugandaonline.net",
+        "url": "https://www.ugandaonline.net/news/2026-09-27--daily-monitor-uganda--church-of-uganda-explains-liturgical-procedures-following-scuffle-in-abim--6cda8b5e2c8b/",
+        "publishedAt": "2026-09-27T23:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

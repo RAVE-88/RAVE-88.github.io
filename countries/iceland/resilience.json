@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "IS",
+  "countryName": "Iceland",
+  "slug": "iceland",
+  "rank": 3,
+  "overallScore": 74.6,
+  "dimensionCoverage": 0.76,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Major Magnitude 7.4 Earthquake - Iceland: 89.4 km NE of Fontur on Sunday, Sep 27, 2026, at 03:10 pm (Reykjavik Time)",
+        "source": "volcanodiscovery.com",
+        "url": "https://www.volcanodiscovery.com/earthquakes/quake-info/23394806/mag7quake-Sep-27-2026-Iceland-894-km-NE-of-Fontur.html",
+        "publishedAt": "2026-09-27T17:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "School Nurses to Begin Violence Screening in Iceland in October",
+        "source": "icelandreview.com",
+        "url": "https://www.icelandreview.com/news/iceland-school-nurses-violence-screening-october-2026/",
+        "publishedAt": "2026-09-26T18:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Meet halfway: Iceland looks to attract business travellers | IceNews",
+        "source": "icenews.is",
+        "url": "https://icenews.is/2013/01/03/meet-halfway-iceland-looks-to-attract-business-travellers/",
+        "publishedAt": "2026-09-26T13:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Iceland to withdraw EU membership bid amid protests | IceNews",
+        "source": "icenews.is",
+        "url": "https://icenews.is/2014/02/26/iceland-to-withdraw-eu-membership-bid-amid-protests/",
+        "publishedAt": "2026-09-26T13:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "The Hot Springs in Iceland (1963) | Iceland Review",
+        "source": "icelandreview.com",
+        "url": "https://www.icelandreview.com/from-the-archive/hot-springs-in-iceland-1963/",
+        "publishedAt": "2026-09-26T10:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

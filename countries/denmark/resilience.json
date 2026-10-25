@@ -1,0 +1,113 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "DK",
+  "countryName": "Denmark",
+  "slug": "denmark",
+  "rank": 4,
+  "overallScore": 72.5,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "'Send in the Clowns': Viral video fuels claims Denmark trolled Trump and Rubio",
+        "source": "France 24 LatAm",
+        "url": "https://www.france24.com/en/send-in-the-clowns-viral-video-fuels-claims-denmark-trolled-trump-and-rubio-1",
+        "publishedAt": "2026-09-24T21:00:16.000Z"
+      },
+      {
+        "title": "Russian hybrid attacks likely to increase in coming months: Danish intel assessment",
+        "source": "Breaking Defense",
+        "url": "https://breakingdefense.com/2026/09/russian-hybrid-attacks-likely-to-increase-in-coming-months-danish-intel-assessment/",
+        "publishedAt": "2026-09-24T18:09:16.000Z"
+      },
+      {
+        "title": "With Denmark, Saildrone logs first flag registration for naval surveillance drone",
+        "source": "Defense News",
+        "url": "https://www.defensenews.com/global/europe/2026/09/24/with-denmark-saildrone-logs-first-flag-registration-for-naval-surveillance-drone/",
+        "publishedAt": "2026-09-24T14:25:19.000Z"
+      },
+      {
+        "title": "Denmark issues warning over ‘low but growing risk’ of limited Russian attack",
+        "source": "LRT English",
+        "url": "https://www.lrt.lt/en/news-in-english/19/3062324/denmark-issues-warning-over-low-but-growing-risk-of-limited-russian-attack",
+        "publishedAt": "2026-09-24T12:55:00.000Z"
+      },
+      {
+        "title": "Denmark to roll out stun guns nationwide and allocate nearly 800 million DKK from 2027 to expand the police and PET",
+        "source": "cphpost.dk",
+        "url": "https://cphpost.dk/2026-09-28/news/round-up/denmark-to-roll-out-stun-guns-nationwide-and-allocate-nearly-800-million-dkk-from-2027-to-expand-the-police-and-pet/",
+        "publishedAt": "2026-09-28T04:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nDanish intelligence assesses that Russian hybrid attacks are likely to increase in the coming months. [2]\nDenmark has warned of a low but growing risk of a limited Russian attack. [4]\n\nWHAT THIS MEANS FOR DENMARK\nDenmark's net energy import dependency of 38% makes it vulnerable to potential energy disruptions during a period of heightened Russian hybrid activity. [2][E3]\n\nKEY RISKS\nDenmark's net energy import dependency of 38% poses a risk of energy supply disruptions amid rising hybrid threats. [E3]\n\nOUTLOOK\nA Polymarket market on a Danish snap election by December 31 is priced at 7% Yes as of Sep 28, 2026, and closes Jan 1, 2027. [E4]\n\nWATCH ITEMS\nIt remains to be seen whether the viral video claiming Denmark trolled Trump and Rubio will have diplomatic repercussions. [1]\nThe outcome of the Polymarket market on a Danish snap election called by December 31 is unresolved. [E4]",
+      "generatedAt": "2026-09-28T05:00:31.046Z",
+      "sources": [
+        {
+          "title": "'Send in the Clowns': Viral video fuels claims Denmark trolled Trump and Rubio",
+          "source": "France 24 LatAm",
+          "url": "https://www.france24.com/en/send-in-the-clowns-viral-video-fuels-claims-denmark-trolled-trump-and-rubio-1",
+          "publishedAt": "2026-09-24T21:00:16.000Z"
+        },
+        {
+          "title": "Russian hybrid attacks likely to increase in coming months: Danish intel assessment",
+          "source": "Breaking Defense",
+          "url": "https://breakingdefense.com/2026/09/russian-hybrid-attacks-likely-to-increase-in-coming-months-danish-intel-assessment/",
+          "publishedAt": "2026-09-24T18:09:16.000Z"
+        },
+        {
+          "title": "With Denmark, Saildrone logs first flag registration for naval surveillance drone",
+          "source": "Defense News",
+          "url": "https://www.defensenews.com/global/europe/2026/09/24/with-denmark-saildrone-logs-first-flag-registration-for-naval-surveillance-drone/",
+          "publishedAt": "2026-09-24T14:25:19.000Z"
+        },
+        {
+          "title": "Denmark issues warning over ‘low but growing risk’ of limited Russian attack",
+          "source": "LRT English",
+          "url": "https://www.lrt.lt/en/news-in-english/19/3062324/denmark-issues-warning-over-low-but-growing-risk-of-limited-russian-attack",
+          "publishedAt": "2026-09-24T12:55:00.000Z"
+        },
+        {
+          "title": "Denmark to roll out stun guns nationwide and allocate nearly 800 million DKK from 2027 to expand the police and PET",
+          "source": "cphpost.dk",
+          "url": "https://cphpost.dk/2026-09-28/news/round-up/denmark-to-roll-out-stun-guns-nationwide-and-allocate-nearly-800-million-dkk-from-2027-to-expand-the-police-and-pet/",
+          "publishedAt": "2026-09-28T04:45:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E3",
+          "kind": "energy",
+          "label": "Net energy import dependency",
+          "value": "38%",
+          "factText": "Denmark has a net energy import dependency of 38% (Eurostat, 2024).",
+          "asOf": "2024-12-31T00:00:00.000Z"
+        },
+        {
+          "id": "E4",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "7%",
+          "factText": "A Polymarket market related to Denmark, \"Denmark snap election called by December 31?\", priced Yes at 7% on Sep 28, 2026; it closes Jan 1, 2027.",
+          "asOf": "2026-09-28T04:51:12.326Z",
+          "url": "https://polymarket.com/event/denmark-snap-election-called-by-december-31"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

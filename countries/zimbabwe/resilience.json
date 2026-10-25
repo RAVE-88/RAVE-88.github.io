@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "ZW",
+  "countryName": "Zimbabwe",
+  "slug": "zimbabwe",
+  "rank": 156,
+  "overallScore": 38.3,
+  "dimensionCoverage": 0.83,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "JuJu At Work!! Thief Returns Stolen Truck As Owner Sends Bees To Attack His Hand In Zimbabwe – Ghanamma.com",
+        "source": "ghanamma.com",
+        "url": "https://www.ghanamma.com/2026/09/28/juju-at-work-thief-returns-stolen-truck-as-owner-sends-bees-to-attack-his-hand-in-zimbabwe-5/",
+        "publishedAt": "2026-09-28T04:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Zimbabwe Finance Minister Mthuli Ncube says Biti is completely lost",
+        "source": "insiderzim.com",
+        "url": "https://insiderzim.com/zimbabwe-finance-minister-mthuli-ncube-says-biti-is-completely-lost/",
+        "publishedAt": "2026-09-28T01:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Did thousands sacrifice their lives for Zimbabwe just to survive on hand-outs?",
+        "source": "thezimbabwean.co",
+        "url": "https://www.thezimbabwean.co/2026/09/did-thousands-sacrifice-their-lives-for-zimbabwe-just-to-survive-on-hand-outs/",
+        "publishedAt": "2026-09-27T18:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Radio Zimbabwe's former broadcaster turns prophet, takes ministry across Africa",
+        "source": "bulawayo24.com",
+        "url": "https://bulawayo24.com/index-id-news-sc-national-byo-267523.html",
+        "publishedAt": "2026-09-27T18:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Zimbabwe Explained 2026: The ZiG, Politics and What to Watch",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/zimbabwe-explained-2026/",
+        "publishedAt": "2026-09-27T14:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "US",
+  "countryName": "United States",
+  "slug": "united-states",
+  "rank": 44,
+  "overallScore": 60,
+  "dimensionCoverage": 0.76,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Oil heads higher as US-Iran peace talks in stalemate - reuters.com",
+        "source": "Reuters US",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU3FBcU1hWkxSdzlSbHdGdkJEbDR0REJsckozLWtuZGRwbXJvNU1kVnFMendhelM2Q3plNUFlUm1yZTljZDFiMEQwZjVDcWt2X011c193RWUtWTVlcEE4bjBKSWtYZ1A5MnhXS2hUSlVCN0lPcjhTRmNBc2V4ZERrclRaVW45NUl0cmtsb1g2d0s3SFB5NDRPc0lnRzVSZHZ2S0E?oc=5",
+        "publishedAt": "2026-09-27T22:13:00.000Z"
+      },
+      {
+        "title": "Oil heads higher as US-Iran peace talks in stalemate",
+        "source": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/oil-heads-higher-as-us-iran-peace-talks-in-stalemate/",
+        "publishedAt": "2026-09-28T03:26:00.000Z"
+      },
+      {
+        "title": "Trump expects Iran talks next week after rejecting seven-day truce proposal",
+        "source": "France 24",
+        "url": "https://www.france24.com/en/middle-east/20260927-trump-expects-iran-talks-next-week-after-rejecting-seven-day-truce-proposal",
+        "publishedAt": "2026-09-27T22:10:44.000Z"
+      },
+      {
+        "title": "Trump expects US-Iran talks to resume this week despite rejecting truce plan - Al Arabiya English",
+        "source": "Al Arabiya",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOEFHdjNqclZNUEM1MlRXSFlPeE5WenViUW9udzlhQ1ZKakFBejNOYnVDX05GMTNBTHNWdm5meGNZZ3ZQMzVZeE91QWFSekxQelhVc3hOQU1FZm5ZQVR1OVYxOUZCdkFyRjZ6QWk3R3RwTnJhWmNLS3hNbkNxaDl3bXRtV2VacDBnRmZNRjFYU05nLTFtcVI5ZS0yWGNTaVlmMjdYWWZSWGUtT2l0SFNUWmJxU2NTa3JqdEUxWC1GZkJuU3NVUE5DUW91ZlVkd9IB0wFBVV95cUxNTVV3bHpSanlDVW1vcWRpLVp6VGg2VFhNbE9rUXhDT2FUVUpqYUw5RGVpQjJBMi1nMFdUSE9NWFo3c3dxYkFSeGlVREpOT1hZRnNNZmJIQzdNS0gxRnotVlFYTl83X05HLVBsSGdEbkJVdHVPTGFJcGVibk1iUHRscjNUWVVTajA1U3BTQXYyZnAwM0hlU005eEcwdV9RQUNUWkg2cjlpZUpsMFRVblZSZ0RtRFBIaGlJWlZKbllNU2dTNHRfWEc2eU1RdEVVVlFwWmpJ?oc=5",
+        "publishedAt": "2026-09-27T19:33:00.000Z"
+      },
+      {
+        "title": "Trump rejects Iran’s seven-day peace deal to reopen strait of Hormuz",
+        "source": "Guardian ME",
+        "url": "https://www.theguardian.com/world/2026/sep/26/trump-dismiss-iran-seven-day-peace-deal-hormuz",
+        "publishedAt": "2026-09-27T06:34:43.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nOil prices are rising as US-Iran peace talks remain in stalemate. [1]\n\nWHAT THIS MEANS FOR UNITED STATES\nThe stalemate in US-Iran talks may have limited impact on the United States given it is a net energy exporter with a net energy import dependency of -9%. [1][E3]\n\nKEY RISKS\nThe United States faces a 50% probability of a cyber threat concentration by Oct 5, 2026. [E9]\n\nOUTLOOK\nA Polymarket market on whether Trump renames AI by September 30 is priced Yes at 25% on Sep 28, 2026, closing Oct 1, 2026. [E4]",
+      "generatedAt": "2026-09-28T05:07:30.653Z",
+      "sources": [
+        {
+          "title": "Oil heads higher as US-Iran peace talks in stalemate - reuters.com",
+          "source": "Reuters US",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU3FBcU1hWkxSdzlSbHdGdkJEbDR0REJsckozLWtuZGRwbXJvNU1kVnFMendhelM2Q3plNUFlUm1yZTljZDFiMEQwZjVDcWt2X011c193RWUtWTVlcEE4bjBKSWtYZ1A5MnhXS2hUSlVCN0lPcjhTRmNBc2V4ZERrclRaVW45NUl0cmtsb1g2d0s3SFB5NDRPc0lnRzVSZHZ2S0E?oc=5",
+          "publishedAt": "2026-09-27T22:13:00.000Z"
+        },
+        {
+          "title": "Oil heads higher as US-Iran peace talks in stalemate",
+          "source": "MyJoyOnline",
+          "url": "https://www.myjoyonline.com/oil-heads-higher-as-us-iran-peace-talks-in-stalemate/",
+          "publishedAt": "2026-09-28T03:26:00.000Z"
+        },
+        {
+          "title": "Trump expects Iran talks next week after rejecting seven-day truce proposal",
+          "source": "France 24",
+          "url": "https://www.france24.com/en/middle-east/20260927-trump-expects-iran-talks-next-week-after-rejecting-seven-day-truce-proposal",
+          "publishedAt": "2026-09-27T22:10:44.000Z"
+        },
+        {
+          "title": "Trump expects US-Iran talks to resume this week despite rejecting truce plan - Al Arabiya English",
+          "source": "Al Arabiya",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOEFHdjNqclZNUEM1MlRXSFlPeE5WenViUW9udzlhQ1ZKakFBejNOYnVDX05GMTNBTHNWdm5meGNZZ3ZQMzVZeE91QWFSekxQelhVc3hOQU1FZm5ZQVR1OVYxOUZCdkFyRjZ6QWk3R3RwTnJhWmNLS3hNbkNxaDl3bXRtV2VacDBnRmZNRjFYU05nLTFtcVI5ZS0yWGNTaVlmMjdYWWZSWGUtT2l0SFNUWmJxU2NTa3JqdEUxWC1GZkJuU3NVUE5DUW91ZlVkd9IB0wFBVV95cUxNTVV3bHpSanlDVW1vcWRpLVp6VGg2VFhNbE9rUXhDT2FUVUpqYUw5RGVpQjJBMi1nMFdUSE9NWFo3c3dxYkFSeGlVREpOT1hZRnNNZmJIQzdNS0gxRnotVlFYTl83X05HLVBsSGdEbkJVdHVPTGFJcGVibk1iUHRscjNUWVVTajA1U3BTQXYyZnAwM0hlU005eEcwdV9RQUNUWkg2cjlpZUpsMFRVblZSZ0RtRFBIaGlJWlZKbllNU2dTNHRfWEc2eU1RdEVVVlFwWmpJ?oc=5",
+          "publishedAt": "2026-09-27T19:33:00.000Z"
+        },
+        {
+          "title": "Trump rejects Iran’s seven-day peace deal to reopen strait of Hormuz",
+          "source": "Guardian ME",
+          "url": "https://www.theguardian.com/world/2026/sep/26/trump-dismiss-iran-seven-day-peace-deal-hormuz",
+          "publishedAt": "2026-09-27T06:34:43.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E3",
+          "kind": "energy",
+          "label": "Net energy import dependency",
+          "value": "-9%",
+          "factText": "United States has a net energy import dependency of -9% (World Bank Open Data, 2023); a negative value means United States is a net energy exporter.",
+          "asOf": "2023-12-31T00:00:00.000Z"
+        },
+        {
+          "id": "E4",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "25%",
+          "factText": "A Polymarket market related to United States, \"Trump renames AI by September 30?\", priced Yes at 25% on Sep 28, 2026; it closes Oct 1, 2026.",
+          "asOf": "2026-09-28T05:00:34.359Z",
+          "url": "https://polymarket.com/event/trump-renames-ai-by-september-30"
+        },
+        {
+          "id": "E9",
+          "kind": "forecast",
+          "label": "World Monitor forecast",
+          "value": "50%",
+          "factText": "A World Monitor forecast related to United States, \"Cyber threat concentration: United States\", gives a 50% probability by Oct 5, 2026, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T05:00:33.681Z",
+          "url": "https://www.worldmonitor.app/accuracy/"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

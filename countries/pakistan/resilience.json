@@ -1,0 +1,128 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "PK",
+  "countryName": "Pakistan",
+  "slug": "pakistan",
+  "rank": 147,
+  "overallScore": 40.8,
+  "dimensionCoverage": 0.81,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Afghanistan says 28 fighters killed after crossing from Pakistan; Islamabad denies ties - Reuters",
+        "source": "Reuters World",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWHFmNzhleVFtVHNiMHZNN2JEeWxxS25BZkJGYTZ4d0lRODhZdHhKUnI3LTNMWHlMTTZiaDdkaDlabGl3Uld5dXdqVFdjMVNIRFVrNk8waXl4d1EwNF9hSEVaV2tiTGs5TjA5ZkZjNUptSi1xdFlNNG5NMnZOdXdCSDFSNmpjR0ZzdVF4bWJzZThBOFNuXy1aSndCdjZmSVFqTjc3VWVSNllOcFk4THNhb2t5OFk?oc=5",
+        "publishedAt": "2026-09-27T12:02:30.000Z"
+      },
+      {
+        "title": "Pakistan Finance Minister's US Exim talks covered financing for Boeing aircraft, adviser says - Reuters",
+        "source": "Reuters Commodities",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMTNXNGhuOVhmZzFsbGd0MUEwRloyYmpNZFFEUW04eDZnU1Zia0FWRjJvMzQzeGUtbUJXV0dyeW1lbnBVd091MXdJajcyd1NpTTVnLWxlWC1HTy04OW10UXk4dWtNSHhKalp4S3ZxbzliOURlMTk5LXYxSDJJTXZnZDFqZHZ6czRxQkpEQ0tRQ2twNXotVU1aWDRXZnNoWGlJUHhqTDU2cjgyRS13bnZ5eEpIOFRyTTRaZno1VVJ4RHM3QTFlel94MA?oc=5",
+        "publishedAt": "2026-09-27T13:41:43.000Z"
+      },
+      {
+        "title": "UP man held in Pakistan spying case freed after 22 years",
+        "source": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/india/up-man-held-in-pak-spying-case-freed-after-22-yrs/articleshow/134529812.cms",
+        "publishedAt": "2026-09-28T02:05:38.000Z"
+      },
+      {
+        "title": "Info ministry rejects Afghan Taliban's 'frivolous' claims linking Pakistan to reported Nuristan violence",
+        "source": "Dawn",
+        "url": "https://www.dawn.com/news/2033051/info-ministry-rejects-afghan-talibans-frivolous-claims-linking-pakistan-to-reported-nuristan-violence",
+        "publishedAt": "2026-09-27T18:36:14.000Z"
+      },
+      {
+        "title": "Deported from Pakistan, Sanaullah left his business behind",
+        "source": "Amu TV",
+        "url": "https://amu.tv/253197/",
+        "publishedAt": "2026-09-26T15:14:15.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nAfghanistan reported that 28 fighters were killed after crossing from Pakistan, but Islamabad denies ties. [1]\nPakistan's Finance Minister discussed financing for Boeing aircraft during US Exim talks, according to an adviser. [2]\n\nWHAT THIS MEANS FOR PAKISTAN\nThe US Exim talks on Boeing financing occur while Pakistan is linked to 169 US OFAC and Canada SEMA sanctions designations. [2][E3]\n\nKEY RISKS\nThe most severe government travel advisory for Pakistan is Reconsider Travel, reflecting risks for foreign nationals. [E2]\n\nOUTLOOK\nA Polymarket market on Pakistan military action against Yemen by October 31, 2026 is priced Yes at 8% as of Sep 28, 2026. [E5]\nA Polymarket market on whether India will strike Pakistan by December 31, 2026 is priced Yes at 13% as of Sep 28, 2026. [E6]\n\nWATCH ITEMS\nThe outcome of the US Exim talks on financing for Boeing aircraft remains unresolved. [2]\nIt is unresolved whether Pakistan will take military action against Yemen by October 31, 2026. [E5]",
+      "generatedAt": "2026-09-28T05:05:39.330Z",
+      "sources": [
+        {
+          "title": "Afghanistan says 28 fighters killed after crossing from Pakistan; Islamabad denies ties - Reuters",
+          "source": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWHFmNzhleVFtVHNiMHZNN2JEeWxxS25BZkJGYTZ4d0lRODhZdHhKUnI3LTNMWHlMTTZiaDdkaDlabGl3Uld5dXdqVFdjMVNIRFVrNk8waXl4d1EwNF9hSEVaV2tiTGs5TjA5ZkZjNUptSi1xdFlNNG5NMnZOdXdCSDFSNmpjR0ZzdVF4bWJzZThBOFNuXy1aSndCdjZmSVFqTjc3VWVSNllOcFk4THNhb2t5OFk?oc=5",
+          "publishedAt": "2026-09-27T12:02:30.000Z"
+        },
+        {
+          "title": "Pakistan Finance Minister's US Exim talks covered financing for Boeing aircraft, adviser says - Reuters",
+          "source": "Reuters Commodities",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMTNXNGhuOVhmZzFsbGd0MUEwRloyYmpNZFFEUW04eDZnU1Zia0FWRjJvMzQzeGUtbUJXV0dyeW1lbnBVd091MXdJajcyd1NpTTVnLWxlWC1HTy04OW10UXk4dWtNSHhKalp4S3ZxbzliOURlMTk5LXYxSDJJTXZnZDFqZHZ6czRxQkpEQ0tRQ2twNXotVU1aWDRXZnNoWGlJUHhqTDU2cjgyRS13bnZ5eEpIOFRyTTRaZno1VVJ4RHM3QTFlel94MA?oc=5",
+          "publishedAt": "2026-09-27T13:41:43.000Z"
+        },
+        {
+          "title": "UP man held in Pakistan spying case freed after 22 years",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/up-man-held-in-pak-spying-case-freed-after-22-yrs/articleshow/134529812.cms",
+          "publishedAt": "2026-09-28T02:05:38.000Z"
+        },
+        {
+          "title": "Info ministry rejects Afghan Taliban's 'frivolous' claims linking Pakistan to reported Nuristan violence",
+          "source": "Dawn",
+          "url": "https://www.dawn.com/news/2033051/info-ministry-rejects-afghan-talibans-frivolous-claims-linking-pakistan-to-reported-nuristan-violence",
+          "publishedAt": "2026-09-27T18:36:14.000Z"
+        },
+        {
+          "title": "Deported from Pakistan, Sanaullah left his business behind",
+          "source": "Amu TV",
+          "url": "https://amu.tv/253197/",
+          "publishedAt": "2026-09-26T15:14:15.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Reconsider Travel",
+          "factText": "The most severe government travel advisory World Monitor tracks for Pakistan is Reconsider Travel, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T05:03:30.360Z"
+        },
+        {
+          "id": "E3",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "169",
+          "factText": "Pakistan is linked to 169 US OFAC and Canada SEMA sanctions designations, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T00:01:35.739Z"
+        },
+        {
+          "id": "E5",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "8%",
+          "factText": "A Polymarket market related to Pakistan, \"Pakistan military action against Yemen by October 31, 2026?\", priced Yes at 8% on Sep 28, 2026; it closes Oct 31, 2026.",
+          "asOf": "2026-09-28T05:00:34.359Z",
+          "url": "https://polymarket.com/event/pakistan-military-action-against-yemen-by-20260909"
+        },
+        {
+          "id": "E6",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "13%",
+          "factText": "A Polymarket market related to Pakistan, \"Will India strike Pakistan by December 31, 2026?\", priced Yes at 13% on Sep 28, 2026; it closes Jan 1, 2027.",
+          "asOf": "2026-09-28T05:00:34.359Z",
+          "url": "https://polymarket.com/event/india-strike-on-pakistan-by"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "GE",
+  "countryName": "Georgia",
+  "slug": "georgia",
+  "rank": 59,
+  "overallScore": 56.8,
+  "dimensionCoverage": 0.81,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Florida rides win over Rebels to No. 8 ranking in AP Top 25; Texas, Georgia, Notre Dame top 3 again - apnews.com",
+        "source": "AP News",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPR3JxSnhKU25TcVA3NTAxQzBMQ2ZWaExmU1k3d3dBUUszZmNvSEVCdjVzaXZ1Q09QMkJsbGJkN0oxRVZpUjlOVmFlQ2dmSzFVQWs2QlhDb3NiOE5GMWlwR3NJblJfTTZSUUNxLVpIall3eFJPSnl4bVlaNGV6c3J5TU1xVmJYUkVHTy1ad3h1Q1Q5dHFDakNNUHdETQ?oc=5",
+        "publishedAt": "2026-09-27T18:00:00.000Z"
+      },
+      {
+        "title": "Georgia park mass shooting wounds 11 teens at birthday party",
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/news/carolyn-crayton-park-georgia-shooting-teens-wounded/",
+        "publishedAt": "2026-09-27T20:25:29.000Z"
+      },
+      {
+        "title": "Georgia Marks 33 Years Since Fall of Sokhumi",
+        "source": "Civil.ge",
+        "url": "https://civil.ge/archives/752715",
+        "publishedAt": "2026-09-27T11:38:28.000Z"
+      },
+      {
+        "title": "“Saturday march” in Tbilisi: “Abkhazia is Georgia” and solidarity with Ukraine. Video podcast “Protests in Georgia”",
+        "source": "JAMnews",
+        "url": "https://jam-news.net/pro-european-marches-in-tbilisi-abkhazia-is-georgia-solidarity-with-ukraine-video/",
+        "publishedAt": "2026-09-26T19:55:00.000Z"
+      },
+      {
+        "title": "Lithuania to let Belarusians apply for residence permits in Armenia, Georgia",
+        "source": "LRT English",
+        "url": "https://www.lrt.lt/en/news-in-english/19/3062383/lithuania-to-let-belarusians-apply-for-residence-permits-in-armenia-georgia",
+        "publishedAt": "2026-09-24T14:40:00.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nA mass shooting at a Georgia park wounded 11 teens at a birthday party. [2]\nGeorgia marks 33 years since the fall of Sokhumi, and a Saturday march in Tbilisi carried the slogan \"Abkhazia is Georgia\" and expressed solidarity with Ukraine. [3][4]\n\nWHAT THIS MEANS FOR GEORGIA\nThe ongoing public demonstrations in Tbilisi linking Abkhazia and Ukraine underscore Georgia's unresolved territorial dispute, while the country maintains a low government travel advisory of Exercise Normal Precautions. [3][4][E1]\n\nKEY RISKS\nGeorgia's high net energy import dependency of 78% exposes it to potential energy supply shocks. [E3]\nGeorgia's link to 21 US OFAC and Canada SEMA sanctions designations could deter foreign investment and complicate financial transactions. [E2]\n\nOUTLOOK\nA Kalshi market, \"Georgian parliamentary election winner?: Georgian Dream – Democratic Georgia\", priced Yes at 74% on Sep 28, 2026; it closes Oct 31, 2029. [E4]\n\nWATCH ITEMS\nThe outcome of the investigation into the Georgia park mass shooting that wounded 11 teens remains unresolved. [2]\nIt is unclear whether the Kalshi market prediction of a 74% probability that Georgian Dream – Democratic Georgia wins the next parliamentary election will materialize by the market's close on Oct 31, 2029. [E4]",
+      "generatedAt": "2026-09-28T05:01:42.635Z",
+      "sources": [
+        {
+          "title": "Florida rides win over Rebels to No. 8 ranking in AP Top 25; Texas, Georgia, Notre Dame top 3 again - apnews.com",
+          "source": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPR3JxSnhKU25TcVA3NTAxQzBMQ2ZWaExmU1k3d3dBUUszZmNvSEVCdjVzaXZ1Q09QMkJsbGJkN0oxRVZpUjlOVmFlQ2dmSzFVQWs2QlhDb3NiOE5GMWlwR3NJblJfTTZSUUNxLVpIall3eFJPSnl4bVlaNGV6c3J5TU1xVmJYUkVHTy1ad3h1Q1Q5dHFDakNNUHdETQ?oc=5",
+          "publishedAt": "2026-09-27T18:00:00.000Z"
+        },
+        {
+          "title": "Georgia park mass shooting wounds 11 teens at birthday party",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/carolyn-crayton-park-georgia-shooting-teens-wounded/",
+          "publishedAt": "2026-09-27T20:25:29.000Z"
+        },
+        {
+          "title": "Georgia Marks 33 Years Since Fall of Sokhumi",
+          "source": "Civil.ge",
+          "url": "https://civil.ge/archives/752715",
+          "publishedAt": "2026-09-27T11:38:28.000Z"
+        },
+        {
+          "title": "“Saturday march” in Tbilisi: “Abkhazia is Georgia” and solidarity with Ukraine. Video podcast “Protests in Georgia”",
+          "source": "JAMnews",
+          "url": "https://jam-news.net/pro-european-marches-in-tbilisi-abkhazia-is-georgia-solidarity-with-ukraine-video/",
+          "publishedAt": "2026-09-26T19:55:00.000Z"
+        },
+        {
+          "title": "Lithuania to let Belarusians apply for residence permits in Armenia, Georgia",
+          "source": "LRT English",
+          "url": "https://www.lrt.lt/en/news-in-english/19/3062383/lithuania-to-let-belarusians-apply-for-residence-permits-in-armenia-georgia",
+          "publishedAt": "2026-09-24T14:40:00.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Exercise Normal Precautions",
+          "factText": "The most severe government travel advisory World Monitor tracks for Georgia is Exercise Normal Precautions, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T04:03:15.792Z"
+        },
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "21",
+          "factText": "Georgia is linked to 21 US OFAC and Canada SEMA sanctions designations, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T00:01:35.739Z"
+        },
+        {
+          "id": "E3",
+          "kind": "energy",
+          "label": "Net energy import dependency",
+          "value": "78%",
+          "factText": "Georgia has a net energy import dependency of 78% (Eurostat, 2024).",
+          "asOf": "2024-12-31T00:00:00.000Z"
+        },
+        {
+          "id": "E4",
+          "kind": "market",
+          "label": "Kalshi prediction market",
+          "value": "74%",
+          "factText": "A Kalshi market related to Georgia, \"Georgian parliamentary election winner?: Georgian Dream – Democratic Georgia\", priced Yes at 74% on Sep 28, 2026; it closes Oct 31, 2029.",
+          "asOf": "2026-09-28T05:00:34.359Z",
+          "url": "https://kalshi.com/markets/KXGEORGIAPARLI-28-GD"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

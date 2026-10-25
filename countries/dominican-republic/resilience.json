@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "DO",
+  "countryName": "Dominican Republic",
+  "slug": "dominican-republic",
+  "rank": 95,
+  "overallScore": 51.9,
+  "dimensionCoverage": 0.81,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "5.2-magnitude quake hits 8 km SE of Ramon Santana, Dominican Republic -- USGS-Xinhua",
+        "source": "english.news.cn",
+        "url": "https://english.news.cn/20260928/fa3f485a04e7454fb9108d7a970a7400/c.html",
+        "publishedAt": "2026-09-28T00:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Cuban Pitcher Leandro Forteza Arrives in Dominican Republic Seeking MLB Deal",
+        "source": "cubaheadlines.com",
+        "url": "https://www.cubaheadlines.com/articles/341353",
+        "publishedAt": "2026-09-27T23:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Canadian beef regains access to Dominican Republic market after over two decades - SwiftCurrentOnline.com - Local news, Weather, Sports, Free Classifieds and Job Listings",
+        "source": "swiftcurrentonline.com",
+        "url": "https://www.swiftcurrentonline.com/articles/canadian-beef-regains-access-to-dominican-republic-market-after-over-two-decades",
+        "publishedAt": "2026-09-26T13:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Push for Creole courses in schools stokes historic anti-Haitian feeling in Dominican Republic",
+        "source": "lebanondemocrat.com",
+        "url": "https://www.lebanondemocrat.com/hartsville/news/national/push-for-creole-courses-in-schools-stokes-historic-anti-haitian-feeling-in-dominican-republic/article_a8010100-9129-5ff1-a545-71bfb2e312e3.html",
+        "publishedAt": "2026-09-25T15:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Push for Creole courses in schools stokes historic anti-Haitian feeling in Dominican Republic",
+        "source": "theconversation.com",
+        "url": "https://theconversation.com/push-for-creole-courses-in-schools-stokes-historic-anti-haitian-feeling-in-dominican-republic-291746",
+        "publishedAt": "2026-09-25T15:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

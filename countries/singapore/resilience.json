@@ -1,0 +1,115 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "SG",
+  "countryName": "Singapore",
+  "slug": "singapore",
+  "rank": 57,
+  "overallScore": 57.4,
+  "dimensionCoverage": 0.73,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "NUS Enterprise sets up outpost in Munich and Shanghai and launches Nova – an AI platform for research commercialisation (Sponsored)",
+        "source": "EU Startups",
+        "url": "https://www.eu-startups.com/2026/09/nus-enterprise-sets-up-outpost-in-munich-and-shanghai-and-launches-nova-an-ai-platform-for-research-commercialisation-sponsored/",
+        "publishedAt": "2026-09-25T08:14:45.000Z"
+      },
+      {
+        "title": "NUSX expands into Munich through UnternehmerTUM partnership (Sponsored)",
+        "source": "EU Startups",
+        "url": "https://www.eu-startups.com/2026/09/nusx-expands-into-munich-through-unternehmertum-partnership-sponsored/",
+        "publishedAt": "2026-09-24T08:35:22.000Z"
+      },
+      {
+        "title": "Singapore insurtech firm Igloo revenue rises 46% to $63m",
+        "source": "Tech in Asia",
+        "url": "https://www.techinasia.com/news/singapore-insurtech-firm-igloos-revenue-jumps-46-63m",
+        "publishedAt": "2026-09-28T04:12:30.000Z"
+      },
+      {
+        "title": "AI in hospitality: Where should Singapore's F&B operators draw the line?",
+        "source": "sbr.com.sg",
+        "url": "https://sbr.com.sg/hotels-tourism/commentary/ai-in-hospitality-where-should-singapores-fb-operators-draw-line",
+        "publishedAt": "2026-09-28T04:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "CDL's Kwek clan looks to invest US$3.9b in Singapore, China, Japan to raise confidence",
+        "source": "scmp.com",
+        "url": "https://www.scmp.com/news/asia/southeast-asia/article/3368989/cdls-kwek-clan-looks-invest-us39b-singapore-china-japan-raise-confidence",
+        "publishedAt": "2026-09-28T03:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nNUS Enterprise has set up an outpost in Munich and Shanghai and launched Nova, an AI platform for research commercialisation. [1]\n\nKEY RISKS\nSingapore's net energy import dependency of 280% makes it highly reliant on energy imports, posing a risk if the Strait of Malacca shipping chokepoint is disrupted. [E3][E4]",
+      "generatedAt": "2026-09-28T05:06:31.542Z",
+      "sources": [
+        {
+          "title": "NUS Enterprise sets up outpost in Munich and Shanghai and launches Nova – an AI platform for research commercialisation (Sponsored)",
+          "source": "EU Startups",
+          "url": "https://www.eu-startups.com/2026/09/nus-enterprise-sets-up-outpost-in-munich-and-shanghai-and-launches-nova-an-ai-platform-for-research-commercialisation-sponsored/",
+          "publishedAt": "2026-09-25T08:14:45.000Z"
+        },
+        {
+          "title": "NUSX expands into Munich through UnternehmerTUM partnership (Sponsored)",
+          "source": "EU Startups",
+          "url": "https://www.eu-startups.com/2026/09/nusx-expands-into-munich-through-unternehmertum-partnership-sponsored/",
+          "publishedAt": "2026-09-24T08:35:22.000Z"
+        },
+        {
+          "title": "Singapore insurtech firm Igloo revenue rises 46% to $63m",
+          "source": "Tech in Asia",
+          "url": "https://www.techinasia.com/news/singapore-insurtech-firm-igloos-revenue-jumps-46-63m",
+          "publishedAt": "2026-09-28T04:12:30.000Z"
+        },
+        {
+          "title": "AI in hospitality: Where should Singapore's F&B operators draw the line?",
+          "source": "sbr.com.sg",
+          "url": "https://sbr.com.sg/hotels-tourism/commentary/ai-in-hospitality-where-should-singapores-fb-operators-draw-line",
+          "publishedAt": "2026-09-28T04:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "CDL's Kwek clan looks to invest US$3.9b in Singapore, China, Japan to raise confidence",
+          "source": "scmp.com",
+          "url": "https://www.scmp.com/news/asia/southeast-asia/article/3368989/cdls-kwek-clan-looks-invest-us39b-singapore-china-japan-raise-confidence",
+          "publishedAt": "2026-09-28T03:45:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E3",
+          "kind": "energy",
+          "label": "Net energy import dependency",
+          "value": "280%",
+          "factText": "Singapore has a net energy import dependency of 280% (World Bank Open Data, 2023).",
+          "asOf": "2023-12-31T00:00:00.000Z"
+        },
+        {
+          "id": "E4",
+          "kind": "chokepoint",
+          "label": "Chokepoint tracker",
+          "value": "Strait of Malacca",
+          "factText": "Strait of Malacca is a shipping chokepoint World Monitor tracks for Singapore.",
+          "asOf": "2026-09-28T05:06:27.983Z",
+          "url": "https://www.worldmonitor.app/chokepoints/strait-of-malacca/"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

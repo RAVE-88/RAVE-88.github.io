@@ -1,0 +1,215 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "SY",
+  "countryName": "Syria",
+  "slug": "syria",
+  "rank": null,
+  "overallScore": null,
+  "dimensionCoverage": 0.54,
+  "confidence": "low",
+  "level": "unpublished",
+  "sourceStatus": "low-confidence",
+  "headlineEligible": false,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Archaeologists Risked Their Lives to Save 30,000 Treasures from ISIS Terrorists—New Study Shows How",
+        "source": "Good News Network",
+        "url": "https://www.goodnewsnetwork.org/archaeologists-risked-their-lives-to-save-thousands-of-treasures-from-isis-terrorists/",
+        "publishedAt": "2026-09-27T19:58:18.000Z"
+      },
+      {
+        "title": "Arab News | Syria arrests Assad-era general over alleged role in 2011 Saida Housing massacre",
+        "source": "arabnews.com",
+        "url": "https://www.arabnews.com/middle-east/syria-arrests-assad-era-general-over-alleged-role-in-2011-saida-housing-massacre-3003482",
+        "publishedAt": "2026-09-28T03:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Syria begins transit of gasoline to Iraq via Banias oil terminal-Xinhua",
+        "source": "english.news.cn",
+        "url": "https://english.news.cn/20260928/55c106027266489d8ab0dedb23165c3e/c.html",
+        "publishedAt": "2026-09-28T00:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Syria Arrests Members of ISIS Cell Planning Attacks",
+        "source": "aawsat.com",
+        "url": "https://english.aawsat.com/arab-world/5323278-syria-arrests-members-isis-cell-planning-attacks",
+        "publishedAt": "2026-09-27T22:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Syria Says Sending Imported Petrol to Iraq",
+        "source": "aawsat.com",
+        "url": "https://english.aawsat.com/business/5323280-syria-says-sending-imported-petrol-iraq",
+        "publishedAt": "2026-09-27T22:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nSyria arrested members of an ISIS cell that was planning attacks. [4]\nSyria began the transit of gasoline to Iraq via the Banias oil terminal. [3]\n\nWHAT THIS MEANS FOR SYRIA\nThe arrest of an ISIS cell planning attacks underscores the ongoing security threat in a country with a Country Instability Index score of 72 of 100, in the High band. [4][E1]\nSyria's transit of gasoline to Iraq occurs despite being linked to 300 US OFAC and Canada SEMA sanctions designations. [3][E3]\n\nKEY RISKS\nThe most severe government travel advisory World Monitor tracks for Syria is Do Not Travel, indicating extreme risk for anyone entering the country. [E2]\n\nOUTLOOK\nA Polymarket market on \"Israel military action against Syria by September 30, 2026?\" was priced Yes at 9% on Sep 28, 2026, closing Sep 30, 2026. [E5]\nA Polymarket market on \"Israel x Syria diplomatic meeting by October 31, 2026?\" was priced Yes at 13% on Sep 28, 2026, closing Oct 31, 2026. [E6]\n\nWATCH ITEMS\nThe outcome of the Polymarket market on Israel military action against Syria by September 30, 2026, closing on that date, remains unresolved. [E5]\nThe arrest of an Assad-era general over an alleged role in the 2011 Saida Housing massacre is an unresolved legal event. [2]",
+      "generatedAt": "2026-09-28T05:06:50.958Z",
+      "sources": [
+        {
+          "title": "Archaeologists Risked Their Lives to Save 30,000 Treasures from ISIS Terrorists—New Study Shows How",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/archaeologists-risked-their-lives-to-save-thousands-of-treasures-from-isis-terrorists/",
+          "publishedAt": "2026-09-27T19:58:18.000Z"
+        },
+        {
+          "title": "Arab News | Syria arrests Assad-era general over alleged role in 2011 Saida Housing massacre",
+          "source": "arabnews.com",
+          "url": "https://www.arabnews.com/middle-east/syria-arrests-assad-era-general-over-alleged-role-in-2011-saida-housing-massacre-3003482",
+          "publishedAt": "2026-09-28T03:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Syria begins transit of gasoline to Iraq via Banias oil terminal-Xinhua",
+          "source": "english.news.cn",
+          "url": "https://english.news.cn/20260928/55c106027266489d8ab0dedb23165c3e/c.html",
+          "publishedAt": "2026-09-28T00:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Syria Arrests Members of ISIS Cell Planning Attacks",
+          "source": "aawsat.com",
+          "url": "https://english.aawsat.com/arab-world/5323278-syria-arrests-members-isis-cell-planning-attacks",
+          "publishedAt": "2026-09-27T22:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Syria Says Sending Imported Petrol to Iraq",
+          "source": "aawsat.com",
+          "url": "https://english.aawsat.com/business/5323280-syria-says-sending-imported-petrol-iraq",
+          "publishedAt": "2026-09-27T22:45:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "cii",
+          "label": "Country Instability Index",
+          "value": "72 of 100 (High)",
+          "factText": "Syria has a Country Instability Index score of 72 of 100, in the High band, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T05:01:53.862Z"
+        },
+        {
+          "id": "E2",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Do Not Travel",
+          "factText": "The most severe government travel advisory World Monitor tracks for Syria is Do Not Travel, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T05:03:30.360Z"
+        },
+        {
+          "id": "E3",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "300",
+          "factText": "Syria is linked to 300 US OFAC and Canada SEMA sanctions designations, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T00:01:35.739Z"
+        },
+        {
+          "id": "E5",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "9%",
+          "factText": "A Polymarket market related to Syria, \"Israel military action against Syria by September 30, 2026?\", priced Yes at 9% on Sep 28, 2026; it closes Sep 30, 2026.",
+          "asOf": "2026-09-28T05:00:34.359Z",
+          "url": "https://polymarket.com/event/israel-military-action-against-syria-byptptpt-21"
+        },
+        {
+          "id": "E6",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "13%",
+          "factText": "A Polymarket market related to Syria, \"Israel x Syria diplomatic meeting by October 31, 2026?\", priced Yes at 13% on Sep 28, 2026; it closes Oct 31, 2026.",
+          "asOf": "2026-09-28T05:00:34.359Z",
+          "url": "https://polymarket.com/event/israel-x-syria-diplomatic-meeting-byptptpt"
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "title": "GDELT 180 — in Syria",
+        "summary": "source: www.arabnews.com",
+        "sourceUrl": "https://www.arabnews.com/middle-east/syria-arrests-assad-era-general-over-alleged-role-in-2011-saida-housing-massacre-3003482",
+        "occurredAt": "2026-09-28T03:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 1822 — in Syria",
+        "summary": "source: english.aawsat.com",
+        "sourceUrl": "https://english.aawsat.com/arab-world/5323291-syrian-security-forces-arrest-official-responsible-torture-child-hamza-al-khatib",
+        "occurredAt": "2026-09-27T22:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 1822 — in Syria",
+        "summary": "source: english.aawsat.com",
+        "sourceUrl": "https://english.aawsat.com/arab-world/5323291-syrian-security-forces-arrest-official-responsible-torture-child-hamza-al-khatib",
+        "occurredAt": "2026-09-27T22:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Syria",
+        "summary": "source: www.euronews.com",
+        "sourceUrl": "https://www.euronews.com/2026/09/27/netanyahu-battles-october-7-warnings-revelations-with-defiant-un-speech",
+        "occurredAt": "2026-09-27T18:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 186 — in Syria",
+        "summary": "source: organiser.org",
+        "sourceUrl": "https://organiser.org/2026/09/27/383068/world/isis-plot-to-kill-pope-leo-xiv-foiled-in-lebanon-syrian-operative-arrested-over-planned-assassination-during-visit/",
+        "occurredAt": "2026-09-27T14:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 186 — in Syria",
+        "summary": "source: organiser.org",
+        "sourceUrl": "https://organiser.org/2026/09/27/383068/world/isis-plot-to-kill-pope-leo-xiv-foiled-in-lebanon-syrian-operative-arrested-over-planned-assassination-during-visit/",
+        "occurredAt": "2026-09-27T14:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 202 — in Syria",
+        "summary": "source: www.arabnews.com",
+        "sourceUrl": "https://www.arabnews.com/middle-east/syria-vows-to-seek-accountability-for-deir-ezzor-massacre-victims-3003331",
+        "occurredAt": "2026-09-27T08:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 202 — in Syria",
+        "summary": "source: www.arabnews.com",
+        "sourceUrl": "https://www.arabnews.com/middle-east/syria-vows-to-seek-accountability-for-deir-ezzor-massacre-victims-3003331",
+        "occurredAt": "2026-09-27T08:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 202 — in Syria",
+        "summary": "source: www.arabnews.com",
+        "sourceUrl": "https://www.arabnews.com/middle-east/syria-vows-accountability-for-deir-ezzor-massacre-victims-on-14th-anniversary-3003331",
+        "occurredAt": "2026-09-27T00:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 202 — in Syria",
+        "summary": "source: www.arabnews.com",
+        "sourceUrl": "https://www.arabnews.com/middle-east/syria-vows-accountability-for-deir-ezzor-massacre-victims-on-14th-anniversary-3003331",
+        "occurredAt": "2026-09-27T00:15:00.000Z",
+        "domain": "conflict"
+      }
+    ],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

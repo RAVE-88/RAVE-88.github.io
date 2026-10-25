@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "GN",
+  "countryName": "Guinea",
+  "slug": "guinea",
+  "rank": 145,
+  "overallScore": 41.1,
+  "dimensionCoverage": 0.79,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "World: Guinea opposition figure, former PM, dies in Paris",
+        "source": "newvision.co.ug",
+        "url": "https://www.newvision.co.ug/category/world/guinea-opposition-figure-former-pm-dies-in-pa-NV_241349_092026",
+        "publishedAt": "2026-09-26T18:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Bafana hand Pitso a winning start with Guinea sc…",
+        "source": "kickoff.com",
+        "url": "https://www.kickoff.com/psl/sa-national-teams/2027-africa-cup-of-nations-qualifier-match-report-south-africa-v-guinea-26-september-2026",
+        "publishedAt": "2026-09-26T15:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Guinea opposition figure, former PM, dies in Paris",
+        "source": "standardmedia.co.ke",
+        "url": "https://www.standardmedia.co.ke/africa/article/2001558758/guinea-opposition-figure-former-pm-dies-in-paris",
+        "publishedAt": "2026-09-26T14:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Arab News | Guinea opposition figure, former PM, dies in Paris",
+        "source": "arabnews.com",
+        "url": "https://www.arabnews.com/world/guinea-opposition-figure-former-pm-dies-in-paris-3003268",
+        "publishedAt": "2026-09-26T13:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Guinea's Growth Must Translate Into Jobs and Inclusive Transformation, African Development Bank Says",
+        "source": "allafrica.com",
+        "url": "https://allafrica.com/stories/202609250378.html",
+        "publishedAt": "2026-09-25T17:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

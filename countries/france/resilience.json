@@ -1,0 +1,129 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "FR",
+  "countryName": "France",
+  "slug": "france",
+  "rank": 27,
+  "overallScore": 62.5,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "As soaring energy prices crush businesses, France rolls out a new $500 million aid package - Fortune",
+        "source": "Energy Intel",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMlo1WlRUUjV5R0dub25TRHJ3U3dKM25BQTNGVGhxZDU2V2JCQ0lrUjFPMWdPN0tmWUt2MTJwb1BWZUVrN0N1cm9naUh0UmdHOFdzWkVaTzY0YWc0WkxvdnJzS2VtSHBRajg5LWw1U3J3ZFMyS2VRdG5FdzJtbkU0Q0dIOURfb3NNNWhEb1hfaEFEZ1M0YnhMajAwYjdlZThUYWpramZ5WE9EQ2pNUVEzTg?oc=5",
+        "publishedAt": "2026-09-27T14:31:00.000Z"
+      },
+      {
+        "title": "The Monobloc chair: The plastic throne that rules Mexico",
+        "source": "Mexico News Daily",
+        "url": "https://mexiconewsdaily.com/lifestyle/monobloc-chair-plastic-throne-that-rules-mexico/",
+        "publishedAt": "2026-09-27T16:00:57.000Z"
+      },
+      {
+        "title": "Lyon, Leal and Guerrero triumph again in France: second Platinum of 2026. Celebration also for Caldera-Goenaga - International Padel Federation",
+        "source": "Precious Metals",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTEk5NjZ5OTNTeWFCaGVkeU5DclRicFl5QjJZM19uLTZ6LXJkMnowTTdjczN4Uk9NZGpVeDd0ZnRpMEZLeW5Rb0V3dEs1Y3NhdlJ2cUFTU3p0OXVRQThFVkswUS1aaU9iMUprcnc3cEVEYzlwLWhSN3JOLWNmcldjWkxsYU04RmxCbDBFNHRta1FRRGp5dU1KaDl1NmdoY0x5aVJPZmJIOTVIZkpLcXg0OGg5NWF0eDRuQVh0akhib2ZSMU5YOVdjUkdBNmdlblFQU0RoaU93dGU?oc=5",
+        "publishedAt": "2026-09-27T18:55:13.000Z"
+      },
+      {
+        "title": "The French connection: Why Paris is helping protect Yanbu oil port - Arab News",
+        "source": "Arab News",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbW9BMjZrS1JhS3NHQUpMenByZzU0MFUzVE5fMC02R2NkbW9IRVllenA5NTNBMWJ3Vjl5SURXN3F4VV8tVjBxZFVUUm5VQXN2am5sVXVraUFtQ0xpSlNjczBTYXgxaTl4SnZJMUhjcUVvU1dSYjdMS3J0WWY4SFVtN3o3Nng4Tmc5X2xYVWhxbE5ZNFVLcE9jVERVSVpwZjN2RE1NVEZoZlUySWRTa2tN?oc=5",
+        "publishedAt": "2026-09-26T06:45:58.000Z"
+      },
+      {
+        "title": "France's presidentialism crisis",
+        "source": "Le Monde",
+        "url": "https://www.lemonde.fr/en/politics/article/2026/09/28/france-s-presidentialism-crisis_6758022_5.html",
+        "publishedAt": "2026-09-28T03:30:12.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nFrance is rolling out a new $500 million aid package as soaring energy prices crush businesses. [1]\n\nKEY RISKS\nFrance's net energy import dependency of 42% exposes it to supply disruptions at the Dover Strait shipping chokepoint. [E4][E5]\n\nOUTLOOK\nA Polymarket market related to France, \"Lecornu out as French PM by December 31, 2026?\", is priced Yes at 27% on Sep 28, 2026; it closes Jan 1, 2027. [E6]\nA Polymarket market related to France, \"Will Emmanuel Macron visit Ukraine by December 31, 2026?\", is priced Yes at 71% on Sep 28, 2026; it closes Jan 1, 2027. [E7]\n\nWATCH ITEMS\nWhether France's presidentialism crisis escalates further. [5]",
+      "generatedAt": "2026-09-28T05:01:20.938Z",
+      "sources": [
+        {
+          "title": "As soaring energy prices crush businesses, France rolls out a new $500 million aid package - Fortune",
+          "source": "Energy Intel",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMlo1WlRUUjV5R0dub25TRHJ3U3dKM25BQTNGVGhxZDU2V2JCQ0lrUjFPMWdPN0tmWUt2MTJwb1BWZUVrN0N1cm9naUh0UmdHOFdzWkVaTzY0YWc0WkxvdnJzS2VtSHBRajg5LWw1U3J3ZFMyS2VRdG5FdzJtbkU0Q0dIOURfb3NNNWhEb1hfaEFEZ1M0YnhMajAwYjdlZThUYWpramZ5WE9EQ2pNUVEzTg?oc=5",
+          "publishedAt": "2026-09-27T14:31:00.000Z"
+        },
+        {
+          "title": "The Monobloc chair: The plastic throne that rules Mexico",
+          "source": "Mexico News Daily",
+          "url": "https://mexiconewsdaily.com/lifestyle/monobloc-chair-plastic-throne-that-rules-mexico/",
+          "publishedAt": "2026-09-27T16:00:57.000Z"
+        },
+        {
+          "title": "Lyon, Leal and Guerrero triumph again in France: second Platinum of 2026. Celebration also for Caldera-Goenaga - International Padel Federation",
+          "source": "Precious Metals",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTEk5NjZ5OTNTeWFCaGVkeU5DclRicFl5QjJZM19uLTZ6LXJkMnowTTdjczN4Uk9NZGpVeDd0ZnRpMEZLeW5Rb0V3dEs1Y3NhdlJ2cUFTU3p0OXVRQThFVkswUS1aaU9iMUprcnc3cEVEYzlwLWhSN3JOLWNmcldjWkxsYU04RmxCbDBFNHRta1FRRGp5dU1KaDl1NmdoY0x5aVJPZmJIOTVIZkpLcXg0OGg5NWF0eDRuQVh0akhib2ZSMU5YOVdjUkdBNmdlblFQU0RoaU93dGU?oc=5",
+          "publishedAt": "2026-09-27T18:55:13.000Z"
+        },
+        {
+          "title": "The French connection: Why Paris is helping protect Yanbu oil port - Arab News",
+          "source": "Arab News",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbW9BMjZrS1JhS3NHQUpMenByZzU0MFUzVE5fMC02R2NkbW9IRVllenA5NTNBMWJ3Vjl5SURXN3F4VV8tVjBxZFVUUm5VQXN2am5sVXVraUFtQ0xpSlNjczBTYXgxaTl4SnZJMUhjcUVvU1dSYjdMS3J0WWY4SFVtN3o3Nng4Tmc5X2xYVWhxbE5ZNFVLcE9jVERVSVpwZjN2RE1NVEZoZlUySWRTa2tN?oc=5",
+          "publishedAt": "2026-09-26T06:45:58.000Z"
+        },
+        {
+          "title": "France's presidentialism crisis",
+          "source": "Le Monde",
+          "url": "https://www.lemonde.fr/en/politics/article/2026/09/28/france-s-presidentialism-crisis_6758022_5.html",
+          "publishedAt": "2026-09-28T03:30:12.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E4",
+          "kind": "energy",
+          "label": "Net energy import dependency",
+          "value": "42%",
+          "factText": "France has a net energy import dependency of 42% (Eurostat, 2024).",
+          "asOf": "2024-12-31T00:00:00.000Z"
+        },
+        {
+          "id": "E5",
+          "kind": "chokepoint",
+          "label": "Chokepoint tracker",
+          "value": "Dover Strait",
+          "factText": "Dover Strait is a shipping chokepoint World Monitor tracks for France.",
+          "asOf": "2026-09-28T05:01:11.289Z",
+          "url": "https://www.worldmonitor.app/chokepoints/dover-strait/"
+        },
+        {
+          "id": "E6",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "27%",
+          "factText": "A Polymarket market related to France, \"Lecornu out as French PM by December 31, 2026?\", priced Yes at 27% on Sep 28, 2026; it closes Jan 1, 2027.",
+          "asOf": "2026-09-28T05:00:34.359Z",
+          "url": "https://polymarket.com/event/lecornu-out-as-french-pm-by-381"
+        },
+        {
+          "id": "E7",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "71%",
+          "factText": "A Polymarket market related to France, \"Will Emmanuel Macron visit Ukraine by December 31, 2026?\", priced Yes at 71% on Sep 28, 2026; it closes Jan 1, 2027.",
+          "asOf": "2026-09-28T05:00:34.359Z",
+          "url": "https://polymarket.com/event/who-will-visit-ukraine-by-december-31-20260729205841876"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

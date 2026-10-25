@@ -1,0 +1,133 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "MZ",
+  "countryName": "Mozambique",
+  "slug": "mozambique",
+  "rank": 154,
+  "overallScore": 39.2,
+  "dimensionCoverage": 0.85,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Tete Petrol Shortages Return in Mozambique",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/tete-petrol-shortages-mozambique-2026/",
+        "publishedAt": "2026-09-26T23:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Mozambique Advances Validation of Climate Strategy to 2035",
+        "source": "allafrica.com",
+        "url": "https://allafrica.com/stories/202609250489.html",
+        "publishedAt": "2026-09-25T22:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Mozambique and ECA advance dialogue on stronger creditworthiness and innovative financing for sustainable development",
+        "source": "uneca.org",
+        "url": "https://www.uneca.org/stories/mozambique-and-eca-advance-dialogue-on-stronger-creditworthiness-and-innovative-financing",
+        "publishedAt": "2026-09-25T20:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Mozambique recognised as the first-ever Gavi Leap Champion for health system reforms",
+        "source": "gavi.org",
+        "url": "https://www.gavi.org/news/media-room/mozambique-recognised-first-ever-gavi-leap-champion-health-system-reforms",
+        "publishedAt": "2026-09-25T18:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Mozambique faces rising drug use as trafficking routes fuel local addiction",
+        "source": "africanews.com",
+        "url": "https://www.africanews.com/2026/09/25/mozambique-faces-rising-drug-use-as-trafficking-routes-fuel-local-addiction/",
+        "publishedAt": "2026-09-25T14:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [
+      {
+        "title": "GDELT 190 — in Mozambique",
+        "summary": "source: www.malawivoice.com",
+        "sourceUrl": "https://www.malawivoice.com/2026/09/27/two-mozambican-nationals-held-over-firearms-possession-in-chikwawa/",
+        "occurredAt": "2026-09-27T21:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Mozambique",
+        "summary": "source: www.malawivoice.com",
+        "sourceUrl": "https://www.malawivoice.com/2026/09/27/two-mozambican-nationals-held-over-firearms-possession-in-chikwawa/",
+        "occurredAt": "2026-09-27T21:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Mozambique",
+        "summary": "source: www.jacarandafm.com",
+        "sourceUrl": "https://www.jacarandafm.com/news/news/family-demand-answers-after-man-killed-in-mozambique/",
+        "occurredAt": "2026-09-25T05:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Mozambique",
+        "summary": "source: www.jacarandafm.com",
+        "sourceUrl": "https://www.jacarandafm.com/news/news/family-demand-answers-after-man-killed-in-mozambique/",
+        "occurredAt": "2026-09-25T05:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 180 — in Mozambique",
+        "summary": "source: www.dailymail.com",
+        "sourceUrl": "https://www.dailymail.com/news/article-16158169/Brothers-British-contractor-killed-ISIS-backed-terrorists-Africa-say-allowed-die-hit-French-oil-firm-refusing-help-rescue-him.html",
+        "occurredAt": "2026-09-24T19:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 180 — in Mozambique",
+        "summary": "source: www.dailymail.com",
+        "sourceUrl": "https://www.dailymail.com/news/article-16158169/Brothers-British-contractor-killed-ISIS-backed-terrorists-Africa-say-allowed-die-hit-French-oil-firm-refusing-help-rescue-him.html",
+        "occurredAt": "2026-09-24T19:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 195 — in Mozambique",
+        "summary": "source: www.lbc.co.uk",
+        "sourceUrl": "https://www.lbc.co.uk/article/briton-killed-in-mozambique-terror-attack-5Hjdhx8_2/",
+        "occurredAt": "2026-09-24T17:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Mozambique",
+        "summary": "source: www.lbc.co.uk",
+        "sourceUrl": "https://www.lbc.co.uk/article/briton-killed-in-mozambique-terror-attack-5Hjdhx8_2/",
+        "occurredAt": "2026-09-24T17:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Mozambique",
+        "summary": "source: www.lbc.co.uk",
+        "sourceUrl": "https://www.lbc.co.uk/article/briton-killed-in-mozambique-terror-attack-5Hjdhx8_2/",
+        "occurredAt": "2026-09-24T17:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 180 — in Mozambique",
+        "summary": "source: www.dailymail.com",
+        "sourceUrl": "https://www.dailymail.com/news/article-16157043/Coroner-praises-gallant-hero-Brit-killed-terrorists-Africa-hotel-siege-refuses-condemn-companies-accused-hindering-rescue.html",
+        "occurredAt": "2026-09-24T13:45:00.000Z",
+        "domain": "conflict"
+      }
+    ],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

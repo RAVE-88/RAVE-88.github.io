@@ -1,0 +1,3 @@
+import{n,f as i}from"./theme-colors-BmUbP5Zj.js";const a=".worldmonitor.app",r=365*24*60*60;function e(){return location.hostname.endsWith("worldmonitor.app")}function c(o){if(e())return document.cookie.split("; ").some(s=>s===`${o}=1`);const t=n(o);return t==="1"||t==="true"}function u(o){e()&&(document.cookie=`${o}=1; domain=${a}; path=/; max-age=${r}; SameSite=Lax; Secure`),i(o,"1")}export{c as g,u as s};
+
+;(globalThis.__WM_CHUNK_OWNERSHIP__||(globalThis.__WM_CHUNK_OWNERSHIP__={}))["cross-domain-storage-FNCeAnZW.js"]=1;

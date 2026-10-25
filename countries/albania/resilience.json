@@ -1,0 +1,100 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "AL",
+  "countryName": "Albania",
+  "slug": "albania",
+  "rank": 17,
+  "overallScore": 64.3,
+  "dimensionCoverage": 0.81,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Fading Away: Sicily’s Ancient Albanian Community Fears its Identity Risks Erasure",
+        "source": "Balkan Insight",
+        "url": "https://balkaninsight.com/2026/09/25/fading-away-sicilys-ancient-albanian-community-fears-its-identity-risks-erasure/bi/",
+        "publishedAt": "2026-09-25T06:01:49.000Z"
+      },
+      {
+        "title": "Albania’s Cannabis Traffic is No Longer Only One-Way",
+        "source": "Balkan Insight",
+        "url": "https://balkaninsight.com/2026/09/24/albanias-cannabis-traffic-is-no-longer-only-one-way/bi/",
+        "publishedAt": "2026-09-24T10:08:17.000Z"
+      },
+      {
+        "title": "Albanian Spy Chief’s Arrest a Major Blow to NATO Member’s Reputation",
+        "source": "Balkan Insight",
+        "url": "https://balkaninsight.com/2026/09/24/albanian-spy-chiefs-arrest-a-major-blow-to-nato-members-reputation/bi/",
+        "publishedAt": "2026-09-24T06:00:03.000Z"
+      },
+      {
+        "title": "Rama at the UN: Flamingo Protesters \"Were Protesting Against a Phantom\"; Albania Against Slowing AI, Calls for International Agreement – Tirana Examiner",
+        "source": "tiranaexaminer.com",
+        "url": "https://tiranaexaminer.com/rama-at-the-un-flamingo-protesters-were-protesting-against-a-phantom-albania-against-slowing-ai-calls-for-international-agreement/",
+        "publishedAt": "2026-09-27T14:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nAlbania's cannabis traffic is no longer only one-way. [2]\n\nWHAT THIS MEANS FOR ALBANIA\nThe arrest of the Albanian spy chief undermines trust in Albania's security institutions, a concern amplified by the country's link to 8 US OFAC and Canada SEMA sanctions designations. [3][E2]\n\nKEY RISKS\nAlbania's net energy import dependency of 27% exposes the country to potential supply disruptions. [E3]\n\nWATCH ITEMS\nThe outcome of the legal proceedings following the Albanian spy chief's arrest remains unresolved. [3]",
+      "generatedAt": "2026-09-28T04:58:19.642Z",
+      "sources": [
+        {
+          "title": "Fading Away: Sicily’s Ancient Albanian Community Fears its Identity Risks Erasure",
+          "source": "Balkan Insight",
+          "url": "https://balkaninsight.com/2026/09/25/fading-away-sicilys-ancient-albanian-community-fears-its-identity-risks-erasure/bi/",
+          "publishedAt": "2026-09-25T06:01:49.000Z"
+        },
+        {
+          "title": "Albania’s Cannabis Traffic is No Longer Only One-Way",
+          "source": "Balkan Insight",
+          "url": "https://balkaninsight.com/2026/09/24/albanias-cannabis-traffic-is-no-longer-only-one-way/bi/",
+          "publishedAt": "2026-09-24T10:08:17.000Z"
+        },
+        {
+          "title": "Albanian Spy Chief’s Arrest a Major Blow to NATO Member’s Reputation",
+          "source": "Balkan Insight",
+          "url": "https://balkaninsight.com/2026/09/24/albanian-spy-chiefs-arrest-a-major-blow-to-nato-members-reputation/bi/",
+          "publishedAt": "2026-09-24T06:00:03.000Z"
+        },
+        {
+          "title": "Rama at the UN: Flamingo Protesters \"Were Protesting Against a Phantom\"; Albania Against Slowing AI, Calls for International Agreement – Tirana Examiner",
+          "source": "tiranaexaminer.com",
+          "url": "https://tiranaexaminer.com/rama-at-the-un-flamingo-protesters-were-protesting-against-a-phantom-albania-against-slowing-ai-calls-for-international-agreement/",
+          "publishedAt": "2026-09-27T14:15:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "8",
+          "factText": "Albania is linked to 8 US OFAC and Canada SEMA sanctions designations, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T00:01:35.739Z"
+        },
+        {
+          "id": "E3",
+          "kind": "energy",
+          "label": "Net energy import dependency",
+          "value": "27%",
+          "factText": "Albania has a net energy import dependency of 27% (Eurostat, 2024).",
+          "asOf": "2024-12-31T00:00:00.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

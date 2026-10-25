@@ -1,0 +1,116 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "CD",
+  "countryName": "DR Congo",
+  "slug": "dr-congo",
+  "rank": 157,
+  "overallScore": 38.2,
+  "dimensionCoverage": 0.83,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "DR Congo, Sudan and Mali are Africa’s biggest military drone importers as US and Iran supply rival sides in Russia-Ukraine war - Business Insider Africa",
+        "source": "Sahel Crisis",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNczVQRWdTbWZTbURCVFVLRWlmMXgtc3Z6amg1UUdXaVJuNWNNX0s2ZG1ESkptNTVPLVJReE1qV1BTQllOUlNmeEVCbnd3M0NPZElfNGZkVGZtdVk0QVdzZHAxT0Y1NXZJMElVSkJGWndxcm5qSmVMeURlTTZFMjNaVW1OLVZTZDU1TlQzcEtGaHBueDRyVWViVHhTNG5CdEpTOWpheXptZWx3VDVqSFdWWW5ZVC1Pa0RoNngtUDM4Si1Fc3M5Z1IxZm5vOG1hc2RQWFQtbFpYaWZyUQ?oc=5",
+        "publishedAt": "2026-09-27T22:05:55.000Z"
+      },
+      {
+        "title": "‘We fled with nothing’: the people making perilous journeys to escape violence in DRC",
+        "source": "Guardian Africa",
+        "url": "https://www.theguardian.com/global-development/2026/sep/24/we-have-nothing-drc-displacement-crisis-worsens-as-fighting-continues",
+        "publishedAt": "2026-09-24T11:03:04.000Z"
+      },
+      {
+        "title": "Today's top news: Ethiopia, Democratic Republic of the Congo, Yemen, Occupied Palestinian Territory, Haiti",
+        "source": "globalsecurity.org",
+        "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260925-unocha01.htm",
+        "publishedAt": "2026-09-27T11:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Ebola disease caused by Bundibugyo virus – Democratic Republic of the Congo - Maurice Info - Partager et informer en toute intégralité",
+        "source": "maurice-info.mu",
+        "url": "https://maurice-info.mu/2026/09/26/ebola-disease-caused-by-bundibugyo-virus-democratic-republic-of-the-congo.html",
+        "publishedAt": "2026-09-26T08:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Today's top news: Democratic Republic of the Congo, Occupied Palestinian Territory, Lebanon, Somalia",
+        "source": "globalsecurity.org",
+        "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260923-unocha01.htm",
+        "publishedAt": "2026-09-24T13:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nDR Congo, Sudan and Mali are Africa’s biggest military drone importers as US and Iran supply rival sides in Russia-Ukraine war. [1]\nPeople are making perilous journeys to escape violence in DRC. [2]\n\nWHAT THIS MEANS FOR DR CONGO\nThe Do Not Travel advisory for Congo - Kinshasa reflects the severe security risks that drive people to flee violence. [2][E1]\nCongo - Kinshasa's military drone imports from rival suppliers may increase its exposure to US and Iran sanctions, given its 85 OFAC and SEMA designations. [1][E2]\n\nKEY RISKS\nCongo - Kinshasa's 85 US OFAC and Canada SEMA sanctions designations pose a risk of further financial restrictions. [E2]\n\nWATCH ITEMS\nThe outbreak of Ebola disease caused by Bundibugyo virus in Democratic Republic of the Congo remains unresolved. [4]",
+      "generatedAt": "2026-09-28T04:59:25.252Z",
+      "sources": [
+        {
+          "title": "DR Congo, Sudan and Mali are Africa’s biggest military drone importers as US and Iran supply rival sides in Russia-Ukraine war - Business Insider Africa",
+          "source": "Sahel Crisis",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNczVQRWdTbWZTbURCVFVLRWlmMXgtc3Z6amg1UUdXaVJuNWNNX0s2ZG1ESkptNTVPLVJReE1qV1BTQllOUlNmeEVCbnd3M0NPZElfNGZkVGZtdVk0QVdzZHAxT0Y1NXZJMElVSkJGWndxcm5qSmVMeURlTTZFMjNaVW1OLVZTZDU1TlQzcEtGaHBueDRyVWViVHhTNG5CdEpTOWpheXptZWx3VDVqSFdWWW5ZVC1Pa0RoNngtUDM4Si1Fc3M5Z1IxZm5vOG1hc2RQWFQtbFpYaWZyUQ?oc=5",
+          "publishedAt": "2026-09-27T22:05:55.000Z"
+        },
+        {
+          "title": "‘We fled with nothing’: the people making perilous journeys to escape violence in DRC",
+          "source": "Guardian Africa",
+          "url": "https://www.theguardian.com/global-development/2026/sep/24/we-have-nothing-drc-displacement-crisis-worsens-as-fighting-continues",
+          "publishedAt": "2026-09-24T11:03:04.000Z"
+        },
+        {
+          "title": "Today's top news: Ethiopia, Democratic Republic of the Congo, Yemen, Occupied Palestinian Territory, Haiti",
+          "source": "globalsecurity.org",
+          "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260925-unocha01.htm",
+          "publishedAt": "2026-09-27T11:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Ebola disease caused by Bundibugyo virus – Democratic Republic of the Congo - Maurice Info - Partager et informer en toute intégralité",
+          "source": "maurice-info.mu",
+          "url": "https://maurice-info.mu/2026/09/26/ebola-disease-caused-by-bundibugyo-virus-democratic-republic-of-the-congo.html",
+          "publishedAt": "2026-09-26T08:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Today's top news: Democratic Republic of the Congo, Occupied Palestinian Territory, Lebanon, Somalia",
+          "source": "globalsecurity.org",
+          "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260923-unocha01.htm",
+          "publishedAt": "2026-09-24T13:45:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Do Not Travel",
+          "factText": "The most severe government travel advisory World Monitor tracks for Congo - Kinshasa is Do Not Travel, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T04:03:15.792Z"
+        },
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "85",
+          "factText": "Congo - Kinshasa is linked to 85 US OFAC and Canada SEMA sanctions designations, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T00:01:35.739Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

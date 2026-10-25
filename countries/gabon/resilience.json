@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "GA",
+  "countryName": "Gabon",
+  "slug": "gabon",
+  "rank": 119,
+  "overallScore": 46.8,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Gabon, IMF move closer to talks on financial support programme – Channel Africa",
+        "source": "channelafrica.co.za",
+        "url": "https://www.channelafrica.co.za/channelafrica/news/gabon-imf-move-closer-to-talks-on-financial-support-programme/",
+        "publishedAt": "2026-09-27T19:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "IMF plans more talks with Gabon in coming weeks – Channel Africa",
+        "source": "channelafrica.co.za",
+        "url": "https://www.channelafrica.co.za/channelafrica/news/imf-plans-more-talks-with-gabon-in-coming-weeks/",
+        "publishedAt": "2026-09-27T10:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "IMF plans more talks with Gabon in coming weeks",
+        "source": "bdnews24.com",
+        "url": "https://bdnews24.com/economy/tkq4a93hi0",
+        "publishedAt": "2026-09-27T08:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "IMF Staff Concludes Visit to Gabon",
+        "source": "miragenews.com",
+        "url": "https://www.miragenews.com/imf-staff-concludes-visit-to-gabon-1750833/",
+        "publishedAt": "2026-09-26T19:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Gabon unveils digital platform to replace paper processes in public administration – Channel Africa",
+        "source": "channelafrica.co.za",
+        "url": "https://www.channelafrica.co.za/channelafrica/news/gabon-unveils-digital-platform-to-replace-paper-processes-in-public-administration/",
+        "publishedAt": "2026-09-24T15:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

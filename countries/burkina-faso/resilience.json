@@ -1,0 +1,105 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "BF",
+  "countryName": "Burkina Faso",
+  "slug": "burkina-faso",
+  "rank": 160,
+  "overallScore": 36.5,
+  "dimensionCoverage": 0.78,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Burkina Faso: From Cotton to Uniforms, Burkina Faso Boosts its Textile Industry",
+        "source": "allafrica.com",
+        "url": "https://allafrica.com/stories/202609240100.html",
+        "publishedAt": "2026-09-24T10:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Burkina Faso's Minister of Foreign Affairs, Regional Cooperation and Burkinabè Abroad, Karamoko Jean-Marie Traoré, reiterated on Tuesday in New York his country's stance in support of Morocco's sovere",
+        "source": "globalsecurity.org",
+        "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260922-morocco-mfa01.htm",
+        "publishedAt": "2026-09-23T13:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Flamingos in perfect run with 2-0 victory over Burkina Faso",
+        "source": "dailytrust.com",
+        "url": "https://dailytrust.com/flamingos-in-perfect-run-with-2-0-victory-over-burkina-faso/",
+        "publishedAt": "2026-09-22T04:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "My tactics against Burkina Faso were spot on – Busari",
+        "source": "punchng.com",
+        "url": "https://punchng.com/my-tactics-against-bfaso-spot-on-busari/",
+        "publishedAt": "2026-09-22T02:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Burkina Faso opens $30m textile facility to cut clothing imports",
+        "source": "just-style.com",
+        "url": "https://www.just-style.com/news/burkina-faso-cotton-facility/",
+        "publishedAt": "2026-09-21T11:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [
+      {
+        "title": "GDELT 190 — in Burkina Faso",
+        "summary": "source: kawowo.com",
+        "sourceUrl": "https://kawowo.com/2026/09/19/2026-national-pool-league-upper-volta-braces-for-greater-mukono-tie/",
+        "occurredAt": "2026-09-19T22:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Burkina Faso",
+        "summary": "source: kawowo.com",
+        "sourceUrl": "https://kawowo.com/2026/09/19/2026-national-pool-league-upper-volta-braces-for-greater-mukono-tie/",
+        "occurredAt": "2026-09-19T22:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Burkina Faso",
+        "summary": "source: kawowo.com",
+        "sourceUrl": "https://kawowo.com/2026/09/19/2026-national-pool-league-upper-volta-braces-for-greater-mukono-tie/",
+        "occurredAt": "2026-09-19T22:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Burkina Faso",
+        "summary": "source: kawowo.com",
+        "sourceUrl": "https://kawowo.com/2026/09/19/2026-national-pool-league-upper-volta-braces-for-greater-mukono-tie/",
+        "occurredAt": "2026-09-19T22:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Burkina Faso",
+        "summary": "source: kawowo.com",
+        "sourceUrl": "https://kawowo.com/2026/09/19/2026-national-pool-league-upper-volta-braces-for-greater-mukono-tie/",
+        "occurredAt": "2026-09-19T22:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Burkina Faso",
+        "summary": "source: kawowo.com",
+        "sourceUrl": "https://kawowo.com/2026/09/19/2026-national-pool-league-upper-volta-braces-for-greater-mukono-tie/",
+        "occurredAt": "2026-09-19T22:00:00.000Z",
+        "domain": "conflict"
+      }
+    ],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

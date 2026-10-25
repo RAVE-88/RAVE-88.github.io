@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "MK",
+  "countryName": "North Macedonia",
+  "slug": "north-macedonia",
+  "rank": 84,
+  "overallScore": 53.9,
+  "dimensionCoverage": 0.79,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "North Macedonia plans airport rail link and Skopje suburban train services",
+        "source": "railwaygazette.com",
+        "url": "https://www.railwaygazette.com/north-macedonia/2026/09/27/north-macedonia-plans-airport-rail-link-and-skopje-suburban-train-services/",
+        "publishedAt": "2026-09-27T07:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Seven-centimeter grass is the real talking point as North Macedonia Vs Switzerland heads to Skopje",
+        "source": "el-balad.com",
+        "url": "https://www.el-balad.com/17053725",
+        "publishedAt": "2026-09-26T19:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Bulgaria Urges North Macedonia to Fulfill EU Commitments - Novinite.com",
+        "source": "novinite.com",
+        "url": "https://www.novinite.com/view_news.php?id=240775",
+        "publishedAt": "2026-09-25T21:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "North Macedonia's Shrinking Schools",
+        "source": "tol.org",
+        "url": "https://tol.org/client/article/north-macedonias-shrinking-schools.html",
+        "publishedAt": "2026-09-25T19:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Expansion of economic cooperation between Azerbaijan and North Macedonia discussed",
+        "source": "en.apa.az",
+        "url": "https://en.apa.az/entrepreneurship/expansion-of-economic-cooperation-between-azerbaijan-and-north-macedonia-discussed-526398",
+        "publishedAt": "2026-09-25T16:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

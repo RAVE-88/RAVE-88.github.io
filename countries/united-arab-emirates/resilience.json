@@ -1,0 +1,114 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "AE",
+  "countryName": "United Arab Emirates",
+  "slug": "united-arab-emirates",
+  "rank": 11,
+  "overallScore": 66.5,
+  "dimensionCoverage": 0.74,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Source: Netanyahu Secretly Visited UAE on Sunday, Met With Emirati Leader - Haaretz",
+        "source": "Haaretz",
+        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNTUhFRmxPRjVRQkNGZ0xsd3ZVc2Y3OVBRenpwajg5blJJTXRYZ0ZRaFNyNTl6N1BvcUdPaW5CNFc4WmgzZkczV2xIaEhTR3lzYVBMSVhDdndqYVM2U3dfbll4TUNDQzBnRkRyOUt1SFdxcERQTzIzaVRhWTlxSlpEeU1rSGlLVjExb0xrRUpaN1RMX2lzbmdNY05UN0lPS0F5MFI3ZnpUeE5YX0hIajhhNWZyYjFpWXFPNlpZaHQ1MkN2ZVFFREM4RFBBeXR5YW9pNlBsQWpxM1ZrV19tWFZvaTZBdk1GT195NkJwdTZJTjFmT3BxdWRrb1liSl92b2IzT1JLY0RMTm9EN0FWeDFqbllUQ0Q5SURDMkVZ?oc=5",
+        "publishedAt": "2026-09-27T19:22:00.000Z"
+      },
+      {
+        "title": "Guilherme Bala makes thrilling international debut as UAE clinch Gulf Cup semi-final place",
+        "source": "The National",
+        "url": "https://www.thenationalnews.com/sport/football/2026/09/28/guilherme-bala-makes-thrilling-international-debut-as-uae-clinch-gulf-cup-semi-final-place/",
+        "publishedAt": "2026-09-28T03:10:19.000Z"
+      },
+      {
+        "title": "Israeli media says Netanyahu made unannounced visit to UAE",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/news/international/israeli-media-says-netanyahu-made-unannounced-visit-to-uae/article71517298.ece",
+        "publishedAt": "2026-09-28T04:06:17.000Z"
+      },
+      {
+        "title": "Netanyahu visits UAE: Israeli media",
+        "source": "Dawn",
+        "url": "https://www.dawn.com/news/2033171/netanyahu-visits-uae-israeli-media",
+        "publishedAt": "2026-09-28T02:40:10.000Z"
+      },
+      {
+        "title": "UAE Opens 15th UN Congress on Crime Prevention and Criminal Justice and Launches Pledge4Justice with First Pledge of Up to USD 5 Million",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/uae-opens-15th-un-congress-on-crime-prevention-and-criminal-justice-and-launches-pledge4justice-with-first-pledge-of-up-to-usd-5-million",
+        "publishedAt": "2026-09-26T20:52:49.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe UAE opened the 15th UN Congress on Crime Prevention and Criminal Justice and launched Pledge4Justice with a first pledge of up to USD 5 million. [4]\n\nKEY RISKS\nThe Strait of Hormuz shipping chokepoint poses a risk to the UAE, given its zero percent net energy import dependency. [E5][E4]\n\nWATCH ITEMS\nA Polymarket market asks whether Iran will target the United Arab Emirates by September 30, 2026, priced Yes at 9%. [E6]",
+      "generatedAt": "2026-09-28T04:58:12.351Z",
+      "sources": [
+        {
+          "title": "Source: Netanyahu Secretly Visited UAE on Sunday, Met With Emirati Leader - Haaretz",
+          "source": "Haaretz",
+          "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNTUhFRmxPRjVRQkNGZ0xsd3ZVc2Y3OVBRenpwajg5blJJTXRYZ0ZRaFNyNTl6N1BvcUdPaW5CNFc4WmgzZkczV2xIaEhTR3lzYVBMSVhDdndqYVM2U3dfbll4TUNDQzBnRkRyOUt1SFdxcERQTzIzaVRhWTlxSlpEeU1rSGlLVjExb0xrRUpaN1RMX2lzbmdNY05UN0lPS0F5MFI3ZnpUeE5YX0hIajhhNWZyYjFpWXFPNlpZaHQ1MkN2ZVFFREM4RFBBeXR5YW9pNlBsQWpxM1ZrV19tWFZvaTZBdk1GT195NkJwdTZJTjFmT3BxdWRrb1liSl92b2IzT1JLY0RMTm9EN0FWeDFqbllUQ0Q5SURDMkVZ?oc=5",
+          "publishedAt": "2026-09-27T19:22:00.000Z"
+        },
+        {
+          "title": "Israeli media says Netanyahu made unannounced visit to UAE",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/israeli-media-says-netanyahu-made-unannounced-visit-to-uae/article71517298.ece",
+          "publishedAt": "2026-09-28T04:06:17.000Z"
+        },
+        {
+          "title": "Netanyahu visits UAE: Israeli media",
+          "source": "Dawn",
+          "url": "https://www.dawn.com/news/2033171/netanyahu-visits-uae-israeli-media",
+          "publishedAt": "2026-09-28T02:40:10.000Z"
+        },
+        {
+          "title": "UAE Opens 15th UN Congress on Crime Prevention and Criminal Justice and Launches Pledge4Justice with First Pledge of Up to USD 5 Million",
+          "source": "Financial Post",
+          "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/uae-opens-15th-un-congress-on-crime-prevention-and-criminal-justice-and-launches-pledge4justice-with-first-pledge-of-up-to-usd-5-million",
+          "publishedAt": "2026-09-26T20:52:49.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E4",
+          "kind": "energy",
+          "label": "Net energy import dependency",
+          "value": "0%",
+          "factText": "United Arab Emirates has a net energy import dependency of 0% (World Bank Open Data, 2023).",
+          "asOf": "2023-12-31T00:00:00.000Z"
+        },
+        {
+          "id": "E5",
+          "kind": "chokepoint",
+          "label": "Chokepoint tracker",
+          "value": "Strait of Hormuz",
+          "factText": "Strait of Hormuz is a shipping chokepoint World Monitor tracks for United Arab Emirates.",
+          "asOf": "2026-09-28T04:58:09.150Z",
+          "url": "https://www.worldmonitor.app/chokepoints/strait-of-hormuz/"
+        },
+        {
+          "id": "E6",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "9%",
+          "factText": "A Polymarket market related to United Arab Emirates, \"Will Iran target the United Arab Emirates by September 30, 2026?\", priced Yes at 9% on Sep 28, 2026; it closes Sep 30, 2026.",
+          "asOf": "2026-09-28T04:51:12.326Z",
+          "url": "https://polymarket.com/event/will-iran-target-united-arab-emirates-byptptpt-20260907"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

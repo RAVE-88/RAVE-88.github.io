@@ -1,0 +1,108 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "NL",
+  "countryName": "Netherlands",
+  "slug": "netherlands",
+  "rank": 23,
+  "overallScore": 63.4,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Israel strips Dutch diplomats of status in West Bank",
+        "source": "DW News",
+        "url": "https://www.dw.com/en/israel-strips-dutch-diplomats-of-status-in-west-bank/a-79451271?maca=en-rss-en-all-1573-xml-mrss",
+        "publishedAt": "2026-09-28T00:00:00.000Z"
+      },
+      {
+        "title": "Israel revokes credentials of Dutch diplomats in West Bank over settlement goods ban",
+        "source": "France 24",
+        "url": "https://www.france24.com/en/middle-east/20260927-israel-revokes-dutch-diplomats-credentials-settlement-sanctions",
+        "publishedAt": "2026-09-27T21:47:40.000Z"
+      },
+      {
+        "title": "Netherlands wants EU to end current gas storage approach after 2027 | Hellenic Shipping News Worldwide",
+        "source": "hellenicshippingnews.com",
+        "url": "https://www.hellenicshippingnews.com/netherlands-wants-eu-to-end-current-gas-storage-approach-after-2027/",
+        "publishedAt": "2026-09-28T00:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "iShares MSCI Netherlands ETF (NYSEARCA:EWN) Sees Large Increase in Short Interest",
+        "source": "tickerreport.com",
+        "url": "https://www.tickerreport.com/banking-finance/13598665/ishares-msci-netherlands-etf-nysearcaewn-sees-large-increase-in-short-interest.html",
+        "publishedAt": "2026-09-27T22:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Cody Gakpo forced off early against Serbia — Netherlands Vs Serbia turns into another Liverpool concern",
+        "source": "el-balad.com",
+        "url": "https://www.el-balad.com/17053987",
+        "publishedAt": "2026-09-27T19:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nIsrael has revoked the credentials of Dutch diplomats in the West Bank over a ban on settlement goods. [1][2]\n\nWHAT THIS MEANS FOR NETHERLANDS\nThe diplomatic dispute with Israel over settlement goods may complicate Netherlands' foreign relations, while the country's net energy import dependency of 71% underscores its vulnerability in energy diplomacy. [1][2][E3]\n\nKEY RISKS\nWith a net energy import dependency of 71%, any disruption in energy supply could severely impact Netherlands' economy and security. [E3]",
+      "generatedAt": "2026-09-28T05:05:03.427Z",
+      "sources": [
+        {
+          "title": "Israel strips Dutch diplomats of status in West Bank",
+          "source": "DW News",
+          "url": "https://www.dw.com/en/israel-strips-dutch-diplomats-of-status-in-west-bank/a-79451271?maca=en-rss-en-all-1573-xml-mrss",
+          "publishedAt": "2026-09-28T00:00:00.000Z"
+        },
+        {
+          "title": "Israel revokes credentials of Dutch diplomats in West Bank over settlement goods ban",
+          "source": "France 24",
+          "url": "https://www.france24.com/en/middle-east/20260927-israel-revokes-dutch-diplomats-credentials-settlement-sanctions",
+          "publishedAt": "2026-09-27T21:47:40.000Z"
+        },
+        {
+          "title": "Netherlands wants EU to end current gas storage approach after 2027 | Hellenic Shipping News Worldwide",
+          "source": "hellenicshippingnews.com",
+          "url": "https://www.hellenicshippingnews.com/netherlands-wants-eu-to-end-current-gas-storage-approach-after-2027/",
+          "publishedAt": "2026-09-28T00:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "iShares MSCI Netherlands ETF (NYSEARCA:EWN) Sees Large Increase in Short Interest",
+          "source": "tickerreport.com",
+          "url": "https://www.tickerreport.com/banking-finance/13598665/ishares-msci-netherlands-etf-nysearcaewn-sees-large-increase-in-short-interest.html",
+          "publishedAt": "2026-09-27T22:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Cody Gakpo forced off early against Serbia — Netherlands Vs Serbia turns into another Liverpool concern",
+          "source": "el-balad.com",
+          "url": "https://www.el-balad.com/17053987",
+          "publishedAt": "2026-09-27T19:00:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E3",
+          "kind": "energy",
+          "label": "Net energy import dependency",
+          "value": "71%",
+          "factText": "Netherlands has a net energy import dependency of 71% (Eurostat, 2024).",
+          "asOf": "2024-12-31T00:00:00.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

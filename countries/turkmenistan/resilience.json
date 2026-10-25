@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "TM",
+  "countryName": "Turkmenistan",
+  "slug": "turkmenistan",
+  "rank": 109,
+  "overallScore": 49.6,
+  "dimensionCoverage": 0.66,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "35th Anniversary of Turkmenistan's Independence: Grand Parade and Celebration of Creation in Ashgabat — PHOTO REPORT",
+        "source": "newscentralasia.net",
+        "url": "https://www.newscentralasia.net/2026/09/27/35th-anniversary-of-turkmenistans-independence-grand-parade-and-celebration-of-creation-in-ashgabat-photo-report/",
+        "publishedAt": "2026-09-27T21:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Turkmenistan's Goturdepe drilling exceeds eight-month target by 36%",
+        "source": "trend.az",
+        "url": "https://www.trend.az/casia/turkmenistan/4228573.html",
+        "publishedAt": "2026-09-27T18:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "SLB: A Century of Innovation, Two Decades in Turkmenistan - News Central Asia (nCa)",
+        "source": "newscentralasia.net",
+        "url": "https://www.newscentralasia.net/2026/09/26/slb-a-century-of-innovation-two-decades-in-turkmenistan/",
+        "publishedAt": "2026-09-26T12:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Turkmenistan, Türkiye discuss expanding economic cooperation",
+        "source": "trend.az",
+        "url": "https://www.trend.az/world/turkey/4228255.html",
+        "publishedAt": "2026-09-26T07:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Turkmenistan Grants Residence Permits to 146 Foreign Nationals and Stateless Persons",
+        "source": "newscentralasia.net",
+        "url": "https://www.newscentralasia.net/2026/09/26/turkmenistan-grants-residence-permits-to-146-foreign-nationals-and-stateless-persons/",
+        "publishedAt": "2026-09-26T07:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

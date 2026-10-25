@@ -1,0 +1,111 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "KR",
+  "countryName": "South Korea",
+  "slug": "south-korea",
+  "rank": 58,
+  "overallScore": 57.3,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "South Korea demands apology from Ukraine over disclosure of North Korean POW transfer - CNN",
+        "source": "CNN World",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPX25yelIxbEVpNDZHTlpBSWluejFESTQ0TzNkQXBTcE9taU4xVlZEN1FndUVUenJBNTBkT1ZwY0laRzVTSkp6UXVrTDY3Y1Jra0hhS3I0Z0hWLWJDNUFmSzhnbzZmdFdQTUplUXI3Mk5VN3BuU2JULW9OekJWU1dESVlvUQ?oc=5",
+        "publishedAt": "2026-09-27T22:52:17.000Z"
+      },
+      {
+        "title": "South Korea demands apology from Ukraine over North Korean POW disclosure - Reuters",
+        "source": "Reuters Asia",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWHdqdnFfTEZYT1kxVWlSSlZRRnRseEw0RzAzbERrM2d0S2ZVSHhtb3Uzb3lwNi13cnNHV2ZobHVnclhfRzFxR2VPWEUzMGFFQ2hEa0Rvb1oyOXgybW9wejZsSVZZTVZ5OVdjZWhOVW5xVTNfTUtrbkRKUksxNW1hZXN1VWlvOGloRjRyV1BTTG1jdGJKMUxYV1RJWXdlNDF3aWpLbzl1N2g3Zl9XUWd5WXFuSmlXWEJXUFVTSktBV29CUnd6WEJuejE5VQ?oc=5",
+        "publishedAt": "2026-09-27T20:13:48.000Z"
+      },
+      {
+        "title": "Hyundai Engineering lands $644m AI data center deal",
+        "source": "Tech in Asia",
+        "url": "https://www.techinasia.com/news/hyundai-engineering-lands-644m-ai-data-center-deal",
+        "publishedAt": "2026-09-28T02:11:40.000Z"
+      },
+      {
+        "title": "South Korea's SK Hynix unit weighs U.S. IPO at $150B valuation - upi.com",
+        "source": "IPO News",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSmM4dGlXT3J2VkhKenM3b21EMVBrQ21IeXhJUHZiZkM0VWJzcXlVVklSUDNVUVFaT0Z6dHk0a2hCR1hIUE41ZUJMUlVKN2dSSU05Ni11Sl9CaGRDOERYMEJjcUtyckk2cVl5RUxvWHlBTnRFQVk0ZjdqcGVSRUp4cHNrS3BHNmt6U0hpUXN0M0VHd0UxLUNEazJrMExfa2d4NWxN0gGoAUFVX3lxTFA3c1NZVXJsR0V0UXJNOXpXZm9zSUJVWjV4V2pxMTdieVQtallGejgxRDhQVHM5TlJSZ2piekNaX1RWbnVDdHRYcFNaamE0a05Bd2dNRWxmem81aGcyY3ZXQlpHeVJCUElNMVNGbU9oa1J6SzlxNjNHS29XTU9maTdqSENiaGpRMkt6TnFPVm5nc0RmLVY4Q3RkSU9jaTNVT1c0Q09laGkwMg?oc=5",
+        "publishedAt": "2026-09-27T23:16:59.000Z"
+      },
+      {
+        "title": "South Korea demands Ukraine apology over denial of confidential deal on North’s prisoners of war",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/news/international/south-korea-demands-ukraine-apology-over-denial-of-confidential-deal-on-norths-prisoners-of-war/article71518214.ece",
+        "publishedAt": "2026-09-28T03:22:26.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nSouth Korea demands an apology from Ukraine over the disclosure of a North Korean POW transfer. [1][2][5]\n\nWHAT THIS MEANS FOR SOUTH KOREA\nThe diplomatic dispute with Ukraine could complicate South Korea's energy security, given its net energy import dependency of 85%. [1][E4]\n\nKEY RISKS\nSouth Korea's 85% net energy import dependency makes it vulnerable to disruptions at the Korea Strait shipping chokepoint. [E4][E5]\n\nWATCH ITEMS\nWhether Ukraine will respond to South Korea's demand for an apology over the North Korean POW disclosure. [1][2][5]",
+      "generatedAt": "2026-09-28T05:03:32.811Z",
+      "sources": [
+        {
+          "title": "South Korea demands apology from Ukraine over disclosure of North Korean POW transfer - CNN",
+          "source": "CNN World",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPX25yelIxbEVpNDZHTlpBSWluejFESTQ0TzNkQXBTcE9taU4xVlZEN1FndUVUenJBNTBkT1ZwY0laRzVTSkp6UXVrTDY3Y1Jra0hhS3I0Z0hWLWJDNUFmSzhnbzZmdFdQTUplUXI3Mk5VN3BuU2JULW9OekJWU1dESVlvUQ?oc=5",
+          "publishedAt": "2026-09-27T22:52:17.000Z"
+        },
+        {
+          "title": "South Korea demands apology from Ukraine over North Korean POW disclosure - Reuters",
+          "source": "Reuters Asia",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWHdqdnFfTEZYT1kxVWlSSlZRRnRseEw0RzAzbERrM2d0S2ZVSHhtb3Uzb3lwNi13cnNHV2ZobHVnclhfRzFxR2VPWEUzMGFFQ2hEa0Rvb1oyOXgybW9wejZsSVZZTVZ5OVdjZWhOVW5xVTNfTUtrbkRKUksxNW1hZXN1VWlvOGloRjRyV1BTTG1jdGJKMUxYV1RJWXdlNDF3aWpLbzl1N2g3Zl9XUWd5WXFuSmlXWEJXUFVTSktBV29CUnd6WEJuejE5VQ?oc=5",
+          "publishedAt": "2026-09-27T20:13:48.000Z"
+        },
+        {
+          "title": "Hyundai Engineering lands $644m AI data center deal",
+          "source": "Tech in Asia",
+          "url": "https://www.techinasia.com/news/hyundai-engineering-lands-644m-ai-data-center-deal",
+          "publishedAt": "2026-09-28T02:11:40.000Z"
+        },
+        {
+          "title": "South Korea's SK Hynix unit weighs U.S. IPO at $150B valuation - upi.com",
+          "source": "IPO News",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSmM4dGlXT3J2VkhKenM3b21EMVBrQ21IeXhJUHZiZkM0VWJzcXlVVklSUDNVUVFaT0Z6dHk0a2hCR1hIUE41ZUJMUlVKN2dSSU05Ni11Sl9CaGRDOERYMEJjcUtyckk2cVl5RUxvWHlBTnRFQVk0ZjdqcGVSRUp4cHNrS3BHNmt6U0hpUXN0M0VHd0UxLUNEazJrMExfa2d4NWxN0gGoAUFVX3lxTFA3c1NZVXJsR0V0UXJNOXpXZm9zSUJVWjV4V2pxMTdieVQtallGejgxRDhQVHM5TlJSZ2piekNaX1RWbnVDdHRYcFNaamE0a05Bd2dNRWxmem81aGcyY3ZXQlpHeVJCUElNMVNGbU9oa1J6SzlxNjNHS29XTU9maTdqSENiaGpRMkt6TnFPVm5nc0RmLVY4Q3RkSU9jaTNVT1c0Q09laGkwMg?oc=5",
+          "publishedAt": "2026-09-27T23:16:59.000Z"
+        },
+        {
+          "title": "South Korea demands Ukraine apology over denial of confidential deal on North’s prisoners of war",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/south-korea-demands-ukraine-apology-over-denial-of-confidential-deal-on-norths-prisoners-of-war/article71518214.ece",
+          "publishedAt": "2026-09-28T03:22:26.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E4",
+          "kind": "energy",
+          "label": "Net energy import dependency",
+          "value": "85%",
+          "factText": "South Korea has a net energy import dependency of 85% (World Bank Open Data, 2023).",
+          "asOf": "2023-12-31T00:00:00.000Z"
+        },
+        {
+          "id": "E5",
+          "kind": "chokepoint",
+          "label": "Chokepoint tracker",
+          "value": "Korea Strait",
+          "factText": "Korea Strait is a shipping chokepoint World Monitor tracks for South Korea.",
+          "asOf": "2026-09-28T05:03:29.710Z",
+          "url": "https://www.worldmonitor.app/chokepoints/korea-strait/"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "DM",
+  "countryName": "Dominica",
+  "slug": "dominica",
+  "rank": null,
+  "overallScore": null,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "unpublished",
+  "sourceStatus": "unpublished",
+  "headlineEligible": false,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Dominica Launches New Online Training Course for Travel Advisors",
+        "source": "travelmarketreport.com",
+        "url": "https://www.travelmarketreport.com/destinations/articles/dominica-launches-new-online-training-course-for-travel-advisors",
+        "publishedAt": "2026-09-23T20:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Dominica remembers passage of Hurricane Maria",
+        "source": "jamaicaobserver.com",
+        "url": "https://www.jamaicaobserver.com/2026/09/22/dominica-remembers-passage-hurricane-maria/",
+        "publishedAt": "2026-09-22T20:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Dominica Named Caribbean's Best Island for 2026 - The Caribbean Camera",
+        "source": "thecaribbeancamera.com",
+        "url": "https://thecaribbeancamera.com/dominica-named-caribbeans-best-island-2026/",
+        "publishedAt": "2026-09-21T23:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Women of Dominica wins best international documentary at Miami festival – Repeating Islands",
+        "source": "repeatingislands.com",
+        "url": "https://repeatingislands.com/2026/09/23/women-of-dominica-wins-best-international-documentary-at-miami-festival/",
+        "publishedAt": "2026-09-24T07:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

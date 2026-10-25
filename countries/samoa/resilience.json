@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "WS",
+  "countryName": "Samoa",
+  "slug": "samoa",
+  "rank": 8,
+  "overallScore": 67.4,
+  "dimensionCoverage": 0.76,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Samoa Observer | 75-Year-Old man found dead on small island off Vaiala",
+        "source": "samoaobserver.ws",
+        "url": "https://www.samoaobserver.ws/category/samoa/122252",
+        "publishedAt": "2026-09-28T03:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Samoa Observer | Pacific chefs share flavours and stories in Auckland",
+        "source": "samoaobserver.ws",
+        "url": "https://www.samoaobserver.ws/category/samoa/122240",
+        "publishedAt": "2026-09-27T22:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Samoa Observer | Samoa renewable energy projects take shape",
+        "source": "samoaobserver.ws",
+        "url": "https://www.samoaobserver.ws/category/samoa/122193",
+        "publishedAt": "2026-09-27T08:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Samoa Observer | Meth traces lead to conviction",
+        "source": "samoaobserver.ws",
+        "url": "https://www.samoaobserver.ws/category/samoa/122234",
+        "publishedAt": "2026-09-27T08:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Samoa Observer | CCTV raises security concerns after apparent car",
+        "source": "samoaobserver.ws",
+        "url": "https://www.samoaobserver.ws/category/samoa/122235",
+        "publishedAt": "2026-09-27T08:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "thin-grounding",
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

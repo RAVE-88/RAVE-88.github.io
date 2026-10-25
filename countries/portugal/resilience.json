@@ -1,0 +1,108 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "PT",
+  "countryName": "Portugal",
+  "slug": "portugal",
+  "rank": 21,
+  "overallScore": 63.9,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Watch UEFA Nations League Soccer: Livestream Norway vs. Portugal From Anywhere - CNET",
+        "source": "Options Market",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOem9CZVFKdWtyZElEMDBuc1h6cUQ4WFNFSi0tYUZRal9LUlhMdkVuSXJUZlM2MlB0SExxanFLQmduY1J0dC1JWGtWVnlzbGlMUnl5ZU9SWnBjMW82WFF6NjA5bGhzNUE4QmVoLU9Mc2VIeE5BNkZvNVVta0xBbWwwN3Via3lKSnNzc0J4dWNXcVc2WG1pNnNZb3cxSWstSkFOaUVSVFV5TkxjX3lIUkU0OGJkY042RTVOZlVBTnBDUk9ZMVk?oc=5",
+        "publishedAt": "2026-09-27T15:45:02.000Z"
+      },
+      {
+        "title": "Ronaldo benched as Ramos fires Portugal to 2-1 win over Norway",
+        "source": "Vanguard Nigeria",
+        "url": "https://www.vanguardngr.com/2026/09/ronaldo-benched-as-ramos-fires-portugal-to-2-1-win-over-norway/",
+        "publishedAt": "2026-09-27T21:38:11.000Z"
+      },
+      {
+        "title": "Ramos fires holders Portugal to 2-1 Nations League win in Norway",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/9/27/ramos-fires-holders-portugal-to-2-1-nations-league-win-in-norway?traffic_source=rss",
+        "publishedAt": "2026-09-27T21:02:48.000Z"
+      },
+      {
+        "title": "5 elderly residents die amid flu outbreak at southern Portugal care home-Xinhua",
+        "source": "english.news.cn",
+        "url": "https://english.news.cn/20260928/9e25ad54bfa0410f9c0b03626dedc5f6/c.html",
+        "publishedAt": "2026-09-28T03:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "5 elderly residents die amid flu outbreak at southern Portugal care home-Xinhua",
+        "source": "english.news.cn",
+        "url": "https://english.news.cn/europe/20260928/4f49aaeb5495464e96d8eb8aca41f3c9/c.html",
+        "publishedAt": "2026-09-28T03:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nPortugal defeated Norway 2-1 in a Nations League match, with Ramos scoring the winning goal after Ronaldo was benched. [1][2]\n\nKEY RISKS\nPortugal's net energy import dependency of 65% exposes the country to supply disruptions and price volatility. [E3]\nPortugal is linked to 3 US OFAC and Canada SEMA sanctions designations, which may pose legal and reputational risks for entities operating in the country. [E2]\n\nWATCH ITEMS\nThe flu outbreak at a southern Portugal care home may lead to further health investigations or policy responses. [3][4]",
+      "generatedAt": "2026-09-28T05:05:51.770Z",
+      "sources": [
+        {
+          "title": "Ronaldo benched as Ramos fires Portugal to 2-1 win over Norway",
+          "source": "Vanguard Nigeria",
+          "url": "https://www.vanguardngr.com/2026/09/ronaldo-benched-as-ramos-fires-portugal-to-2-1-win-over-norway/",
+          "publishedAt": "2026-09-27T21:38:11.000Z"
+        },
+        {
+          "title": "Ramos fires holders Portugal to 2-1 Nations League win in Norway",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/9/27/ramos-fires-holders-portugal-to-2-1-nations-league-win-in-norway?traffic_source=rss",
+          "publishedAt": "2026-09-27T21:02:48.000Z"
+        },
+        {
+          "title": "5 elderly residents die amid flu outbreak at southern Portugal care home-Xinhua",
+          "source": "english.news.cn",
+          "url": "https://english.news.cn/20260928/9e25ad54bfa0410f9c0b03626dedc5f6/c.html",
+          "publishedAt": "2026-09-28T03:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "5 elderly residents die amid flu outbreak at southern Portugal care home-Xinhua",
+          "source": "english.news.cn",
+          "url": "https://english.news.cn/europe/20260928/4f49aaeb5495464e96d8eb8aca41f3c9/c.html",
+          "publishedAt": "2026-09-28T03:00:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "3",
+          "factText": "Portugal is linked to 3 US OFAC and Canada SEMA sanctions designations, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T00:01:35.739Z"
+        },
+        {
+          "id": "E3",
+          "kind": "energy",
+          "label": "Net energy import dependency",
+          "value": "65%",
+          "factText": "Portugal has a net energy import dependency of 65% (Eurostat, 2024).",
+          "asOf": "2024-12-31T00:00:00.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

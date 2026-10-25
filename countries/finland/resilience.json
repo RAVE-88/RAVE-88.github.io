@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "FI",
+  "countryName": "Finland",
+  "slug": "finland",
+  "rank": 12,
+  "overallScore": 65.6,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Who will foot the bill? The opportunity cost of prioritising nuclear power over renewable energy for the case of Finland",
+        "source": "nuclear-news.net",
+        "url": "https://nuclear-news.net/2026/09/27/3-a-who-will-foot-the-bill-the-opportunity-cost-of-prioritising-nuclear-power-over-renewable-energy-for-the-case-of-finland/",
+        "publishedAt": "2026-09-27T09:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Flop Italia is out of the European Volleyball Championships. The world champions lost in the tiebreak against Finland",
+        "source": "odnako.org",
+        "url": "https://www.odnako.org/flop-italia-is-out-of-the-european-volleyball-championships-the-world-champions-lost-in-the-tiebreak-against-finland/",
+        "publishedAt": "2026-09-25T22:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Finland's Gambling Market Booms: 75 License Applications Signal New Era Ahead",
+        "source": "newsnet5.com",
+        "url": "https://www.newsnet5.com/news/finlands-gambling-market-75-license-applications/",
+        "publishedAt": "2026-09-25T17:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "One in three women in Finland received mental health support by age 28",
+        "source": "helsinkitimes.fi",
+        "url": "https://www.helsinkitimes.fi/lifestyle/health-a-wellbeing/29307-one-in-three-women-in-finland-received-mental-health-support-by-age-28.html",
+        "publishedAt": "2026-09-25T16:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Finland Gambling Licence Applications Rise to 75 in 2026",
+        "source": "worldcasinodirectory.com",
+        "url": "https://news.worldcasinodirectory.com/finland-receives-75-gambling-licence-applications-for-2027-124469",
+        "publishedAt": "2026-09-25T15:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

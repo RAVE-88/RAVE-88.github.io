@@ -1,0 +1,181 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "ET",
+  "countryName": "Ethiopia",
+  "slug": "ethiopia",
+  "rank": 159,
+  "overallScore": 37.2,
+  "dimensionCoverage": 0.82,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "After seizing Tigray airports, TPLF announces ‘defensive war’ against Ethiopian govt - مدى مصر",
+        "source": "Mada Masr",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRm0tZy1YNnJfb1o4SlRVUnREMHllRzlaVkZ2cUp4dWZMSUYzMHFzY2ZmN2c0dzZSbGpvR0VlMVU0aDZnZHRuSXhhazVZdnVZZHExVWlBTzV1bngxNW5tLUJIOTNrWEhXRzBpaHpCT1ZnT3F0ZzZqVXhVN1kxUTAwa19McEJvd09lWTVDYmNuVWdwamM5eDF5WGlpOEppR2ktTlJDQ295dnhwdDJxUTZVUXM4YzdlM1ZJelY5UTRYSFdZWHBPY0lv?oc=5",
+        "publishedAt": "2026-09-24T18:35:09.000Z"
+      },
+      {
+        "title": "Rebel offensive against Ethiopian army stokes fears of return to civil war",
+        "source": "Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army",
+        "publishedAt": "2026-09-24T15:29:42.000Z"
+      },
+      {
+        "title": "Ethiopia Returns to Civil War",
+        "source": "Foreign Policy",
+        "url": "https://foreignpolicy.com/2026/09/25/ethiopia-tigray-tplf-civil-war-abiy-amhara-afar-eritrea/",
+        "publishedAt": "2026-09-25T20:33:44.000Z"
+      },
+      {
+        "title": "Ethiopia accuses Eritrea, Sudan of backing Tigray rebels amid clashes",
+        "source": "France 24",
+        "url": "https://www.france24.com/en/africa/20260927-ethiopia-accuses-eritrea-sudan-backing-tigray-rebels",
+        "publishedAt": "2026-09-27T23:27:29.000Z"
+      },
+      {
+        "title": "Are Ethiopians marching back to war in Tigray?",
+        "source": "BBC Africa",
+        "url": "https://www.bbc.co.uk/news/articles/c6d94wywx0ypo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-25T23:42:39.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nAfter seizing Tigray airports, TPLF announces 'defensive war' against Ethiopian government. [1]\nEthiopia accuses Eritrea and Sudan of backing Tigray rebels amid clashes. [4]\n\nWHAT THIS MEANS FOR ETHIOPIA\nThe renewed conflict, with Ethiopia accusing Eritrea and Sudan of backing Tigray rebels, may deter travel as the most severe government travel advisory tracked for Ethiopia is Reconsider Travel as of Sep 28, 2026. [4][E1]\nThe rebel offensive against the Ethiopian army stokes fears of a return to civil war, while Ethiopia is linked to 5 US OFAC and Canada SEMA sanctions designations as of Sep 28, 2026. [2][E2]\n\nKEY RISKS\nThe 5 US OFAC and Canada SEMA sanctions designations linked to Ethiopia as of Sep 28, 2026, risk further isolating the country economically and politically. [E2]\n\nWATCH ITEMS\nWhether the TPLF's announced 'defensive war' escalates into full-scale civil war again. [1]\nThe unresolved question of whether Ethiopians are marching back to war in Tigray. [5]",
+      "generatedAt": "2026-09-28T05:01:08.203Z",
+      "sources": [
+        {
+          "title": "After seizing Tigray airports, TPLF announces ‘defensive war’ against Ethiopian govt - مدى مصر",
+          "source": "Mada Masr",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRm0tZy1YNnJfb1o4SlRVUnREMHllRzlaVkZ2cUp4dWZMSUYzMHFzY2ZmN2c0dzZSbGpvR0VlMVU0aDZnZHRuSXhhazVZdnVZZHExVWlBTzV1bngxNW5tLUJIOTNrWEhXRzBpaHpCT1ZnT3F0ZzZqVXhVN1kxUTAwa19McEJvd09lWTVDYmNuVWdwamM5eDF5WGlpOEppR2ktTlJDQ295dnhwdDJxUTZVUXM4YzdlM1ZJelY5UTRYSFdZWHBPY0lv?oc=5",
+          "publishedAt": "2026-09-24T18:35:09.000Z"
+        },
+        {
+          "title": "Rebel offensive against Ethiopian army stokes fears of return to civil war",
+          "source": "Guardian World",
+          "url": "https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army",
+          "publishedAt": "2026-09-24T15:29:42.000Z"
+        },
+        {
+          "title": "Ethiopia Returns to Civil War",
+          "source": "Foreign Policy",
+          "url": "https://foreignpolicy.com/2026/09/25/ethiopia-tigray-tplf-civil-war-abiy-amhara-afar-eritrea/",
+          "publishedAt": "2026-09-25T20:33:44.000Z"
+        },
+        {
+          "title": "Ethiopia accuses Eritrea, Sudan of backing Tigray rebels amid clashes",
+          "source": "France 24",
+          "url": "https://www.france24.com/en/africa/20260927-ethiopia-accuses-eritrea-sudan-backing-tigray-rebels",
+          "publishedAt": "2026-09-27T23:27:29.000Z"
+        },
+        {
+          "title": "Are Ethiopians marching back to war in Tigray?",
+          "source": "BBC Africa",
+          "url": "https://www.bbc.co.uk/news/articles/c6d94wywx0ypo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-09-25T23:42:39.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Reconsider Travel",
+          "factText": "The most severe government travel advisory World Monitor tracks for Ethiopia is Reconsider Travel, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T04:03:15.792Z"
+        },
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "5",
+          "factText": "Ethiopia is linked to 5 US OFAC and Canada SEMA sanctions designations, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T00:01:35.739Z"
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "title": "GDELT 190 — in Ethiopia",
+        "summary": "source: www.odt.co.nz",
+        "sourceUrl": "https://www.odt.co.nz/news/world/south-africa-reels-after-27-fatally-shot-in-one-night-ntj2fqlv",
+        "occurredAt": "2026-09-28T03:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Ethiopia",
+        "summary": "source: www.odt.co.nz",
+        "sourceUrl": "https://www.odt.co.nz/news/world/south-africa-reels-after-27-fatally-shot-in-one-night-ntj2fqlv",
+        "occurredAt": "2026-09-28T03:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Ethiopia",
+        "summary": "source: wardheernews.com",
+        "sourceUrl": "https://wardheernews.com/cornered-in-the-horn-ethiopias-new-war-tests-abiy-ahmeds-grip-on-power/",
+        "occurredAt": "2026-09-28T01:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Ethiopia",
+        "summary": "source: wardheernews.com",
+        "sourceUrl": "https://wardheernews.com/cornered-in-the-horn-ethiopias-new-war-tests-abiy-ahmeds-grip-on-power/",
+        "occurredAt": "2026-09-28T01:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Ethiopia",
+        "summary": "source: wardheernews.com",
+        "sourceUrl": "https://wardheernews.com/cornered-in-the-horn-ethiopias-new-war-tests-abiy-ahmeds-grip-on-power/",
+        "occurredAt": "2026-09-28T01:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Ethiopia",
+        "summary": "source: wardheernews.com",
+        "sourceUrl": "https://wardheernews.com/cornered-in-the-horn-ethiopias-new-war-tests-abiy-ahmeds-grip-on-power/",
+        "occurredAt": "2026-09-28T01:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Ethiopia",
+        "summary": "source: wardheernews.com",
+        "sourceUrl": "https://wardheernews.com/cornered-in-the-horn-ethiopias-new-war-tests-abiy-ahmeds-grip-on-power/",
+        "occurredAt": "2026-09-28T01:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Ethiopia",
+        "summary": "source: wardheernews.com",
+        "sourceUrl": "https://wardheernews.com/cornered-in-the-horn-ethiopias-new-war-tests-abiy-ahmeds-grip-on-power/",
+        "occurredAt": "2026-09-28T01:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Ethiopia",
+        "summary": "source: wardheernews.com",
+        "sourceUrl": "https://wardheernews.com/cornered-in-the-horn-ethiopias-new-war-tests-abiy-ahmeds-grip-on-power/",
+        "occurredAt": "2026-09-28T01:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Ethiopia",
+        "summary": "source: wardheernews.com",
+        "sourceUrl": "https://wardheernews.com/cornered-in-the-horn-ethiopias-new-war-tests-abiy-ahmeds-grip-on-power/",
+        "occurredAt": "2026-09-28T01:00:00.000Z",
+        "domain": "conflict"
+      }
+    ],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

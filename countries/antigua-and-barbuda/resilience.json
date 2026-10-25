@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "AG",
+  "countryName": "Antigua and Barbuda",
+  "slug": "antigua-and-barbuda",
+  "rank": null,
+  "overallScore": null,
+  "dimensionCoverage": 0.71,
+  "confidence": "standard",
+  "level": "unpublished",
+  "sourceStatus": "unpublished",
+  "headlineEligible": false,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Antigua and Barbuda Swipes Right on Dating Tourism with Love Link Caribbean",
+        "source": "forimmediaterelease.net",
+        "url": "https://forimmediaterelease.net/antigua-and-barbuda-swipes-right-on-dating-tourism-with-love-link-caribbean/",
+        "publishedAt": "2026-09-27T00:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "St. Martin News Network - Antigua and Barbuda takes chair of OECS foreign ministers as region seeks stronger global voice.",
+        "source": "smn-news.com",
+        "url": "https://www.smn-news.com/index.php/st-maarten-st-martin-news/51800-antigua-and-barbuda-takes-chair-of-oecs-foreign-ministers-as-region-seeks-stronger-global-voice.html",
+        "publishedAt": "2026-09-25T02:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Antigua and Barbuda trains early warning facilitators - Antigua Observer Newspaper",
+        "source": "antiguaobserver.com",
+        "url": "https://antiguaobserver.com/antigua-and-barbuda-trains-early-warning-facilitators/",
+        "publishedAt": "2026-09-23T03:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Minister Bramble hands over OECS Council of Foreign Ministers chairmanship to Antigua and Barbuda",
+        "source": "nbcsvg.com",
+        "url": "https://www.nbcsvg.com/2026/09/22/minister-bramble-hands-over-oecs-council-of-foreign-ministers-chairmanship-to-antigua-and-barbuda/",
+        "publishedAt": "2026-09-22T20:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Antigua and Barbuda Falcons win CPL title",
+        "source": "barbadostoday.bb",
+        "url": "https://barbadostoday.bb/2026/09/20/antigua-and-barbuda-falcons-win-cpl-title/",
+        "publishedAt": "2026-09-21T07:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

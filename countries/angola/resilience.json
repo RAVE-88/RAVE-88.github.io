@@ -1,0 +1,118 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "AO",
+  "countryName": "Angola",
+  "slug": "angola",
+  "rank": 137,
+  "overallScore": 42.9,
+  "dimensionCoverage": 0.83,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Haiti and Angola strengthen their cooperation",
+        "source": "HaitiLibre English",
+        "url": "https://www.haitilibre.com/en/news-48536-haiti-and-angola-strengthen-their-cooperation.html",
+        "publishedAt": "2026-09-27T14:29:56.000Z"
+      },
+      {
+        "title": "Angola Reaches 992 Industrial Units Milestone",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/angola-992-industrial-units-economy-2026/",
+        "publishedAt": "2026-09-27T20:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Luxury rail travel in Africa: Inside the epic 15-day Copper Trail journey from Victoria Falls to Lobito, Angola",
+        "source": "theage.com.au",
+        "url": "https://www.theage.com.au/traveller/inspiration/this-3100-km-adventure-is-one-of-the-world-s-great-rail-journeys-20260927-p60xzk.html",
+        "publishedAt": "2026-09-26T23:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Luxury rail travel in Africa: Inside the epic 15-day Copper Trail journey from Victoria Falls to Lobito, Angola",
+        "source": "smh.com.au",
+        "url": "https://www.smh.com.au/traveller/inspiration/this-3100-km-adventure-is-one-of-the-world-s-great-rail-journeys-20260927-p60xzk.html",
+        "publishedAt": "2026-09-26T23:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Angola: General Education Classes May Resume On Monday",
+        "source": "allafrica.com",
+        "url": "https://allafrica.com/stories/202609250386.html",
+        "publishedAt": "2026-09-25T18:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nAngola has reached 992 industrial units milestone. [2]\nGeneral education classes in Angola may resume on Monday. [5]\n\nWHAT THIS MEANS FOR ANGOLA\nThe possible resumption of general education classes could support workforce development for Angola's industrial sector, but the most severe government travel advisory tracked is Exercise Increased Caution as of Sep 28, 2026, potentially limiting foreign investment. [5][E1]\n\nKEY RISKS\nAngola's link to 16 US OFAC and Canada SEMA sanctions designations as of Sep 28, 2026 poses a risk of restricted access to international financial systems. [E2]\nThe Exercise Increased Caution travel advisory as of Sep 28, 2026 may deter tourism and business travel, impacting economic growth. [E1]\n\nWATCH ITEMS\nWhether general education classes in Angola will resume on Monday as indicated. [5]\nHow the cooperation between Haiti and Angola will develop. [1]",
+      "generatedAt": "2026-09-28T04:58:26.653Z",
+      "sources": [
+        {
+          "title": "Haiti and Angola strengthen their cooperation",
+          "source": "HaitiLibre English",
+          "url": "https://www.haitilibre.com/en/news-48536-haiti-and-angola-strengthen-their-cooperation.html",
+          "publishedAt": "2026-09-27T14:29:56.000Z"
+        },
+        {
+          "title": "Angola Reaches 992 Industrial Units Milestone",
+          "source": "riotimesonline.com",
+          "url": "https://www.riotimesonline.com/angola-992-industrial-units-economy-2026/",
+          "publishedAt": "2026-09-27T20:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Luxury rail travel in Africa: Inside the epic 15-day Copper Trail journey from Victoria Falls to Lobito, Angola",
+          "source": "theage.com.au",
+          "url": "https://www.theage.com.au/traveller/inspiration/this-3100-km-adventure-is-one-of-the-world-s-great-rail-journeys-20260927-p60xzk.html",
+          "publishedAt": "2026-09-26T23:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Luxury rail travel in Africa: Inside the epic 15-day Copper Trail journey from Victoria Falls to Lobito, Angola",
+          "source": "smh.com.au",
+          "url": "https://www.smh.com.au/traveller/inspiration/this-3100-km-adventure-is-one-of-the-world-s-great-rail-journeys-20260927-p60xzk.html",
+          "publishedAt": "2026-09-26T23:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Angola: General Education Classes May Resume On Monday",
+          "source": "allafrica.com",
+          "url": "https://allafrica.com/stories/202609250386.html",
+          "publishedAt": "2026-09-25T18:15:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Exercise Increased Caution",
+          "factText": "The most severe government travel advisory World Monitor tracks for Angola is Exercise Increased Caution, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T04:03:15.792Z"
+        },
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "16",
+          "factText": "Angola is linked to 16 US OFAC and Canada SEMA sanctions designations, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T00:01:35.739Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

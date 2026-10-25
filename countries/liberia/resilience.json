@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "LR",
+  "countryName": "Liberia",
+  "slug": "liberia",
+  "rank": 121,
+  "overallScore": 46.5,
+  "dimensionCoverage": 0.79,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Liberia: Five Opposition Parties Go on Record Against Boakai Gov't, Form Joint Technical Committee Ahead of 2029",
+        "source": "frontpageafricaonline.com",
+        "url": "https://frontpageafricaonline.com/liberia-five-opposition-parties-go-on-record-against-boakai-govt-form-joint-technical-committee-ahead-of-2029/",
+        "publishedAt": "2026-09-28T01:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Liberia: Opposition Leaders Unite to Challenge Boakai Government, Demand Action on Border, Drugs, Corruption",
+        "source": "frontpageafricaonline.com",
+        "url": "https://frontpageafricaonline.com/liberia-opposition-leaders-unite-to-challenge-boakai-government-demand-action-on-border-drugs-corruption/",
+        "publishedAt": "2026-09-27T20:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "ANC political leader challenges President Boakai On Drug Fight - Global News Network Liberia",
+        "source": "gnnliberia.com",
+        "url": "https://gnnliberia.com/anc-political-leader-challenges-president-boakai-on-drug-fight/",
+        "publishedAt": "2026-09-27T03:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "PUL Marks 62nd Anniversary With Media Empowerment Focus - Global News Network Liberia",
+        "source": "gnnliberia.com",
+        "url": "https://gnnliberia.com/pul-marks-62nd-anniversary-with-media-empowerment-focus/",
+        "publishedAt": "2026-09-27T03:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Valiant Lone Star Bloodied in Kigali: 10-Man Liberia Outplays Rwanda but Suffers Heartbreaking 3-1 AFCON Qualifier Defeat",
+        "source": "gnnliberia.com",
+        "url": "https://gnnliberia.com/valiant-lone-star-bloodied-in-kigali-10-man-liberia-outplays-rwanda-but-suffers-heartbreaking-3-1-afcon-qualifier-defeat/",
+        "publishedAt": "2026-09-27T03:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

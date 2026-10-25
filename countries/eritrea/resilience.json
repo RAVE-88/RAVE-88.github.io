@@ -1,0 +1,110 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "ER",
+  "countryName": "Eritrea",
+  "slug": "eritrea",
+  "rank": null,
+  "overallScore": null,
+  "dimensionCoverage": 0.55,
+  "confidence": "standard",
+  "level": "unpublished",
+  "sourceStatus": "unpublished",
+  "headlineEligible": false,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Ethiopia accuses Eritrea, Sudan of backing Tigray rebels amid clashes",
+        "source": "France 24",
+        "url": "https://www.france24.com/en/africa/20260927-ethiopia-accuses-eritrea-sudan-backing-tigray-rebels",
+        "publishedAt": "2026-09-27T23:27:29.000Z"
+      },
+      {
+        "title": "Eritrea: World Pharmacists Day observed at national level",
+        "source": "africa.com",
+        "url": "https://www.africa.com/apo/eritrea-world-pharmacists-day-observed-at-national-level",
+        "publishedAt": "2026-09-27T12:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Eritrea: World Tourism Day observed at national level",
+        "source": "africa.com",
+        "url": "https://www.africa.com/apo/eritrea-world-tourism-day-observed-at-national-level",
+        "publishedAt": "2026-09-27T12:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "APO Group - Africa Newsroom / Press release | Eritrea: World Pharmacists Day observed at national level",
+        "source": "africa-newsroom.com",
+        "url": "https://www.africa-newsroom.com/press/eritrea-world-pharmacists-day-observed-at-national-level",
+        "publishedAt": "2026-09-27T10:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "APO Group - Africa Newsroom / Press release | Eritrea: World Tourism Day observed at national level",
+        "source": "africa-newsroom.com",
+        "url": "https://www.africa-newsroom.com/press/eritrea-world-tourism-day-observed-at-national-level",
+        "publishedAt": "2026-09-27T10:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nEthiopia accuses Eritrea of backing Tigray rebels amid clashes. [1]\n\nWHAT THIS MEANS FOR ERITREA\nThe accusation from Ethiopia could increase regional tensions, and Eritrea is linked to 4 US OFAC and Canada SEMA sanctions designations as of Sep 28, 2026. [1][E2]\n\nWATCH ITEMS\nThe outcome of Ethiopia's accusation that Eritrea backs Tigray rebels remains unresolved. [1]",
+      "generatedAt": "2026-09-28T05:00:56.592Z",
+      "sources": [
+        {
+          "title": "Ethiopia accuses Eritrea, Sudan of backing Tigray rebels amid clashes",
+          "source": "France 24",
+          "url": "https://www.france24.com/en/africa/20260927-ethiopia-accuses-eritrea-sudan-backing-tigray-rebels",
+          "publishedAt": "2026-09-27T23:27:29.000Z"
+        },
+        {
+          "title": "Eritrea: World Pharmacists Day observed at national level",
+          "source": "africa.com",
+          "url": "https://www.africa.com/apo/eritrea-world-pharmacists-day-observed-at-national-level",
+          "publishedAt": "2026-09-27T12:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Eritrea: World Tourism Day observed at national level",
+          "source": "africa.com",
+          "url": "https://www.africa.com/apo/eritrea-world-tourism-day-observed-at-national-level",
+          "publishedAt": "2026-09-27T12:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "APO Group - Africa Newsroom / Press release | Eritrea: World Pharmacists Day observed at national level",
+          "source": "africa-newsroom.com",
+          "url": "https://www.africa-newsroom.com/press/eritrea-world-pharmacists-day-observed-at-national-level",
+          "publishedAt": "2026-09-27T10:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "APO Group - Africa Newsroom / Press release | Eritrea: World Tourism Day observed at national level",
+          "source": "africa-newsroom.com",
+          "url": "https://www.africa-newsroom.com/press/eritrea-world-tourism-day-observed-at-national-level",
+          "publishedAt": "2026-09-27T10:00:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "4",
+          "factText": "Eritrea is linked to 4 US OFAC and Canada SEMA sanctions designations, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T00:01:35.739Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

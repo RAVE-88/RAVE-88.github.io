@@ -1,0 +1,34 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "MH",
+  "countryName": "Marshall Islands",
+  "slug": "marshall-islands",
+  "rank": null,
+  "overallScore": null,
+  "dimensionCoverage": 0.63,
+  "confidence": "standard",
+  "level": "unpublished",
+  "sourceStatus": "unpublished",
+  "headlineEligible": false,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Cuba and Marshall Islands mark anniversary of diplomatic relations",
+        "source": "plenglish.com",
+        "url": "https://www.plenglish.com/news/2026/09/27/cuba-and-marshall-islands-mark-anniversary-of-diplomatic-relations/",
+        "publishedAt": "2026-09-28T02:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "thin-grounding",
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

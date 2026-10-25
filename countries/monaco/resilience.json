@@ -1,0 +1,110 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "MC",
+  "countryName": "Monaco",
+  "slug": "monaco",
+  "rank": null,
+  "overallScore": null,
+  "dimensionCoverage": 0.44,
+  "confidence": "low",
+  "level": "unpublished",
+  "sourceStatus": "low-confidence",
+  "headlineEligible": false,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Saudi Arabia is getting its own Monaco-style superyacht show - Arabian Business",
+        "source": "Arabian Business",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNME5HejBOMUFBOWVDeVlLUmhVQW1JbHM2UjE2NGhGTTI0YVBSbEFuX3JPMVFTZmp1UEpFNzhTWEw0SGp4WUlrRk91cUN1UzNKVzRlR2JsOVQzQ2tPNXVCLXMxX0JMbnBYcEdiQm1rY0V5VEFYUjNyb25kOG1tMnJaNE1zc3FTRXVsV3JqUFhwb1RRRHVYbnItQW03VWtQZU12SkRn?oc=5",
+        "publishedAt": "2026-09-26T04:10:57.000Z"
+      },
+      {
+        "title": "Otedola shares photos with Adenuga in Monaco",
+        "source": "thenationonlineng.net",
+        "url": "https://thenationonlineng.net/otedola-shares-photos-with-adenuga-in-monaco/",
+        "publishedAt": "2026-09-25T21:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Guide: Make the most of rare access to Monaco institutions on Heritage Days",
+        "source": "monacolife.net",
+        "url": "https://monacolife.net/guide-make-the-most-of-rare-access-to-monaco-institutions-on-heritage-days/",
+        "publishedAt": "2026-09-25T14:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "What Monaco's switch to +377 means for mobile customers",
+        "source": "monacolife.net",
+        "url": "https://monacolife.net/what-monacos-switch-to-377-means-for-mobile-customers/",
+        "publishedAt": "2026-09-25T14:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Monaco Modified Tri-Track Series NAPA Fall Final Postponed To Friday Oct. 2 At Stafford Speedway",
+        "source": "racedayct.com",
+        "url": "https://racedayct.com/2026/09/monaco-modified-tri-track-series-napa-fall-final-postponed-to-friday-oct-2-at-stafford-speedway/",
+        "publishedAt": "2026-09-24T18:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nMonaco's switch to the +377 dialing code affects mobile customers. [4]\nRare access to Monaco institutions is available on Heritage Days. [3]\n\nKEY RISKS\nMonaco is linked to 4 US OFAC and Canada SEMA sanctions designations as of Sep 28, 2026, which could pose reputational or financial risks to the principality. [E1]\n\nWATCH ITEMS\nThe impact of Monaco's switch to +377 on mobile customers remains to be seen. [4]",
+      "generatedAt": "2026-09-28T05:04:14.352Z",
+      "sources": [
+        {
+          "title": "Saudi Arabia is getting its own Monaco-style superyacht show - Arabian Business",
+          "source": "Arabian Business",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNME5HejBOMUFBOWVDeVlLUmhVQW1JbHM2UjE2NGhGTTI0YVBSbEFuX3JPMVFTZmp1UEpFNzhTWEw0SGp4WUlrRk91cUN1UzNKVzRlR2JsOVQzQ2tPNXVCLXMxX0JMbnBYcEdiQm1rY0V5VEFYUjNyb25kOG1tMnJaNE1zc3FTRXVsV3JqUFhwb1RRRHVYbnItQW03VWtQZU12SkRn?oc=5",
+          "publishedAt": "2026-09-26T04:10:57.000Z"
+        },
+        {
+          "title": "Otedola shares photos with Adenuga in Monaco",
+          "source": "thenationonlineng.net",
+          "url": "https://thenationonlineng.net/otedola-shares-photos-with-adenuga-in-monaco/",
+          "publishedAt": "2026-09-25T21:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Guide: Make the most of rare access to Monaco institutions on Heritage Days",
+          "source": "monacolife.net",
+          "url": "https://monacolife.net/guide-make-the-most-of-rare-access-to-monaco-institutions-on-heritage-days/",
+          "publishedAt": "2026-09-25T14:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "What Monaco's switch to +377 means for mobile customers",
+          "source": "monacolife.net",
+          "url": "https://monacolife.net/what-monacos-switch-to-377-means-for-mobile-customers/",
+          "publishedAt": "2026-09-25T14:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Monaco Modified Tri-Track Series NAPA Fall Final Postponed To Friday Oct. 2 At Stafford Speedway",
+          "source": "racedayct.com",
+          "url": "https://racedayct.com/2026/09/monaco-modified-tri-track-series-napa-fall-final-postponed-to-friday-oct-2-at-stafford-speedway/",
+          "publishedAt": "2026-09-24T18:00:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "4",
+          "factText": "Monaco is linked to 4 US OFAC and Canada SEMA sanctions designations, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T00:01:35.739Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

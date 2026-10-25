@@ -1,0 +1,132 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "OM",
+  "countryName": "Oman",
+  "slug": "oman",
+  "rank": 63,
+  "overallScore": 56.5,
+  "dimensionCoverage": 0.76,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Oman supports peaceful resolution of disputes",
+        "source": "Oman Observer",
+        "url": "https://www.omanobserver.om/article/1196882/oman/oman-supports-peaceful-resolution-of-disputes",
+        "publishedAt": "2026-09-27T13:28:09.000Z"
+      },
+      {
+        "title": "Oman expands zero-rated VAT list to 807 food items",
+        "source": "Oman Observer",
+        "url": "https://www.omanobserver.om/article/1196836/oman/community/oman-expands-zero-rated-vat-list-to-807-food-items",
+        "publishedAt": "2026-09-27T08:40:16.000Z"
+      },
+      {
+        "title": "Oman to get 700 new hotel rooms by year-end: Report",
+        "source": "Oman Observer",
+        "url": "https://www.omanobserver.om/article/1196834/oman/tourism/oman-to-get-700-new-hotel-rooms-by-year-end-report",
+        "publishedAt": "2026-09-27T04:35:17.000Z"
+      },
+      {
+        "title": "Oman drafts national law for space economy",
+        "source": "omanobserver.om",
+        "url": "https://www.omanobserver.om/article/1196845/business/economy/oman-drafts-national-law-for-space-economy",
+        "publishedAt": "2026-09-27T21:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Oman celebrates Arab Agriculture Day",
+        "source": "timesofoman.com",
+        "url": "https://timesofoman.com/article/177423-oman-celebrates-arab-agriculture-day",
+        "publishedAt": "2026-09-27T18:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nOman supports peaceful resolution of disputes. [1]\nOman expands zero-rated VAT list to 807 food items. [2]\n\nWHAT THIS MEANS FOR OMAN\nOman's support for peaceful resolution of disputes is relevant given the Strait of Hormuz is a shipping chokepoint World Monitor tracks for Oman. [1][E4]\n\nKEY RISKS\nOman is linked to 32 US OFAC and Canada SEMA sanctions designations, as of Sep 28, 2026. [E2]\nThe most severe government travel advisory World Monitor tracks for Oman is Reconsider Travel, as of Sep 28, 2026. [E1]\n\nOUTLOOK\nA Polymarket market related to Oman, \"Iran-Oman Hormuz Agreement by October 31?\", priced Yes at 23% on Sep 28, 2026; it closes Oct 31, 2026. [E5]\n\nWATCH ITEMS\nOman drafts national law for space economy. [4]\nThe outcome of the Polymarket market \"Iran-Oman Hormuz Agreement by October 31?\" is unresolved. [E5]",
+      "generatedAt": "2026-09-28T05:05:20.183Z",
+      "sources": [
+        {
+          "title": "Oman supports peaceful resolution of disputes",
+          "source": "Oman Observer",
+          "url": "https://www.omanobserver.om/article/1196882/oman/oman-supports-peaceful-resolution-of-disputes",
+          "publishedAt": "2026-09-27T13:28:09.000Z"
+        },
+        {
+          "title": "Oman expands zero-rated VAT list to 807 food items",
+          "source": "Oman Observer",
+          "url": "https://www.omanobserver.om/article/1196836/oman/community/oman-expands-zero-rated-vat-list-to-807-food-items",
+          "publishedAt": "2026-09-27T08:40:16.000Z"
+        },
+        {
+          "title": "Oman to get 700 new hotel rooms by year-end: Report",
+          "source": "Oman Observer",
+          "url": "https://www.omanobserver.om/article/1196834/oman/tourism/oman-to-get-700-new-hotel-rooms-by-year-end-report",
+          "publishedAt": "2026-09-27T04:35:17.000Z"
+        },
+        {
+          "title": "Oman drafts national law for space economy",
+          "source": "omanobserver.om",
+          "url": "https://www.omanobserver.om/article/1196845/business/economy/oman-drafts-national-law-for-space-economy",
+          "publishedAt": "2026-09-27T21:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Oman celebrates Arab Agriculture Day",
+          "source": "timesofoman.com",
+          "url": "https://timesofoman.com/article/177423-oman-celebrates-arab-agriculture-day",
+          "publishedAt": "2026-09-27T18:30:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Reconsider Travel",
+          "factText": "The most severe government travel advisory World Monitor tracks for Oman is Reconsider Travel, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T05:03:30.360Z"
+        },
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "32",
+          "factText": "Oman is linked to 32 US OFAC and Canada SEMA sanctions designations, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T00:01:35.739Z"
+        },
+        {
+          "id": "E4",
+          "kind": "chokepoint",
+          "label": "Chokepoint tracker",
+          "value": "Strait of Hormuz",
+          "factText": "Strait of Hormuz is a shipping chokepoint World Monitor tracks for Oman.",
+          "asOf": "2026-09-28T05:05:14.956Z",
+          "url": "https://www.worldmonitor.app/chokepoints/strait-of-hormuz/"
+        },
+        {
+          "id": "E5",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "23%",
+          "factText": "A Polymarket market related to Oman, \"Iran-Oman Hormuz Agreement by October 31?\", priced Yes at 23% on Sep 28, 2026; it closes Oct 31, 2026.",
+          "asOf": "2026-09-28T05:00:34.359Z",
+          "url": "https://polymarket.com/event/iran-oman-hormuz-management-agreement-byptptpt-20260804222725871"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "BO",
+  "countryName": "Bolivia",
+  "slug": "bolivia",
+  "rank": 124,
+  "overallScore": 46,
+  "dimensionCoverage": 0.79,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "How new is the first ‘new-to-science’ cat discovered in more than 100 years?",
+        "source": "Mongabay",
+        "url": "https://news.mongabay.com/short-article/2026/09/how-new-is-the-first-new-to-science-cat-discovered-in-more-than-100-years/",
+        "publishedAt": "2026-09-25T20:41:50.000Z"
+      },
+      {
+        "title": "Record Coca Crops in Bolivia Feed a Growing Global Cocaine Demand",
+        "source": "InSight Crime",
+        "url": "https://insightcrime.org/news/record-coca-crops-bolivia-feed-growing-global-cocaine-demand/",
+        "publishedAt": "2026-09-25T18:10:52.000Z"
+      },
+      {
+        "title": "‘You can’t just bet everything on exports’: as its gas runs out, is Bolivia doomed to repeat history?",
+        "source": "Guardian Americas",
+        "url": "https://www.theguardian.com/global-development/2026/sep/24/fossil-gas-runs-out-bolivia-poverty-inflation",
+        "publishedAt": "2026-09-24T13:00:18.000Z"
+      },
+      {
+        "title": "Bolivia Vs Paraguay at Audi Field in Washington is more than a friendly — it is the first real check of a new cycle",
+        "source": "el-balad.com",
+        "url": "https://www.el-balad.com/17054010",
+        "publishedAt": "2026-09-27T20:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Check It Out: Explore Bolivia from your armchair",
+        "source": "columbian.com",
+        "url": "https://www.columbian.com/news/2026/sep/26/check-it-out-explore-bolivia-from-your-armchair/",
+        "publishedAt": "2026-09-26T20:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nRecord coca crops in Bolivia feed a growing global cocaine demand. [2]\nBolivia's gas reserves are running out, raising questions about the country's economic future. [3]\n\nWHAT THIS MEANS FOR BOLIVIA\nThe record coca crops and growing global cocaine demand may increase Bolivia's exposure to US and Canada sanctions, as it is already linked to 4 sanctions designations. [2][E2]\nAs its gas runs out, Bolivia's net energy import dependency of 0% offers no buffer against the loss of export revenue. [3][E3]\n\nKEY RISKS\nBolivia's 4 US and Canada sanctions designations create a risk of further financial restrictions. [E2]\n\nWATCH ITEMS\nIt remains to be seen whether Bolivia can avoid repeating history as its gas reserves run out. [3]",
+      "generatedAt": "2026-09-28T04:59:00.276Z",
+      "sources": [
+        {
+          "title": "How new is the first ‘new-to-science’ cat discovered in more than 100 years?",
+          "source": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/09/how-new-is-the-first-new-to-science-cat-discovered-in-more-than-100-years/",
+          "publishedAt": "2026-09-25T20:41:50.000Z"
+        },
+        {
+          "title": "Record Coca Crops in Bolivia Feed a Growing Global Cocaine Demand",
+          "source": "InSight Crime",
+          "url": "https://insightcrime.org/news/record-coca-crops-bolivia-feed-growing-global-cocaine-demand/",
+          "publishedAt": "2026-09-25T18:10:52.000Z"
+        },
+        {
+          "title": "‘You can’t just bet everything on exports’: as its gas runs out, is Bolivia doomed to repeat history?",
+          "source": "Guardian Americas",
+          "url": "https://www.theguardian.com/global-development/2026/sep/24/fossil-gas-runs-out-bolivia-poverty-inflation",
+          "publishedAt": "2026-09-24T13:00:18.000Z"
+        },
+        {
+          "title": "Bolivia Vs Paraguay at Audi Field in Washington is more than a friendly — it is the first real check of a new cycle",
+          "source": "el-balad.com",
+          "url": "https://www.el-balad.com/17054010",
+          "publishedAt": "2026-09-27T20:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Check It Out: Explore Bolivia from your armchair",
+          "source": "columbian.com",
+          "url": "https://www.columbian.com/news/2026/sep/26/check-it-out-explore-bolivia-from-your-armchair/",
+          "publishedAt": "2026-09-26T20:15:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "4",
+          "factText": "Bolivia is linked to 4 US OFAC and Canada SEMA sanctions designations, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T00:01:35.739Z"
+        },
+        {
+          "id": "E3",
+          "kind": "energy",
+          "label": "Net energy import dependency",
+          "value": "0%",
+          "factText": "Bolivia has a net energy import dependency of 0% (World Bank Open Data, 2023).",
+          "asOf": "2023-12-31T00:00:00.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

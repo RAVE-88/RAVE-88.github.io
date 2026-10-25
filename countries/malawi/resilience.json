@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "MW",
+  "countryName": "Malawi",
+  "slug": "malawi",
+  "rank": 142,
+  "overallScore": 42,
+  "dimensionCoverage": 0.73,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Professor Chasukwa elected new president of Malawi Political Science Association",
+        "source": "nyasatimes.com",
+        "url": "https://www.nyasatimes.com/professor-chasukwa-elected-new-president-of-malawi-political-science-association/",
+        "publishedAt": "2026-09-27T23:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Malawi govt axes 298 'ghost teachers' from payroll in massive crackdown as officials hunt for civil service fraudsters - National News Malawi",
+        "source": "nyasatimes.com",
+        "url": "https://www.nyasatimes.com/malawi-govt-axes-298-ghost-teachers-from-payroll-in-massive-crackdown-as-officials-hunt-for-civil-service-fraudsters/",
+        "publishedAt": "2026-09-27T14:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Exclusive: Malawi cabinet ministers Chipungu, Mukhito named in PIJ's Sarker smuggling, kidnapping ring investigations",
+        "source": "maravipost.com",
+        "url": "https://www.maravipost.com/exclusive-malawi-cabinet-ministers-chipungu-mukhito-named-in-pijs-sarker-smuggling-kidnapping-ring-investigations/",
+        "publishedAt": "2026-09-27T13:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Malawi referee Mbandambanda loses FIFA badge",
+        "source": "malawivoice.com",
+        "url": "https://www.malawivoice.com/2026/09/27/malawi-referee-mbandambanda-loses-fifa-badge/",
+        "publishedAt": "2026-09-27T11:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Chakwera, the constitution, and why MCP's succession row matters - Featured News Malawi",
+        "source": "nyasatimes.com",
+        "url": "https://www.nyasatimes.com/chakwera-the-constitution-and-why-mcps-succession-row-matters/",
+        "publishedAt": "2026-09-27T09:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

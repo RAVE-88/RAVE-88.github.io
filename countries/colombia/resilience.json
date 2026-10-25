@@ -1,0 +1,115 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "CO",
+  "countryName": "Colombia",
+  "slug": "colombia",
+  "rank": 93,
+  "overallScore": 51.9,
+  "dimensionCoverage": 0.81,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "PepsiCo will invest $1 billion in Colombia over next five years, president says - Reuters",
+        "source": "Reuters Business",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT19YeXZLQ01JQVNXZzh4WXNjN3R0RlVaZHlvMXRzSVZCX1FKRndDY0t0c1VLbmNHdXB4REZPcWFQR0RaY3N1YS1mUlAwMTFjWmY1UU9PTjY2UjJaSWE5R3o5a1lJVnZoWFFTOVdJejYyLTBBb1Nydk43MmxCX0tzS3NZOEJRRHBQVUhCSlczX1RxRlNXTDlQdEdwT2JwMWZ3RjhqRWlNSTRKQmpFS1Y2TUlUdld5Z3RSZGgzZXJtbzNZWWc?oc=5",
+        "publishedAt": "2026-09-27T23:35:43.000Z"
+      },
+      {
+        "title": "El Jalapeño: Mexico City residents express civic pride in having the ‘world’s worst traffic’",
+        "source": "Mexico News Daily",
+        "url": "https://mexiconewsdaily.com/el-jalapeno/el-jalapeno-mexico-city-residents-express-civic-pride-having-worlds-worst-traffic/",
+        "publishedAt": "2026-09-27T20:00:01.000Z"
+      },
+      {
+        "title": "Guns, Camouflage, and Facebook: How Colombia’s Biggest ‘Narcoinfluencer’ Weaponized Social Media",
+        "source": "OCCRP",
+        "url": "https://www.occrp.org/en/feature/the-dramatic-death-of-a-social-media-star-shines-a-light-on-colombias-narcoinfluencer-culture",
+        "publishedAt": "2026-09-25T10:11:00.000Z"
+      },
+      {
+        "title": "PepsiCo will invest $1 billion in Colombia over next five years, president says",
+        "source": "933thedrive.com",
+        "url": "https://www.933thedrive.com/2026/09/27/pepsico-will-invest-1-billion-in-colombia-over-next-five-years-president-says/",
+        "publishedAt": "2026-09-28T00:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Colombia Arrests Wife, Daughter of Ecuador Gang Boss Fito",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/colombia-fito-wife-daughter-arrest-2026/",
+        "publishedAt": "2026-09-27T23:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nPepsiCo will invest $1 billion in Colombia over the next five years, the president says. [1]\nColombia arrested the wife and daughter of Ecuador gang boss Fito. [5]\n\nKEY RISKS\nColombia is linked to 358 US OFAC and Canada SEMA sanctions designations, indicating exposure to financial and reputational risks. [E2]\n\nOUTLOOK\nA Polymarket market asks whether the Central Bank of Colombia will make no change to the monetary policy interest rate at the September meeting, priced Yes at 68% on Sep 28, 2026; it closes Oct 1, 2026. [E4]\n\nWATCH ITEMS\nIt is unresolved how Colombia's arrest of Fito's wife and daughter will affect cross-border security dynamics. [5]",
+      "generatedAt": "2026-09-28T04:59:56.569Z",
+      "sources": [
+        {
+          "title": "PepsiCo will invest $1 billion in Colombia over next five years, president says - Reuters",
+          "source": "Reuters Business",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT19YeXZLQ01JQVNXZzh4WXNjN3R0RlVaZHlvMXRzSVZCX1FKRndDY0t0c1VLbmNHdXB4REZPcWFQR0RaY3N1YS1mUlAwMTFjWmY1UU9PTjY2UjJaSWE5R3o5a1lJVnZoWFFTOVdJejYyLTBBb1Nydk43MmxCX0tzS3NZOEJRRHBQVUhCSlczX1RxRlNXTDlQdEdwT2JwMWZ3RjhqRWlNSTRKQmpFS1Y2TUlUdld5Z3RSZGgzZXJtbzNZWWc?oc=5",
+          "publishedAt": "2026-09-27T23:35:43.000Z"
+        },
+        {
+          "title": "El Jalapeño: Mexico City residents express civic pride in having the ‘world’s worst traffic’",
+          "source": "Mexico News Daily",
+          "url": "https://mexiconewsdaily.com/el-jalapeno/el-jalapeno-mexico-city-residents-express-civic-pride-having-worlds-worst-traffic/",
+          "publishedAt": "2026-09-27T20:00:01.000Z"
+        },
+        {
+          "title": "Guns, Camouflage, and Facebook: How Colombia’s Biggest ‘Narcoinfluencer’ Weaponized Social Media",
+          "source": "OCCRP",
+          "url": "https://www.occrp.org/en/feature/the-dramatic-death-of-a-social-media-star-shines-a-light-on-colombias-narcoinfluencer-culture",
+          "publishedAt": "2026-09-25T10:11:00.000Z"
+        },
+        {
+          "title": "PepsiCo will invest $1 billion in Colombia over next five years, president says",
+          "source": "933thedrive.com",
+          "url": "https://www.933thedrive.com/2026/09/27/pepsico-will-invest-1-billion-in-colombia-over-next-five-years-president-says/",
+          "publishedAt": "2026-09-28T00:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Colombia Arrests Wife, Daughter of Ecuador Gang Boss Fito",
+          "source": "riotimesonline.com",
+          "url": "https://www.riotimesonline.com/colombia-fito-wife-daughter-arrest-2026/",
+          "publishedAt": "2026-09-27T23:45:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "358",
+          "factText": "Colombia is linked to 358 US OFAC and Canada SEMA sanctions designations, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T00:01:35.739Z"
+        },
+        {
+          "id": "E4",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "68%",
+          "factText": "A Polymarket market related to Colombia, \"Will the Central Bank of Colombia make no change to the monetary policy interest rate at the September meeting?\", priced Yes at 68% on Sep 28, 2026; it closes Oct 1, 2026.",
+          "asOf": "2026-09-28T04:51:12.326Z",
+          "url": "https://polymarket.com/event/central-bank-of-colombia-decision-in-september-20260630004643935"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

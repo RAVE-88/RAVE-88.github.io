@@ -1,0 +1,118 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "LU",
+  "countryName": "Luxembourg",
+  "slug": "luxembourg",
+  "rank": 9,
+  "overallScore": 67.1,
+  "dimensionCoverage": 0.76,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Papuashvili Heads to Belgium, Luxembourg for Meetings at Local Legislatures",
+        "source": "Civil.ge",
+        "url": "https://civil.ge/archives/752102",
+        "publishedAt": "2026-09-24T14:30:00.000Z"
+      },
+      {
+        "title": "European Commission Visit Highlights Luxembourg's Industrial Innovation & Opportunities",
+        "source": "chronicle.lu",
+        "url": "https://www.chronicle.lu/category/business-1/63637-european-commission-visit-highlights-luxembourgs-industrial-innovation-opportunities",
+        "publishedAt": "2026-09-26T13:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "European Commission Visit Highlights Luxembourg's Industrial Innovation & Opportunities",
+        "source": "chronicle.lu",
+        "url": "https://www.chronicle.lu/category/business/63637-european-commission-visit-highlights-luxembourgs-industrial-innovation-opportunities",
+        "publishedAt": "2026-09-26T13:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Cost of Unleaded Fuel Rises Again in Luxembourg",
+        "source": "chronicle.lu",
+        "url": "https://www.chronicle.lu/category/living-in-luxembourg/63627-cost-of-unleaded-fuel-rises-again-in-luxembourg",
+        "publishedAt": "2026-09-26T08:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Cost of Unleaded Fuel Rises Again in Luxembourg",
+        "source": "chronicle.lu",
+        "url": "https://www.chronicle.lu/category/motoring-1/63627-cost-of-unleaded-fuel-rises-again-in-luxembourg",
+        "publishedAt": "2026-09-26T08:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe European Commission is visiting Luxembourg to highlight the country's industrial innovation and opportunities. [2][3]\nThe cost of unleaded fuel has risen again in Luxembourg. [4][5]\n\nWHAT THIS MEANS FOR LUXEMBOURG\nThe European Commission's visit underscores Luxembourg's focus on industrial innovation, even as the country's 91% net energy import dependency exposes it to fuel price volatility. [2][3][E3]\n\nKEY RISKS\nLuxembourg's 91% net energy import dependency makes it vulnerable to supply disruptions or price spikes in imported energy. [E3]\nLuxembourg is linked to 22 US OFAC and Canada SEMA sanctions designations, posing potential compliance and reputational risks. [E2]\n\nWATCH ITEMS\nWhether the rise in the cost of unleaded fuel in Luxembourg will continue or stabilize. [4][5]",
+      "generatedAt": "2026-09-28T05:04:00.382Z",
+      "sources": [
+        {
+          "title": "Papuashvili Heads to Belgium, Luxembourg for Meetings at Local Legislatures",
+          "source": "Civil.ge",
+          "url": "https://civil.ge/archives/752102",
+          "publishedAt": "2026-09-24T14:30:00.000Z"
+        },
+        {
+          "title": "European Commission Visit Highlights Luxembourg's Industrial Innovation & Opportunities",
+          "source": "chronicle.lu",
+          "url": "https://www.chronicle.lu/category/business-1/63637-european-commission-visit-highlights-luxembourgs-industrial-innovation-opportunities",
+          "publishedAt": "2026-09-26T13:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "European Commission Visit Highlights Luxembourg's Industrial Innovation & Opportunities",
+          "source": "chronicle.lu",
+          "url": "https://www.chronicle.lu/category/business/63637-european-commission-visit-highlights-luxembourgs-industrial-innovation-opportunities",
+          "publishedAt": "2026-09-26T13:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Cost of Unleaded Fuel Rises Again in Luxembourg",
+          "source": "chronicle.lu",
+          "url": "https://www.chronicle.lu/category/living-in-luxembourg/63627-cost-of-unleaded-fuel-rises-again-in-luxembourg",
+          "publishedAt": "2026-09-26T08:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Cost of Unleaded Fuel Rises Again in Luxembourg",
+          "source": "chronicle.lu",
+          "url": "https://www.chronicle.lu/category/motoring-1/63627-cost-of-unleaded-fuel-rises-again-in-luxembourg",
+          "publishedAt": "2026-09-26T08:00:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "22",
+          "factText": "Luxembourg is linked to 22 US OFAC and Canada SEMA sanctions designations, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T00:01:35.739Z"
+        },
+        {
+          "id": "E3",
+          "kind": "energy",
+          "label": "Net energy import dependency",
+          "value": "91%",
+          "factText": "Luxembourg has a net energy import dependency of 91% (Eurostat, 2024).",
+          "asOf": "2024-12-31T00:00:00.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "DZ",
+  "countryName": "Algeria",
+  "slug": "algeria",
+  "rank": 94,
+  "overallScore": 51.9,
+  "dimensionCoverage": 0.83,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Floods inundate roads in southeastern Algeria",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/floods-inundate-roads-in-southeastern-algeria?traffic_source=rss",
+        "publishedAt": "2026-09-27T21:03:47.000Z"
+      },
+      {
+        "title": "Concern grows over Algeria's plans to end moratorium on death penalty",
+        "source": "RFI Afrique",
+        "url": "https://www.rfi.fr/en/africa/20260924-concern-grows-over-algeria-s-plans-to-end-moratorium-on-death-penalty",
+        "publishedAt": "2026-09-24T11:59:44.000Z"
+      },
+      {
+        "title": "New Book Examines the Roots of the Algeria-France Rift – الشروق أونلاين",
+        "source": "echoroukonline.com",
+        "url": "https://www.echoroukonline.com/new-book-examines-the-roots-of-the-algeria-france-rift",
+        "publishedAt": "2026-09-27T20:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Algeria plastic components factory strengthens auto industry",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/algeria-plastic-components-factory-auto-industry-2026/",
+        "publishedAt": "2026-09-27T20:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Việt Nam, Algeria seek stronger defence cooperation",
+        "source": "vietnamnews.vn",
+        "url": "https://vietnamnews.vn/politics-laws/1800692/viet-nam-algeria-seek-stronger-defence-cooperation.html",
+        "publishedAt": "2026-09-27T16:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nFloods have inundated roads in southeastern Algeria. [1]\nConcern is growing over Algeria's plans to end the moratorium on the death penalty. [2]\n\nWHAT THIS MEANS FOR ALGERIA\nAlgeria's status as a net energy exporter, with a net energy import dependency of -129%, supports the viability of its new plastic components factory to strengthen the auto industry. [4][E3]\n\nKEY RISKS\nAlgeria's 14 US OFAC and Canada SEMA sanctions designations pose a risk of increased international isolation or restricted trade. [E2]\nThe most severe government travel advisory for Algeria is Exercise Increased Caution, indicating risks for travellers and potential reputational concerns. [E1]\n\nWATCH ITEMS\nWhether Algeria will proceed with ending the moratorium on the death penalty. [2]\nThe outcome of the new book examining the roots of the Algeria-France rift. [3]",
+      "generatedAt": "2026-09-28T05:00:38.581Z",
+      "sources": [
+        {
+          "title": "Floods inundate roads in southeastern Algeria",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/floods-inundate-roads-in-southeastern-algeria?traffic_source=rss",
+          "publishedAt": "2026-09-27T21:03:47.000Z"
+        },
+        {
+          "title": "Concern grows over Algeria's plans to end moratorium on death penalty",
+          "source": "RFI Afrique",
+          "url": "https://www.rfi.fr/en/africa/20260924-concern-grows-over-algeria-s-plans-to-end-moratorium-on-death-penalty",
+          "publishedAt": "2026-09-24T11:59:44.000Z"
+        },
+        {
+          "title": "New Book Examines the Roots of the Algeria-France Rift – الشروق أونلاين",
+          "source": "echoroukonline.com",
+          "url": "https://www.echoroukonline.com/new-book-examines-the-roots-of-the-algeria-france-rift",
+          "publishedAt": "2026-09-27T20:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Algeria plastic components factory strengthens auto industry",
+          "source": "riotimesonline.com",
+          "url": "https://www.riotimesonline.com/algeria-plastic-components-factory-auto-industry-2026/",
+          "publishedAt": "2026-09-27T20:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Việt Nam, Algeria seek stronger defence cooperation",
+          "source": "vietnamnews.vn",
+          "url": "https://vietnamnews.vn/politics-laws/1800692/viet-nam-algeria-seek-stronger-defence-cooperation.html",
+          "publishedAt": "2026-09-27T16:15:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Exercise Increased Caution",
+          "factText": "The most severe government travel advisory World Monitor tracks for Algeria is Exercise Increased Caution, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T04:03:15.792Z"
+        },
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "14",
+          "factText": "Algeria is linked to 14 US OFAC and Canada SEMA sanctions designations, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T00:01:35.739Z"
+        },
+        {
+          "id": "E3",
+          "kind": "energy",
+          "label": "Net energy import dependency",
+          "value": "-129%",
+          "factText": "Algeria has a net energy import dependency of -129% (World Bank Open Data, 2023); a negative value means Algeria is a net energy exporter.",
+          "asOf": "2023-12-31T00:00:00.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

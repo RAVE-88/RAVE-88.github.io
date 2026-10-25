@@ -1,0 +1,110 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "NP",
+  "countryName": "Nepal",
+  "slug": "nepal",
+  "rank": 107,
+  "overallScore": 49.9,
+  "dimensionCoverage": 0.8,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Floods, landslides kill 56 in India and 14 in Nepal - reuters.com",
+        "source": "Reuters India",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSDl0UzBQZFNRMUNTNWZpRnNkVVVILXI5Vk5RRmV1bk5UeURhMWZWbjZkVklUVktUWGlsdmFORXVIQ0pDLWFfRWlxeGhtUl81Y1BlQ21XVThzX2hUSHVualNRdFdHZFIwbk5EaDBkUlBMN3hkV0ljMVJxVklMMHhXaEpwalNGZUVzVi03QnNFaFNuMTVTVHhtaWpoWnJXWFM2YUEwNWRMVS10RXk0VTZlUQ?oc=5",
+        "publishedAt": "2026-09-27T18:43:58.000Z"
+      },
+      {
+        "title": "Two bodies found after avalanche hits Himalayan climbing group",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-27T17:05:26.000Z"
+      },
+      {
+        "title": "Nepal’s floods expose issues with climate-disaster funding — firmer policies are needed fast",
+        "source": "Nature News",
+        "url": "https://www.nature.com/articles/d41586-026-03016-z",
+        "publishedAt": "2026-09-25T00:00:00.000Z"
+      },
+      {
+        "title": "2 Killed, 10 Missing After Avalanche Strikes Nepal's Himlung Himal Peak",
+        "source": "NDTV",
+        "url": "https://www.ndtv.com/world-news/2-killed-10-missing-after-avalanche-strikes-nepals-himlung-himal-peak-12106461#publisher=newsstand",
+        "publishedAt": "2026-09-27T18:57:27.000Z"
+      },
+      {
+        "title": "Avalanche in Nepal leaves 2 dead, several missing",
+        "source": "DW News",
+        "url": "https://www.dw.com/en/avalanche-in-nepal-leaves-2-dead-several-missing/a-79450101?maca=en-rss-en-all-1573-xml-mrss",
+        "publishedAt": "2026-09-27T17:47:00.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nFloods and landslides have killed 14 people in Nepal. [1]\nAn avalanche on Nepal's Himlung Himal Peak has left 2 dead and 10 missing. [4]\n\nWHAT THIS MEANS FOR NEPAL\nThe deadly floods and landslides in Nepal highlight the need for firmer climate-disaster funding policies, even as the country has a net energy import dependency of 0%. [3][E2]\n\nKEY RISKS\nThe government travel advisory for Nepal is Exercise Increased Caution, indicating ongoing risks to travelers from natural disasters like floods and avalanches. [E1]\n\nWATCH ITEMS\nThe search for the 10 missing climbers after the avalanche on Himlung Himal Peak is unresolved. [4]",
+      "generatedAt": "2026-09-28T05:05:12.836Z",
+      "sources": [
+        {
+          "title": "Floods, landslides kill 56 in India and 14 in Nepal - reuters.com",
+          "source": "Reuters India",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSDl0UzBQZFNRMUNTNWZpRnNkVVVILXI5Vk5RRmV1bk5UeURhMWZWbjZkVklUVktUWGlsdmFORXVIQ0pDLWFfRWlxeGhtUl81Y1BlQ21XVThzX2hUSHVualNRdFdHZFIwbk5EaDBkUlBMN3hkV0ljMVJxVklMMHhXaEpwalNGZUVzVi03QnNFaFNuMTVTVHhtaWpoWnJXWFM2YUEwNWRMVS10RXk0VTZlUQ?oc=5",
+          "publishedAt": "2026-09-27T18:43:58.000Z"
+        },
+        {
+          "title": "Two bodies found after avalanche hits Himalayan climbing group",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-09-27T17:05:26.000Z"
+        },
+        {
+          "title": "Nepal’s floods expose issues with climate-disaster funding — firmer policies are needed fast",
+          "source": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-03016-z",
+          "publishedAt": "2026-09-25T00:00:00.000Z"
+        },
+        {
+          "title": "2 Killed, 10 Missing After Avalanche Strikes Nepal's Himlung Himal Peak",
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/world-news/2-killed-10-missing-after-avalanche-strikes-nepals-himlung-himal-peak-12106461#publisher=newsstand",
+          "publishedAt": "2026-09-27T18:57:27.000Z"
+        },
+        {
+          "title": "Avalanche in Nepal leaves 2 dead, several missing",
+          "source": "DW News",
+          "url": "https://www.dw.com/en/avalanche-in-nepal-leaves-2-dead-several-missing/a-79450101?maca=en-rss-en-all-1573-xml-mrss",
+          "publishedAt": "2026-09-27T17:47:00.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Exercise Increased Caution",
+          "factText": "The most severe government travel advisory World Monitor tracks for Nepal is Exercise Increased Caution, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T05:03:30.360Z"
+        },
+        {
+          "id": "E2",
+          "kind": "energy",
+          "label": "Net energy import dependency",
+          "value": "0%",
+          "factText": "Nepal has a net energy import dependency of 0% (World Bank Open Data, 2023).",
+          "asOf": "2023-12-31T00:00:00.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

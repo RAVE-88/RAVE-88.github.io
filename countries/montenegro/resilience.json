@@ -1,0 +1,118 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "ME",
+  "countryName": "Montenegro",
+  "slug": "montenegro",
+  "rank": 28,
+  "overallScore": 62.3,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Vote on Montenegrin Speaker’s Removal Over Mladic Condolences Blocked",
+        "source": "Balkan Insight",
+        "url": "https://balkaninsight.com/2026/09/24/vote-on-montenegrin-speakers-removal-over-mladic-condolences-blocked/bi/",
+        "publishedAt": "2026-09-24T13:35:33.000Z"
+      },
+      {
+        "title": "Researchers discover two new snail species in Montenegro after studying differences in their shells, anatomy, and DNA",
+        "source": "indiatimes.com",
+        "url": "https://timesofindia.indiatimes.com/etimes/animals/researchers-discover-two-new-snail-species-in-montenegro-after-studying-differences-in-their-shells-anatomy-and-dna/articleshow/134520066.cms",
+        "publishedAt": "2026-09-28T04:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "AIIF 2026 lays foundation for long-term results - Montenegro's Tourism Minister",
+        "source": "en.apa.az",
+        "url": "https://en.apa.az/tourism/aiif-2026-lays-foundation-for-long-term-results-montenegros-tourism-minister-526585",
+        "publishedAt": "2026-09-26T10:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Tourism minister: Azerbaijan is one of Montenegro's most important investors",
+        "source": "en.apa.az",
+        "url": "https://en.apa.az/tourism/tourism-minister-azerbaijan-is-one-of-montenegros-most-important-investors-526550",
+        "publishedAt": "2026-09-26T10:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Montenegro's EU accession bid faces race against time to solve bilateral issues with Croatia",
+        "source": "euronews.com",
+        "url": "https://www.euronews.com/2026/09/24/montenegros-eu-accession-bid-faces-race-against-time-to-solve-bilateral-issues-with-croati",
+        "publishedAt": "2026-09-24T05:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nMontenegro's EU accession bid faces a race against time to resolve bilateral issues with Croatia. [5]\n\nWHAT THIS MEANS FOR MONTENEGRO\nMontenegro's net energy import dependency of 33% underscores the importance of foreign investment, such as from Azerbaijan, for energy security. [4][E3]\n\nKEY RISKS\nMontenegro's link to 7 US OFAC and Canada SEMA sanctions designations poses a risk to its international financial and diplomatic standing. [E2]\n\nWATCH ITEMS\nThe outcome of the blocked vote on the Montenegrin Speaker's removal remains unresolved. [1]\nWhether Montenegro can resolve bilateral issues with Croatia in time to advance its EU accession bid is an open question. [5]",
+      "generatedAt": "2026-09-28T05:04:19.194Z",
+      "sources": [
+        {
+          "title": "Vote on Montenegrin Speaker’s Removal Over Mladic Condolences Blocked",
+          "source": "Balkan Insight",
+          "url": "https://balkaninsight.com/2026/09/24/vote-on-montenegrin-speakers-removal-over-mladic-condolences-blocked/bi/",
+          "publishedAt": "2026-09-24T13:35:33.000Z"
+        },
+        {
+          "title": "Researchers discover two new snail species in Montenegro after studying differences in their shells, anatomy, and DNA",
+          "source": "indiatimes.com",
+          "url": "https://timesofindia.indiatimes.com/etimes/animals/researchers-discover-two-new-snail-species-in-montenegro-after-studying-differences-in-their-shells-anatomy-and-dna/articleshow/134520066.cms",
+          "publishedAt": "2026-09-28T04:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "AIIF 2026 lays foundation for long-term results - Montenegro's Tourism Minister",
+          "source": "en.apa.az",
+          "url": "https://en.apa.az/tourism/aiif-2026-lays-foundation-for-long-term-results-montenegros-tourism-minister-526585",
+          "publishedAt": "2026-09-26T10:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Tourism minister: Azerbaijan is one of Montenegro's most important investors",
+          "source": "en.apa.az",
+          "url": "https://en.apa.az/tourism/tourism-minister-azerbaijan-is-one-of-montenegros-most-important-investors-526550",
+          "publishedAt": "2026-09-26T10:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Montenegro's EU accession bid faces race against time to solve bilateral issues with Croatia",
+          "source": "euronews.com",
+          "url": "https://www.euronews.com/2026/09/24/montenegros-eu-accession-bid-faces-race-against-time-to-solve-bilateral-issues-with-croati",
+          "publishedAt": "2026-09-24T05:45:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "7",
+          "factText": "Montenegro is linked to 7 US OFAC and Canada SEMA sanctions designations, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T00:01:35.739Z"
+        },
+        {
+          "id": "E3",
+          "kind": "energy",
+          "label": "Net energy import dependency",
+          "value": "33%",
+          "factText": "Montenegro has a net energy import dependency of 33% (Eurostat, 2024).",
+          "asOf": "2024-12-31T00:00:00.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

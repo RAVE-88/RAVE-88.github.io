@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "TG",
+  "countryName": "Togo",
+  "slug": "togo",
+  "rank": 138,
+  "overallScore": 42.6,
+  "dimensionCoverage": 0.78,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "WAFU B U-17 Girls Cup: Flamingos defeat Togo, crowned champ",
+        "source": "pmnewsnigeria.com",
+        "url": "https://pmnewsnigeria.com/2026/09/27/wafu-b-u-17-girls-cup-flamingos-defeat-togo-crowned-champions/",
+        "publishedAt": "2026-09-27T23:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Ensuring the Sustainability of Digital Ag Services in Togo",
+        "source": "ifdc.org",
+        "url": "https://ifdc.org/2026/09/23/ensuring-the-sustainability-of-digital-agricultural-services-in-togo/",
+        "publishedAt": "2026-09-23T16:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Togo gives broadcasters 30 days to provide free access to public media – Medafrica Times",
+        "source": "medafricatimes.com",
+        "url": "https://medafricatimes.com/47013-togo-gives-broadcasters-30-days-to-provide-free-access-to-public-media.html",
+        "publishedAt": "2026-09-21T15:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Osman Rafia pleased with Black Maidens' readiness for Togo showdown",
+        "source": "ghanafa.org",
+        "url": "https://www.ghanafa.org/osman-rafia-pleased-with-black-maidens-readiness-for-togo-showdown",
+        "publishedAt": "2026-09-21T11:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Black Maidens cruise to dominant victory over Togo",
+        "source": "ghanafa.org",
+        "url": "https://www.ghanafa.org/black-maidens-cruise-to-dominant-victory-over-togo",
+        "publishedAt": "2026-09-22T11:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

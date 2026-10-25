@@ -1,0 +1,203 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "YE",
+  "countryName": "Yemen",
+  "slug": "yemen",
+  "rank": 167,
+  "overallScore": 29.6,
+  "dimensionCoverage": 0.69,
+  "confidence": "standard",
+  "level": "low",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Inside Yemen's front-line city as Houthis battle for control",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-27T21:16:31.000Z"
+      },
+      {
+        "title": "Deadly strike hits market in Yemen’s Taiz",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/deadly-strike-hits-market-in-yemens-taiz?traffic_source=rss",
+        "publishedAt": "2026-09-27T21:00:55.000Z"
+      },
+      {
+        "title": "Yemen: Houthis report deadly Saudi strikes on Taiz market",
+        "source": "DW News",
+        "url": "https://www.dw.com/en/yemen-houthis-report-deadly-saudi-strikes-on-taiz-market/a-79450102?maca=en-rss-en-all-1573-xml-mrss",
+        "publishedAt": "2026-09-27T17:51:00.000Z"
+      },
+      {
+        "title": "Seven killed, dozens hurt in Saudi airstrike on Yemen market",
+        "source": "EuroNews",
+        "url": "https://www.euronews.com/video/2026/09/27/seven-killed-dozens-hurt-in-saudi-airstrike-on-yemen-market",
+        "publishedAt": "2026-09-27T14:30:21.000Z"
+      },
+      {
+        "title": "Yemen: Airstrikes hit a market in Taiz, leaving 7 killed",
+        "source": "albawaba.net",
+        "url": "https://www.albawaba.net/news/yemen-airstrikes-hit-market-taiz-leaving-1637898",
+        "publishedAt": "2026-09-28T02:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nA deadly strike hit a market in Yemen's Taiz, killing seven and injuring dozens. [2][4][5]\nHouthis are battling for control inside Yemen's front-line city. [1]\n\nWHAT THIS MEANS FOR YEMEN\nThe deadly strike on Taiz market underscores the high instability in Yemen, which has a Country Instability Index score of 70 of 100. [2][E1]\nThe ongoing conflict near Bab el-Mandeb, a shipping chokepoint World Monitor tracks for Yemen, threatens a critical maritime route. [1][E5]\n\nKEY RISKS\nThe Do Not Travel advisory for Yemen reflects extreme danger for civilians and aid workers. [E2]\n\nOUTLOOK\nA Polymarket market on Saudi Arabia military action against Yemen on September 28 is priced Yes at 60% and closes Sep 28, 2026. [E6]\nA Polymarket market on Houthi military action against Saudi Arabia on September 29 is priced Yes at 23% and closes Sep 29, 2026. [E7]\n\nWATCH ITEMS\nThe Polymarket market on Saudi Arabia military action against Yemen on September 28 closes today with a Yes price of 60%. [E6]",
+      "generatedAt": "2026-09-28T05:07:56.879Z",
+      "sources": [
+        {
+          "title": "Inside Yemen's front-line city as Houthis battle for control",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-09-27T21:16:31.000Z"
+        },
+        {
+          "title": "Deadly strike hits market in Yemen’s Taiz",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/deadly-strike-hits-market-in-yemens-taiz?traffic_source=rss",
+          "publishedAt": "2026-09-27T21:00:55.000Z"
+        },
+        {
+          "title": "Yemen: Houthis report deadly Saudi strikes on Taiz market",
+          "source": "DW News",
+          "url": "https://www.dw.com/en/yemen-houthis-report-deadly-saudi-strikes-on-taiz-market/a-79450102?maca=en-rss-en-all-1573-xml-mrss",
+          "publishedAt": "2026-09-27T17:51:00.000Z"
+        },
+        {
+          "title": "Seven killed, dozens hurt in Saudi airstrike on Yemen market",
+          "source": "EuroNews",
+          "url": "https://www.euronews.com/video/2026/09/27/seven-killed-dozens-hurt-in-saudi-airstrike-on-yemen-market",
+          "publishedAt": "2026-09-27T14:30:21.000Z"
+        },
+        {
+          "title": "Yemen: Airstrikes hit a market in Taiz, leaving 7 killed",
+          "source": "albawaba.net",
+          "url": "https://www.albawaba.net/news/yemen-airstrikes-hit-market-taiz-leaving-1637898",
+          "publishedAt": "2026-09-28T02:45:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "cii",
+          "label": "Country Instability Index",
+          "value": "70 of 100 (High)",
+          "factText": "Yemen has a Country Instability Index score of 70 of 100, in the High band, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T05:01:53.862Z"
+        },
+        {
+          "id": "E2",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Do Not Travel",
+          "factText": "The most severe government travel advisory World Monitor tracks for Yemen is Do Not Travel, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T05:03:30.360Z"
+        },
+        {
+          "id": "E5",
+          "kind": "chokepoint",
+          "label": "Chokepoint tracker",
+          "value": "Bab el-Mandeb",
+          "factText": "Bab el-Mandeb is a shipping chokepoint World Monitor tracks for Yemen.",
+          "asOf": "2026-09-28T05:07:51.553Z",
+          "url": "https://www.worldmonitor.app/chokepoints/bab-el-mandeb/"
+        },
+        {
+          "id": "E6",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "60%",
+          "factText": "A Polymarket market related to Yemen, \"Saudi Arabia military action against Yemen on September 28?\", priced Yes at 60% on Sep 28, 2026; it closes Sep 28, 2026.",
+          "asOf": "2026-09-28T05:00:34.359Z",
+          "url": "https://polymarket.com/event/saudi-arabia-military-action-against-yemen-on-20260916"
+        },
+        {
+          "id": "E7",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "23%",
+          "factText": "A Polymarket market related to Yemen, \"Houthi military action against Saudi Arabia on September 29?\", priced Yes at 23% on Sep 28, 2026; it closes Sep 29, 2026.",
+          "asOf": "2026-09-28T05:00:34.359Z",
+          "url": "https://polymarket.com/event/houthi-military-action-against-saudi-arabia-on-20260916"
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "title": "GDELT 194 — in Yemen",
+        "summary": "source: www.worthynews.com",
+        "sourceUrl": "https://www.worthynews.com/117807-saudi-arabia-issues-missile-alerts-for-mecca-as-defense-alliance-mobilizes-against-houthi-threat",
+        "occurredAt": "2026-09-28T01:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Yemen",
+        "summary": "source: english.news.cn",
+        "sourceUrl": "https://english.news.cn/20260928/fc9a2e42f3bb4945841ba0de36406eac/c.html",
+        "occurredAt": "2026-09-28T00:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Yemen",
+        "summary": "source: english.news.cn",
+        "sourceUrl": "https://english.news.cn/20260928/fc9a2e42f3bb4945841ba0de36406eac/c.html",
+        "occurredAt": "2026-09-28T00:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Yemen",
+        "summary": "source: www.bbc.com",
+        "sourceUrl": "https://www.bbc.com/news/articles/cw98005ndz7no",
+        "occurredAt": "2026-09-28T00:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 181 — in Yemen",
+        "summary": "source: www.khabaragency.net",
+        "sourceUrl": "https://www.khabaragency.net/news253495.html",
+        "occurredAt": "2026-09-27T22:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 181 — in Yemen",
+        "summary": "source: www.khabaragency.net",
+        "sourceUrl": "https://www.khabaragency.net/news253495.html",
+        "occurredAt": "2026-09-27T22:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Yemen",
+        "summary": "source: www.bbc.co.uk",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw98005ndz7no",
+        "occurredAt": "2026-09-27T22:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Yemen",
+        "summary": "source: www.columbian.com",
+        "sourceUrl": "https://www.columbian.com/news/2026/sep/27/palestinian-death-toll-in-gaza-war-passes-74000/",
+        "occurredAt": "2026-09-27T20:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Yemen",
+        "summary": "source: timesofindia.indiatimes.com",
+        "sourceUrl": "https://timesofindia.indiatimes.com/world/middle-east/4-iranian-experts-killed-in-taiz-as-yemen-army-unleashes-756-operation-offensive-against-houthis/articleshow/134525782.cms",
+        "occurredAt": "2026-09-27T20:30:00.000Z",
+        "domain": "conflict"
+      }
+    ],
+    "timelineStatus": "partial",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}

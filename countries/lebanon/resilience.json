@@ -1,0 +1,128 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "LB",
+  "countryName": "Lebanon",
+  "slug": "lebanon",
+  "rank": 127,
+  "overallScore": 45,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Israeli far-right minister calls for annexation of South Litani area",
+        "source": "Naharnet Lebanon",
+        "url": "https://naharnet.com/stories/en/322751-israeli-far-right-minister-calls-for-annexation-of-south-litani-area",
+        "publishedAt": "2026-09-27T11:31:52.000Z"
+      },
+      {
+        "title": "Israeli strikes continue in southern Lebanon despite ceasefire",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/israeli-strikes-continue-in-southern-lebanon-despite-ceasefire?traffic_source=rss",
+        "publishedAt": "2026-09-27T20:57:38.000Z"
+      },
+      {
+        "title": "'Will Deter Enemy From War': Israel Minister Calls For Lebanon, Gaza Takeover",
+        "source": "NDTV",
+        "url": "https://www.ndtv.com/world-news/will-deter-enemy-from-war-israel-minister-calls-for-lebanon-gaza-takeover-12106543#publisher=newsstand",
+        "publishedAt": "2026-09-27T18:56:59.000Z"
+      },
+      {
+        "title": "South Lebanon children return to school destroyed by Israel strike",
+        "source": "Naharnet Lebanon",
+        "url": "https://naharnet.com/stories/en/322730-south-lebanon-children-return-to-school-destroyed-by-israel-strike",
+        "publishedAt": "2026-09-25T12:15:56.000Z"
+      },
+      {
+        "title": "Aoun praises army for protecting all Lebanese 'even those against the state'",
+        "source": "Naharnet Lebanon",
+        "url": "https://naharnet.com/stories/en/322729-aoun-praises-army-for-protecting-all-lebanese-even-those-against-the-state",
+        "publishedAt": "2026-09-25T11:40:21.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nIsraeli strikes continue in southern Lebanon despite a ceasefire. [2]\nAn Israeli far-right minister has called for the annexation of the South Litani area. [1]\n\nWHAT THIS MEANS FOR LEBANON\nThe Do Not Travel advisory for Lebanon reflects the security risks highlighted by Israeli military actions and political calls for annexation. [1][2][E2]\n\nKEY RISKS\nLebanon's link to 363 US OFAC and Canada SEMA sanctions designations as of Sep 28, 2026, poses a risk of further economic isolation amid ongoing conflict. [E3]\n\nOUTLOOK\nA Polymarket market related to Lebanon, \"Israel military action against Lebanon on September 28?\", priced Yes at 92% on Sep 28, 2026; it closes Sep 28, 2026. [E5]\nA Polymarket market related to Lebanon, \"Israel withdraws from Lebanon by December 31, 2026?\", priced Yes at 6% on Sep 28, 2026; it closes Jan 1, 2027. [E7]\n\nWATCH ITEMS\nWhether the Israeli minister's call for annexation of the South Litani area leads to further escalation. [1]",
+      "generatedAt": "2026-09-28T05:03:49.959Z",
+      "sources": [
+        {
+          "title": "Israeli far-right minister calls for annexation of South Litani area",
+          "source": "Naharnet Lebanon",
+          "url": "https://naharnet.com/stories/en/322751-israeli-far-right-minister-calls-for-annexation-of-south-litani-area",
+          "publishedAt": "2026-09-27T11:31:52.000Z"
+        },
+        {
+          "title": "Israeli strikes continue in southern Lebanon despite ceasefire",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/israeli-strikes-continue-in-southern-lebanon-despite-ceasefire?traffic_source=rss",
+          "publishedAt": "2026-09-27T20:57:38.000Z"
+        },
+        {
+          "title": "'Will Deter Enemy From War': Israel Minister Calls For Lebanon, Gaza Takeover",
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/world-news/will-deter-enemy-from-war-israel-minister-calls-for-lebanon-gaza-takeover-12106543#publisher=newsstand",
+          "publishedAt": "2026-09-27T18:56:59.000Z"
+        },
+        {
+          "title": "South Lebanon children return to school destroyed by Israel strike",
+          "source": "Naharnet Lebanon",
+          "url": "https://naharnet.com/stories/en/322730-south-lebanon-children-return-to-school-destroyed-by-israel-strike",
+          "publishedAt": "2026-09-25T12:15:56.000Z"
+        },
+        {
+          "title": "Aoun praises army for protecting all Lebanese 'even those against the state'",
+          "source": "Naharnet Lebanon",
+          "url": "https://naharnet.com/stories/en/322729-aoun-praises-army-for-protecting-all-lebanese-even-those-against-the-state",
+          "publishedAt": "2026-09-25T11:40:21.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Do Not Travel",
+          "factText": "The most severe government travel advisory World Monitor tracks for Lebanon is Do Not Travel, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T05:03:30.360Z"
+        },
+        {
+          "id": "E3",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "363",
+          "factText": "Lebanon is linked to 363 US OFAC and Canada SEMA sanctions designations, as of Sep 28, 2026.",
+          "asOf": "2026-09-28T00:01:35.739Z"
+        },
+        {
+          "id": "E5",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "92%",
+          "factText": "A Polymarket market related to Lebanon, \"Israel military action against Lebanon on September 28?\", priced Yes at 92% on Sep 28, 2026; it closes Sep 28, 2026.",
+          "asOf": "2026-09-28T05:00:34.359Z",
+          "url": "https://polymarket.com/event/israel-military-action-against-lebanon-onptptpt-20260903"
+        },
+        {
+          "id": "E7",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "6%",
+          "factText": "A Polymarket market related to Lebanon, \"Israel withdraws from Lebanon by December 31, 2026?\", priced Yes at 6% on Sep 28, 2026; it closes Jan 1, 2027.",
+          "asOf": "2026-09-28T05:00:34.359Z",
+          "url": "https://polymarket.com/event/israel-withdraws-from-lebanon-by"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-28T04:55:11.500Z"
+  }
+}
